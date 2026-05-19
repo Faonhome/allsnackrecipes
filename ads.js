@@ -8,7 +8,7 @@
 
     // ==================== CONFIGURATION ====================
     const ADS_CONFIG = {
-            "publisherId": "ca-pub-3666818985097490",
+            "publisherId": "ca-pub-6148321058276899",
             "enabled": true,
             "injectionDelay": 300,
             "placements": [
@@ -17,7 +17,7 @@
                     "position": "after",
                     "format": "auto",
                     "pages": "all",
-                    "slot": "8684648378",
+                    "slot": "1234567890",
                     "className": "ad-after-description"
                 },
                 {
@@ -25,13 +25,7 @@
                     "position": "before",
                     "format": "in-article",
                     "pages": "all",
-                    "slots": [
-                        "4055138220",
-                        "4055138220",
-                        "4055138220",
-                        "8684648378",
-                        "4055138220"
-                    ],
+                    "slot": "8585833617",
                     "everyNth": 2,
                     "maxAds": 5,
                     "className": "ad-in-article"
@@ -41,7 +35,7 @@
                     "position": "after",
                     "format": "auto",
                     "pages": "all",
-                    "slot": "4055138220",
+                    "slot": "8585833617",
                     "className": "ad-after-recipe-box"
                 },
                 {
@@ -49,7 +43,7 @@
                     "position": "before",
                     "format": "horizontal",
                     "pages": "all",
-                    "slot": "4055138220",
+                    "slot": "8585833617",
                     "className": "ad-before-footer"
                 },
                 {
@@ -57,7 +51,7 @@
                     "position": "inside-top",
                     "format": "auto",
                     "pages": "spa",
-                    "slot": "4055138220",
+                    "slot": "8585833617",
                     "className": "ad-top-content"
                 },
                 {
@@ -65,19 +59,8 @@
                     "position": "after",
                     "format": "auto",
                     "pages": "all",
-                    "slot": "8684648378",
+                    "slot": "8585833617",
                     "className": "ad-after-breadcrumb"
-                },
-                {
-                    "selector": ".header",
-                    "position": "after",
-                    "format": "auto",
-                    "pages": "all",
-                    "slots": [
-                        "4055138220",
-                        "8684648378"
-                    ],
-                    "className": "Ad-header"
                 }
             ]
         };
