@@ -1,67 +1,136 @@
 {
-  "niche": "recipes",
-  "generated_at": "2026-04-10",
-  "home": {
-    "hero_tagline": "YOUR LOVED ONES WILL ADORE",
-    "welcome_text": "Welcome to {{SITE_NAME}}! Quick and easy cooking for your family. No-fuss, uncomplicated recipes, everyday ingredients, and the happiness of sharing homemade meals without spending too much. Milkshakes, omelets, cookies, fries, conscious tagines... Whether you're using a Thermomix or cooking manually, {{SITE_NAME}} keeps your time in the kitchen stress-free!"
-  },
-  "about": {
-    "hero_subtitle": "{{SITE_NAME}} is all about sharing simple, family-friendly recipes made with everyday ingredients, inspiring flavorful and hassle-free home cooking.",
-    "explore_title": "What Can You Explore Here?",
-    "explore_intro": "{{SITE_NAME}} offers a curated collection of simple, family-friendly recipes made with everyday ingredients. Discover delicious and hassle-free home cooking resources designed to make your time in the kitchen more enjoyable and efficient.",
-    "explore_items": [
-      {"bold": "Simple Recipes:", "text": "Easy-to-follow recipes using ingredients you already have at home."},
-      {"bold": "Family-Friendly Dishes:", "text": "Meals that everyone will love, from kids to adults."},
-      {"bold": "Time-Saving Tips:", "text": "Learn helpful tricks to streamline your cooking process."},
-      {"bold": "Diverse Cuisines:", "text": "Explore flavors from around the world, simplified for quick preparation."},
-      {"bold": "Intuitive Navigation:", "text": "Find your favorite dishes quickly with our user-friendly platform."}
-    ],
-    "founder_section_title": "Who Am I?",
-    "founder_intro": "{{SITE_NAME}} was born from a genuine passion for homemade cooking. I'm Lummy Hayes, and I've dedicated myself to sharing simple, flavorful recipes that anyone can prepare successfully. My culinary journey began in my mother's kitchen, where I learned that the best meals are made with heart, quality ingredients, and a touch of creativity.",
-    "founder_items": [
-      {"bold": "Authentic Passion:", "text": "Growing up in a multicultural household exposed me to diverse flavors and cooking traditions."},
-      {"bold": "Practical Approach:", "text": "I believe cooking should be accessible, not complicated or time-consuming."},
-      {"bold": "Community-Focused:", "text": "{{SITE_NAME}} is a welcoming space for food lovers of all experience levels."},
-      {"bold": "Homemade Focus:", "text": "I celebrate the joy and satisfaction of cooking from scratch."}
-    ],
-    "goals_title": "What Are My Goals?",
-    "goals_intro": "At {{SITE_NAME}}, I'm driven by core values that guide everything I create and share with you.",
-    "goals_items": [
-      {"bold": "Inspire Home Cooking:", "text": "Help you create wholesome, delicious meals that are simple to prepare."},
-      {"bold": "Save You Time:", "text": "Develop recipes that are quick, easy, and achievable with basic pantry staples."},
-      {"bold": "Build Community:", "text": "Create a welcoming space where food lovers can share recipes and cooking experiences."},
-      {"bold": "Balance Flavor & Practicality:", "text": "Craft dishes that deliver amazing flavor without unnecessary complexity."},
-      {"bold": "Provide Clear Instructions:", "text": "Ensure every recipe is easy to follow and consistently successful."}
-    ],
-    "selection_title": "How Do I Choose Content?",
-    "selection_intro": "Quality and reliability are at the heart of my content selection process. Every recipe on {{SITE_NAME}} meets strict standards before it's shared with you.",
-    "selection_items": [
-      {"bold": "Thorough Testing:", "text": "Every recipe is tested multiple times to ensure it works perfectly for you."},
-      {"bold": "Clear Instructions:", "text": "I prioritize straightforward, easy-to-follow steps that anyone can succeed with."},
-      {"bold": "Authentic Flavors:", "text": "Recipes showcase genuine cooking techniques and real ingredients."},
-      {"bold": "Attention to Detail:", "text": "Images, timing, and preparation steps are carefully verified for accuracy."},
-      {"bold": "Reader Feedback:", "text": "Your input helps me continuously improve and refine what I share."}
-    ],
-    "founder_name": "Lummy Hayes",
-    "founder_role": "Founder & Recipe Creator",
-    "connect_title": "Let's Connect!",
-    "connect_text": "I'd love to hear from you! Share your cooking experiences, ask questions, or suggest recipes you'd like me to create."
-  },
-  "contact": {
-    "hero_subtitle": "We're here to answer all your cooking questions",
-    "intro": "Whether you have a question about one of our recipes, want to share your cooking experience, or simply say hello, feel free to reach out to us. You can contact us by email at <strong>contact@{{SITE_HOST}}</strong>, and we'll do our best to get back to you as quickly as possible.",
-    "faq": [
-      {"q": "How can I submit my own recipe?", "a": "You can send us your recipes using the form above by selecting \"Recipe Suggestion\" as the subject."},
-      {"q": "Are the recipes tested?", "a": "Yes, all our recipes are tested by our team before publication to ensure their quality."},
-      {"q": "Can I modify the ingredients?", "a": "Absolutely! Our recipes are designed to be adaptable to your tastes and dietary preferences."},
-      {"q": "Do you offer vegetarian recipes?", "a": "Yes, we have a wide selection of vegetarian and vegan recipes in our collection."}
-    ]
-  },
-  "privacy": {
-    "last_updated": "March 29, 2025",
-    "hero_subtitle": "{{SITE_NAME}} refrains from collecting personal data directly. We also don't require user accounts. Instead, cookies and third-party services enhance how you interact with us.",
-    "welcome_text": "At {{SITE_NAME}}, we're committed to providing simple and practical recipe ideas while respecting your privacy. Since we don't require user accounts, we avoid collecting or handling your personal information directly. Your data is never sold or shared with third parties.",
-    "welcome_text2": "However, certain information may be collected automatically through external services that help us deliver a better experience—from improved site performance to personalized advertisements and engaging video content. This notice explains how these practices work and the steps we take to protect your privacy while you enjoy {{SITE_HOST}}.",
-    "conclusion_text": "Thank you for taking the time to read our privacy notice. By using {{SITE_NAME}}, you agree to the privacy practices outlined here. We appreciate your trust and hope you enjoy discovering delicious new recipes. Happy cooking!"
-  }
+    "niche": "recipes",
+    "home": {
+        "hero_tagline": "HEALTHY PROTEIN SNACKS, SIMPLY MADE",
+        "welcome_text": "Welcome to {{SITE_NAME}}, your ultimate destination for easy high-protein snack recipes. From no-bake protein bites to creamy cottage cheese bowls, we've got tasty, healthy ideas for every craving and every macro goal."
+    },
+    "about": {
+        "hero_subtitle": "Easy snack recipes designed to fuel your day with real protein",
+        "explore_title": "What Can You Explore Here?",
+        "explore_intro": "{{SITE_NAME}} offers a curated collection of snack recipes designed for every taste and event. From quick bites to party platters, our site helps you find the perfect snack inspiration anytime.",
+        "explore_items": [
+            {
+                "bold": "Feature:",
+                "text": "A wide variety of snack recipes from sweet to savory."
+            },
+            {
+                "bold": "Feature:",
+                "text": "Step-by-step instructions with easy-to-follow ingredients."
+            },
+            {
+                "bold": "Feature:",
+                "text": "Recipes suitable for beginners and seasoned cooks alike."
+            },
+            {
+                "bold": "Feature:",
+                "text": "Occasion-specific ideas for parties, casual snacking, and holidays."
+            },
+            {
+                "bold": "Feature:",
+                "text": "Regular updates with trending and classic snack recipes."
+            }
+        ],
+        "founder_section_title": "Who Am I?",
+        "founder_intro": "I'm passionate about sharing easy, high-protein snack recipes that taste amazing and fuel your goals. My mission is to prove that healthy snacking doesn't have to be boring, complicated, or expensive — it just has to be delicious and packed with real protein.",
+        "founder_items": [
+            {
+                "bold": "Quality:",
+                "text": "All recipes are tested to ensure easy and reliable results."
+            },
+            {
+                "bold": "Quality:",
+                "text": "Ingredients are chosen for accessibility and flavor."
+            },
+            {
+                "bold": "Quality:",
+                "text": "Clear instructions to make cooking approachable for everyone."
+            },
+            {
+                "bold": "Quality:",
+                "text": "A focus on diverse snack types to suit different preferences."
+            }
+        ],
+        "goals_title": "What Are My Goals?",
+        "goals_intro": "Here are the core goals driving {{SITE_NAME}}’s mission to delight snack lovers everywhere.",
+        "goals_items": [
+            {
+                "bold": "Goal:",
+                "text": "Provide easy-to-make, delicious snack recipes."
+            },
+            {
+                "bold": "Goal:",
+                "text": "Inspire creativity in home cooking and entertaining."
+            },
+            {
+                "bold": "Goal:",
+                "text": "Build a friendly community for sharing snack ideas."
+            },
+            {
+                "bold": "Goal:",
+                "text": "Offer reliable content suitable for all skill levels."
+            },
+            {
+                "bold": "Goal:",
+                "text": "Maintain high-quality, trustworthy recipe content."
+            }
+        ],
+        "selection_title": "How Do I Choose Content?",
+        "selection_intro": "Content on {{SITE_NAME}} is selected based on quality, reliability, and user value to ensure the best snacking experience.",
+        "selection_items": [
+            {
+                "bold": "Standard:",
+                "text": "Recipes are tested for consistency and taste."
+            },
+            {
+                "bold": "Standard:",
+                "text": "Instructions are clear and easy to follow."
+            },
+            {
+                "bold": "Standard:",
+                "text": "Ingredients are accessible to most home cooks."
+            },
+            {
+                "bold": "Standard:",
+                "text": "Variety is prioritized to cover diverse snack preferences."
+            },
+            {
+                "bold": "Standard:",
+                "text": "Content is updated regularly to reflect new trends and classics."
+            }
+        ],
+        "founder_name": "Emma Sullivan",
+        "founder_role": "Founder & High-Protein Recipe Creator",
+        "connect_title": "Let's Connect!",
+        "connect_text": "We love hearing from fellow snack enthusiasts! Feel free to reach out with questions, suggestions, or just to say hello."
+    },
+    "contact": {
+        "hero_subtitle": "Get in Touch with Your High-Protein Snack Experts",
+        "intro": "Have questions, feedback, or a high-protein snack recipe you'd love to see? We're here to help! Whether you need a substitution tip, want to share your meal-prep wins, or have a partnership inquiry, reach out anytime at <strong>contact@{{SITE_HOST}}</strong>. We read every message and will get back to you as soon as possible — usually within 24-48 hours.",
+        "faq": [
+            {
+                "q": "Can I submit my own snack recipe to {{SITE_NAME}}?",
+                "a": "Currently, we focus on curated recipes selected by our team, but we welcome suggestions via email for future consideration."
+            },
+            {
+                "q": "How often do you add new snack recipes?",
+                "a": "We regularly update {{SITE_NAME}} with fresh recipes every week to keep your snack options exciting."
+            },
+            {
+                "q": "Can recipes be customized for dietary restrictions?",
+                "a": "Many of our recipes include tips for substitutions to suit common dietary needs; please check each recipe's notes section."
+            },
+            {
+                "q": "Is there a way to request a specific type of snack recipe?",
+                "a": "Yes, you can send your recipe requests to <strong>contact@{{SITE_HOST}}</strong>, and we’ll do our best to feature them."
+            }
+        ]
+    },
+    "privacy": {
+        "last_updated": "May 19, 2026",
+        "hero_subtitle": "Protecting your privacy with no personal data collected unnecessarily",
+        "welcome_text": "At {{SITE_NAME}}, your privacy is our top priority. We're committed to protecting your personal information while delivering the best high-protein snack recipes and healthy snacking inspiration. This Privacy Policy explains how we collect, use, and safeguard your data when you visit our site or interact with our content.",
+        "welcome_text2": "We use trusted third-party services to enhance site functionality but do not collect or share personal data without your consent at {{SITE_HOST}}.",
+        "conclusion_text": "Thank you for trusting {{SITE_NAME}} as your go-to destination for high-protein snack recipes. We value your privacy and are dedicated to delivering quality, healthy, and protein-packed content you can rely on. If you have any questions about our Privacy Policy, feel free to contact us anytime — we're here to help."
+    },
+    "generated_at": "2026-05-19"
 }
