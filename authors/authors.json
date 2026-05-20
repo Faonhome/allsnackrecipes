@@ -1,8 +1,8 @@
 [
     {
         "id": "author_001",
-        "name": "Emma Sullivan",
-        "description": "Emma Sullivan",
+        "name": "Cynthia Sullivan",
+        "description": "Cynthia Sullivan",
         "imagePath": "authors/images/author.png",
         "active": true
     }
