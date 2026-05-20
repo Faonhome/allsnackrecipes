@@ -1,0 +1,351 @@
+{
+    "title": "One Pot Chicken And Asparagus Recipes Recipe: Easy, Flavorful Dinner in a Flash",
+    "promptIMG": "Food photography: One Pot Chicken And Asparagus Recipes Recipe, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This one pot chicken and asparagus recipe is a quick, wholesome meal that’s perfect for busy nights. The asparagus adds a fresh crunch, and cooking everything together locks in all the flavors. Super easy to whip up after work!",
+    "hashtags": "#onepotmeal #chickenrecipes #asparagusdinner #easyweeknight",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Quick One Pot Chicken and Asparagus Dinner You’ll Love Tonight",
+            "description": "Looking for a simple, delicious dinner? This one pot chicken and asparagus recipe is ready in under an hour and packed with flavor. Save this recipe and try it today for a fuss-free meal! 🍽️🌿 #onepotmeal #chickendinner #easyrecipes"
+        },
+        {
+            "title": "Healthy One Pot Chicken & Asparagus Recipe for Busy Weeknights",
+            "description": "Busy evenings call for easy meals like this one pot chicken and asparagus dish. It’s light, fresh, and full of flavor—perfect for a quick healthy dinner. Discover now and make your weeknight easier! 🥦🍗 #healthyrecipes #onepotmeal #quickdinner"
+        },
+        {
+            "title": "Simple One Pot Chicken and Asparagus Recipe – Minimal Cleanup!",
+            "description": "Love meals that are tasty and don’t leave a mess? This one pot chicken and asparagus recipe is your answer. Minimal cleanup, maximum flavor. Try it tonight and thank me later! ✨🍴 #easymeals #onepotdinner #chickenrecipes"
+        },
+        {
+            "title": "Flavor-Packed One Pot Chicken and Asparagus for Effortless Dinners",
+            "description": "This one pot chicken and asparagus recipe is bursting with fresh flavors and comes together quickly. Perfect for those who want a satisfying dinner without the fuss. Save it and make it soon! 🍋🍗 #onepotmeal #asparagusrecipes #weeknightdinner"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless skinless chicken thighs, trimmed",
+        "1 bunch asparagus, trimmed and cut into 2-inch pieces",
+        "1 medium onion, finely chopped",
+        "3 cloves garlic, minced",
+        "1 cup chicken broth",
+        "1/2 cup heavy cream",
+        "2 tablespoons olive oil",
+        "1 teaspoon dried thyme",
+        "Salt and freshly ground black pepper, to taste",
+        "Juice of half a lemon"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this one pot chicken and asparagus recipe during a hectic week when I needed dinner on the table fast without sacrificing flavor. What I love about this dish is how it combines the tender juiciness of chicken thighs with the fresh, slightly crisp asparagus all cooked in one pan. This means less mess and more time to relax after dinner. The trick I learned is to sear the chicken first to lock in those savory juices before adding the broth and asparagus. Also, finishing with a splash of cream and lemon juice brightens the whole dish, making it feel special but still super easy. Over time, I’ve made small tweaks to balance the seasoning and timing so the asparagus stays vibrant and the chicken perfectly tender. When it’s done, the dish looks rustic and inviting with a lovely mix of colors and textures. It’s become a favorite in my house for weeknight dinners and even casual weekend meals when I want something comforting but fresh. Honestly, it’s one of those recipes I keep coming back to because it hits all the right notes with minimal effort.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat olive oil in a large heavy-bottomed skillet or Dutch oven over medium-high heat. Once hot, add the chicken thighs skin side down (if using skin-on) and sear without moving for about 5-7 minutes until golden brown. This step is crucial because searing locks in the juices and creates a flavorful crust that adds depth to the dish. Avoid crowding the pan to ensure even browning; if needed, sear in batches. You'll know it's ready when the chicken easily releases from the pan and has a rich golden color.",
+            "timing": "7 minutes",
+            "doneness_cue": "Golden brown crust on chicken, releases easily from pan"
+        },
+        {
+            "step": 2,
+            "instruction": "Flip the chicken thighs and cook the other side for 3-4 minutes until slightly browned. Remove the chicken and set aside. In the same pan, add chopped onion and garlic, stirring frequently to soften and release their aromas without burning. This step builds the flavor base for the sauce. If the pan looks dry, add a splash of chicken broth to deglaze and scrape up those browned bits stuck to the bottom. These bits pack a lot of flavor and will enrich the sauce.",
+            "timing": "6 minutes",
+            "doneness_cue": "Onions translucent and fragrant, garlic golden but not burnt"
+        },
+        {
+            "step": 3,
+            "instruction": "Pour in the chicken broth and bring it to a gentle simmer. Return the chicken thighs to the pan, arranging them evenly. Cover and cook on medium-low heat for about 15 minutes. This simmering will cook the chicken through while infusing it with the broth’s flavor. Avoid lifting the lid too often as it lets steam escape, which can dry out the chicken. Check for doneness by piercing the thickest part; juices should run clear.",
+            "timing": "15 minutes",
+            "doneness_cue": "Chicken cooked through, juices run clear when pierced"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the asparagus pieces to the pan, stirring gently to combine. Cover again and cook for an additional 5-7 minutes until the asparagus is tender but still bright green and slightly crisp. Overcooking will make it mushy and dull the vibrant color. Keep an eye on the texture and remove from heat when it’s just right.",
+            "timing": "7 minutes",
+            "doneness_cue": "Asparagus vibrant green and tender-crisp"
+        },
+        {
+            "step": 5,
+            "instruction": "Reduce heat to low and stir in the heavy cream and dried thyme. Let the sauce gently bubble for 2-3 minutes to thicken slightly. The cream adds richness and helps bind the flavors together. Stir frequently to prevent the cream from scorching. This step transforms the broth into a luscious sauce that coats the chicken and veggies beautifully.",
+            "timing": "3 minutes",
+            "doneness_cue": "Sauce slightly thickened and creamy"
+        },
+        {
+            "step": 6,
+            "instruction": "Finish by squeezing fresh lemon juice over the dish and seasoning with salt and pepper to taste. The lemon brightens the flavors and cuts through the richness of the cream, balancing the dish perfectly. Taste and adjust seasoning carefully here, as the broth and cream already add saltiness.",
+            "timing": "2 minutes",
+            "doneness_cue": "Balanced bright and creamy flavor"
+        },
+        {
+            "step": 7,
+            "instruction": "Let the dish rest off heat for 5 minutes before serving. This resting time allows the juices to redistribute in the chicken and the sauce to thicken slightly more. It also gives the asparagus a chance to soak up some of the flavors. Serve warm with crusty bread or over rice for a complete meal.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce thickened, chicken juicy and tender"
+        },
+        {
+            "step": 8,
+            "instruction": "Optional: garnish with freshly chopped parsley or grated Parmesan for an extra layer of flavor and a pop of color. This elevates the presentation and adds a fresh herbal note that complements the creamy sauce.",
+            "timing": "1 minute",
+            "doneness_cue": "Fresh garnish visible and fragrant"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean up your cooking space while the dish rests to make mealtime easier. One pot meals like this are great because they minimize dishes but still deliver big on taste and satisfaction. Enjoy your homemade, comforting dinner!",
+            "timing": "Varies",
+            "doneness_cue": "Kitchen tidy, ready to serve"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This One Pot Chicken and Asparagus Recipe Works So Well",
+        "content": "<p>This recipe succeeds because it uses a layered cooking approach that maximizes flavor and texture with minimal effort. Searing the chicken first is key – it triggers the Maillard reaction, which develops complex, savory flavors and a golden crust that locks in juices. This step also creates fond (the browned bits on the pan), which when deglazed with broth, infuses the sauce with deep, roasted notes.</p><p>The choice of chicken thighs over breasts matters too; thighs stay moist and tender during simmering, whereas breasts can dry out quickly. Simmering the chicken gently in broth cooks it evenly and keeps it juicy. Adding asparagus later in the cooking process ensures it stays crisp and bright green, preserving its fresh flavor and texture.</p><p>The final addition of heavy cream and lemon juice balances richness with brightness, creating a silky sauce that coats the chicken and veggies. The cream thickens the broth slightly, while lemon juice cuts through the fat, preventing the dish from feeling heavy. This interplay of ingredients and timing creates a harmonious dish that’s both comforting and fresh.</p><p>Overall, the recipe’s success lies in respecting ingredient cooking times, layering flavors through searing and deglazing, and balancing richness with acidity. This thoughtful approach elevates a simple one pot meal into something truly satisfying.</p>",
+        "ingredient_notes": {
+            "chicken thighs": "Chicken thighs are preferred for their rich flavor and moist texture. When buying, look for skin-on, bone-in if possible as they add more flavor, but boneless skinless works well too. Thighs tolerate longer cooking without drying out, making them ideal for simmering in a broth-based dish like this recipe. Avoid frozen thighs that haven't been properly thawed as they release excess water, diluting flavor.",
+            "asparagus": "Choose firm, bright green asparagus with tightly closed tips. Thicker stalks work better for cooking in one pot as they hold texture without becoming mushy. Trim the woody ends before cooking. Adding asparagus later in the cooking process preserves its vibrant color and crispness, which contrasts nicely with the tender chicken.",
+            "chicken broth": "Use a good quality low-sodium chicken broth to control salt levels and add depth. Broth is essential for deglazing the pan and simmering the chicken, infusing it with savory flavor. Avoid broth with added MSG or artificial flavors for a cleaner taste. Homemade broth works beautifully if you have it on hand.",
+            "heavy cream": "Heavy cream enriches the sauce, adding a smooth, silky texture and mellow flavor. It helps bind the broth and seasonings into a cohesive sauce. When adding cream, keep the heat low to prevent curdling. For a lighter option, half-and-half can be used but the sauce will be less thick and rich.",
+            "lemon juice": "Fresh lemon juice brightens the dish by cutting through the cream's richness and enhancing the natural flavors of the chicken and asparagus. Bottled lemon juice lacks the fresh acidity and aroma, so always use fresh for best results. Add it at the end to preserve its brightness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat chicken dry before searing to get a better crust.",
+            "reason": "Moisture on the chicken surface creates steam during cooking, which prevents browning. Drying the chicken ensures the Maillard reaction happens efficiently, producing a flavorful golden crust and locking in juices."
+        },
+        {
+            "tip": "Don’t overcrowd the pan when searing chicken.",
+            "reason": "Crowding lowers the pan’s temperature, causing the chicken to steam instead of sear. This results in pale, rubbery meat instead of a nice crust. Sear in batches if needed for even browning."
+        },
+        {
+            "tip": "Use medium-low heat when simmering to keep chicken tender.",
+            "reason": "High heat causes the chicken to toughen and the broth to evaporate too quickly. A gentle simmer cooks the chicken evenly, keeps it juicy, and allows flavors to meld without drying out the meat."
+        },
+        {
+            "tip": "Add asparagus near the end to maintain texture and color.",
+            "reason": "Asparagus cooks quickly and loses its vibrant green color and crunch if overcooked. Adding it late ensures it stays tender-crisp and visually appealing."
+        },
+        {
+            "tip": "Deglaze the pan with broth after sautéing aromatics.",
+            "reason": "Deglazing lifts flavorful browned bits from the pan, which enrich the sauce. This step adds depth and complexity to the dish’s flavor."
+        },
+        {
+            "tip": "Finish with lemon juice off the heat for fresh brightness.",
+            "reason": "Adding lemon juice at the end preserves its fresh, tangy flavor. Cooking it too long dulls the acidity and aroma, weakening its balancing effect on the creamy sauce."
+        },
+        {
+            "tip": "Let the dish rest before serving.",
+            "reason": "Resting allows juices to redistribute in the chicken and the sauce to thicken slightly, resulting in a juicier, more cohesive final dish."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the sear on the chicken.",
+            "why_it_happens": "People often rush to combine everything to save time, thinking it won’t make a big difference.",
+            "fix": "Take the extra time to sear chicken properly. It creates flavor and texture you can’t get otherwise, making the dish much more satisfying."
+        },
+        {
+            "mistake": "Overcooking asparagus.",
+            "why_it_happens": "Adding asparagus too early or cooking too long to save time.",
+            "fix": "Add asparagus near the end and cook just until tender-crisp to keep its color and texture fresh."
+        },
+        {
+            "mistake": "Using high heat during simmering.",
+            "why_it_happens": "Impatience or misreading the recipe leads to boiling instead of simmering.",
+            "fix": "Maintain a gentle simmer to keep chicken juicy and prevent broth from evaporating too quickly."
+        },
+        {
+            "mistake": "Not seasoning properly at the end.",
+            "why_it_happens": "Assuming broth and cream provide enough salt and flavor.",
+            "fix": "Always taste and adjust salt, pepper, and acidity at the end to balance flavors perfectly."
+        },
+        {
+            "mistake": "Adding lemon juice too early.",
+            "why_it_happens": "Thinking lemon juice should cook with the sauce.",
+            "fix": "Add lemon juice off the heat to preserve its bright, fresh flavor and aroma."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Creamy Mushroom and Asparagus Chicken",
+            "description": "Add sliced mushrooms along with the onions to introduce an earthy flavor. Mushrooms release moisture, so reduce broth by a quarter cup to keep the sauce balanced. The mushrooms add umami and a meaty texture that pairs wonderfully with asparagus.",
+            "technical_note": "Sauté mushrooms until golden before adding broth to avoid sogginess and deepen flavor."
+        },
+        {
+            "name": "Spicy One Pot Chicken and Asparagus",
+            "description": "Add a pinch of red pepper flakes or a diced jalapeño when cooking the garlic for a subtle heat. This variation adds a nice kick without overpowering the fresh asparagus and creamy sauce.",
+            "technical_note": "Adjust spice level to taste and add chili towards the beginning to mellow the heat."
+        },
+        {
+            "name": "Lemon Herb One Pot Chicken with Asparagus",
+            "description": "Increase the lemon juice and add fresh herbs like rosemary and parsley at the end for a bright, herbaceous twist. This version feels lighter and more aromatic, perfect for spring and summer dinners.",
+            "technical_note": "Add fresh herbs off the heat to retain their vibrant flavor."
+        },
+        {
+            "name": "One Pot Chicken and Asparagus with Rice",
+            "description": "Add 1 cup of rinsed rice and 1.5 cups of broth after searing chicken. Cook covered until rice is tender, then add asparagus near the end. This makes the dish a complete one pot meal with grains included.",
+            "technical_note": "Adjust broth quantity to ensure rice cooks properly without drying out."
+        },
+        {
+            "name": "Dairy-Free One Pot Chicken and Asparagus",
+            "description": "Skip the heavy cream and replace with coconut milk or a dairy-free cream alternative. This keeps the sauce creamy while accommodating dairy sensitivities, adding a subtle coconut flavor that pairs nicely with the asparagus.",
+            "technical_note": "Use full-fat coconut milk for best creaminess and add lemon juice to balance sweetness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "25g",
+        "fiber_grams": "3g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit at room temperature for up to 2 hours if covered loosely. Beyond that, bacteria growth increases, so refrigerate promptly to maintain safety and flavor.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken and asparagus might soften when cold. Reheat gently to avoid drying out the chicken; adding a splash of broth or cream can help restore texture.",
+        "freezer": "Freeze in a suitable airtight container for up to 2 months. To prevent freezer burn, wrap the container with an extra layer of plastic wrap or foil. Thaw overnight in the refrigerator before reheating gently on the stovetop or microwave.",
+        "reheating": "Reheat over low heat on the stovetop or in short bursts in the microwave, stirring occasionally. Add a splash of chicken broth or cream if the sauce has thickened too much. Avoid high heat to prevent toughening the chicken or curdling the sauce.",
+        "make_ahead_strategy": "You can prepare the chicken and broth base a day ahead and refrigerate. Add asparagus, cream, and lemon juice just before reheating and serving to keep the veggies fresh and vibrant."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "Yes, you can substitute chicken breasts, but be careful not to overcook them as they dry out faster. Reduce simmering time and check for doneness often. Searing still helps lock in moisture and flavor."
+        },
+        {
+            "question": "What can I substitute for heavy cream?",
+            "answer": "You can use half-and-half for a lighter version or coconut milk for a dairy-free alternative. Keep in mind coconut milk adds a slight coconut flavor, and half-and-half will create a thinner sauce."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Absolutely! Just ensure your chicken broth is gluten-free, as some brands add wheat-based thickeners. The rest of the ingredients are naturally gluten-free."
+        },
+        {
+            "question": "How do I keep asparagus from getting mushy?",
+            "answer": "Add asparagus near the end of cooking and cook just until tender-crisp. Overcooking breaks down the fibers and dulls the color and texture."
+        },
+        {
+            "question": "Is it okay to use frozen asparagus?",
+            "answer": "Frozen asparagus can be used but will be softer and less vibrant. Add it a little earlier in the cooking process to allow it to heat through but watch closely to avoid overcooking."
+        },
+        {
+            "question": "Can I double this recipe?",
+            "answer": "Yes, but use a larger pot to avoid overcrowding. Cooking times may increase slightly, especially for simmering, so check chicken doneness carefully."
+        },
+        {
+            "question": "What side dishes go well with this meal?",
+            "answer": "This dish pairs well with crusty bread, mashed potatoes, or a simple rice pilaf. A fresh green salad also complements the creamy sauce nicely."
+        },
+        {
+            "question": "How do I know when the chicken is fully cooked?",
+            "answer": "Pierce the thickest part of the chicken; juices should run clear, and the meat should no longer be pink inside. Using a meat thermometer, the internal temperature should reach 165°F (74°C)."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and eating this one pot chicken and asparagus recipe as much as I do. It’s such a comforting, fuss-free meal—let me know how yours turns out!",
+    "seo": {
+        "primary_keyword": "one pot chicken and asparagus recipe",
+        "secondary_keywords": [
+            "easy chicken asparagus dinner",
+            "one pot chicken recipes",
+            "how to make chicken and asparagus",
+            "best one pot chicken recipe",
+            "easy one pot chicken dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "easy one pot chicken recipes",
+                "anchor": "easy-one-pot-chicken-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-05-20 11:50:10",
+        "title_seed": "One Pot Chicken And Asparagus Recipes Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1779277810_500",
+    "slug": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash",
+    "uniqueSlug": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_pinrecipes_image_1.png",
+            "filePath": "posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_pinrecipes_image_1.png",
+            "relativePath": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_pinrecipes_image_2.png",
+            "filePath": "posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_pinrecipes_image_2.png",
+            "relativePath": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_pinrecipes_image_3.png",
+            "filePath": "posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_pinrecipes_image_3.png",
+            "relativePath": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_7.webp",
+            "filePath": "posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_7.webp",
+            "relativePath": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_4.webp",
+            "filePath": "posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_4.webp",
+            "relativePath": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_5.webp",
+            "filePath": "posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_5.webp",
+            "relativePath": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_8.webp",
+            "filePath": "posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_8.webp",
+            "relativePath": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_9.webp",
+            "filePath": "posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_9.webp",
+            "relativePath": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_6.webp",
+            "filePath": "posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_6.webp",
+            "relativePath": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "image": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_pinrecipes_image_1.png",
+    "image_path": "posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_pinrecipes_image_1.png",
+    "image_dir": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-05-20T11:50:12+00:00",
+    "updatedAt": "2026-05-20T11:50:12+00:00"
+}
