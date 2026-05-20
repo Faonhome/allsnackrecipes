@@ -297,48 +297,58 @@
             "type": "main"
         },
         {
-            "fileName": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_7.webp",
-            "filePath": "posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_7.webp",
-            "relativePath": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_7.webp",
-            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_7.webp",
-            "type": "template"
-        },
-        {
             "fileName": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_4.webp",
             "filePath": "posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_4.webp",
             "relativePath": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_4.webp",
             "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_4.webp",
-            "type": "template"
+            "order": 4,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_5.webp",
             "filePath": "posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_5.webp",
             "relativePath": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_5.webp",
             "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_5.webp",
-            "type": "template"
-        },
-        {
-            "fileName": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_8.webp",
-            "filePath": "posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_8.webp",
-            "relativePath": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_8.webp",
-            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_8.webp",
-            "type": "recipe_card",
-            "no_link": true
-        },
-        {
-            "fileName": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_9.webp",
-            "filePath": "posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_9.webp",
-            "relativePath": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_9.webp",
-            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_9.webp",
-            "type": "overlay_list",
-            "no_link": true
+            "order": 5,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_6.webp",
             "filePath": "posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_6.webp",
             "relativePath": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_6.webp",
             "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_6.webp",
-            "type": "template"
+            "order": 6,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_7.webp",
+            "filePath": "posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_7.webp",
+            "relativePath": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_7.webp",
+            "order": 7,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_8.webp",
+            "filePath": "posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_8.webp",
+            "relativePath": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_8.webp",
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card"
+        },
+        {
+            "fileName": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_9.webp",
+            "filePath": "posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_9.webp",
+            "relativePath": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash/images/one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_st1_image_9.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list"
         }
     ],
     "image": "one-pot-chicken-and-asparagus-recipes-recipe-easy-flavorful-dinner-in-a-flash_pinrecipes_image_1.png",
