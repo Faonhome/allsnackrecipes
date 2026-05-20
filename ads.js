@@ -61,6 +61,16 @@
                     "pages": "all",
                     "slot": "8585833617",
                     "className": "ad-after-breadcrumb"
+                },
+                {
+                    "selector": ".story-headline",
+                    "position": "before",
+                    "format": "auto",
+                    "pages": "all",
+                    "slot": "8585833617",
+                    "everyNth": 2,
+                    "maxAds": 3,
+                    "className": "ads-story-headline"
                 }
             ]
         };
