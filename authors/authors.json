@@ -1,9 +1,9 @@
 [
     {
         "id": "author_001",
-        "name": "Sarah Mitchell",
-        "description": "Sarah Mitchell",
-        "imagePath": "authors/images/author.jpg",
+        "name": "Emma Sullivan",
+        "description": "Emma Sullivan",
+        "imagePath": "authors/images/author.png",
         "active": true
     }
 ]
