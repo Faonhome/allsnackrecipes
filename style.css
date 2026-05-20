@@ -3019,8 +3019,8 @@ img.recipe-main-image { width: 100%; height: auto; display: block; }
 .toc h2.story-headline { font-size: 0.78em !important; font-weight: 800 !important; text-transform: uppercase !important; letter-spacing: 1.2px !important; color: #4a6741 !important; border: none !important; margin: 0 0 12px !important; padding: 0 !important; }
 .toc h2.story-headline::after { display: none; }
 .toc ul { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 5px; }
-.toc ul li a { color: #2c3e50; text-decoration: none; font-size: 0.89em; font-weight: 500; display: flex; align-items: center; gap: 9px; }
-.toc ul li a::before { content: ''; width: 18px; height: 1px; background: #4a6741; display: inline-block; flex-shrink: 0; }
+.toc ul li a { color: #4a6741; text-decoration: none; font-size: 0.89em; font-weight: 500; display: flex; align-items: center; gap: 9px; }
+.toc ul li a::before { content: ''; width: 18px; height: 1px; background: #ff6b6b; display: inline-block; flex-shrink: 0; }
 .toc ul li a:hover { color: #4a6741; }
 
 .story-section { margin: 48px 0; }
