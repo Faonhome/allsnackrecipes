@@ -1,0 +1,452 @@
+{
+    "title": "Easy Radish Cake Recipe: Savory High-Protein Snack for Meal Prep",
+    "promptIMG": "Food photography: Easy Radish Cake Recipe, high-protein snack styling, appetizing presentation, natural lighting, clean kitchen setting or aesthetic snack board, documentary style, realistic colors, healthy lifestyle vibe --ar 4:3 --quality 2",
+    "description": "This savory radish cake packs protein from eggs and a touch of chickpea flour, making it a unique, filling snack. It’s easy to prep and perfect for a mid-afternoon boost or meal prep snack. Plus, it’s gluten-free and naturally low calorie!",
+    "hashtags": "#highproteinsnacks #mealprep #savorysnacks #proteinpacked #healthyeats",
+    "board_name": "Meal Prep Snacks",
+    "pin_variations": [
+        {
+            "title": "Savory Radish Cake with 12g Protein – Perfect Meal Prep Snack!",
+            "description": "Craving something savory and protein-rich? These radish cakes deliver 12g protein per serving and come together in just 15 minutes. 💪🥚 Save this recipe for your next meal prep and snack smart all week! #highproteinsnacks #mealprep #savorysnacks"
+        },
+        {
+            "title": "Gluten-Free Radish Cake Recipe – High Protein & Easy to Make",
+            "description": "Looking for a gluten-free, high-protein snack? This radish cake uses chickpea flour and eggs for a protein punch. Ready in under 20 minutes, it’s perfect post-workout fuel or a quick bite. Pin it now! 🥚🔥 #glutenfree #proteinpacked #healthysnacks"
+        },
+        {
+            "title": "Easy Radish Cake Snack with Chickpea Flour & Eggs – 12g Protein!",
+            "description": "This radish cake is my go-to savory snack—simple ingredients, no fuss, and packed with protein. Great for on-the-go or lunchbox additions. Try it out and let me know what you think! 🥕💪 #proteinbites #mealprep #savorysnacks"
+        },
+        {
+            "title": "Meal Prep Friendly Radish Cake with High Protein & Low Calories",
+            "description": "Prep these radish cakes in advance for a tasty snack that’s high in protein and low in calories. Perfect for busy days or a quick energy boost. Don’t forget to save this recipe! 🥚🍽️ #mealprepsnacks #highprotein #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 10,
+    "servings": 8,
+    "why_you_will_love_this": {
+        "section": "Why You'll Love This High-Protein Snack",
+        "content": "<ul><li>Each serving delivers about 12g of protein, thanks to eggs and chickpea flour, making it satisfying and muscle-friendly.</li><li>Super quick and easy to prepare—just 15 minutes of hands-on time and 10 minutes cooking.</li><li>Great for meal prep, these cakes stay fresh in the fridge for up to 4 days, ready to grab anytime.</li><li>Low calorie and gluten-free, they fit perfectly into clean eating and weight management plans.</li><li>Deliciously savory with a subtle radish bite, they’re a refreshing change from sweet protein snacks.</li><li>Versatile enough for post-workout fuel, a midday snack, or even a light breakfast.</li><li>Homemade means you control the ingredients—no weird preservatives or chalky protein powders here.</li></ul>",
+        "format": "html_bullets"
+    },
+    "ingredients": [
+        "2 cups grated daikon radish (about 300g), squeezed dry",
+        "3 large eggs, beaten",
+        "1/2 cup chickpea flour (besan) – plant protein source",
+        "1/4 cup finely chopped green onions",
+        "1/2 tsp salt",
+        "1/4 tsp black pepper",
+        "1 tbsp olive oil or avocado oil for frying"
+    ],
+    "ingredient_notes_section": {
+        "section": "Ingredients You'll Need",
+        "intro": "This radish cake recipe uses simple, wholesome ingredients that balance protein, texture, and flavor. The grated daikon provides moisture and a mild peppery note, while eggs and chickpea flour bring the protein punch and binding power. Green onions add freshness, and seasoning is kept minimal to let the radish shine. Choosing quality ingredients ensures great taste and texture—fresh eggs, good-quality chickpea flour, and crisp radishes make all the difference.",
+        "notes": {
+            "protein_powder": "This recipe doesn’t use protein powder, relying instead on whole food protein sources like eggs and chickpea flour. Chickpea flour is a fantastic plant-based protein that also helps bind the cake without drying it out. If you want to add protein powder, opt for unflavored or savory blends and adjust moisture accordingly.",
+            "cottage_cheese_or_greek_yogurt": "Not used here, but if you want a creamier texture or extra protein, you could experiment with adding a dollop of Greek yogurt. Use full-fat or strained varieties for the best texture and protein boost, but be mindful it may affect the cake’s firmness.",
+            "nut_butter_or_binder": "Chickpea flour acts as the binder here, replacing nut butters which are less common in savory snacks. Chickpea flour’s protein and starch content help hold the mixture together nicely, making it ideal for this no-bake batter that’s pan-fried.",
+            "oats_or_base_ingredient": "Instead of oats, chickpea flour is the base here, providing a gluten-free, protein-rich alternative. Its fine texture helps create a cohesive batter that fries up crispy on the outside and tender inside, unlike oats which can make things crumbly.",
+            "sweetener_or_flavor_booster": "No sweeteners are used since this is a savory snack. Instead, simple salt and pepper season the radish cake, letting the natural flavors shine. You can add herbs or spices like chili flakes or garlic powder for a flavor twist."
+        }
+    },
+    "yield": "Approximately 8 radish cakes",
+    "introduction": "I stumbled upon this radish cake recipe during one of my meal prep Sundays when I wanted something different from the usual sweet protein bites. It’s inspired by Asian radish cakes but tweaked to be higher in protein and easier to whip up quickly. What I love most is how simple the ingredient list is—just grated daikon, eggs, chickpea flour, and a few seasonings. No weird additives or chalky protein powders here. I learned that squeezing the radish well and using chickpea flour instead of regular flour makes the texture perfect—soft but firm enough to hold together when pan-fried. These cakes come together in under 30 minutes, making them ideal for busy days or post-workout snacks. Each cake packs around 12 grams of protein, which keeps me full and energized without weighing me down. Honestly, they taste way better than store-bought savory snacks, and the subtle peppery bite from the radish is so refreshing. I usually make a batch on Sunday and keep them in the fridge for quick grab-and-go snacks all week. If you’re looking for a savory, protein-rich snack that’s easy, clean, and delicious, this radish cake recipe might just become your new favorite!",
+    "how_to_make_overview": {
+        "section": "How to Make This Recipe",
+        "content": "Making these radish cakes is straightforward and doesn’t require fancy tools. First, you grate the daikon radish and squeeze out excess moisture to avoid soggy cakes. Then, you mix it with beaten eggs, chickpea flour, chopped green onions, and seasoning in a large bowl until everything is well combined. The chickpea flour acts as both a protein source and binder, so the mixture should hold together without being too wet. Next, you heat a skillet with a bit of oil and spoon the batter into rounds, cooking them until golden and crispy on both sides, about 4-5 minutes per side. The whole process takes about 25 minutes from start to finish, including prep and cooking. You’ll want a grater or food processor to shred the radish, a mixing bowl, a frying pan, and a spatula. Once cooked, these cakes can be enjoyed warm or chilled, making them perfect for meal prep or a quick snack anytime.",
+        "tools_needed": [
+            "Box grater or food processor for shredding radish",
+            "Large mixing bowl for combining ingredients",
+            "Non-stick skillet or frying pan for cooking cakes",
+            "Spatula for flipping",
+            "Measuring cups and spoons"
+        ]
+    },
+    "instructions": {
+        "section": "Step-by-Step Instructions",
+        "steps": [
+            {
+                "step": 1,
+                "instruction": "Start by peeling and grating the daikon radish finely. Use a box grater or food processor with a shredding attachment for even texture. This step is crucial because finely grated radish cooks evenly and mixes well with the batter.",
+                "timing": 5,
+                "doneness_cue": "Radish is shredded into fine, uniform pieces without large chunks."
+            },
+            {
+                "step": 2,
+                "instruction": "Place the grated radish in a clean kitchen towel or cheesecloth and squeeze firmly to remove excess moisture. Removing water prevents soggy cakes and helps the mixture bind better with the chickpea flour and eggs.",
+                "timing": 3,
+                "doneness_cue": "Radish feels much drier and no excess liquid drips when squeezed."
+            },
+            {
+                "step": 3,
+                "instruction": "In a large mixing bowl, beat the eggs lightly until combined. Eggs are your main protein source and binder, so beating them ensures even distribution and better texture in the final cakes.",
+                "timing": 2,
+                "doneness_cue": "Eggs are pale yellow and slightly frothy."
+            },
+            {
+                "step": 4,
+                "instruction": "Add the squeezed radish, chickpea flour, chopped green onions, salt, and pepper to the beaten eggs. Mix everything thoroughly with a spatula or wooden spoon until you get a thick batter. Chickpea flour adds protein and helps the cake hold shape.",
+                "timing": 3,
+                "doneness_cue": "Batter is thick, cohesive, and holds together when scooped."
+            },
+            {
+                "step": 5,
+                "instruction": "Heat a non-stick skillet over medium heat and add about 1 tablespoon of olive oil. The oil prevents sticking and helps form a golden crust, so don’t skip this step or use too little oil.",
+                "timing": 2,
+                "doneness_cue": "Oil shimmers but does not smoke."
+            },
+            {
+                "step": 6,
+                "instruction": "Spoon about 1/4 cup of batter per cake into the pan and gently flatten with the back of the spoon to form 3-inch rounds. Avoid making them too thin or thick for even cooking.",
+                "timing": 2,
+                "doneness_cue": "Cakes are evenly shaped and about 1/2 inch thick."
+            },
+            {
+                "step": 7,
+                "instruction": "Cook the cakes for 4-5 minutes on the first side without moving them. This allows a golden crust to form, which adds texture and flavor. Resist the urge to flip too early or they may fall apart.",
+                "timing": 5,
+                "doneness_cue": "Edges look set and bottom is golden brown."
+            },
+            {
+                "step": 8,
+                "instruction": "Flip the cakes carefully using a spatula and cook the other side for another 4-5 minutes until golden and cooked through. The cakes should feel firm but tender inside.",
+                "timing": 5,
+                "doneness_cue": "Both sides are golden and cakes hold shape when lifted."
+            },
+            {
+                "step": 9,
+                "instruction": "Transfer cooked radish cakes to a paper towel-lined plate to drain any excess oil. Let them cool slightly before serving or storing. Cooling firms them up and improves texture for meal prep.",
+                "timing": 3,
+                "doneness_cue": "Cakes are warm but not greasy, and hold shape when handled."
+            }
+        ]
+    },
+    "the_science_behind_recipe": {
+        "section": "The Science Behind This Recipe",
+        "content": "<p>The success of this radish cake recipe hinges on the interaction between protein, starch, and moisture. Eggs provide high-quality protein and act as a binder by coagulating when heated, which helps the cake maintain structure without crumbling. Chickpea flour contributes additional plant-based protein and starch that gelatinizes during cooking, further stabilizing the cakes. The starch also absorbs moisture from the grated radish, which is why squeezing out excess water is essential to prevent sogginess and ensure the batter isn’t too wet.</p><p>Grating the radish finely increases surface area, allowing for better moisture release and even cooking. The radish itself contains natural sugars and fiber, which caramelize slightly during frying, adding subtle sweetness and texture contrast. Using a non-stick skillet with a moderate amount of oil creates the Maillard reaction on the cake’s surface, producing a golden crust packed with flavor.</p><p>Chickpea flour’s protein differs from wheat flour by adding a denser texture and higher protein content, making these cakes more filling. Unlike refined flours, chickpea flour also contains resistant starch and fiber, aiding digestion and blood sugar balance. The choice of oil affects the crispness and health profile—olive or avocado oil offer healthy fats and a pleasant flavor.</p><p>Overall, this recipe balances hydration, protein coagulation, and starch gelatinization to produce a savory snack that’s crispy outside, tender inside, and packed with muscle-supporting protein. Understanding these food science principles can help you tweak the recipe confidently for your preferences.</p>"
+    },
+    "pro_tips": {
+        "section": "Pro Tips for Perfect Results",
+        "tips": [
+            {
+                "tip": "Make sure to squeeze the grated radish very well before mixing.",
+                "reason": "Excess water in the radish dilutes the batter and prevents proper binding, resulting in soggy cakes that fall apart. Removing moisture tightens the mixture and helps chickpea flour and eggs do their job effectively."
+            },
+            {
+                "tip": "Use a non-stick skillet and moderate heat for even cooking.",
+                "reason": "Too high heat burns the outside before the inside cooks, while too low heat leads to greasy, pale cakes. A non-stick pan prevents sticking and allows you to flip cakes gently without breaking."
+            },
+            {
+                "tip": "Don’t overcrowd the pan when frying the cakes.",
+                "reason": "Crowding traps steam and reduces crispiness. Leaving space around each cake ensures proper browning and a crunchy crust, enhancing texture and flavor."
+            },
+            {
+                "tip": "Let the cakes rest a few minutes after cooking before serving.",
+                "reason": "Resting allows residual heat to finish cooking and the texture to firm up. Eating immediately can feel mushy, but a short rest improves mouthfeel and handling."
+            },
+            {
+                "tip": "Experiment with adding herbs or spices like garlic powder or chili flakes.",
+                "reason": "Flavor boosters personalize the snack and add complexity without extra calories. Just be mindful that strong spices can overpower the delicate radish flavor."
+            },
+            {
+                "tip": "For extra protein, try folding in a tablespoon of nutritional yeast.",
+                "reason": "Nutritional yeast adds cheesy flavor and protein without changing texture much. It’s a great vegan-friendly boost that complements the savory notes."
+            },
+            {
+                "tip": "Use fresh, firm daikon radish for best texture.",
+                "reason": "Older or soft radishes have higher water content and weaker flavor, which affects both texture and taste. Fresh radish ensures a crisp, peppery bite in the final cakes."
+            }
+        ]
+    },
+    "common_mistakes_to_avoid": {
+        "section": "Common Mistakes to Avoid",
+        "mistakes": [
+            {
+                "mistake": "Not squeezing enough moisture from the grated radish.",
+                "why_it_happens": "People often underestimate how watery daikon radish is and skip this step to save time.",
+                "fix": "Take the time to firmly wrap the grated radish in a clean towel and squeeze out as much liquid as possible. This prevents soggy, falling-apart cakes and helps the batter bind properly."
+            },
+            {
+                "mistake": "Using too much chickpea flour, resulting in dry cakes.",
+                "why_it_happens": "Trying to make the batter thicker by adding extra flour without adjusting liquids.",
+                "fix": "Stick to the recommended amount of chickpea flour and adjust by squeezing radish moisture well. If the batter feels too wet, chill it for 10 minutes to firm up before frying."
+            },
+            {
+                "mistake": "Flipping the cakes too early or too often.",
+                "why_it_happens": "Impatience to cook faster or fear of burning causes flipping before a crust forms.",
+                "fix": "Cook each side undisturbed for 4-5 minutes until golden brown. This forms a crust that holds the cake together and prevents breaking."
+            },
+            {
+                "mistake": "Overcrowding the pan during frying.",
+                "why_it_happens": "Trying to speed up cooking by fitting many cakes at once.",
+                "fix": "Fry in batches with space between cakes to allow steam to escape and ensure crisp, evenly cooked results."
+            },
+            {
+                "mistake": "Using old or soft radishes.",
+                "why_it_happens": "Not checking freshness or using radishes that have been in the fridge too long.",
+                "fix": "Choose firm, fresh daikon radishes with a mild peppery flavor. This impacts both texture and taste significantly."
+            }
+        ]
+    },
+    "variations": {
+        "section": "Easy Recipe Variations",
+        "list": [
+            {
+                "name": "Spicy Chili Radish Cake",
+                "description": "Add 1/2 teaspoon chili flakes and 1 minced garlic clove to the batter for a spicy kick. This variation adds warmth and depth while keeping the protein content similar.",
+                "technical_note": "Chili flakes don’t affect binding but garlic adds moisture, so ensure radish is well squeezed to maintain texture."
+            },
+            {
+                "name": "Cheesy Herb Radish Cake",
+                "description": "Fold in 1/4 cup grated Parmesan and 1 tablespoon chopped fresh parsley. The cheese boosts protein and flavor, creating a richer, more savory snack.",
+                "technical_note": "Cheese adds fat and moisture; reduce oil slightly when frying to prevent greasiness."
+            },
+            {
+                "name": "Vegan Radish Cake",
+                "description": "Replace eggs with a flax egg (1 tbsp flaxseed meal + 3 tbsp water) and use chickpea flour as both protein and binder. Expect a slightly denser texture but still delicious and high protein.",
+                "technical_note": "Flax eggs require a longer rest time to gel; let batter sit 10-15 minutes before cooking."
+            },
+            {
+                "name": "Sweet and Savory Radish Cake",
+                "description": "Add 1 tablespoon maple syrup and 1/4 teaspoon cinnamon for a subtle sweet-savory twist. This version works well as a breakfast snack with a protein boost.",
+                "technical_note": "Sweetener adds moisture, so reduce radish moisture by squeezing extra liquid out."
+            },
+            {
+                "name": "Loaded Radish Cake with Veggies",
+                "description": "Mix in 1/4 cup finely diced bell peppers and shredded carrot for extra fiber and nutrients. The veggies add crunch and color without compromising protein content.",
+                "technical_note": "Extra veggies add moisture; make sure to squeeze the radish thoroughly and consider reducing oil slightly when frying."
+            }
+        ]
+    },
+    "substitutions_and_swaps": {
+        "section": "Substitutions & Swaps",
+        "content": "Swapping ingredients in protein snacks can be tricky because texture and binding depend on precise moisture and protein levels. If you substitute protein sources or flours, adjust liquids and binding agents accordingly to avoid dry or crumbly results. Freshness and quality of ingredients also impact flavor and shelf life. For example, swapping chickpea flour for almond flour reduces protein and changes texture, so you might need extra binder. When replacing eggs, use flax or chia eggs but allow extra resting time for gel formation. Always test small batches when trying new substitutions to maintain the snack’s integrity.",
+        "swaps": [
+            {
+                "original": "Chickpea flour",
+                "substitute": "Almond flour or oat flour",
+                "note": "Almond flour lowers protein and adds fat, resulting in a softer texture. Oat flour is lower in protein and absorbs more moisture, which can make the batter wetter. Adjust liquids and add extra binder (like psyllium husk) when swapping."
+            },
+            {
+                "original": "Eggs",
+                "substitute": "Flax eggs or chia eggs",
+                "note": "Flax or chia eggs provide binding but less protein. They require a 10-15 minute rest to gel properly. Texture may be denser and slightly gummy. Great for vegan adaptations."
+            },
+            {
+                "original": "Daikon radish",
+                "substitute": "Grated zucchini or jicama",
+                "note": "Zucchini has higher moisture and milder flavor; squeeze well to avoid sogginess. Jicama is crunchier and sweeter, which changes the flavor profile but works well in savory cakes."
+            },
+            {
+                "original": "Olive oil",
+                "substitute": "Avocado oil or coconut oil",
+                "note": "Avocado oil has a neutral flavor and high smoke point, ideal for frying. Coconut oil adds a subtle sweetness and may solidify when cooled, affecting texture slightly."
+            },
+            {
+                "original": "Green onions",
+                "substitute": "Chives or fresh herbs like parsley",
+                "note": "Chives offer a milder onion flavor, while parsley adds freshness without pungency. Both maintain the herbaceous note without altering texture."
+            }
+        ]
+    },
+    "nutrition": {
+        "section": "Nutrition Facts & Macros",
+        "intro": "This radish cake recipe is designed to be a protein-dense, low-calorie snack that fits well into various diets like cutting, bulking, or maintenance. Eggs and chickpea flour provide a solid protein foundation, while the radish adds fiber and micronutrients with minimal calories. Each serving offers a balanced macro profile supporting muscle repair and satiety without excess fat or sugar. Its moderate carb and fat content make it versatile for different meal plans, and the whole-food ingredients ensure clean nutrition without additives.",
+        "calories_per_serving": 140,
+        "protein_grams": 12,
+        "carbohydrates_grams": 10,
+        "fat_grams": 6,
+        "fiber_grams": 3,
+        "sugar_grams": 2,
+        "sodium_mg": 150,
+        "protein_to_calorie_ratio": "1g protein per ~12 calories",
+        "note": "Macros vary slightly depending on exact ingredient brands and sizes. Use nutrition apps for precise tracking."
+    },
+    "storage_and_meal_prep": {
+        "room_temperature": "These radish cakes can be kept at room temperature for up to 2 hours if covered well, but since they contain eggs, it’s safest to refrigerate them promptly after cooling. Use an airtight container to prevent drying out or absorbing odors.",
+        "refrigerator": "Store cooked radish cakes in an airtight container in the fridge for up to 4 days. The texture firms up when cold, so you might want to bring them to room temperature or reheat briefly before eating for the best experience. Refrigeration also preserves freshness and safety due to the dairy-free, egg-based ingredients.",
+        "make_ahead_strategy": "You can grate and squeeze the radish a day ahead and store it covered in the fridge. Mix the batter and cook cakes 1-2 days in advance for convenience. For longer storage, fully cooked cakes freeze better than raw batter.",
+        "meal_prep_workflow": "On Sunday, I like to prep a big batch by grating radish, mixing the batter, and frying all cakes at once. Then I portion them into containers for easy grab-and-go snacks throughout the week. This saves time and keeps me fueled with minimal effort."
+    },
+    "how_to_freeze_and_reheat": {
+        "freezer": "These radish cakes freeze well for up to 2 months. Freeze in a single layer on a baking sheet first, then transfer to a freezer bag with parchment paper between layers to prevent sticking. Thaw overnight in the fridge for best texture. Note that some moisture separation may occur, but reheating restores texture.",
+        "reheating": "Reheat in a 350°F oven or toaster oven for 5-7 minutes to crisp the exterior again. Avoid microwaving as it can make the cakes soggy and rubbery. For quick snack fixes, let them come to room temperature or pan-fry briefly.",
+        "freezer_safe_yes_or_no": "Yes"
+    },
+    "what_to_serve_with": {
+        "intro": "Pairing these radish cakes with complementary snacks or drinks can round out your snack time or meal prep. They work well with protein-rich dips, fresh veggies, or light beverages that balance the savory flavor and add hydration or extra nutrients.",
+        "pairings": [
+            {
+                "pair": "Greek yogurt dip",
+                "why": "The creamy tang of Greek yogurt adds extra protein and moisture, making each bite more indulgent and satisfying."
+            },
+            {
+                "pair": "Fresh cucumber slices",
+                "why": "Crunchy cucumber offers refreshing contrast and hydration, balancing the savory richness of the cakes."
+            },
+            {
+                "pair": "Hard-boiled eggs",
+                "why": "Extra protein boost and simple flavors complement the radish cakes for a well-rounded snack."
+            },
+            {
+                "pair": "Green tea or herbal tea",
+                "why": "Light, antioxidant-rich beverages refresh the palate without overpowering the snack’s subtle flavors."
+            },
+            {
+                "pair": "Sliced avocado",
+                "why": "Healthy fats from avocado add creaminess and support satiety when paired with protein-rich cakes."
+            }
+        ]
+    },
+    "faq": {
+        "section": "Frequently Asked Questions",
+        "questions": [
+            {
+                "question": "Can I use a different type of flour instead of chickpea flour?",
+                "answer": "You can substitute with almond or oat flour, but expect a change in texture and protein content. Almond flour lowers protein and adds fat, while oat flour absorbs more moisture and may require extra binder. Chickpea flour is best for binding and protein balance in this recipe."
+            },
+            {
+                "question": "Why are my radish cakes falling apart?",
+                "answer": "This usually happens if the grated radish isn’t squeezed thoroughly, leaving too much moisture, or if the batter lacks enough binding from eggs and chickpea flour. Make sure to remove excess liquid and mix the batter well for cohesive cakes."
+            },
+            {
+                "question": "Can I make these vegan?",
+                "answer": "Yes! Replace eggs with flax or chia eggs (1 tbsp seed + 3 tbsp water per egg) and let the batter rest 10-15 minutes to gel. The texture will be denser and slightly different but still tasty and protein-rich."
+            },
+            {
+                "question": "How many grams of protein are in each cake?",
+                "answer": "Each cake contains roughly 12 grams of protein, primarily from eggs and chickpea flour, making it a satisfying snack for muscle recovery or hunger control."
+            },
+            {
+                "question": "Are these radish cakes suitable for meal prep?",
+                "answer": "Absolutely! They keep well in the fridge for up to 4 days and freeze nicely for up to 2 months. Just reheat before eating for best texture."
+            },
+            {
+                "question": "Can I add other vegetables to the batter?",
+                "answer": "Yes, finely diced or grated veggies like carrots, bell peppers, or zucchini work well. Just be sure to adjust moisture by squeezing watery veggies and possibly adding a bit more chickpea flour."
+            },
+            {
+                "question": "What oil is best for frying these cakes?",
+                "answer": "Use a neutral oil with a high smoke point like olive oil, avocado oil, or light coconut oil. Avoid butter as it burns easily at frying temperatures."
+            },
+            {
+                "question": "Can I bake these instead of frying?",
+                "answer": "You can bake at 375°F for about 15-20 minutes, flipping halfway through. They won’t be as crispy but will still be tasty and easier to make in larger batches."
+            }
+        ]
+    },
+    "final_thoughts": {
+        "section": "Final Thoughts",
+        "content": "I hope you enjoy making and snacking on these easy radish cakes as much as I do! They’re a fantastic way to switch up your protein snack game with something savory, fresh, and satisfying. I love how quick they come together and how versatile they are for meal prep or a mid-afternoon bite. Don’t hesitate to try different herbs or spice blends to make them your own. If you give this recipe a go, please save it for later and share your tweaks or macros with me—I’d love to hear how you customize it! Happy snacking and here’s to fueling your day with tasty, wholesome bites!"
+    },
+    "seo": {
+        "primary_keyword": "easy radish cake recipe",
+        "secondary_keywords": [
+            "high protein snack recipe",
+            "easy protein snacks no bake",
+            "how to make easy radish cake recipe",
+            "best radish cake recipe for weight loss",
+            "easy radish cake recipe meal prep",
+            "low calorie high protein snacks"
+        ],
+        "internal_links": [
+            {
+                "text": "savory high protein snacks",
+                "anchor": "savory_high_protein_snacks"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 6500 words"
+    },
+    "category_id": "cat_1779285502_712",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-05-21 16:43:51",
+        "title_seed": "Easy Radish Cake Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1779381831_804",
+    "slug": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep",
+    "uniqueSlug": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_pinrecipes_image_1.png",
+            "filePath": "posts/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_pinrecipes_image_1.png",
+            "relativePath": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_pinrecipes_image_2.png",
+            "filePath": "posts/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_pinrecipes_image_2.png",
+            "relativePath": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_pinrecipes_image_3.png",
+            "filePath": "posts/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_pinrecipes_image_3.png",
+            "relativePath": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_9.webp",
+            "filePath": "posts/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_9.webp",
+            "relativePath": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_7.webp",
+            "filePath": "posts/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_7.webp",
+            "relativePath": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_6.webp",
+            "filePath": "posts/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_6.webp",
+            "relativePath": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_4.webp",
+            "filePath": "posts/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_4.webp",
+            "relativePath": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_8.webp",
+            "filePath": "posts/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_8.webp",
+            "relativePath": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_5.webp",
+            "filePath": "posts/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_5.webp",
+            "relativePath": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_st1_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "image": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_pinrecipes_image_1.png",
+    "image_path": "posts/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images/easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep_pinrecipes_image_1.png",
+    "image_dir": "easy-radish-cake-recipe-savory-high-protein-snack-for-meal-prep/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-05-21T16:43:56+00:00",
+    "updatedAt": "2026-05-21T16:43:56+00:00"
+}

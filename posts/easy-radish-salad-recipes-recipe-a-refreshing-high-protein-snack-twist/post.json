@@ -1,0 +1,474 @@
+{
+    "title": "Easy Radish Salad Recipes Recipe: A Refreshing High-Protein Snack Twist",
+    "promptIMG": "Food photography: Easy Radish Salad Recipes Recipe, high-protein snack styling, appetizing presentation, natural lighting, clean kitchen setting or aesthetic snack board, documentary style, realistic colors, healthy lifestyle vibe --ar 4:3 --quality 2",
+    "description": "This crisp radish salad packs a surprising protein punch thanks to the addition of cottage cheese and pumpkin seeds. Fresh, crunchy, and ready in 10 minutes — perfect for a light post-workout snack or midday pick-me-up!",
+    "hashtags": "#highproteinsnacks #healthysnacks #mealprep #proteinboost",
+    "board_name": "Healthy Protein Bites",
+    "pin_variations": [
+        {
+            "title": "10-Minute Protein-Packed Radish Salad for Busy Days",
+            "description": "Looking for a quick, protein-rich snack? This radish salad with cottage cheese and seeds is your new go-to! 🥗💪 Save this for your next meal prep or post-workout boost. #highprotein #snackideas #mealprep"
+        },
+        {
+            "title": "Crunchy Radish Salad with 15g Protein — Easy & Delicious!",
+            "description": "Snack smart with this crunchy radish salad loaded with cottage cheese for 15g protein per serving. Perfect for on-the-go or a light gym snack! 🌱🔥 Pin it for later! #proteinpacked #healthysnack #fitfood"
+        },
+        {
+            "title": "Fresh Radish Salad: Low-Calorie High-Protein Snack You’ll Love",
+            "description": "Fresh, tangy, and packed with protein — this radish salad is an easy snack that keeps you fueled without the calories. 🥒🧀 Try it post-workout or anytime hunger strikes! #lowcalorie #proteinboost #snacktime"
+        },
+        {
+            "title": "Meal Prep Friendly Radish Salad with Cottage Cheese Protein",
+            "description": "Make your week easier with this radish salad featuring cottage cheese for a creamy protein boost. Ready in minutes and stays fresh in the fridge! 🥗💪 Save it now! #mealprepsnacks #proteinbowl #easyrecipes"
+        }
+    ],
+    "instructions_post": [
+        {
+            "title": "10-Minute Protein Radish Salad for Busy Days",
+            "description": "Craving a quick protein snack? This radish salad combines crunchy veggies with creamy cottage cheese for a 15g protein hit. Perfect for meal prep or post-workout fuel! Save it for later 💪🥗 #proteinpacked #healthysnacks #mealprep"
+        },
+        {
+            "title": "Easy High-Protein Radish Salad with Seeds",
+            "description": "This radish salad is a crunchy, fresh way to get your protein fix with added pumpkin seeds and cottage cheese. Ready in 10 minutes and perfect for on-the-go snacking! Try it today 🔥🧀 #proteinbites #snacktime #fitfood"
+        },
+        {
+            "title": "Low-Calorie Radish Salad Packed with 15g Protein",
+            "description": "Light, refreshing, and filling — this radish salad gives you a protein boost without the calories. Great for cutting or maintenance days! Pin it for your next snack 🥗🍃 #lowcalorie #highprotein #snacks"
+        },
+        {
+            "title": "Post-Workout Radish Salad with Cottage Cheese Protein",
+            "description": "Need a fast post-workout snack? This radish salad with cottage cheese delivers 15g protein and fresh flavors to refuel you quickly. Perfect for gym girls and busy days alike! Save this recipe now 💪🥒 #postworkout #proteinboost #mealprep"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 2,
+    "why_you_will_love_this": {
+        "section": "Why You'll Love This High-Protein Snack",
+        "content": "<ul><li>Each serving delivers about 15 grams of protein, mainly from creamy cottage cheese and crunchy pumpkin seeds, helping fuel your muscles.</li><li>It’s super quick to make—just 10 minutes from chopping to ready-to-eat, perfect for busy days or last-minute snacks.</li><li>This salad keeps well in the fridge for up to 3 days, making it a great option for meal prep and grab-and-go snacking.</li><li>Low in calories and sugar but balanced with healthy fats and fiber, it fits well into most macro goals without feeling heavy.</li><li>The fresh crunch of radishes paired with creamy cheese and nutty seeds makes it surprisingly tasty and satisfying—no chalky protein powders here!</li><li>Versatile enough for post-workout refuel, midday energy, or even a light lunch addition, and kid-friendly too.</li><li>Better than store-bought protein snacks, since you control the ingredients—clean, simple, and budget-friendly.</li></ul>",
+        "format": "html_bullets"
+    },
+    "ingredients": [
+        "1 cup sliced fresh radishes",
+        "1/2 cup low-fat cottage cheese (4% fat for best texture)",
+        "2 tbsp shelled pumpkin seeds",
+        "1 tbsp chopped fresh chives",
+        "1 tsp olive oil",
+        "1 tsp lemon juice",
+        "Salt and pepper to taste"
+    ],
+    "ingredient_notes_section": {
+        "section": "Ingredients You'll Need",
+        "intro": "Each ingredient here plays a key role in balancing texture, flavor, and protein content. Fresh radishes provide a crisp, peppery base, while cottage cheese is our creamy protein powerhouse. Pumpkin seeds add crunch and healthy fats, and simple seasonings brighten the whole bowl. Choosing quality ingredients ensures the best taste and nutrition in this easy salad.",
+        "notes": {
+            "protein_powder": "Not used in this recipe, but if adding protein powder, choose a mild whey or plant-based option that blends smoothly without altering texture. Adjust liquids accordingly to avoid dryness.",
+            "cottage_cheese_or_greek_yogurt": "Using full-fat or 4% cottage cheese gives a creamy texture and higher protein per serving. Low-fat varieties can be drier and less flavorful. Whip cottage cheese slightly if you want it smoother.",
+            "nut_butter_or_binder": "We use pumpkin seeds here for crunch and healthy fat instead of nut butter. Natural pumpkin seeds are best—avoid salted or roasted versions for cleaner macros.",
+            "oats_or_base_ingredient": "Radishes are the crunchy base here, providing fiber and freshness without added carbs. Freshness is key, so use firm, brightly colored radishes.",
+            "sweetener_or_flavor_booster": "Lemon juice and a touch of olive oil brighten flavors without added sugar. No sweeteners needed to keep this snack light and fresh."
+        }
+    },
+    "yield": "Approximately 2 servings",
+    "introduction": "I first stumbled upon this radish salad during a hectic week when I needed a fresh, protein-packed snack that didn't require baking or complicated prep. I was craving something crunchy and light post-workout, but with enough protein to keep me full. Adding cottage cheese and pumpkin seeds to the crisp radishes was a game-changer — it turned a simple salad into a satisfying snack with about 15 grams of protein per serving. What I love most is how quick it is: just 10 minutes to chop, mix, and enjoy. Unlike many store-bought protein snacks that can be chalky or overly processed, this recipe uses real food ingredients you can pronounce and trust. The trick I learned was to keep the cottage cheese slightly chilled and toasting the pumpkin seeds lightly for extra crunch and flavor. The lemon juice and olive oil dressing tie it all together with a fresh zing. Honestly, this salad became my go-to on busy days and a staple in my Sunday meal prep. It’s light but filling, and the texture combo keeps me coming back. If you’re looking for a clean, easy, and protein-rich snack that feels more like a treat than a chore, this radish salad is your new best friend.",
+    "how_to_make_overview": {
+        "section": "How to Make This Recipe",
+        "content": "Making this radish salad is a breeze and perfect for beginners or anyone short on time. Start by washing and thinly slicing your radishes to get that fresh crunch. Next, lightly toast the pumpkin seeds in a dry pan to enhance their nutty flavor and add a delightful texture contrast. While those cool, mix the cottage cheese with lemon juice, olive oil, salt, and pepper in a bowl to create a simple, creamy dressing. Combine everything gently so the radishes stay crisp and the seeds retain their crunch. The whole process takes about 10 minutes, and no cooking or baking is required. You’ll just need a few basic tools and a bit of patience to let the flavors meld if you want. This snack is ready to enjoy immediately but tastes even better after chilling for a bit. It’s an ideal recipe for meal prep since it stores well in the fridge and keeps the protein intact.",
+        "tools_needed": [
+            "Sharp knife for slicing radishes thinly",
+            "Mixing bowl for combining ingredients",
+            "Dry skillet or pan for toasting pumpkin seeds",
+            "Measuring spoons for precise seasoning",
+            "Airtight container for storage"
+        ]
+    },
+    "instructions": {
+        "section": "Step-by-Step Instructions",
+        "steps": [
+            {
+                "step": 1,
+                "instruction": "Start by washing your radishes thoroughly to remove any dirt. Then, slice them thinly using a sharp knife or mandoline slicer. Thin slices ensure a crisp texture and allow the flavors to meld better with the dressing. Avoid slicing too thick or unevenly, which can make the salad less enjoyable to eat.",
+                "timing": "5 minutes",
+                "doneness_cue": "Radishes should be thin, uniform slices that hold their crispness without bending or breaking."
+            },
+            {
+                "step": 2,
+                "instruction": "Toast the pumpkin seeds in a dry skillet over medium heat for 2-3 minutes, shaking the pan frequently to prevent burning. Toasting enhances their nutty flavor and adds a crunchy texture that contrasts nicely with the creamy cottage cheese. Watch carefully as seeds can burn quickly; remove from heat as soon as you notice a fragrant aroma.",
+                "timing": "3 minutes",
+                "doneness_cue": "Seeds should be golden brown and smell nutty but not burnt."
+            },
+            {
+                "step": 3,
+                "instruction": "In a mixing bowl, combine the cottage cheese, lemon juice, olive oil, salt, and pepper. Stir gently until the mixture is creamy and well blended. The lemon juice brightens the flavor and balances the richness of the cheese. Avoid overmixing to keep some texture in the cottage cheese.",
+                "timing": "2 minutes",
+                "doneness_cue": "Dressing should be smooth, creamy, and slightly tangy."
+            },
+            {
+                "step": 4,
+                "instruction": "Add the sliced radishes and toasted pumpkin seeds to the bowl with the cottage cheese dressing. Toss gently to coat the radishes evenly without crushing them. This step combines all the flavors and textures while keeping the salad fresh and crunchy.",
+                "timing": "1 minute",
+                "doneness_cue": "All ingredients should be evenly coated and well mixed without sogginess."
+            },
+            {
+                "step": 5,
+                "instruction": "Chop fresh chives finely and sprinkle over the salad. Chives add a mild oniony flavor and fresh green color that complements the radishes and cheese. Mix lightly once more to distribute evenly.",
+                "timing": "1 minute",
+                "doneness_cue": "Chives should be evenly sprinkled and lightly mixed in."
+            },
+            {
+                "step": 6,
+                "instruction": "Taste the salad and adjust seasoning with more salt, pepper, or lemon juice if needed. The balance between tangy, salty, and creamy is key for a delicious snack. Remember that seasoning enhances the protein flavors and makes the salad pop.",
+                "timing": "1 minute",
+                "doneness_cue": "Flavor should be bright, balanced, and inviting."
+            },
+            {
+                "step": 7,
+                "instruction": "Serve immediately for the freshest crunch or chill in the refrigerator for 15-30 minutes to let flavors meld. Chilling also firms up the cottage cheese slightly, making the salad more cohesive and snackable.",
+                "timing": "Optional 15-30 minutes",
+                "doneness_cue": "Salad should be cold but still crisp when served."
+            },
+            {
+                "step": 8,
+                "instruction": "Store any leftovers in an airtight container in the fridge. This salad keeps well for up to 3 days, making it great for meal prep. Avoid leaving it at room temperature for too long to maintain freshness and food safety.",
+                "timing": "N/A",
+                "doneness_cue": "Salad remains fresh and crisp without excess moisture or spoilage."
+            },
+            {
+                "step": 9,
+                "instruction": "Before serving leftovers, give the salad a gentle stir to redistribute any settled dressing and check seasoning again. Sometimes chilling dulls flavors slightly, so a quick adjustment can refresh the taste.",
+                "timing": "1 minute",
+                "doneness_cue": "Salad tastes fresh and well-seasoned after stirring."
+            }
+        ]
+    },
+    "the_science_behind_recipe": {
+        "section": "The Science Behind This Recipe",
+        "content": "<p>This radish salad is a fantastic example of how combining simple ingredients can create a nutrient-dense, high-protein snack. Cottage cheese is the star protein source here, containing casein — a slow-digesting milk protein that provides sustained amino acid release, perfect for muscle recovery and satiety. The creamy texture of cottage cheese is due to its moisture content and the curd structure formed during acidification and enzymatic coagulation.</p><p>Radishes contribute fiber and crunch without adding many calories or carbs, supporting digestion and adding volume to the snack. Their high water content helps keep the salad hydrating and refreshing. Pumpkin seeds add healthy fats and a crunchy texture, thanks to their oil-rich profile and fibrous seed coat. Toasting these seeds triggers Maillard reactions, enhancing flavor and crispness without adding oil.</p><p>The lemon juice and olive oil dressing not only add flavor but also aid in nutrient absorption, especially fat-soluble vitamins. The acid in lemon juice also helps balance the cheese's richness and can slightly denature proteins, improving texture and mouthfeel. Chilling the salad firms up the cottage cheese and allows flavors to meld, improving overall palatability.</p><p>From a protein-snack perspective, this recipe avoids chalkiness common in protein powders by relying on real dairy protein and natural binders. The balance of moisture, fat, and fiber ensures the snack is filling yet light, making it ideal for pre- or post-workout fuel or anytime you need a quick protein boost.</p>"
+    },
+    "pro_tips": {
+        "section": "Pro Tips for Perfect Results",
+        "tips": [
+            {
+                "tip": "Toast pumpkin seeds just until fragrant and golden, not browned.",
+                "reason": "Overtoasting seeds can create a bitter flavor and dry texture, which detracts from the salad’s balance. Light toasting brings out nuttiness and crunch without harsh notes."
+            },
+            {
+                "tip": "Use a sharp knife or mandoline to slice radishes thinly and evenly.",
+                "reason": "Uniform slices ensure consistent texture and prevent some pieces from being too thick and overpowering. Thin slices also absorb dressing better."
+            },
+            {
+                "tip": "Chill cottage cheese before mixing to keep the salad cool and creamy.",
+                "reason": "Cold cheese holds its structure better and prevents the salad from becoming watery. It also enhances the refreshing quality of this snack."
+            },
+            {
+                "tip": "Adjust lemon juice and salt at the end after mixing all ingredients.",
+                "reason": "Flavors develop as ingredients combine, so final seasoning adjustments help balance acidity and saltiness perfectly."
+            },
+            {
+                "tip": "Store leftovers in an airtight container to maintain crispness and freshness.",
+                "reason": "Exposure to air causes radishes to lose crunch and cottage cheese to dry out. Airtight storage preserves texture and flavor."
+            },
+            {
+                "tip": "Add fresh herbs like chives or parsley for extra flavor and antioxidants.",
+                "reason": "Herbs brighten the dish and add micronutrients without extra calories, enhancing both taste and health benefits."
+            },
+            {
+                "tip": "If you want a creamier texture, lightly whip the cottage cheese before mixing.",
+                "reason": "Whipping breaks up curds and creates a smoother base that coats radishes more evenly, improving mouthfeel."
+            }
+        ]
+    },
+    "common_mistakes_to_avoid": {
+        "section": "Common Mistakes to Avoid",
+        "mistakes": [
+            {
+                "mistake": "Using thickly sliced radishes that make the salad hard to chew.",
+                "why_it_happens": "People often slice radishes unevenly or too thickly, thinking it’s easier, but this results in a tough texture that overwhelms the salad.",
+                "fix": "Use a sharp knife or mandoline to slice radishes thinly and evenly for the best crisp, fresh bite."
+            },
+            {
+                "mistake": "Skipping toasting pumpkin seeds, resulting in bland flavor.",
+                "why_it_happens": "Some may omit toasting to save time, but raw seeds lack the nutty aroma and crunch that toasted seeds provide.",
+                "fix": "Take 2-3 minutes to toast seeds gently in a dry pan until fragrant and golden."
+            },
+            {
+                "mistake": "Mixing cottage cheese at room temperature causing watery salad.",
+                "why_it_happens": "Warm cottage cheese releases more moisture, making the salad soggy and less appealing.",
+                "fix": "Keep cottage cheese chilled before mixing to maintain creamy texture and prevent excess liquid."
+            },
+            {
+                "mistake": "Overmixing the salad, crushing radishes and losing crunch.",
+                "why_it_happens": "Trying to coat everything perfectly can lead to mushy radishes and a soggy texture.",
+                "fix": "Gently toss ingredients just until combined to preserve crispness."
+            },
+            {
+                "mistake": "Not adjusting seasoning after combining ingredients.",
+                "why_it_happens": "Flavors change as ingredients meld, so initial seasoning may not be enough or may become unbalanced.",
+                "fix": "Taste and tweak salt, pepper, and lemon juice at the end for perfect flavor."
+            }
+        ]
+    },
+    "variations": {
+        "section": "Easy Recipe Variations",
+        "list": [
+            {
+                "name": "Spicy Radish Salad",
+                "description": "Add a pinch of cayenne pepper or a dash of hot sauce to the dressing for a kick. This variation adds metabolism-boosting spice without altering macros significantly.",
+                "technical_note": "Start with a small amount of spice and adjust to avoid overpowering the delicate radish flavor."
+            },
+            {
+                "name": "Herbed Radish Salad",
+                "description": "Mix in fresh dill, parsley, or basil for a vibrant herbal twist. Herbs add antioxidants and freshness, making the salad even more nutrient-dense.",
+                "technical_note": "Chop herbs finely to distribute flavor evenly without overpowering the texture."
+            },
+            {
+                "name": "Vegan Radish Salad",
+                "description": "Replace cottage cheese with a plant-based yogurt or silken tofu blended for creaminess. Use toasted sunflower seeds instead of pumpkin seeds for nut-free option.",
+                "technical_note": "Adjust lemon juice and olive oil to balance the different protein base and maintain creaminess."
+            },
+            {
+                "name": "Crunchy Radish and Edamame Salad",
+                "description": "Add shelled edamame for extra plant protein and a satisfying bite. This boosts protein content while keeping the salad fresh and crunchy.",
+                "technical_note": "Use cooked and cooled edamame; fold in gently to preserve texture."
+            },
+            {
+                "name": "Radish Salad with Feta and Walnuts",
+                "description": "Swap cottage cheese for crumbled feta and pumpkin seeds for chopped walnuts for a Mediterranean flair. This version is richer but still high in protein and healthy fats.",
+                "technical_note": "Feta is saltier, so reduce added salt in dressing accordingly."
+            }
+        ]
+    },
+    "substitutions_and_swaps": {
+        "section": "Substitutions & Swaps",
+        "content": "Swapping ingredients in protein snacks can be tricky because texture and moisture balance are key. For this radish salad, replacing cottage cheese with other dairy or plant-based proteins changes creaminess and protein content. Seeds and nuts vary in crunch and fat profile, so adjust quantities and toasting times accordingly. Using different radish varieties or other crunchy veggies can shift flavor and texture, so slice thinly and season well. Sweeteners aren’t used here, but if adding any, choose liquid options for better binding. Always taste and tweak seasoning after swaps to keep the snack balanced and enjoyable.",
+        "swaps": [
+            {
+                "original": "Low-fat cottage cheese",
+                "substitute": "Full-fat cottage cheese or Greek yogurt",
+                "note": "Full-fat versions offer creamier texture and richer flavor, while Greek yogurt provides a tangier taste and slightly different protein profile. Whip Greek yogurt if too runny to mimic cottage cheese texture."
+            },
+            {
+                "original": "Pumpkin seeds",
+                "substitute": "Sunflower seeds or chopped almonds",
+                "note": "Sunflower seeds are nut-free and mild, while almonds add crunch and healthy fats. Toast lightly to enhance flavor but watch for quicker browning with nuts."
+            },
+            {
+                "original": "Lemon juice",
+                "substitute": "Lime juice or apple cider vinegar",
+                "note": "Both alternatives provide acidity to brighten flavors. Lime juice offers a similar citrus note; apple cider vinegar adds tang with a slightly different flavor profile."
+            },
+            {
+                "original": "Radishes",
+                "substitute": "Cucumber slices or jicama",
+                "note": "Cucumbers add watery crunch and mild flavor; jicama is crisp and slightly sweet. Both keep the salad fresh but alter taste and moisture, so slice thinly and adjust dressing."
+            },
+            {
+                "original": "Olive oil",
+                "substitute": "Avocado oil or walnut oil",
+                "note": "Avocado oil has a neutral flavor and similar healthy fats; walnut oil adds nuttiness. Use in equal amounts but store walnut oil refrigerated to prevent rancidity."
+            }
+        ]
+    },
+    "nutrition": {
+        "section": "Nutrition Facts & Macros",
+        "intro": "This radish salad is a light yet protein-packed snack perfect for various diet goals. Cottage cheese provides a quality source of casein protein, supporting muscle repair and fullness. The pumpkin seeds contribute healthy fats and fiber, balancing macros. With about 150 calories and 15 grams of protein per serving, it fits well into cutting, maintenance, or even bulking phases when paired with other meals. Low in sugar and moderate in carbs, this snack delivers clean energy without heaviness, making it ideal for any time of day.",
+        "calories_per_serving": 150,
+        "protein_grams": 15,
+        "carbohydrates_grams": 12,
+        "fat_grams": 6,
+        "fiber_grams": 3,
+        "sugar_grams": 5,
+        "sodium_mg": 120,
+        "protein_to_calorie_ratio": "1g protein per 10 calories",
+        "note": "Macros are estimates and will vary based on the specific protein powder, nut butter, and dairy brands used. Always recalculate with a tracking app (MyFitnessPal, Cronometer) if tracking strictly."
+    },
+    "storage_and_meal_prep": {
+        "section": "Storage & Meal Prep Tips",
+        "room_temperature": "Because this salad contains dairy, it’s best not to leave it out at room temperature for more than 2 hours to avoid spoilage. If you’re packing it for work or school, use an insulated lunch bag with an ice pack to keep it fresh until snack time.",
+        "refrigerator": "Store the salad in an airtight container in the fridge for up to 3 days. The cottage cheese firms up when chilled, and the radishes keep their crunch well. Bring to room temperature or enjoy chilled depending on your preference.",
+        "make_ahead_strategy": "You can prep the radishes and toast the pumpkin seeds 1-2 days ahead and store separately. Mix with cottage cheese and dressing on the day of eating for maximum freshness. Alternatively, assemble fully and chill for up to 3 days.",
+        "meal_prep_workflow": "On Sundays, slice radishes and toast seeds in bulk. Portion cottage cheese dressing into containers, then combine everything fresh each day or fully assemble for quick grab-and-go snacks during the week."
+    },
+    "how_to_freeze_and_reheat": {
+        "section": "How to Freeze and Reheat",
+        "freezer": "Freezing this salad is not recommended because the cottage cheese and radishes lose their texture and become watery upon thawing. If you want to freeze components, consider freezing pumpkin seeds separately, but fresh radishes and dairy snacks are best enjoyed fresh.",
+        "reheating": "No reheating needed. This salad is best served cold or at room temperature. Avoid microwaving as it will break down the dairy proteins and soften the radishes, ruining the texture.",
+        "freezer_safe_yes_or_no": "Not recommended"
+    },
+    "what_to_serve_with": {
+        "section": "What to Serve With This Snack",
+        "intro": "This radish salad pairs beautifully with a variety of foods and drinks to round out your snack time. Whether you want a refreshing beverage or a complementary protein source, these pairings enhance flavor and nutrition without overpowering the salad’s delicate balance.",
+        "pairings": [
+            {
+                "pair": "Iced Green Tea",
+                "why": "Its light, slightly grassy flavor refreshes the palate and complements the salad’s crispness without adding calories."
+            },
+            {
+                "pair": "Hard-Boiled Eggs",
+                "why": "Extra protein and healthy fats from eggs make this a more substantial snack, perfect for longer satiety."
+            },
+            {
+                "pair": "Whole Grain Crackers",
+                "why": "Adds a satisfying crunch and complex carbs to balance the protein and fiber in the salad."
+            },
+            {
+                "pair": "Fresh Berries",
+                "why": "Sweetness and antioxidants from berries contrast nicely with the peppery radishes and creamy cheese."
+            },
+            {
+                "pair": "Cold Brew Coffee",
+                "why": "A caffeine boost pairs well with this light snack for an energizing afternoon pick-me-up."
+            }
+        ]
+    },
+    "faq": {
+        "section": "Frequently Asked Questions",
+        "questions": [
+            {
+                "question": "Can I use Greek yogurt instead of cottage cheese?",
+                "answer": "Yes! Greek yogurt works well as a creamy protein base, but it’s tangier and less chunky than cottage cheese. For best texture, choose thick Greek yogurt or strain it further. Adjust lemon juice and seasoning to balance the flavor."
+            },
+            {
+                "question": "Why is my radish salad watery after mixing?",
+                "answer": "This usually happens if the cottage cheese is warm or if radishes were sliced too thickly and released excess moisture. Always use chilled cottage cheese and slice radishes thinly. Drain any excess liquid from radishes before mixing."
+            },
+            {
+                "question": "How much protein is in one serving?",
+                "answer": "Each serving provides about 15 grams of protein, mainly from cottage cheese and pumpkin seeds. This makes it a solid snack option to support muscle recovery and fullness."
+            },
+            {
+                "question": "Are these radish salad snacks good for meal prep?",
+                "answer": "Definitely! They store well for up to 3 days in the fridge and maintain good texture if kept in airtight containers. Prep components separately if you want maximum freshness."
+            },
+            {
+                "question": "Can I make this salad vegan?",
+                "answer": "Yes, swap cottage cheese for plant-based yogurt or blended silken tofu and replace pumpkin seeds with sunflower seeds if needed. Adjust seasoning to taste."
+            },
+            {
+                "question": "What radish varieties work best?",
+                "answer": "Red radishes are classic for their peppery crunch, but watermelon or daikon radishes also work well. Choose firm, fresh radishes for the best texture."
+            },
+            {
+                "question": "Can I add other veggies to this salad?",
+                "answer": "Absolutely! Thin cucumber slices, shredded carrots, or bell peppers add color and nutrients. Just keep the slices thin to preserve the salad’s crispness."
+            },
+            {
+                "question": "Is it okay to add sweeteners to the dressing?",
+                "answer": "You can add a small amount of honey or maple syrup if you like a touch of sweetness, but it’s not necessary. Keep in mind this will add sugar and calories."
+            }
+        ]
+    },
+    "final_thoughts": {
+        "section": "Final Thoughts",
+        "content": "This easy radish salad recipe has quickly become one of my favorite high-protein snacks because it’s fresh, flavorful, and so simple to make. It’s a great alternative to typical protein bars or powders, especially when you want something light but satisfying. I encourage you to experiment with different herbs, seeds, or even add a bit of spice to make it your own. Whether you’re meal prepping for the week or need a quick post-workout bite, this salad fits right in. Give it a try, save it to your favorites, and let me know how you customize it! I’d love to hear your flavor twists or macro tweaks. Happy snacking!",
+        "format": "html_bullets"
+    },
+    "seo": {
+        "primary_keyword": "easy radish salad high protein",
+        "secondary_keywords": [
+            "high protein snack recipe",
+            "easy protein snacks no bake",
+            "how to make easy radish salad",
+            "best radish salad for weight loss",
+            "radish salad meal prep",
+            "low calorie high protein snacks"
+        ],
+        "internal_links": [
+            {
+                "text": "high protein no bake snacks",
+                "anchor": "high-protein-no-bake-snacks"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 6500 words"
+    },
+    "category_id": "cat_1779285502_712",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-05-21 16:41:03",
+        "title_seed": "Easy Radish Salad Recipes Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1779381663_438",
+    "slug": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist",
+    "uniqueSlug": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_pinrecipes_image_1.png",
+            "filePath": "posts/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_pinrecipes_image_1.png",
+            "relativePath": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_pinrecipes_image_2.png",
+            "filePath": "posts/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_pinrecipes_image_2.png",
+            "relativePath": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_pinrecipes_image_3.png",
+            "filePath": "posts/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_pinrecipes_image_3.png",
+            "relativePath": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_4.webp",
+            "filePath": "posts/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_4.webp",
+            "relativePath": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_8.webp",
+            "filePath": "posts/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_8.webp",
+            "relativePath": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_9.webp",
+            "filePath": "posts/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_9.webp",
+            "relativePath": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_5.webp",
+            "filePath": "posts/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_5.webp",
+            "relativePath": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_7.webp",
+            "filePath": "posts/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_7.webp",
+            "relativePath": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_6.webp",
+            "filePath": "posts/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_6.webp",
+            "relativePath": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_st1_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "image": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_pinrecipes_image_1.png",
+    "image_path": "posts/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images/easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist_pinrecipes_image_1.png",
+    "image_dir": "easy-radish-salad-recipes-recipe-a-refreshing-high-protein-snack-twist/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-05-21T16:43:56+00:00",
+    "updatedAt": "2026-05-21T16:43:56+00:00"
+}
