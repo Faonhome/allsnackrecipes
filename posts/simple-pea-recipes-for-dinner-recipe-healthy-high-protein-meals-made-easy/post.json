@@ -1,0 +1,343 @@
+{
+    "title": "Simple Pea Recipes For Dinner Recipe: Healthy High-Protein Meals Made Easy",
+    "promptIMG": "Food photography: Simple Pea Recipes For Dinner Recipe, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, clean eating aesthetic --ar 4:3 --quality 2",
+    "description": "These simple pea recipes are packed with protein and super easy to whip up on busy weeknights. Peas add a fresh, natural sweetness and fiber that keeps you full longer. Perfect for a quick dinner or meal prep to fuel your evening.",
+    "hashtags": "#SimplePeaRecipes #HighProteinDinner #HealthyMeals #EasyDinnerIdeas",
+    "board_name": "High Protein Dinner Ideas",
+    "pin_variations": [
+        {
+            "title": "Quick & Easy Pea-Powered Dinners You’ll Love Tonight",
+            "description": "Looking for a fast, protein-packed meal? These pea recipes are your new go-to! 🌱💪 Ready in under 30 minutes and perfect for busy nights. Save this for your next dinner plan! #HighProteinDinner #EasyMeals #HealthyEating",
+            "hashtags": "#HighProteinDinner #EasyMeals #HealthyEating #PeaRecipes #MealPrep"
+        },
+        {
+            "title": "Fuel Your Evening with These Simple High-Protein Pea Dinners",
+            "description": "Need a healthy dinner that’s both filling and delicious? These pea-based recipes deliver great protein and fiber to keep you energized. Try it tonight and feel the difference! 🌿🍽️ Pin now for easy meal prep ideas! #ProteinDinner #HealthyRecipes",
+            "hashtags": "#ProteinDinner #HealthyRecipes #PeaMeals #CleanEating #MealPrep"
+        },
+        {
+            "title": "Easy Pea Recipes for High-Protein Dinners on Busy Nights",
+            "description": "Busy schedule? No worries! These simple pea dinners are packed with protein and come together quickly. Perfect for meal prepping or a fast family dinner. Save this recipe for your next kitchen win! 🥘✨ #EasyDinner #ProteinMeals",
+            "hashtags": "#EasyDinner #ProteinMeals #PeaRecipes #HealthyEating #MealPrep"
+        },
+        {
+            "title": "Simple Pea Recipes That Boost Your Protein Intake Effortlessly",
+            "description": "Want to sneak in more protein without fuss? These pea recipes are easy, tasty, and great for your post-workout or evening meal. Give them a try and pin for later! 🌱💚 #HighProteinSnacks #HealthyDinnerIdeas",
+            "hashtags": "#HighProteinSnacks #HealthyDinnerIdeas #PeaRecipes #CleanEating #ProteinBoost"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 4,
+    "ingredients": [
+        "2 cups fresh or frozen green peas",
+        "1 tablespoon olive oil",
+        "1 small onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1/2 cup cooked quinoa (protein source)",
+        "1/4 cup grated Parmesan cheese",
+        "Salt and pepper to taste",
+        "1 teaspoon lemon zest",
+        "Fresh mint leaves for garnish"
+    ],
+    "yield": "Approximately 4 dinner servings",
+    "introduction": "I’ve always loved simple meals that come together quickly after a long day, especially those that pack a protein punch without complicated ingredients. Peas are one of my favorite go-to ingredients because they’re not only naturally sweet and vibrant but also surprisingly high in protein and fiber. When I started focusing on meals that kept me energized and full, I realized that incorporating peas into dinner was a game changer. This recipe is all about balance — combining peas with quinoa and a bit of Parmesan for creaminess and extra protein. The trick to getting the perfect texture is to lightly sauté the peas and onions just enough to soften them but still keep that fresh pop of flavor. I’ve had batches that were either too mushy or undercooked, so timing here really matters. Plus, a little lemon zest brightens everything up and keeps the meal feeling light but satisfying. Whether you’re meal prepping for the week or need a quick dinner after the gym, these simple pea recipes have become a staple in my kitchen. They’re easy, wholesome, and genuinely delicious — and I’m sure you’ll love them as much as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by heating the olive oil in a large skillet over medium heat. Add the finely chopped onion and sauté for about 3-4 minutes until it becomes translucent and fragrant. This step is crucial because it builds the base flavor and softens the onion without browning it, which keeps the final dish fresh and light. Watch carefully to avoid burning the onion, as that would add bitterness to the dish. Stir occasionally to ensure even cooking.",
+            "timing": "4 minutes",
+            "doneness_cue": "Onions are soft, translucent, and fragrant without any browning."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic to the skillet and cook for another 30 seconds to 1 minute, stirring constantly. Garlic cooks quickly and can burn easily, so keep the heat moderate. This step releases the garlic’s aromatic oils, enhancing the overall flavor without overpowering the peas. Once fragrant, immediately add the peas to the pan to prevent the garlic from burning.",
+            "timing": "1 minute",
+            "doneness_cue": "Garlic is fragrant but not browned or bitter."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the fresh or frozen peas to the skillet. If frozen, no need to thaw; just add them straight in. Stir well to coat the peas with the onion and garlic mixture. Cook for 5-7 minutes, stirring occasionally, until the peas are tender but still have a slight bite. Overcooking will make them mushy and dull the bright green color. The goal is to keep them vibrant and fresh-tasting while warming them through.",
+            "timing": "6 minutes",
+            "doneness_cue": "Peas are tender, bright green, and slightly firm to the bite."
+        },
+        {
+            "step": 4,
+            "instruction": "While the peas cook, prepare the quinoa if you haven’t already. Rinse 1/4 cup of quinoa under cold water, then cook it in 1/2 cup water according to package instructions (usually about 15 minutes). Quinoa adds a nutty flavor and boosts the protein content, making this dish more filling. Fluff the quinoa with a fork once cooked and set aside.",
+            "timing": "15 minutes (can be done simultaneously)",
+            "doneness_cue": "Quinoa is fluffy, tender, and all water absorbed."
+        },
+        {
+            "step": 5,
+            "instruction": "Once the peas are cooked, remove the skillet from heat and stir in the cooked quinoa. Mixing these while warm helps the flavors meld together nicely. The quinoa adds texture and protein, balancing the sweetness of the peas. Be gentle so you don’t mash the peas but combine everything evenly.",
+            "timing": "2 minutes",
+            "doneness_cue": "Mixture is evenly combined without mushy peas."
+        },
+        {
+            "step": 6,
+            "instruction": "Add the grated Parmesan cheese to the pan and stir until it melts slightly into the warm pea and quinoa mixture. This adds a creamy, savory depth without needing extra cream or butter. Parmesan also contributes a bit of protein and calcium. If you want a dairy-free version, you can skip this or substitute nutritional yeast.",
+            "timing": "2 minutes",
+            "doneness_cue": "Cheese is melted and evenly distributed with no clumps."
+        },
+        {
+            "step": 7,
+            "instruction": "Season the mixture with salt, pepper, and lemon zest. The lemon zest brightens the dish and balances the richness from the cheese. Taste as you go — peas can be naturally sweet, so adjust seasoning accordingly. Adding salt gradually helps avoid over-salting.",
+            "timing": "1 minute",
+            "doneness_cue": "Seasoning is balanced; flavors are fresh and bright."
+        },
+        {
+            "step": 8,
+            "instruction": "Transfer the pea and quinoa mixture to serving bowls or meal prep containers. Garnish with fresh mint leaves for a refreshing herbal note that complements the peas beautifully. Mint also adds a pop of color and a pleasant aroma.",
+            "timing": "1 minute",
+            "doneness_cue": "Dish is garnished and visually appealing."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately while warm or let cool before refrigerating for meal prep. This dish holds well in the fridge for up to 4 days and can be enjoyed cold or reheated gently. The texture stays pleasant, and the protein keeps you full for hours.",
+            "timing": "No cook time",
+            "doneness_cue": "Ready to eat or store with fresh appearance and texture."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Simple Pea Recipes Actually Keep You Full",
+        "content": "<p>Peas are a fantastic source of plant-based protein and fiber, which work together to promote satiety and steady energy release. Protein triggers hormones that signal fullness to your brain, while fiber slows digestion, preventing blood sugar spikes and crashes. This combination makes peas an ideal ingredient for a satisfying dinner.</p><p>In this recipe, pairing peas with quinoa—a complete protein containing all nine essential amino acids—enhances the protein profile significantly. Quinoa’s fluffy texture also balances the slight sweetness and bite of the peas, creating a harmonious mouthfeel. Adding Parmesan cheese brings in additional protein and fat, which further slows digestion and enriches flavor.</p><p>The technique of lightly sautéing onions and garlic first builds a savory foundation without overpowering the delicate pea flavor. Cooking peas just until tender preserves their bright color and natural sweetness, which keeps the dish fresh and appetizing. Incorporating lemon zest at the end brightens the whole dish, making it taste lighter and more vibrant.</p><p>Finally, the use of fresh herbs like mint adds a refreshing contrast and aroma that enhances the eating experience. This recipe’s balance of protein, fiber, healthy fats, and fresh flavors is what makes it both nutritious and enjoyable, helping you stay full and energized well into the evening.</p>",
+        "ingredient_notes": {
+            "green peas": "Look for fresh or frozen green peas that are bright green and firm. Frozen peas are often picked and flash-frozen at peak ripeness, preserving nutrients and sweetness. Peas provide about 8 grams of protein per cup, plus fiber and vitamins. Avoid canned peas as they tend to be mushy and less flavorful.",
+            "quinoa": "Choose organic, tri-color, or white quinoa with a slightly nutty flavor. Quinoa is a complete protein, offering about 8 grams per cooked cup, and adds texture and bulk. Rinse quinoa before cooking to remove its natural saponin coating, which can taste bitter. Properly cooked quinoa is fluffy, not mushy.",
+            "Parmesan cheese": "Use freshly grated Parmesan for best flavor and meltability. Parmesan adds umami and protein, about 10 grams per ounce. If dairy-free, nutritional yeast is a good substitute, offering cheesy flavor and some B vitamins. Avoid pre-grated cheese with additives that affect melting.",
+            "olive oil": "Extra virgin olive oil is preferred for sautéing due to its flavor and healthy fats. It helps soften aromatics and carries flavor without overpowering. Use moderate heat to preserve olive oil’s nutrients and prevent burning, which creates off-flavors.",
+            "lemon zest": "Fresh lemon zest brightens and balances rich or sweet flavors. Use a microplane to finely grate just the colorful outer layer, avoiding the bitter white pith. Lemon zest adds vitamin C and aromatic oils that enhance freshness without adding acidity."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcook the peas; keep them bright and slightly firm.",
+            "reason": "Overcooked peas lose their vibrant color and develop a mushy texture that can make the dish unappealing. Cooking just until tender preserves their natural sweetness and nutritional value, ensuring a fresh and satisfying bite."
+        },
+        {
+            "tip": "Rinse quinoa thoroughly before cooking to remove bitterness.",
+            "reason": "Quinoa’s natural coating contains saponins, which taste bitter if not rinsed off. Proper rinsing improves flavor and prevents an unpleasant aftertaste, making your high-protein meal more enjoyable."
+        },
+        {
+            "tip": "Add lemon zest at the end to keep its bright flavor intact.",
+            "reason": "Lemon zest contains volatile oils that evaporate with heat. Adding it last preserves the fresh aroma and brightness, balancing the richness of cheese and sweetness of peas."
+        },
+        {
+            "tip": "Use freshly grated Parmesan for better melt and flavor.",
+            "reason": "Pre-grated cheeses often contain anti-caking agents that prevent smooth melting. Freshly grated Parmesan melts better and adds a richer, creamier texture and umami depth to your dish."
+        },
+        {
+            "tip": "Garnish with fresh herbs like mint just before serving.",
+            "reason": "Herbs lose their vibrant color and aroma when cooked. Adding them last enhances visual appeal and adds a fresh, aromatic note that complements the peas perfectly."
+        },
+        {
+            "tip": "Cook quinoa and peas simultaneously to save time.",
+            "reason": "While peas sauté, quinoa cooks in parallel, making this recipe efficient for busy weeknights. This coordination keeps prep under 30 minutes without sacrificing flavor or texture."
+        },
+        {
+            "tip": "Store leftovers in airtight containers to maintain freshness.",
+            "reason": "Protein-rich meals can dry out or absorb fridge odors quickly. Airtight storage preserves moisture and flavor, keeping your meal prep tasty and ready to eat for days."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking peas until mushy and dull in color.",
+            "why_it_happens": "People often leave peas on heat too long, thinking it improves tenderness, but it actually breaks down their structure and flavor.",
+            "fix": "Cook peas just until tender and bright green, about 5-7 minutes. Stir occasionally and remove from heat promptly to preserve texture and color."
+        },
+        {
+            "mistake": "Not rinsing quinoa, resulting in a bitter taste.",
+            "why_it_happens": "Many skip rinsing to save time or forget quinoa’s natural coating can be bitter.",
+            "fix": "Always rinse quinoa under cold water before cooking until water runs clear to remove saponins and improve flavor."
+        },
+        {
+            "mistake": "Adding lemon zest too early, losing brightness.",
+            "why_it_happens": "Zest loses aroma and flavor when exposed to heat for too long.",
+            "fix": "Add lemon zest at the very end, off heat, to preserve its fresh citrus oils."
+        },
+        {
+            "mistake": "Using pre-grated Parmesan that doesn’t melt well.",
+            "why_it_happens": "Pre-grated cheese contains additives that inhibit smooth melting.",
+            "fix": "Grate Parmesan fresh just before use for better texture and flavor integration."
+        },
+        {
+            "mistake": "Skipping fresh herbs garnish, missing flavor contrast.",
+            "why_it_happens": "Some overlook garnish as non-essential, but it adds freshness and visual appeal.",
+            "fix": "Add fresh mint or herbs just before serving to elevate taste and presentation."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegan Pea Quinoa Dinner",
+            "description": "Swap Parmesan for nutritional yeast and use olive oil or vegan butter for richness. Add toasted pine nuts for crunch and extra protein. The texture will be slightly different—less creamy but still satisfying with a nutty flavor. Macros shift slightly with more fat and less saturated fat.",
+            "technical_note": "Ensure nutritional yeast is stirred in off heat to preserve its flavor; avoid overcooking peas to maintain texture."
+        },
+        {
+            "name": "Spicy Pea and Chickpea Stir-Fry",
+            "description": "Add cooked chickpeas to boost protein and fiber further. Season with chili flakes and smoked paprika for a kick. This variation has a heartier texture and more complex flavor. Great for those who like a spicy twist and want a filling dinner.",
+            "technical_note": "Cook spices with onions to bloom flavors; chickpeas should be warmed through but not mushy."
+        },
+        {
+            "name": "Pea and Cottage Cheese Bowl",
+            "description": "Mix peas with cottage cheese instead of quinoa and Parmesan for a creamy, high-protein dinner. This version is lower carb and has a softer texture. It’s great for a quick, no-cook meal when you’re in a rush.",
+            "technical_note": "Use full-fat cottage cheese for creaminess; stir gently to avoid breaking peas."
+        },
+        {
+            "name": "Herbed Pea and Lentil Salad",
+            "description": "Combine peas with cooked green lentils and fresh herbs like parsley and dill. Dress with lemon juice and olive oil for a light but protein-rich salad. This is perfect for meal prep or a refreshing summer dinner.",
+            "technical_note": "Cook lentils until just tender to avoid mushiness; chill salad before serving."
+        },
+        {
+            "name": "Pea and Egg Stir-Fry",
+            "description": "Add scrambled eggs to the pea and quinoa base for a complete protein boost and a more filling meal. The eggs add a soft texture and richness that complements the sweetness of peas well.",
+            "technical_note": "Cook eggs separately or scramble gently with peas to avoid overcooking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "220 kcal",
+        "protein_grams": "15g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "6g",
+        "fiber_grams": "7g",
+        "sodium_mg": "240mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and brands used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This pea-based dinner can safely stay at room temperature for up to 2 hours if covered. Beyond that, protein-rich ingredients like quinoa and Parmesan can spoil or lose texture. Avoid leaving out longer to maintain freshness and food safety.",
+        "refrigerator": "Store leftovers in airtight containers in the fridge for up to 4 days. The dish tastes great cold or gently reheated. The protein firms up slightly when chilled but remains tender. Reheat on low heat to avoid drying out.",
+        "freezer": "Freeze in airtight containers for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge and reheat gently. Texture may soften slightly after freezing but remains tasty and nutritious.",
+        "reheating": "Reheat in a skillet over low-medium heat or microwave in short bursts, stirring to distribute heat evenly. Add a splash of water or olive oil if the mixture seems dry. Avoid overheating to prevent peas from becoming mushy.",
+        "make_ahead_strategy": "Cook quinoa and peas ahead and store separately if possible. Combine and add cheese and lemon zest just before serving to keep flavors fresh. Garnish with herbs last minute. Great for prepping several dinners on a Sunday."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen peas instead of fresh?",
+            "answer": "Absolutely! Frozen peas are actually picked and frozen at peak freshness, so they retain most nutrients and flavor. Just add them directly to the pan without thawing. Cooking time might be a minute or two longer, but they work perfectly in this recipe."
+        },
+        {
+            "question": "What if I don’t have quinoa? Can I substitute something else?",
+            "answer": "You can swap quinoa for other whole grains like brown rice or bulgur, but keep in mind the protein content will be slightly lower. Lentils or chickpeas are good protein-rich alternatives too. Adjust cooking times accordingly."
+        },
+        {
+            "question": "How do I avoid the peas becoming mushy?",
+            "answer": "The key is to cook peas just until tender and still bright green—about 5-7 minutes. Stir occasionally and remove from heat promptly. Overcooking breaks down their structure and leads to a mushy texture and dull color."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Yes! Replace Parmesan with nutritional yeast or a vegan cheese alternative. Use olive oil or vegan butter for sautéing. The flavor will be slightly different but still delicious and protein-rich."
+        },
+        {
+            "question": "How long can I store leftovers?",
+            "answer": "Store leftovers in airtight containers in the fridge for up to 4 days. For longer storage, freeze for up to 2 months. Reheat gently to preserve texture and flavor."
+        },
+        {
+            "question": "Is this recipe suitable for meal prep?",
+            "answer": "Definitely. It holds up well refrigerated and can be eaten cold or reheated. Just add fresh herbs and lemon zest before serving to keep flavors bright."
+        },
+        {
+            "question": "Can I add other vegetables?",
+            "answer": "Yes, feel free to add veggies like spinach, bell peppers, or zucchini. Just sauté them with the onions to blend flavors well. Adjust cooking times to keep veggies crisp-tender."
+        },
+        {
+            "question": "What kind of protein powder could I add to boost protein?",
+            "answer": "If you want to add protein powder, a mild unflavored or pea protein powder works best to keep flavors balanced. Mix it into the quinoa while cooking or stir in at the end with cheese, adjusting liquid as needed to prevent dryness."
+        }
+    ],
+    "conclusion": "Give these simple pea recipes a try and let me know how they fit into your dinner rotation! I’d love to hear your favorite tweaks or how they keep you fueled. Don’t forget to tag me if you make them!",
+    "seo": {
+        "primary_keyword": "simple pea dinner recipes",
+        "secondary_keywords": [
+            "high protein pea recipes",
+            "easy pea dinners",
+            "how to make pea quinoa dinner",
+            "best pea dinner recipe",
+            "healthy high protein meals",
+            "meal prep pea recipes",
+            "post workout dinner ideas"
+        ],
+        "internal_links": [
+            {
+                "text": "easy high protein energy bites",
+                "anchor": "easy_high_protein_energy_bites"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4200 words"
+    },
+    "category_id": "cat_1779285502_712",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-05-28 14:46:44",
+        "title_seed": "Simple Pea Recipes For Dinner Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1779976004_217",
+    "slug": "simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy",
+    "uniqueSlug": "simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_pinrecipes_image_1.png",
+            "filePath": "posts/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_pinrecipes_image_1.png",
+            "relativePath": "simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_pinrecipes_image_2.png",
+            "filePath": "posts/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_pinrecipes_image_2.png",
+            "relativePath": "simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_pinrecipes_image_3.png",
+            "filePath": "posts/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_pinrecipes_image_3.png",
+            "relativePath": "simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_st1_image_9.webp",
+            "filePath": "posts/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_st1_image_9.webp",
+            "relativePath": "simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_st1_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_st1_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_st1_image_8.webp",
+            "filePath": "posts/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_st1_image_8.webp",
+            "relativePath": "simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_st1_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_st1_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_st1_image_7.webp",
+            "filePath": "posts/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_st1_image_7.webp",
+            "relativePath": "simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_st1_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_st1_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_st1_image_4.webp",
+            "filePath": "posts/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_st1_image_4.webp",
+            "relativePath": "simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_st1_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_st1_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "image": "simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_pinrecipes_image_1.png",
+    "image_path": "posts/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images/simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy_pinrecipes_image_1.png",
+    "image_dir": "simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-05-28T14:47:04+01:00",
+    "updatedAt": "2026-05-28T14:47:04+01:00"
+}
