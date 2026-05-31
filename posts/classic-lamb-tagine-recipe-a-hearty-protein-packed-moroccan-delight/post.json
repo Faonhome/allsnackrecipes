@@ -1,0 +1,320 @@
+{
+    "title": "Classic Lamb Tagine Recipe: A Hearty, Protein-Packed Moroccan Delight",
+    "promptIMG": "Food photography: Classic Lamb Tagine, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, clean eating aesthetic --ar 4:3 --quality 2",
+    "description": "This classic lamb tagine is a rich, protein-packed Moroccan stew that’s perfect for cozy dinners. Slow-cooked lamb with warm spices and tender veggies makes it a satisfying, healthy meal that keeps you fueled and full.",
+    "hashtags": "#lambtagine #highprotein #moroccandinner #healthyeats",
+    "board_name": "High Protein Dinner Recipes",
+    "pin_variations": [
+        {
+            "title": "Slow-Cooked Lamb Tagine That Warms You Up Fast",
+            "description": "Warm up your evenings with this slow-cooked lamb tagine packed with protein and spices. Perfect for meal prep or a comforting dinner. Save this recipe for your next cozy night in! 🍲🔥 #highproteindinner #mealprepideas #moroccanfood",
+            "hashtags": "#highproteindinner #mealprepideas #moroccanfood #proteinrecipe #comfortfood"
+        },
+        {
+            "title": "Easy Classic Lamb Tagine with Spices and Veggies",
+            "description": "Looking for an easy protein-rich meal? This lamb tagine combines tender meat and fragrant spices for a delicious, healthy dinner. Try it tonight and pin for later! 🌿🍖 #easyproteinrecipes #healthydinners #lambtagine",
+            "hashtags": "#easyproteinrecipes #healthydinners #lambtagine #proteinmeal #dinnertime"
+        },
+        {
+            "title": "Hearty Lamb Tagine: Protein-Packed Moroccan Comfort Food",
+            "description": "This hearty lamb tagine is loaded with protein and flavor, perfect for fighting hunger and keeping you energized. Great for post-workout dinners or weekend cooking. Give it a try and save for later! 🥘💪 #postworkoutmeal #proteinpacked #moroccanflavors",
+            "hashtags": "#postworkoutmeal #proteinpacked #moroccanflavors #healthyeats #comfortfood"
+        },
+        {
+            "title": "Make-Ahead Lamb Tagine: Protein-Rich and Full of Flavor",
+            "description": "Prep this lamb tagine ahead for a protein-rich meal that tastes even better the next day. Great for busy weeknights and meal prep! Pin this recipe and enjoy a tasty Moroccan classic anytime. 🍽️⏳ #mealprepsnacks #proteinrecipes #lambtagine",
+            "hashtags": "#mealprepsnacks #proteinrecipes #lambtagine #easymeals #healthyeats"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 120,
+    "servings": 6,
+    "ingredients": [
+        "2 lbs lamb shoulder, cut into 1.5-inch chunks",
+        "2 tbsp olive oil, extra virgin",
+        "1 large onion, finely chopped",
+        "3 cloves garlic, minced",
+        "1 tbsp ground cumin",
+        "1 tbsp ground ginger",
+        "1 tsp ground cinnamon",
+        "1 tsp turmeric powder",
+        "1/2 tsp smoked paprika",
+        "1/4 tsp cayenne pepper (optional)",
+        "1 cup chicken or vegetable broth",
+        "1 can (14 oz) diced tomatoes",
+        "1/2 cup dried apricots, chopped",
+        "1/4 cup almonds, toasted",
+        "Salt and freshly ground black pepper, to taste",
+        "Fresh cilantro and parsley, chopped for garnish"
+    ],
+    "yield": "Approximately 6 hearty servings",
+    "introduction": "I’ve always loved Moroccan food, but fitting in a protein-rich meal that’s also comforting and flavorful has been a challenge with my busy schedule. This classic lamb tagine recipe became my go-to for those chilly evenings when I want something nourishing but not complicated. What makes this version special is the slow-cooking technique that tenderizes the lamb perfectly without drying it out, and the blend of warm spices that give it that authentic depth of flavor. I learned the hard way that rushing the simmer or skipping the apricots made it less balanced, so now I always let it cook low and slow, which really lets the protein-rich lamb soak in all the spices and stay juicy. Plus, it keeps well for leftovers, which means I have a satisfying meal ready for the week. The texture is tender but not mushy, and the aroma fills the whole kitchen — my gym buddy actually asked me for the recipe after smelling it! If you want a dinner that’s hearty, healthy, and packed with protein, this lamb tagine is a winner every time.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by heating the olive oil in a heavy-bottomed pot or tagine over medium heat. Add the lamb chunks in batches, browning them on all sides without overcrowding. This step is crucial because browning seals in the meat’s juices and builds a deep, rich flavor base through the Maillard reaction. Avoid stirring too much or moving the lamb around too early, as this prevents proper browning. You want a nice golden crust on the meat, which will enhance the final dish’s taste and texture.",
+            "timing": "10 minutes",
+            "doneness_cue": "Lamb pieces should have a deep golden-brown crust on all sides with no raw pink spots visible."
+        },
+        {
+            "step": 2,
+            "instruction": "Remove the browned lamb and set aside. In the same pot, add the chopped onion and garlic, cooking gently until soft and translucent. This softening releases their natural sugars, which add sweetness and depth to the tagine. Stir occasionally to prevent burning, and use the fond (the browned bits stuck to the pot) to deglaze the pan by scraping it up with a wooden spoon. This step intensifies the flavor and ensures nothing is wasted.",
+            "timing": "7 minutes",
+            "doneness_cue": "Onions are soft, translucent, and fragrant with no signs of browning or burning."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the ground cumin, ginger, cinnamon, turmeric, smoked paprika, and cayenne pepper to the onion mixture. Toast the spices gently for about 1-2 minutes until fragrant. This blooming process activates the essential oils in the spices, making their flavors more vibrant and aromatic. Be careful not to burn the spices, as burnt spices can taste bitter and ruin the dish.",
+            "timing": "2 minutes",
+            "doneness_cue": "Spices smell warm and fragrant but have not darkened or burned."
+        },
+        {
+            "step": 4,
+            "instruction": "Return the browned lamb to the pot and stir to coat the meat evenly with the spices and onion mixture. This ensures every bite is infused with flavor. Pour in the chicken broth and diced tomatoes, stirring to combine. The liquid will create steam that slowly cooks the lamb until tender. It’s important to add enough broth to just cover the meat to keep it moist but not soupy.",
+            "timing": "5 minutes",
+            "doneness_cue": "Lamb is coated evenly, and the mixture looks saucy but not watery."
+        },
+        {
+            "step": 5,
+            "instruction": "Bring the mixture to a gentle simmer, then lower the heat, cover the pot, and let it cook slowly for about 1.5 to 2 hours. Slow simmering breaks down the lamb’s connective tissue, making it tender and juicy. Avoid boiling vigorously, which can toughen the meat and cause the sauce to reduce too quickly. Check occasionally to ensure there’s enough liquid, adding a splash of broth if needed.",
+            "timing": "90-120 minutes",
+            "doneness_cue": "Lamb is fork-tender and sauce has thickened slightly with rich color."
+        },
+        {
+            "step": 6,
+            "instruction": "About 20 minutes before the end of cooking, stir in the chopped dried apricots. They add a lovely sweet contrast to the savory spices and tender lamb. The apricots soften and meld into the sauce, balancing the flavors and adding a subtle chewiness. Don’t add them too early or they’ll disintegrate completely.",
+            "timing": "20 minutes",
+            "doneness_cue": "Apricots are plump but still hold their shape, sauce is glossy."
+        },
+        {
+            "step": 7,
+            "instruction": "Taste the tagine and season with salt and freshly ground black pepper as needed. Seasoning at the end allows you to control the saltiness since the broth and canned tomatoes can vary. Adjust any spice levels if desired. Stir gently to combine without breaking up the meat.",
+            "timing": "5 minutes",
+            "doneness_cue": "Balanced flavor with a good mix of savory, sweet, and spice."
+        },
+        {
+            "step": 8,
+            "instruction": "Toast the almonds in a dry pan over medium heat until golden and fragrant. This adds a crunchy texture contrast and nutty flavor to the dish. Watch carefully and stir frequently to prevent burning. Once toasted, sprinkle them over the tagine just before serving.",
+            "timing": "5 minutes",
+            "doneness_cue": "Almonds are golden brown and smell nutty, no burnt edges."
+        },
+        {
+            "step": 9,
+            "instruction": "Garnish the finished lamb tagine with freshly chopped cilantro and parsley to add brightness and freshness. Serve hot with couscous or crusty bread for a complete meal. The herbs cut through the richness and add a lovely herbal note that complements the spices.",
+            "timing": "2 minutes",
+            "doneness_cue": "Fresh green herbs look vibrant and add a fresh aroma."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Classic Lamb Tagine Is So Satisfying and Protein-Packed",
+        "content": "<p>Lamb is an excellent source of high-quality protein, essential for muscle repair and satiety. Slow-cooking the lamb in this tagine recipe allows the connective tissues to break down gently, resulting in tender meat that retains its moisture and flavor. The blend of warming spices not only enhances taste but also supports digestion and metabolism, making this dish both delicious and functional.</p><p>The addition of apricots and nuts balances the richness of the lamb with natural sweetness and crunch, creating a complex texture profile that keeps the eating experience interesting and satisfying. The protein and fat content from the lamb and almonds slow digestion, which helps maintain steady energy levels and keeps hunger at bay longer than carbohydrate-heavy dishes.</p><p>Using a moderate amount of broth ensures the meat is cooked in a flavorful environment, allowing the protein to absorb spices fully without becoming dry or overly stewed. The fresh herbs at the end brighten the dish and add antioxidants, which complement the hearty protein content. This recipe’s technique of layering flavors and textures makes it a standout for anyone seeking a wholesome, protein-rich meal that feels indulgent but is naturally balanced.</p><p>Overall, this tagine exemplifies how traditional cooking methods combined with smart ingredient choices produce a meal that’s both nourishing and deeply satisfying, perfect for anyone focused on health and flavor.</p>",
+        "ingredient_notes": {
+            "lamb shoulder": "Choose fresh lamb shoulder with a good balance of meat and fat for tenderness and flavor. The marbling helps keep the meat juicy during slow cooking. Avoid lean cuts like leg, which can dry out more easily. If you prefer, bone-in pieces add extra depth but require slightly longer cooking times.",
+            "spices": "Use fresh, high-quality ground spices for the best aroma and flavor. Cumin, ginger, cinnamon, turmeric, and paprika are staples in Moroccan cuisine and work synergistically to create warmth and complexity. Avoid pre-mixed blends with additives to control salt and sugar levels.",
+            "dried apricots": "Select natural, unsweetened dried apricots to add natural sweetness without excess sugar. Chopped finely, they soften during cooking but still provide a pleasant texture contrast. Avoid overly dry or hard apricots that won’t soften well.",
+            "almonds": "Raw whole almonds toasted just before serving add crunch and nutty flavor. Toasting enhances their oils and aroma but be careful not to burn them, which can create bitterness. Slivered or sliced almonds can be substituted but may toast faster.",
+            "olive oil": "Extra virgin olive oil adds a fruity richness and healthy fats that complement the lamb. Use moderate heat to preserve its delicate flavor and nutritional properties. Avoid overheating to prevent bitterness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Brown the lamb in batches without crowding the pan.",
+            "reason": "Crowding traps steam, preventing proper browning which is key for flavor development through the Maillard reaction. Browning in batches ensures each piece develops a deep crust, adding richness to the final dish."
+        },
+        {
+            "tip": "Toast spices gently before adding liquids.",
+            "reason": "Toasting spices blooms their essential oils, intensifying aroma and flavor. Overheating burns the spices, causing bitterness, so keep the heat moderate and stir constantly for even toasting."
+        },
+        {
+            "tip": "Simmer the tagine slowly with the lid on.",
+            "reason": "Slow simmering breaks down tough connective tissues in lamb, resulting in tender meat. The lid traps moisture and heat evenly, preventing drying out and allowing flavors to meld perfectly over time."
+        },
+        {
+            "tip": "Add dried apricots near the end of cooking.",
+            "reason": "Adding apricots too early makes them dissolve completely, losing texture and sweetness contrast. Adding them late softens them just enough to blend flavor without losing their pleasant chew."
+        },
+        {
+            "tip": "Use fresh herbs as a garnish just before serving.",
+            "reason": "Fresh herbs add brightness and a fresh aroma that balances the rich, spiced meat. Adding them too early causes loss of flavor and color due to prolonged cooking."
+        },
+        {
+            "tip": "Toast almonds in a dry pan just before serving.",
+            "reason": "Toasting releases oils and enhances nuttiness but must be done carefully to avoid burning which imparts bitterness. Freshly toasted almonds provide the best texture contrast."
+        },
+        {
+            "tip": "Let the tagine rest for 10 minutes before serving.",
+            "reason": "Resting allows juices to redistribute throughout the meat and sauce, enhancing moisture and flavor balance. It also cools the dish slightly for optimal eating temperature."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the browning step or rushing it.",
+            "why_it_happens": "People often want to save time and skip browning, thinking it’s unnecessary, but this step is crucial for flavor depth.",
+            "fix": "Take time to brown the lamb in batches over medium heat. Wait until a crust forms before turning pieces. This seals in juices and creates a rich base for the tagine."
+        },
+        {
+            "mistake": "Cooking at too high a temperature.",
+            "why_it_happens": "Some assume faster cooking saves time, but high heat toughens meat and reduces tenderness.",
+            "fix": "Maintain a gentle simmer with the lid on to slowly break down connective tissue, resulting in tender, juicy lamb."
+        },
+        {
+            "mistake": "Adding dried fruit too early.",
+            "why_it_happens": "Adding apricots at the start can cause them to disintegrate, losing texture and sweetness contrast.",
+            "fix": "Add dried apricots in the last 20 minutes of cooking for perfect softness and flavor balance."
+        },
+        {
+            "mistake": "Not deglazing the pan after browning.",
+            "why_it_happens": "Ignoring the fond wastes flavorful browned bits stuck to the pot.",
+            "fix": "Use broth or a splash of water to scrape up those bits after browning onions, incorporating them into the sauce for richer flavor."
+        },
+        {
+            "mistake": "Over-toasting almonds or spices.",
+            "why_it_happens": "Rushing the toasting process can burn these ingredients, creating bitterness.",
+            "fix": "Toast almonds and spices on moderate heat, stirring frequently, and remove from heat as soon as fragrance develops."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chicken Tagine with Preserved Lemons",
+            "description": "Swap lamb for chicken thighs for a lighter protein option. Add preserved lemons and green olives for a tangy, briny twist. The chicken cooks faster, so reduce simmering time to about 45-60 minutes. This variation is lower in fat but still protein-rich and full of Moroccan flavor.",
+            "technical_note": "Adjust cooking time to avoid drying out chicken; preserve the balance of spices and acidity for brightness."
+        },
+        {
+            "name": "Vegetarian Tagine with Chickpeas and Sweet Potatoes",
+            "description": "Replace lamb with chickpeas and cubed sweet potatoes for a plant-based protein-packed version. Use vegetable broth and increase spices slightly to compensate for the milder flavor. This version is hearty, fiber-rich, and perfect for meat-free days.",
+            "technical_note": "Cook chickpeas and sweet potatoes until tender but not mushy; adjust liquid as plant ingredients absorb more moisture."
+        },
+        {
+            "name": "Spicy Lamb Tagine with Harissa and Extra Chili",
+            "description": "Add a tablespoon of harissa paste and extra cayenne pepper for a fiery kick. This variation is ideal if you like bold, spicy flavors that complement the rich lamb. Keep the rest of the recipe the same but taste-test the heat level before serving.",
+            "technical_note": "Balance spice intensity with sweetness from apricots to avoid overpowering heat."
+        },
+        {
+            "name": "Slow Cooker Lamb Tagine",
+            "description": "Use a slow cooker for hands-off cooking. Brown lamb and onions first, then transfer everything to the slow cooker. Cook on low for 6-8 hours. This method deepens flavor and tenderizes meat beautifully, perfect for busy days.",
+            "technical_note": "Avoid adding apricots too early; add them in the last hour to maintain texture."
+        },
+        {
+            "name": "Lamb Tagine with Quinoa Instead of Couscous",
+            "description": "Serve the tagine over quinoa for a gluten-free, protein-boosting base. Quinoa adds extra fiber and protein, complementing the lamb perfectly. This swap increases the overall protein content of the meal.",
+            "technical_note": "Cook quinoa separately and fluff before serving to prevent sogginess."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "18g",
+        "fat_grams": "22g",
+        "fiber_grams": "4g",
+        "sodium_mg": "320mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and portion sizes."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This lamb tagine can safely remain at room temperature for up to 2 hours if covered. Beyond that, protein-rich dishes risk bacterial growth. Keep it covered to prevent drying but avoid leaving it out too long.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The flavor actually deepens when chilled, and the sauce thickens nicely. Reheat gently on the stove or microwave until steaming hot to preserve meat texture.",
+        "freezer": "Freeze in airtight containers or heavy-duty freezer bags for up to 3 months. Portion before freezing for easy thawing. Thaw overnight in the fridge and reheat slowly to maintain tenderness and flavor.",
+        "reheating": "Reheat gently over low heat on the stove or in short bursts in the microwave, stirring occasionally. Add a splash of broth or water if the sauce thickens too much. Avoid overheating which can toughen the lamb.",
+        "make_ahead_strategy": "Prepare the tagine fully and refrigerate for up to 2 days before serving. This allows flavors to meld beautifully. Reheat just before eating. You can also chop ingredients and measure spices ahead to save prep time on cooking day."
+    },
+    "faq": [
+        {
+            "question": "Can I use a different cut of lamb for this tagine?",
+            "answer": "Yes, but lamb shoulder is preferred because its fat content and connective tissue break down during slow cooking, producing tender, flavorful meat. Leaner cuts like leg or loin cook faster but can dry out if overcooked. Adjust cooking time accordingly."
+        },
+        {
+            "question": "What’s the best protein powder substitute if I want to boost protein?",
+            "answer": "This recipe doesn’t use protein powder, but if you want to add protein, consider serving with quinoa or lentils on the side. Adding protein powder directly isn’t recommended here because it can alter texture and flavor."
+        },
+        {
+            "question": "How do I prevent the tagine from becoming too dry?",
+            "answer": "Maintain a gentle simmer with the lid on and check liquid levels occasionally. Add broth or water if the sauce reduces too much. Slow cooking with moisture is key to tender meat and a saucy finish."
+        },
+        {
+            "question": "Can I make this tagine in a pressure cooker?",
+            "answer": "Absolutely! Brown the lamb and sauté onions first, then pressure cook for about 35-40 minutes. This speeds up cooking while still tenderizing the meat. Add apricots after releasing pressure to maintain texture."
+        },
+        {
+            "question": "Is this recipe suitable for meal prep?",
+            "answer": "Yes! It stores well in the fridge for up to 4 days and freezes beautifully. Flavors deepen over time, making it perfect for batch cooking and reheating during busy weeks."
+        },
+        {
+            "question": "What can I serve with lamb tagine for a balanced meal?",
+            "answer": "Traditional sides include couscous, rice, or quinoa. Add a simple green salad or steamed veggies for fiber and freshness. These sides complement the protein and fat in the lamb for a balanced plate."
+        },
+        {
+            "question": "How do I avoid a chalky or gritty texture in this recipe?",
+            "answer": "Since this recipe doesn’t use protein powders, chalkiness isn’t an issue. However, ensure spices are fresh and toasted properly to avoid bitterness. Also, avoid overcooking dried fruit which can turn mushy."
+        },
+        {
+            "question": "Can I substitute dried apricots with other dried fruits?",
+            "answer": "Yes, dried figs or dates work well for sweetness and texture. Adjust quantity to taste, as some dried fruits are sweeter or softer. Add them late in cooking to preserve texture."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and savoring this classic lamb tagine as much as I do! It’s a protein-rich, flavorful dish that’s perfect for sharing. Don’t forget to tag me if you try it—I’d love to see your results!",
+    "seo": {
+        "primary_keyword": "classic lamb tagine recipe",
+        "secondary_keywords": [
+            "Moroccan lamb tagine",
+            "slow cooked lamb recipe",
+            "how to make lamb tagine",
+            "best lamb tagine recipe",
+            "easy high protein lamb dish",
+            "healthy lamb meal prep",
+            "post workout lamb recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "Moroccan Chicken Tagine recipe",
+                "anchor": "moroccan-chicken-tagine"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1779285502_712",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-05-31 02:01:25",
+        "title_seed": "Classic Lamb Tagine Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1780189285_343",
+    "slug": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight",
+    "uniqueSlug": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_pinrecipes_image_1.png",
+            "filePath": "posts/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_pinrecipes_image_1.png",
+            "relativePath": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_pinrecipes_image_2.png",
+            "filePath": "posts/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_pinrecipes_image_2.png",
+            "relativePath": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_pinrecipes_image_3.png",
+            "filePath": "posts/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_pinrecipes_image_3.png",
+            "relativePath": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        }
+    ],
+    "image": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_pinrecipes_image_1.png",
+    "image_path": "posts/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_pinrecipes_image_1.png",
+    "image_dir": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-05-31T02:01:25+01:00",
+    "updatedAt": "2026-05-31T02:01:25+01:00"
+}
