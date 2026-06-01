@@ -308,6 +308,50 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_5.webp",
+            "filePath": "posts/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_5.webp",
+            "relativePath": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_9.webp",
+            "filePath": "posts/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_9.webp",
+            "relativePath": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_7.webp",
+            "filePath": "posts/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_7.webp",
+            "relativePath": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_6.webp",
+            "filePath": "posts/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_6.webp",
+            "relativePath": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_4.webp",
+            "filePath": "posts/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_4.webp",
+            "relativePath": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_8.webp",
+            "filePath": "posts/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_8.webp",
+            "relativePath": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images/classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_st1_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
         }
     ],
     "image": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight_pinrecipes_image_1.png",
@@ -315,6 +359,6 @@
     "image_dir": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-05-31T02:01:25+01:00",
-    "updatedAt": "2026-05-31T02:01:25+01:00"
+    "createdAt": "2026-06-01T02:03:21+01:00",
+    "updatedAt": "2026-06-01T02:03:21+01:00"
 }
