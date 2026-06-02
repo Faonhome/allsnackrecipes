@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-01 02:03:21",
-    "count": 16,
+    "generated": "2026-06-02 02:02:11",
+    "count": 17,
     "folders": [
         "can-you-cook-artichokes-in-an-instant-pot-easy-healthy-protein-boost",
         "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight",
@@ -17,9 +17,25 @@
         "easy-vegan-tomato-protein-snack-bowls-for-a-healthy-boost",
         "easy-vegan-tomato-recipes-for-dinner-that-pack-protein-and-flavor",
         "one-pot-artichoke-pasta-recipes-recipe-easy-protein-packed-comfort-meal",
+        "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite",
         "simple-pea-recipes-for-dinner-recipe-healthy-high-protein-meals-made-easy"
     ],
     "posts": [
+        {
+            "slug": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite",
+            "title": "One Pot Farro With Chicken Sausage & Tomatoes: A Hearty High-Protein Meal-Prep Favorite",
+            "description": "This one pot farro dish combines chewy whole grain farro with savory chicken sausage and juicy tomatoes for a protein-packed meal that’s super easy to prep. It’s perfect for busy weeknights or meal prep lunches that keep",
+            "image": "posts/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_pinrecipes_image_1.png",
+            "category_id": "cat_1779285502_712",
+            "createdAt": "2026-06-02T02:02:11+01:00",
+            "updatedAt": "2026-06-02T02:02:11+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 10,
+            "cook_time": 30,
+            "total_time": null,
+            "servings": 4
+        },
         {
             "slug": "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight",
             "title": "Classic Lamb Tagine Recipe: A Hearty, Protein-Packed Moroccan Delight",

@@ -1,0 +1,357 @@
+{
+    "title": "One Pot Farro With Chicken Sausage & Tomatoes: A Hearty High-Protein Meal-Prep Favorite",
+    "promptIMG": "Food photography: One Pot Farro With Chicken Sausage & Tomatoes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, clean eating aesthetic --ar 4:3 --quality 2",
+    "description": "This one pot farro dish combines chewy whole grain farro with savory chicken sausage and juicy tomatoes for a protein-packed meal that’s super easy to prep. It’s perfect for busy weeknights or meal prep lunches that keep you full and fueled.",
+    "hashtags": "#highprotein #mealprep #healthyeats #farrorecipe",
+    "board_name": "Meal Prep Snacks",
+    "pin_variations": [
+        {
+            "title": "Make This One Pot Farro With Chicken Sausage Tonight for Easy Protein!",
+            "description": "Looking for a quick, protein-rich dinner? This one pot farro with chicken sausage and tomatoes is packed with flavor and ready in under 40 minutes. Save this recipe for your next meal prep! 🍅🍽️ #highproteindinner #easymealprep #proteinrecipes",
+            "hashtags": "#highproteindinner #easymealprep #proteinrecipes #onepotmeal #healthyfood"
+        },
+        {
+            "title": "Hearty & Healthy One Pot Farro with Chicken Sausage – Perfect for Meal Prep",
+            "description": "This high-protein farro recipe is a lifesaver for busy days. Chicken sausage adds savory depth while tomatoes keep it fresh and vibrant. Pin it now and enjoy nutritious lunches all week! 🥄🍅 #mealprepideas #proteinpacked #healthydinners",
+            "hashtags": "#mealprepideas #proteinpacked #healthydinners #onepotrecipes #farro"
+        },
+        {
+            "title": "Easy One Pot Farro with Chicken Sausage & Tomatoes for Post-Workout Fuel",
+            "description": "Need a filling, protein-rich meal after your workout? This one pot farro with chicken sausage and tomatoes hits the spot with balanced macros and bold flavors. Try it today and power up! 💪🍽️ #postworkoutmeal #proteinrecipes #easymeals",
+            "hashtags": "#postworkoutmeal #proteinrecipes #easymeals #highprotein #mealprep"
+        },
+        {
+            "title": "Comforting One Pot Farro with Chicken Sausage & Tomatoes – Ready in 40 Minutes!",
+            "description": "Craving a wholesome, protein-packed meal that’s simple to make? This one pot farro with chicken sausage and tomatoes is the answer. Perfect for busy weeknights or prepping ahead. Pin for later! 🍽️🔥 #comfortfood #highproteinmeals #mealpreprecipes",
+            "hashtags": "#comfortfood #highproteinmeals #mealpreprecipes #onepotmeal #healthyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 cup farro, rinsed",
+        "12 ounces chicken sausage, sliced",
+        "1 pint cherry tomatoes, halved",
+        "1 small onion, diced",
+        "2 cloves garlic, minced",
+        "2 1/2 cups low-sodium chicken broth",
+        "1 tablespoon olive oil",
+        "Salt and pepper to taste",
+        "Fresh basil leaves for garnish (optional)"
+    ],
+    "yield": "Approximately 4 hearty servings",
+    "introduction": "I started making this One Pot Farro With Chicken Sausage & Tomatoes recipe because I needed a wholesome, protein-rich meal that wouldn’t take forever or leave me with a mountain of dishes. After long days juggling work and workouts, I wanted something simple yet satisfying to keep me fueled. What makes this recipe stand out is the combination of farro’s chewy texture and the savory, flavorful chicken sausage. It’s way higher in protein than your average grain bowl, and the juicy tomatoes add freshness without fuss. I’ve tried farro dishes before that ended up mushy or bland, but the trick here is to toast the farro lightly before simmering, which brings out a nutty flavor and keeps the texture just right. Plus, cooking everything in one pot means less cleanup and more time to relax. I usually prep this on Sunday and it holds up well in the fridge all week, perfect for quick lunches or dinners. The balance of protein, fiber, and healthy fats keeps me full for hours, and honestly, it tastes way better than any pre-packaged meal I’ve tried. My gym buddy even asked me for the recipe after trying it once — that’s when you know you’ve hit the jackpot!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large pot over medium heat. Add the diced onion and cook until softened and translucent, about 3-4 minutes. This step is crucial because it builds the flavor base for the dish. Make sure not to brown the onions too much as you want a sweet, mellow flavor. Stir occasionally to prevent sticking or burning.",
+            "timing": 5,
+            "doneness_cue": "Onions are soft and translucent but not browned"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the sliced chicken sausage to the pot and cook until browned on all sides, about 5-6 minutes. Browning the sausage adds depth to the dish through caramelization, enhancing the savory notes. Don’t rush this step; a good sear locks in flavor and texture.",
+            "timing": 6,
+            "doneness_cue": "Sausage pieces have a golden crust and are cooked through"
+        },
+        {
+            "step": 3,
+            "instruction": "Stir in the minced garlic and cook for 30 seconds until fragrant. Garlic cooks quickly and can burn easily, so keep the heat moderate and stir constantly. This step adds a fresh aromatic layer to the dish.",
+            "timing": 0.5,
+            "doneness_cue": "Garlic aroma is noticeable but not burnt"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the rinsed farro to the pot and toast it for 2-3 minutes, stirring often. Toasting the farro before adding liquid intensifies its nutty flavor and helps maintain a firm, chewy texture after cooking. Avoid skipping this step to prevent a bland or mushy result.",
+            "timing": 3,
+            "doneness_cue": "Farro looks slightly toasted and smells nutty"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in the chicken broth and bring the mixture to a boil. Once boiling, reduce the heat to low and cover the pot. Simmer gently for 20 minutes, stirring occasionally to prevent sticking. Cooking at a low simmer allows the farro to absorb liquid slowly, cooking evenly without becoming mushy.",
+            "timing": 20,
+            "doneness_cue": "Farro is tender but still chewy, broth mostly absorbed"
+        },
+        {
+            "step": 6,
+            "instruction": "Add the halved cherry tomatoes to the pot, stir gently, and cook uncovered for another 5 minutes. This lets the tomatoes soften slightly and release their juices, brightening the dish. Cooking them too long will cause the tomatoes to lose their shape and freshness.",
+            "timing": 5,
+            "doneness_cue": "Tomatoes are softened but hold their shape, juices mingle with farro"
+        },
+        {
+            "step": 7,
+            "instruction": "Season the dish with salt and freshly ground black pepper to taste. Seasoning at the end lets you adjust flavors precisely without over-salting. Taste before adding more; the sausage and broth already contribute saltiness.",
+            "timing": 1,
+            "doneness_cue": "Flavor is balanced and savory with a touch of brightness"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the pot from heat and let it sit covered for 5 minutes. This resting period allows the farro to finish absorbing any remaining liquid and helps the flavors meld together. Skipping this can result in a wetter or less cohesive dish.",
+            "timing": 5,
+            "doneness_cue": "Farro is plump, and the dish has thickened slightly"
+        },
+        {
+            "step": 9,
+            "instruction": "Garnish with fresh basil leaves before serving for a pop of color and fresh herbal aroma. Fresh herbs add brightness and contrast to the rich sausage and grains. If you don’t have basil, parsley works well too.",
+            "timing": 1,
+            "doneness_cue": "Dish looks vibrant and inviting with fresh green garnish"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This One Pot Farro Meal Packs Protein and Flavor You’ll Love",
+        "content": "<p>Farro is an ancient grain that offers a unique blend of complex carbohydrates and protein, making it a great base for a balanced meal. Its chewy texture helps slow digestion, which keeps you feeling full longer and stabilizes blood sugar levels. When paired with chicken sausage, which is a rich source of complete protein, this dish provides sustained energy and muscle-supporting nutrients. The combination of protein and fiber-rich farro slows nutrient absorption, preventing energy crashes common with simple carbs.</p><p>Cooking everything in one pot not only simplifies cleanup but also allows the flavors to meld beautifully. Toasting the farro before simmering enhances its nutty aroma and creates a pleasant texture that won’t turn mushy. The chicken broth infuses moisture and savory depth, while the tomatoes add acidity and freshness, balancing the richness of the sausage. This interplay of ingredients creates a satisfying, well-rounded dish.</p><p>The technique of simmering at low heat is key to ensuring the farro cooks evenly without breaking down. Resting the dish after cooking lets the grains absorb any remaining liquid, perfecting the texture. Finally, finishing with fresh basil adds a herbal brightness that lifts the whole meal. This recipe embraces whole foods and avoids processed additives, making it a wholesome choice for anyone looking to fuel their body with clean, protein-rich meals.</p>",
+        "ingredient_notes": {
+            "farro": "Farro is a whole grain with a firm, chewy texture and a nutty flavor. When buying, look for pearled farro for quicker cooking times. It’s higher in protein and fiber than white rice or pasta, making it excellent for satiety. Rinsing removes excess starch, and toasting it before cooking enhances flavor and helps maintain texture.",
+            "chicken sausage": "Choose a high-quality chicken sausage with minimal fillers and natural seasoning. It provides complete protein and adds savory depth to the dish. Avoid overly fatty or highly processed options to keep the meal balanced and healthy. Slicing before cooking ensures even browning and flavor release.",
+            "cherry tomatoes": "Cherry tomatoes add natural sweetness and acidity, brightening the dish. Use fresh, ripe tomatoes for the best flavor and texture. They soften quickly when added late in cooking, contributing moisture without overpowering the sausage or grain. Avoid canned tomatoes here to keep the fresh, light profile.",
+            "chicken broth": "Low-sodium chicken broth provides a flavorful cooking liquid that infuses the farro and sausage with savory notes. Using low-sodium allows you to control salt levels better. Homemade broth or high-quality store-bought options work well. The broth’s liquid content is key to properly cooking the farro without drying it out.",
+            "olive oil": "Olive oil is used for sautéing the aromatics and sausage, adding healthy fats and a fruity base flavor. Use extra virgin olive oil for the best taste and nutritional benefits. Heating it gently helps release its aroma without burning, which could introduce bitterness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Toast the farro before simmering to boost flavor and texture.",
+            "reason": "Toasting the farro triggers Maillard reactions that deepen its nutty aroma and flavor. It also helps the grains maintain a firm, chewy bite after cooking, preventing mushiness. Skipping this step often results in a bland, soggy texture."
+        },
+        {
+            "tip": "Use low-sodium broth to control salt and maximize flavor balance.",
+            "reason": "Many sausages and broths contain salt, so starting with low-sodium broth lets you season the dish precisely at the end. This avoids over-salting and allows the natural flavors of the ingredients to shine through."
+        },
+        {
+            "tip": "Let the dish rest covered off heat before serving.",
+            "reason": "Resting allows the farro to absorb any remaining liquid evenly, finishing the cooking process gently. It also lets the flavors meld, resulting in a more cohesive and satisfying meal."
+        },
+        {
+            "tip": "Slice sausage evenly for consistent browning and cooking.",
+            "reason": "Uniform slices ensure each piece cooks at the same rate, developing a nice caramelized crust. Uneven pieces might undercook or dry out, impacting texture and flavor."
+        },
+        {
+            "tip": "Add tomatoes near the end to preserve freshness and texture.",
+            "reason": "Tomatoes cook quickly and can become mushy if overcooked. Adding them late keeps their bright flavor and slight firmness, adding contrast to the rich sausage and chewy farro."
+        },
+        {
+            "tip": "Use fresh herbs for garnish to add brightness and color.",
+            "reason": "Fresh herbs like basil or parsley add a fresh, herbal aroma and vibrant color that lifts the dish visually and flavor-wise. Dried herbs don’t provide the same impact here."
+        },
+        {
+            "tip": "Rinse farro before cooking to remove excess starch.",
+            "reason": "Rinsing the grain prevents it from becoming gummy or sticky during cooking. This simple step ensures a cleaner texture and helps the grains cook evenly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Farro ends up mushy or overcooked",
+            "why_it_happens": "People often cook farro at too high heat or skip toasting, causing the grains to absorb liquid too quickly and break down.",
+            "fix": "Toast the farro first and simmer gently at low heat. Keep an eye on the cooking time and test the texture early to avoid overcooking."
+        },
+        {
+            "mistake": "Sausage is undercooked or unevenly browned",
+            "why_it_happens": "Sausage slices that are too thick or crowded in the pot won’t brown properly.",
+            "fix": "Slice sausage evenly and cook in batches if necessary to ensure each piece gets a nice golden crust."
+        },
+        {
+            "mistake": "Dish tastes bland or overly salty",
+            "why_it_happens": "Not using low-sodium broth or seasoning too early can lead to unbalanced salt levels.",
+            "fix": "Use low-sodium broth and season at the end, tasting as you go for perfect balance."
+        },
+        {
+            "mistake": "Tomatoes become mushy and lose freshness",
+            "why_it_happens": "Adding tomatoes too early causes them to break down completely.",
+            "fix": "Add tomatoes in the last 5 minutes of cooking to retain their texture and brightness."
+        },
+        {
+            "mistake": "Farro sticks to the pot and burns",
+            "why_it_happens": "Not stirring occasionally or cooking at too high heat can cause sticking.",
+            "fix": "Use moderate heat, stir occasionally, and ensure enough liquid is present to prevent burning."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Italian Sausage & Farro",
+            "description": "Swap the chicken sausage for spicy Italian sausage to add a kick. The robust flavors pair well with the nutty farro and juicy tomatoes, creating a bolder dish. Macros will be slightly higher in fat but still balanced.",
+            "technical_note": "Spicy sausage may release more fat; drain excess if needed to avoid greasiness."
+        },
+        {
+            "name": "Vegetarian Farro with Chickpeas & Roasted Tomatoes",
+            "description": "Replace sausage with roasted chickpeas for a plant-based protein boost. Roast tomatoes separately to concentrate sweetness. This version is lower in fat but still high in protein and fiber.",
+            "technical_note": "Chickpeas don’t brown like sausage, so roast them separately for texture."
+        },
+        {
+            "name": "Farro with Turkey Sausage & Spinach",
+            "description": "Use turkey sausage for a leaner protein option and stir in fresh spinach at the end for extra greens. This adds vitamins and keeps the dish light yet filling.",
+            "technical_note": "Add spinach last and cook just until wilted to preserve nutrients and color."
+        },
+        {
+            "name": "Farro with Sundried Tomatoes & Feta Cheese",
+            "description": "Mix in chopped sundried tomatoes and sprinkle crumbled feta before serving for a Mediterranean twist. The salty feta complements the savory sausage and chewy farro beautifully.",
+            "technical_note": "Add feta off heat to keep its creamy texture and avoid melting."
+        },
+        {
+            "name": "Lemon Herb Farro with Chicken Sausage",
+            "description": "Add fresh lemon zest and juice along with herbs like thyme and oregano to brighten the dish. This variation feels fresh and light while maintaining protein content.",
+            "technical_note": "Add lemon juice at the end to preserve its bright flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "38g",
+        "fat_grams": "10g",
+        "fiber_grams": "6g",
+        "sodium_mg": "450mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and sausage type used. Always calculate based on your specific brands."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish should not be left out at room temperature for more than 2 hours due to the protein-rich sausage and broth. Cover tightly if you need to keep it out briefly, but refrigerate promptly to maintain safety and freshness.",
+        "refrigerator": "Store in an airtight container in the fridge for up to 4 days. The flavors actually deepen when chilled, though the farro may firm up slightly. Reheat gently to avoid drying out the sausage and grains.",
+        "freezer": "Freeze portions in airtight containers or freezer bags for up to 2 months. Thaw overnight in the fridge before reheating. Freezing may slightly change the texture of the farro but the dish remains tasty and convenient.",
+        "reheating": "Reheat in a microwave or on the stove over low heat, adding a splash of water or broth to loosen the mixture if it seems dry. Avoid overheating to keep the sausage juicy and the farro tender.",
+        "make_ahead_strategy": "You can prepare the full dish 1-2 days ahead and store it in the fridge. Alternatively, chop sausage and prep aromatics in advance to save time. Add fresh tomatoes and herbs just before serving for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use a different grain instead of farro?",
+            "answer": "Absolutely! Barley, brown rice, or quinoa can be substituted, but cooking times and liquid amounts will vary. Quinoa cooks faster and has a different texture, while barley is chewier like farro. Adjust broth accordingly and watch the cooking time to avoid mushiness."
+        },
+        {
+            "question": "What if I don’t have chicken sausage? Can I use ground chicken?",
+            "answer": "Yes, ground chicken works well but will have a different texture. Brown it first and season with Italian herbs to mimic sausage flavor. You might want to cook it separately before adding farro and broth to ensure it’s fully cooked and crumbly."
+        },
+        {
+            "question": "How do I prevent the farro from sticking to the pot?",
+            "answer": "Stir occasionally during simmering and use enough broth to cover the grains. Cooking over low heat helps prevent sticking and burning. If you notice sticking, add a splash more broth or water and scrape gently with a wooden spoon."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "To make it vegan, replace chicken sausage with a plant-based sausage or roasted chickpeas for protein. Use vegetable broth instead of chicken broth. The flavor will be different but still satisfying and protein-rich."
+        },
+        {
+            "question": "Is this dish suitable for meal prep?",
+            "answer": "Definitely! It stores well in the fridge for up to 4 days and reheats nicely. Portion into containers for easy grab-and-go lunches or dinners. Just add fresh herbs or a squeeze of lemon before serving to refresh the flavors."
+        },
+        {
+            "question": "How can I reduce the sodium content?",
+            "answer": "Use low-sodium or homemade broth and choose low-sodium chicken sausage if available. Season lightly with salt at the end, tasting as you go. You can also rinse sausage slices briefly to remove excess salt before cooking."
+        },
+        {
+            "question": "What protein content can I expect per serving?",
+            "answer": "Each serving provides about 28 grams of protein, mainly from the chicken sausage and farro. This makes it a great option for muscle recovery and sustained energy, especially post-workout or as a filling meal."
+        },
+        {
+            "question": "Can I freeze leftovers?",
+            "answer": "Yes, freezing is a great way to extend shelf life. Freeze in airtight containers for up to 2 months. Thaw overnight in the fridge before reheating gently to preserve texture and flavor."
+        }
+    ],
+    "conclusion": "Give this one pot farro with chicken sausage and tomatoes a try for a simple, protein-packed meal that fits your busy life. I’d love to hear how it fuels your week—tag me if you make it!",
+    "seo": {
+        "primary_keyword": "one pot farro chicken sausage",
+        "secondary_keywords": [
+            "high protein farro recipe",
+            "easy one pot meals",
+            "how to make farro with sausage",
+            "best chicken sausage recipe",
+            "healthy meal prep farro",
+            "post workout high protein meal",
+            "protein packed one pot dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "Easy Chicken Sausage and Veggie Skillet",
+                "anchor": "easy-chicken-sausage-veggie-skillet"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1779285502_712",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-06-02 02:02:09",
+        "title_seed": "One Pot Farro With Chicken Sausage &amp; Tomatoes Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1780362129_253",
+    "slug": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite",
+    "uniqueSlug": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_pinrecipes_image_1.png",
+            "filePath": "posts/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_pinrecipes_image_1.png",
+            "relativePath": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_pinrecipes_image_2.png",
+            "filePath": "posts/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_pinrecipes_image_2.png",
+            "relativePath": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_pinrecipes_image_3.png",
+            "filePath": "posts/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_pinrecipes_image_3.png",
+            "relativePath": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_6.webp",
+            "filePath": "posts/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_6.webp",
+            "relativePath": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_4.webp",
+            "filePath": "posts/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_4.webp",
+            "relativePath": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_5.webp",
+            "filePath": "posts/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_5.webp",
+            "relativePath": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_9.webp",
+            "filePath": "posts/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_9.webp",
+            "relativePath": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_7.webp",
+            "filePath": "posts/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_7.webp",
+            "relativePath": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_8.webp",
+            "filePath": "posts/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_8.webp",
+            "relativePath": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_st1_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "image": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_pinrecipes_image_1.png",
+    "image_path": "posts/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images/one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite_pinrecipes_image_1.png",
+    "image_dir": "one-pot-farro-with-chicken-sausage-tomatoes-a-hearty-high-protein-meal-prep-favorite/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-06-02T02:02:11+01:00",
+    "updatedAt": "2026-06-02T02:02:11+01:00"
+}
