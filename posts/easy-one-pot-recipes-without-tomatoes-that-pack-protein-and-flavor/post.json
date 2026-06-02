@@ -1,0 +1,354 @@
+{
+    "title": "Easy One Pot Recipes Without Tomatoes That Pack Protein and Flavor",
+    "promptIMG": "Food photography: One Pot Recipes Without Tomatoes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, clean eating aesthetic --ar 4:3 --quality 2",
+    "description": "Looking for a protein-rich meal that’s all cooked in one pot and skips tomatoes? This recipe is perfect for busy days when you want easy, healthy, and satisfying food without the usual tomato base. Great for meal prep or a quick dinner!",
+    "hashtags": "#onepotmeal #highprotein #easyrecipes #healthydinner",
+    "board_name": "High Protein One Pot Meals",
+    "pin_variations": [
+        {
+            "title": "Wholesome One Pot Meals Without Tomatoes for Busy Weeknights",
+            "description": "Need a quick, protein-packed dinner without tomatoes? This one pot recipe is super simple and delicious. Save it for your next meal prep session! 🍲💪 #onepotrecipes #proteinmeals #easycooking"
+        },
+        {
+            "title": "Skip the Tomatoes: One Pot Protein Meals You’ll Love",
+            "description": "Tomatoes not your thing? Try this easy one pot recipe loaded with protein and flavor. Perfect for a healthy dinner or lunch prep. Pin it now and enjoy later! 🍽️🔥 #healthyrecipes #mealprepideas #proteinpacked"
+        },
+        {
+            "title": "Simple High Protein One Pot Recipes Without Tomatoes",
+            "description": "Looking for no-fuss, high-protein meals without tomatoes? This one pot recipe fits the bill. Quick to make and great for keeping you full. Try it today! 🥘✨ #easymeals #proteinrecipes #healthyeating"
+        },
+        {
+            "title": "One Pot Protein Meals Without Tomatoes That Save Time",
+            "description": "Busy schedule? This one pot recipe skips tomatoes but delivers on protein and taste. Perfect for meal prep or a fast dinner. Pin it and make your week easier! ⏰🥄 #mealprepsnacks #proteinmeals #quickrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "servings": 4,
+    "ingredients": [
+        "1 cup quinoa, rinsed",
+        "1 lb chicken breast, diced",
+        "1 cup chopped bell peppers (red, yellow, or green)",
+        "1 cup chopped spinach or kale",
+        "1/2 cup chopped onions",
+        "2 cloves garlic, minced",
+        "2 cups low sodium chicken broth",
+        "1 tablespoon olive oil",
+        "1 teaspoon smoked paprika",
+        "Salt and pepper to taste"
+    ],
+    "yield": "Approximately 4 protein-packed servings",
+    "introduction": "I’ve always struggled to find quick, wholesome dinners that fit my busy lifestyle and fitness goals—especially ones that don’t rely on tomatoes, since I’m not the biggest fan. That’s why I developed this one pot recipe that’s loaded with protein and veggies but skips the usual tomato base. It’s perfect for when you want something filling without spending hours cooking or washing dishes. Plus, it keeps well for meal prep, so I usually make a batch on Sundays to fuel my week. The trick to this recipe is cooking the quinoa and chicken together in broth to lock in flavor and moisture, so nothing dries out or gets chalky. Adding fresh greens at the end keeps it vibrant and packed with nutrients. I’ve had batches that came out too mushy before, but adjusting the broth ratio fixed that perfectly. My gym buddy actually asked me for this recipe because it’s so satisfying and easy to throw together after a workout. You’ll love how it tastes fresh, keeps you full, and fits right into your routine.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat olive oil in a large pot over medium heat. Add the diced chicken breast and cook until it’s just browned but not fully cooked through, about 4-5 minutes. This initial searing locks in juices and creates a nice texture. Avoid overcrowding the pot, or the chicken will steam instead of brown, which affects flavor. Stir occasionally to prevent sticking, but don’t move it too much so it can develop a slight crust.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken pieces are lightly golden on the edges and no longer pink on the outside"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the chopped onions, garlic, and bell peppers to the pot. Stir and cook for another 3-4 minutes until the onions become translucent and the peppers soften slightly. This step builds the flavor base without overpowering the dish. Keep the heat moderate so the garlic doesn’t burn, which can make the dish bitter.",
+            "timing": "4 minutes",
+            "doneness_cue": "Onions are translucent and fragrant, peppers are softened but still vibrant"
+        },
+        {
+            "step": 3,
+            "instruction": "Pour in the rinsed quinoa and chicken broth. Stir in the smoked paprika, salt, and pepper. Bring the mixture to a boil, then reduce heat to low and cover with a tight-fitting lid. Let it simmer gently for about 15 minutes. The quinoa will absorb the broth and cook evenly with the chicken, keeping everything moist and flavorful. Avoid lifting the lid too often, or steam will escape and cooking time will increase.",
+            "timing": "15 minutes",
+            "doneness_cue": "Quinoa is fluffy and tender, liquid is absorbed, and chicken is cooked through"
+        },
+        {
+            "step": 4,
+            "instruction": "Once the quinoa and chicken are cooked, stir in the chopped spinach or kale. Cover again and let it sit for 2-3 minutes off the heat to wilt the greens gently. This keeps the texture fresh and the nutrients intact. Overcooking greens can make them mushy and less appealing.",
+            "timing": "3 minutes",
+            "doneness_cue": "Greens are wilted but still bright green and tender"
+        },
+        {
+            "step": 5,
+            "instruction": "Taste and adjust seasoning with more salt or pepper if needed. Give everything a final stir to combine flavors. The paprika adds a subtle smoky depth, but you can add a pinch of chili flakes if you like a little heat. Serve warm straight from the pot.",
+            "timing": "2 minutes",
+            "doneness_cue": "Balanced seasoning with a pleasant smoky aroma and no raw flavors"
+        },
+        {
+            "step": 6,
+            "instruction": "For meal prep, let the pot cool completely before dividing into airtight containers. This prevents condensation which can make the dish soggy and affect texture. Store in the fridge for up to 4 days and reheat gently in the microwave or on the stove with a splash of broth or water to revive moisture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Containers sealed and cooled, no excess moisture inside"
+        },
+        {
+            "step": 7,
+            "instruction": "If freezing, portion into freezer-safe bags or containers. Remove as much air as possible to prevent freezer burn. Thaw overnight in the fridge before reheating. Avoid microwaving from frozen to keep the chicken tender and quinoa fluffy.",
+            "timing": "5 minutes prep, thaw overnight",
+            "doneness_cue": "Frozen portions are sealed tightly, thawed portions are moist and tender"
+        },
+        {
+            "step": 8,
+            "instruction": "To keep the quinoa fluffy and prevent it from drying out, avoid overcooking or adding too much liquid at the start. The ratio of broth to quinoa is key—too much and it gets mushy, too little and it’s dry. Rinsing quinoa beforehand removes bitterness and helps with texture.",
+            "timing": "N/A",
+            "doneness_cue": "Quinoa grains remain separate and tender, not clumped"
+        },
+        {
+            "step": 9,
+            "instruction": "Feel free to swap chicken for turkey, tofu, or chickpeas for a vegetarian twist. Adjust cooking times accordingly, especially for tofu which needs less cooking. Adding fresh herbs like parsley or cilantro at the end brightens the dish and adds freshness.",
+            "timing": "N/A",
+            "doneness_cue": "Protein is cooked through and well incorporated with the quinoa and veggies"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These One Pot Recipes Without Tomatoes Are So Satisfying and Protein-Packed",
+        "content": "<p>This recipe works because it combines lean protein with complex carbs and fiber-rich veggies in a single pot, which makes digestion slower and keeps you full longer. Chicken breast provides a high-quality complete protein that’s easily digested, helping with muscle repair and satiety. Quinoa adds not only carbs but also a good amount of plant-based protein, fiber, and essential amino acids, complementing the chicken’s profile.</p><p>The one pot method allows the flavors to meld as the quinoa cooks in the broth with the chicken and veggies, creating a rich and cohesive taste without needing heavy sauces or tomatoes. The gentle simmer locks in moisture, preventing the chicken from drying out, which is a common issue in lean protein dishes. Adding greens at the end preserves their nutrients and fresh texture, which balances the dish and adds vitamins and antioxidants.</p><p>Using smoked paprika and garlic enhances flavor naturally without extra calories or sodium, making it a healthy and satisfying meal. The broth hydrates the quinoa perfectly, avoiding the chalky or gritty texture protein powders sometimes cause in snacks. Plus, the recipe’s simplicity makes it ideal for meal prep, so you can enjoy a nutritious, high-protein meal anytime without fuss.</p><p>Overall, the combination of protein, fiber, and healthy fats from olive oil slows digestion and promotes steady energy release, which is why this tomato-free one pot meal keeps you full and energized for hours.</p>",
+        "ingredient_notes": {
+            "Chicken Breast": "Choose fresh, boneless, skinless chicken breast for lean protein. It cooks quickly and absorbs flavors well. Avoid pre-seasoned or frozen chicken with additives to keep the recipe clean. Pat dry before cooking to get a good sear and prevent steaming.",
+            "Quinoa": "Rinsing quinoa before cooking removes its natural bitter coating called saponin. Use white or tri-color quinoa for texture and visual appeal. Quinoa is a complete protein and adds fiber, making it ideal for balanced meals. Adjust liquid ratio carefully to avoid mushiness.",
+            "Bell Peppers": "Fresh bell peppers add sweetness, crunch, and vitamin C. Choose colorful varieties for antioxidants and visual appeal. Avoid overcooking to maintain texture and nutrients. Chopping uniformly ensures even cooking.",
+            "Spinach or Kale": "Adding greens at the end preserves their bright color and nutrients. Spinach wilts quickly and has a mild flavor, while kale adds a bit more chew and earthiness. Wash thoroughly to remove grit. Use fresh or frozen but thaw and drain well.",
+            "Smoked Paprika": "This spice adds smoky depth without heat. Opt for good quality paprika for vibrant color and flavor. It enhances the chicken and quinoa without overpowering. Substitute with regular paprika and a pinch of cumin if needed."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Sear the chicken first without overcrowding the pot",
+            "reason": "Searing chicken in batches allows Maillard reaction to develop, creating flavor and texture. Overcrowding traps steam and prevents browning, which can make the chicken rubbery and bland."
+        },
+        {
+            "tip": "Rinse quinoa thoroughly before cooking",
+            "reason": "Quinoa’s natural coating can taste bitter if not rinsed. Washing removes this layer and improves the final flavor and texture, preventing any off-putting aftertaste."
+        },
+        {
+            "tip": "Use low sodium broth to control salt levels",
+            "reason": "Broth adds moisture and flavor, but store-bought versions can be very salty. Using low sodium broth lets you adjust seasoning precisely and keeps the dish healthy."
+        },
+        {
+            "tip": "Add greens at the very end off heat",
+            "reason": "Greens wilt quickly and lose nutrients when overcooked. Adding them off heat preserves their texture, color, and vitamin content, making the dish more appealing and nutritious."
+        },
+        {
+            "tip": "Let the pot rest covered after cooking",
+            "reason": "Resting allows quinoa to finish absorbing liquid evenly and lets flavors meld. It also firms up the texture, preventing mushiness."
+        },
+        {
+            "tip": "Store leftovers in airtight containers after cooling",
+            "reason": "Trapping heat causes condensation, which can make the dish soggy and promote bacterial growth. Cooling first preserves texture and food safety."
+        },
+        {
+            "tip": "Use a tight-fitting lid to trap steam",
+            "reason": "A good seal ensures even cooking and moisture retention, which is key for fluffy quinoa and tender chicken."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking quinoa causing mushy texture",
+            "why_it_happens": "Many assume more cooking time improves tenderness, but quinoa becomes gummy when overcooked or too much liquid is used.",
+            "fix": "Measure liquid precisely (2:1 broth to quinoa) and simmer gently with the lid on. Remove from heat as soon as liquid is absorbed and let rest covered for 5 minutes."
+        },
+        {
+            "mistake": "Chicken turning out dry or rubbery",
+            "why_it_happens": "Cooking chicken too long or at too high heat without moisture dries it out, especially lean breast meat.",
+            "fix": "Sear chicken quickly just until browned, then finish cooking with the quinoa in broth to keep it moist and tender."
+        },
+        {
+            "mistake": "Greens overcooked and mushy",
+            "why_it_happens": "Adding greens too early or cooking too long breaks down their structure and dulls flavor.",
+            "fix": "Add greens only at the end off heat to gently wilt while preserving texture and nutrients."
+        },
+        {
+            "mistake": "Not rinsing quinoa leading to bitterness",
+            "why_it_happens": "Quinoa’s natural saponin coating tastes bitter if not washed off.",
+            "fix": "Rinse quinoa under cold water for 1-2 minutes before cooking to remove bitterness."
+        },
+        {
+            "mistake": "Using too much broth causing soggy dish",
+            "why_it_happens": "Excess liquid makes the quinoa and chicken stew-like rather than fluffy.",
+            "fix": "Stick to recommended broth ratio and avoid adding extra liquid during cooking."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian One Pot with Chickpeas and Sweet Potatoes",
+            "description": "Swap chicken for canned chickpeas and add diced sweet potatoes instead of bell peppers. This boosts fiber and plant protein while keeping it hearty and colorful. The sweetness of potatoes complements the smoky paprika well.",
+            "technical_note": "Cook sweet potatoes first for 5 minutes before adding quinoa and broth to ensure they soften fully without overcooking the quinoa."
+        },
+        {
+            "name": "Spicy One Pot with Turkey and Jalapeños",
+            "description": "Use ground turkey instead of chicken and toss in sliced jalapeños for heat. This variation adds a spicy kick and keeps the protein high. Great for those who like a little fire in their meals.",
+            "technical_note": "Add jalapeños with onions and peppers to mellow their heat during cooking."
+        },
+        {
+            "name": "Mediterranean One Pot with Feta and Olives",
+            "description": "After cooking, stir in crumbled feta cheese and chopped kalamata olives. This adds tangy, salty flavors and some healthy fats, enhancing the protein and making the dish more indulgent.",
+            "technical_note": "Add feta and olives off heat to keep their texture and flavor intact."
+        },
+        {
+            "name": "One Pot with Cauliflower Rice for Lower Carbs",
+            "description": "Replace quinoa with cauliflower rice for a low-carb, high-protein option. It cooks faster and adds a fresh, slightly crunchy texture. Pair with chicken and veggies as usual.",
+            "technical_note": "Add cauliflower rice last and cook for only 5 minutes to avoid sogginess."
+        },
+        {
+            "name": "Creamy Coconut One Pot with Tofu and Spinach",
+            "description": "Use firm tofu instead of chicken and add coconut milk with a splash of lime juice. This creates a creamy, dairy-free, high-protein dish with a tropical twist.",
+            "technical_note": "Simmer tofu gently in coconut milk and broth to absorb flavors without breaking apart."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "7g",
+        "fiber_grams": "5g",
+        "sodium_mg": "450mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and portion sizes."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This protein-rich one pot meal can be safely kept at room temperature for up to 2 hours. Beyond that, bacteria can grow rapidly, especially because of the chicken and broth. Cover it loosely if you need to keep it out briefly, but it’s best to refrigerate promptly to preserve freshness and texture.",
+        "refrigerator": "Store leftovers in airtight containers in the fridge for up to 4 days. The flavors deepen over time, and the quinoa stays tender. Reheat gently in the microwave or on the stove with a splash of broth or water to restore moisture. Avoid overheating to prevent drying out the chicken.",
+        "freezer": "Freeze portions in airtight, freezer-safe containers or bags for up to 3 months. Remove excess air to prevent freezer burn. Thaw overnight in the fridge before reheating. Texture may soften slightly after freezing but remains delicious and nutritious.",
+        "reheating": "Reheat this meal gently either in a microwave or on the stovetop over low heat. Add a splash of broth or water to prevent dryness and stir occasionally. Avoid high heat or long reheating times which can toughen the chicken and make quinoa mushy.",
+        "make_ahead_strategy": "Prepare the entire dish up to 2 days in advance and store covered in the fridge. Add fresh greens right before serving to keep them vibrant. For meal prep, portion into containers after cooling completely. This recipe is perfect for batch cooking on weekends to save time during busy weekdays."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute chicken with other proteins?",
+            "answer": "Absolutely! You can use turkey, tofu, chickpeas, or even shrimp depending on your preference. Just adjust cooking times accordingly—tofu and shrimp cook faster, while chickpeas need no cooking if canned. This flexibility helps tailor the recipe to your dietary needs."
+        },
+        {
+            "question": "How do I avoid the quinoa turning mushy?",
+            "answer": "The key is measuring the broth accurately (2 parts broth to 1 part quinoa) and simmering gently with the lid on. Removing the pot from heat as soon as the liquid is absorbed and letting it rest covered helps the quinoa finish cooking evenly without becoming mushy."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Yes! Swap chicken for firm tofu or chickpeas, and use vegetable broth instead of chicken broth. The smoked paprika and garlic will still provide great flavor, and adding coconut milk can add creaminess if desired."
+        },
+        {
+            "question": "Is this recipe good for meal prep?",
+            "answer": "Definitely. It stores well in the fridge for up to 4 days and freezes nicely for up to 3 months. Just cool completely before storing and reheat gently to maintain texture and flavor."
+        },
+        {
+            "question": "Why add greens at the end instead of cooking them with everything?",
+            "answer": "Greens like spinach and kale wilt quickly and can lose nutrients and texture if overcooked. Adding them at the end off heat preserves their vibrant color, fresh taste, and nutritional value."
+        },
+        {
+            "question": "What if I don’t have smoked paprika?",
+            "answer": "You can substitute with regular paprika and add a pinch of cumin or chili powder for a smoky or spicy note. The flavor won’t be identical but still delicious."
+        },
+        {
+            "question": "Can I use brown rice instead of quinoa?",
+            "answer": "Brown rice takes longer to cook and requires more liquid, so you’d need to adjust cooking time and broth quantity. Quinoa’s quick cooking and protein content make it ideal for this recipe, but brown rice is a fine alternative if you plan accordingly."
+        },
+        {
+            "question": "How do I prevent the chicken from drying out?",
+            "answer": "Searing the chicken first locks in juices, and cooking it gently with the quinoa in broth keeps it moist. Avoid high heat or overcooking by monitoring the simmer and removing from heat promptly."
+        }
+    ],
+    "conclusion": "I hope you give this tomato-free one pot recipe a try! I’d love to hear how it fits into your meal prep or gym routine—tag me with your results and macros!",
+    "seo": {
+        "primary_keyword": "one pot recipes without tomatoes",
+        "secondary_keywords": [
+            "high protein one pot meals",
+            "easy one pot dinner",
+            "healthy one pot recipes",
+            "meal prep one pot recipes",
+            "protein packed one pot meals",
+            "quick one pot recipes",
+            "post workout one pot meal"
+        ],
+        "internal_links": [
+            {
+                "text": "Easy No-Bake Protein Balls Recipe",
+                "anchor": "easy-no-bake-protein-balls"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1779285502_712",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-06-02 13:21:56",
+        "title_seed": "One Pot Recipes Without Tomatoes Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1780402916_710",
+    "slug": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor",
+    "uniqueSlug": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_pinrecipes_image_1.png",
+            "filePath": "posts/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_pinrecipes_image_1.png",
+            "relativePath": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_pinrecipes_image_2.png",
+            "filePath": "posts/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_pinrecipes_image_2.png",
+            "relativePath": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_pinrecipes_image_3.png",
+            "filePath": "posts/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_pinrecipes_image_3.png",
+            "relativePath": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_9.webp",
+            "filePath": "posts/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_9.webp",
+            "relativePath": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_6.webp",
+            "filePath": "posts/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_6.webp",
+            "relativePath": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_5.webp",
+            "filePath": "posts/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_5.webp",
+            "relativePath": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_7.webp",
+            "filePath": "posts/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_7.webp",
+            "relativePath": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_8.webp",
+            "filePath": "posts/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_8.webp",
+            "relativePath": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_4.webp",
+            "filePath": "posts/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_4.webp",
+            "relativePath": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_st1_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "image": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_pinrecipes_image_1.png",
+    "image_path": "posts/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images/easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor_pinrecipes_image_1.png",
+    "image_dir": "easy-one-pot-recipes-without-tomatoes-that-pack-protein-and-flavor/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-06-02T13:23:35+01:00",
+    "updatedAt": "2026-06-02T13:23:35+01:00"
+}
