@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-05 02:02:52",
-    "count": 30,
+    "generated": "2026-06-06 02:02:25",
+    "count": 31,
     "folders": [
         "can-you-cook-artichokes-in-an-instant-pot-easy-healthy-protein-boost",
         "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight",
@@ -14,6 +14,7 @@
         "easy-guide-how-long-to-cook-2-artichokes-in-instant-pot-for-a-healthy-snack",
         "easy-high-protein-cooked-watermelon-snack-to-beat-the-afternoon-slump",
         "easy-how-to-cook-artichokes-in-a-pot-for-a-healthy-protein-boost",
+        "easy-make-ahead-high-protein-low-calorie-snack-with-rustic-charm",
         "easy-no-bake-protein-fudge-bites-under-150-calories-each",
         "easy-one-bowl-lemon-cake-recipe-with-a-protein-boost",
         "easy-one-pot-pasta-recipes-without-tomatoes-for-a-protein-boost",
@@ -34,6 +35,21 @@
         "viral-tiktok-no-bake-chocolate-protein-bites-with-oats-almond-butter-for-a-high-protein-low-calorie-snack"
     ],
     "posts": [
+        {
+            "slug": "easy-make-ahead-high-protein-low-calorie-snack-with-rustic-charm",
+            "title": "Easy Make-Ahead High-Protein Low-Calorie Snack with Rustic Charm",
+            "description": "This snack is a vibrant, protein-packed delight served on a rustic wooden board that makes it feel homemade and satisfying. It’s low in calories but high in protein, perfect for keeping hunger away without the guilt. Gre",
+            "image": "posts/easy-make-ahead-high-protein-low-calorie-snack-with-rustic-charm/images/easy-make-ahead-high-protein-low-calorie-snack-with-rustic-charm_pinrecipes_image_1.png",
+            "category_id": "cat_1779285521_870",
+            "createdAt": "2026-06-06T02:02:25+01:00",
+            "updatedAt": "2026-06-06T02:02:25+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 10,
+            "cook_time": 0,
+            "total_time": null,
+            "servings": 6
+        },
         {
             "slug": "easy-10-minute-3-ingredient-no-bake-peanut-butter-protein-bites",
             "title": "Easy 10-Minute 3-Ingredient No Bake Peanut Butter Protein Bites",
