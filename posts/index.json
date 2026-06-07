@@ -1,12 +1,13 @@
 {
-    "generated": "2026-06-06 02:02:25",
-    "count": 31,
+    "generated": "2026-06-07 02:03:51",
+    "count": 32,
     "folders": [
         "can-you-cook-artichokes-in-an-instant-pot-easy-healthy-protein-boost",
         "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight",
         "creamy-asparagus-recipes-recipe-easy-high-protein-snack-for-busy-days",
         "creamy-asparagus-recipes-soup-recipe-a-healthy-high-protein-snack-idea",
         "easy-10-minute-3-ingredient-no-bake-peanut-butter-protein-bites",
+        "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-in-a-large-bowl-1",
         "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-in-a-large-bowl-or-plate",
         "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-in-a-large-bowl",
         "easy-baked-watermelon-a-surprisingly-protein-packed-snack",
@@ -35,6 +36,21 @@
         "viral-tiktok-no-bake-chocolate-protein-bites-with-oats-almond-butter-for-a-high-protein-low-calorie-snack"
     ],
     "posts": [
+        {
+            "slug": "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-in-a-large-bowl-1",
+            "title": "Easy 10-Minute High-Protein Low-Cal Snack with Appetizing Presentation in a Large Bowl",
+            "description": "This snack is a creamy, protein-packed bowl that feels like a treat but keeps calories low. Using zero-fat Greek yogurt and a touch of egg whites for fluff, it fills you up without guilt. Perfect for an afternoon pick-me",
+            "image": "posts/easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-in-a-large-bowl-1/images/easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-in-a-large-bowl-1_pinrecipes_image_1.png",
+            "category_id": "cat_1779285521_870",
+            "createdAt": "2026-06-07T02:03:51+01:00",
+            "updatedAt": "2026-06-07T02:03:51+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 10,
+            "cook_time": 0,
+            "total_time": null,
+            "servings": 6
+        },
         {
             "slug": "easy-make-ahead-high-protein-low-calorie-snack-with-rustic-charm",
             "title": "Easy Make-Ahead High-Protein Low-Calorie Snack with Rustic Charm",
