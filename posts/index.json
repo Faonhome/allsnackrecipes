@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-07 02:03:51",
-    "count": 32,
+    "generated": "2026-06-08 02:02:58",
+    "count": 33,
     "folders": [
         "can-you-cook-artichokes-in-an-instant-pot-easy-healthy-protein-boost",
         "classic-lamb-tagine-recipe-a-hearty-protein-packed-moroccan-delight",
@@ -8,6 +8,7 @@
         "creamy-asparagus-recipes-soup-recipe-a-healthy-high-protein-snack-idea",
         "easy-10-minute-3-ingredient-no-bake-peanut-butter-protein-bites",
         "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-in-a-large-bowl-1",
+        "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-in-a-large-bowl-2",
         "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-in-a-large-bowl-or-plate",
         "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-in-a-large-bowl",
         "easy-baked-watermelon-a-surprisingly-protein-packed-snack",
@@ -36,6 +37,36 @@
         "viral-tiktok-no-bake-chocolate-protein-bites-with-oats-almond-butter-for-a-high-protein-low-calorie-snack"
     ],
     "posts": [
+        {
+            "slug": "slow-cooker-zucchini-recipes-vegetarian-recipe-thats-easy-and-protein-rich",
+            "title": "Slow Cooker Zucchini Recipes Vegetarian Recipe That’s Easy and Protein-Rich",
+            "description": "This slow cooker zucchini recipe is a simple vegetarian dish packed with plant-based protein and fiber. Using lentils and chickpeas, it’s slow-cooked to tender perfection, making it a great post-workout or meal prep snac",
+            "image": "posts/slow-cooker-zucchini-recipes-vegetarian-recipe-thats-easy-and-protein-rich/images/slow-cooker-zucchini-recipes-vegetarian-recipe-thats-easy-and-protein-rich_pinrecipes_image_1.png",
+            "category_id": "cat_1779285502_712",
+            "createdAt": "2026-06-08T02:02:57+01:00",
+            "updatedAt": "2026-06-08T02:02:57+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 10,
+            "cook_time": 240,
+            "total_time": null,
+            "servings": 6
+        },
+        {
+            "slug": "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-in-a-large-bowl-2",
+            "title": "Easy 10-Minute High-Protein Low-Cal Snack with Appetizing Presentation in a Large Bowl",
+            "description": "This snack is a creamy, high-protein delight that fills you up without weighing you down. Using zero-fat Greek yogurt and whipped egg whites, it’s a fluffy, low-calorie treat perfect for afternoon cravings or post-workou",
+            "image": "posts/easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-in-a-large-bowl-2/images/easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-in-a-large-bowl-2_pinrecipes_image_1.png",
+            "category_id": "cat_1779285521_870",
+            "createdAt": "2026-06-08T01:02:54+00:00",
+            "updatedAt": "2026-06-08T01:02:54+00:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 10,
+            "cook_time": 0,
+            "total_time": null,
+            "servings": 6
+        },
         {
             "slug": "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-in-a-large-bowl-1",
             "title": "Easy 10-Minute High-Protein Low-Cal Snack with Appetizing Presentation in a Large Bowl",
@@ -182,21 +213,6 @@
             "isOnline": true,
             "difficulty": "Easy",
             "prep_time": 15,
-            "cook_time": 240,
-            "total_time": null,
-            "servings": 6
-        },
-        {
-            "slug": "slow-cooker-zucchini-recipes-vegetarian-recipe-thats-easy-and-protein-rich",
-            "title": "Slow Cooker Zucchini Recipes Vegetarian Recipe That’s Easy and Protein-Rich",
-            "description": "This slow cooker zucchini recipe is a simple vegetarian dish packed with plant-based protein and fiber. Using lentils and chickpeas, it’s slow-cooked to tender perfection, making it a great post-workout or meal prep snac",
-            "image": "posts/slow-cooker-zucchini-recipes-vegetarian-recipe-thats-easy-and-protein-rich/images/slow-cooker-zucchini-recipes-vegetarian-recipe-thats-easy-and-protein-rich_pinrecipes_image_1.png",
-            "category_id": "cat_1779285502_712",
-            "createdAt": "2026-06-04T02:05:57+01:00",
-            "updatedAt": "2026-06-04T02:05:57+01:00",
-            "isOnline": true,
-            "difficulty": "Easy",
-            "prep_time": 10,
             "cook_time": 240,
             "total_time": null,
             "servings": 6
