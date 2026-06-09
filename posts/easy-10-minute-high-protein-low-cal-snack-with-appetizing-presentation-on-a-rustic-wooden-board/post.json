@@ -1,0 +1,279 @@
+{
+    "title": "Easy 10-Minute High-Protein Low-Cal Snack with Appetizing Presentation on a Rustic Wooden Board",
+    "promptIMG": "Food photography: appetizing presentation on a rustic wooden board, appetizing presentation in a large bowl, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, colorful vegetables or berries, clean eating aesthetic, generous portion size --ar 4:3 --quality 2",
+    "description": "This snack is a high-protein, low-calorie delight served beautifully on a rustic wooden board. It’s packed with creamy zero-fat Greek yogurt and crisp veggies, making it perfect for a guilt-free afternoon boost or post-workout refuel. The secret? Adding a touch of xanthan gum to keep it fluffy and filling without extra calories.",
+    "hashtags": "#highprotein #lowcalorie #healthysnacks #volumeeating",
+    "board_name": "Healthy High Protein Snacks",
+    "pin_variations": [
+        {
+            "title": "Snack Big Without Guilt: High Protein Low Calorie Treats You’ll Love",
+            "description": "Craving something filling but light? This snack hits all the marks with over 20g protein and under 150 calories. Perfect for meal prep or a quick energy fix. Save this for your next snack attack! 🥄💪 #highprotein #lowcalorie #snackideas",
+            "hashtags": "#highprotein #lowcalorie #snackideas #mealprep #postworkout"
+        },
+        {
+            "title": "How to Make Your Snacks More Filling with Zero Fat Greek Yogurt",
+            "description": "I’ve found the trick to making snacks that satisfy without packing on calories — layering protein-rich yogurt with crunchy veggies on a rustic board. Try it today and feel full longer! 🥒🍓 #volumeeating #healthysnacks #proteinpower",
+            "hashtags": "#volumeeating #healthysnacks #proteinpower #lowcaloriesnack"
+        },
+        {
+            "title": "Simple High Protein Snack Ideas for Busy Afternoons",
+            "description": "Busy day? This quick snack is loaded with protein and looks gorgeous on a rustic wooden board. It’s my go-to for beating the afternoon slump without any guilt. Pin this for later! 🌿🥄 #easyhighprotein #lowcaloriesnacks #healthyeating",
+            "hashtags": "#easyhighprotein #lowcaloriesnacks #healthyeating #afternoonsnack"
+        },
+        {
+            "title": "Make-Ahead Low-Calorie High-Protein Boxes That Taste Amazing",
+            "description": "Meal prep just got easier with this high-protein, low-calorie snack served on a rustic wooden board. It’s fresh, filling, and perfect for when you want to eat big but stay lean. Try prepping a batch this weekend! 🍽️💚 #mealprep #highprotein #lowcalorie",
+            "hashtags": "#mealprep #highprotein #lowcalorie #healthysnacks #proteinboxes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 6,
+    "ingredients": [
+        "2 cups zero-fat Greek yogurt, cold",
+        "1/2 cup liquid egg whites, pasteurized",
+        "1 tbsp unflavored whey protein isolate powder",
+        "1/2 tsp xanthan gum",
+        "1/2 cup diced cucumber, fresh",
+        "1/2 cup chopped bell peppers (red and yellow), raw",
+        "1/4 cup fresh blueberries",
+        "Stevia or monk fruit sweetener to taste (about 5 drops)",
+        "1 tsp lemon juice, fresh",
+        "Pinch of sea salt"
+    ],
+    "yield": "Approximately 1 large rustic wooden board serving per person, 6 snack servings total, about 2 cups volume per serving",
+    "introduction": "I’ve always struggled with feeling hungry on low-calorie days, especially when cutting. Tiny snacks just don’t cut it, and I hate feeling like I’m starving between meals. That’s why I started experimenting with volume eating — snacks that fill you up without blowing your calorie budget. This high-protein low-calorie snack served on a rustic wooden board is my favorite discovery. It looks like a feast but clocks in under 150 calories per serving!\n\nWhat makes it better than those chalky protein bars or tiny yogurt cups? The secret is layering zero-fat Greek yogurt whipped with egg whites and a touch of xanthan gum to get that creamy, fluffy texture without any fat. Plus, adding fresh crunchy veggies and berries gives it a satisfying bite and natural sweetness. I learned the hard way that some zero-fat yogurts get watery when mixed, but finding the right brand and whipping it cold prevents that. My friend even asked how I manage to eat so much and still lose weight!\n\nI usually whip this up in about 10 minutes, and it’s perfect for afternoon slumps, post-workout refuel, or packing in meal prep boxes. The huge portion size tricks your brain into feeling full, and the protein keeps hunger at bay for hours. If you hate tiny, boring snacks, you’ll love this one.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by chilling your zero-fat Greek yogurt and liquid egg whites in the fridge for at least 30 minutes before mixing. Cold ingredients whip up better and prevent watery separation, which is common with fat-free dairy. Pour the yogurt and egg whites into a large mixing bowl. Slowly sprinkle in the xanthan gum while whisking vigorously. This step is crucial because the xanthan gum acts as a natural thickener that gives the snack a creamy, fluffy texture without adding calories or fat. Avoid dumping it all at once to prevent clumping. Whisk until the mixture is smooth and slightly thickened, almost like soft-serve ice cream.",
+            "timing": "5 minutes",
+            "doneness_cue": "The mixture should hold soft peaks and feel thick but airy, not runny or grainy."
+        },
+        {
+            "step": 2,
+            "instruction": "Next, gently fold in the whey protein isolate powder. Use unflavored or vanilla for best results. Adding protein powder after thickening the base prevents chalkiness and helps maintain creaminess. Mix slowly to avoid lumps, and if the mixture feels too stiff, add a teaspoon of cold water or lemon juice to loosen it slightly. The lemon juice also brightens the flavor and helps balance the dairy tang. Taste and add stevia or monk fruit sweetener little by little to avoid any bitter aftertaste. The goal is a smooth, creamy, lightly sweetened base that's high in protein but low in calories.",
+            "timing": "3 minutes",
+            "doneness_cue": "The final cream should be smooth, slightly glossy, and hold its shape well when scooped."
+        },
+        {
+            "step": 3,
+            "instruction": "Prepare your veggies and berries while the base chills briefly in the fridge for 5 minutes. Dice cucumber and bell peppers into small, bite-sized pieces. These add volume and crunch without calories, helping you eat a large portion that fills you up. Fresh blueberries bring a pop of sweetness and antioxidants. Layer the veggies and berries on a rustic wooden board or serving plate to make the snack visually appealing and inviting. The variety of colors and textures stimulates appetite and makes the snack feel indulgent despite being low-calorie.",
+            "timing": "5 minutes",
+            "doneness_cue": "Veggies should be crisp and fresh; berries plump and juicy."
+        },
+        {
+            "step": 4,
+            "instruction": "Spoon generous dollops of the whipped yogurt-protein mixture onto the board, creating mounds or small bowls. This method lets you control portions and keeps the snack looking abundant. The fluffy texture contrasts beautifully with the crunchy veggies. Avoid spreading the mixture too thin or it will lose its airy feel. Keep it cold until ready to serve to maintain structure and freshness. This presentation style encourages slow eating, which helps with satiety and digestion.",
+            "timing": "2 minutes",
+            "doneness_cue": "Yogurt mounds should be thick enough to hold shape but soft enough to scoop easily."
+        },
+        {
+            "step": 5,
+            "instruction": "Sprinkle a pinch of sea salt over the yogurt and veggies to enhance flavors and balance sweetness. Salt helps bring out the natural taste of the ingredients and prevents the snack from tasting bland. Use sparingly to keep sodium low. This simple seasoning trick makes a big difference in flavor without adding calories.",
+            "timing": "1 minute",
+            "doneness_cue": "A light shimmer of salt crystals visible on top."
+        },
+        {
+            "step": 6,
+            "instruction": "Serve immediately or cover loosely with plastic wrap and refrigerate for up to 2 hours before eating. The texture is best fresh, but chilling firms the snack slightly for a refreshing treat. Avoid leaving it out at room temperature for long, as the egg whites and yogurt can separate and lose fluffiness. If you notice any liquid pooling, gently stir before serving.",
+            "timing": "0 minutes",
+            "doneness_cue": "Snack should be cool and maintain volume without watery separation."
+        },
+        {
+            "step": 7,
+            "instruction": "For an extra protein boost, add a few spoonfuls of cooked edamame or fat-free cottage cheese on the side. These add texture and variety while keeping calories low. Mixing them in just before serving preserves their fresh texture. This step is optional but great if you want to push protein above 25g per serving.",
+            "timing": "2 minutes",
+            "doneness_cue": "Edamame or cottage cheese looks fresh and vibrant, not soggy."
+        },
+        {
+            "step": 8,
+            "instruction": "If you want to make this snack portable, portion it into airtight containers with the yogurt base separated from the veggies and berries. Assemble just before eating to keep the crunch intact. This technique is perfect for meal prep or packing in your gym bag. Remember to keep chilled until ready to eat to preserve texture and safety.",
+            "timing": "3 minutes",
+            "doneness_cue": "Containers sealed and components fresh without moisture buildup."
+        },
+        {
+            "step": 9,
+            "instruction": "Experiment with flavor variations by adding cinnamon, vanilla extract, or fresh herbs like mint or basil to the yogurt base. These add complexity without calories. Just fold them in gently after mixing the protein powder. Avoid over-flavoring, which can overpower the natural taste and make it less refreshing.",
+            "timing": "2 minutes",
+            "doneness_cue": "Flavors are well incorporated but the base remains smooth and creamy."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Snacks Actually Fill You Up for Under 200 Calories",
+        "content": "<p>Protein has a higher thermic effect of food (TEF) than carbs or fats, meaning your body burns more calories digesting it. This snack leverages that by packing over 20 grams of protein per serving, which helps increase metabolism slightly during digestion. More importantly, protein triggers satiety hormones like PYY, GLP-1, and cholecystokinin, which signal fullness to your brain more effectively than carbs or fats. This helps reduce hunger and cravings after eating.</p><p>Combining protein with high-volume, low-calorie ingredients like water-rich vegetables and zero-fat Greek yogurt stretches your stomach, sending mechanical fullness signals. This volume eating approach tricks your brain into feeling satisfied with fewer calories. The inclusion of xanthan gum mimics the creaminess of fat without adding calories, improving mouthfeel and making the snack more enjoyable.</p><p>Zero-fat dairy and egg whites are ideal here because they provide protein without the calorie-dense fats found in nuts or oils. The whey protein isolate used is low in carbs and fats, ensuring the snack remains lean. Using acidic ingredients like lemon juice helps prevent chalkiness from protein powder, while cold temperatures keep the mixture stable and fluffy. Large portion sizes psychologically satisfy cravings, making it easier to stick to a calorie deficit.</p><p>Overall, this snack balances the science of protein metabolism, satiety hormones, and volume eating principles to deliver a filling, tasty snack that supports weight loss or maintenance without feeling deprived.</p>",
+        "ingredient_notes": {
+            "whey protein isolate powder": "Choose a high-quality whey protein isolate with minimal additives and no hidden maltodextrin or creamers. Isolates have higher protein content and lower carbs/fat than concentrates, making them perfect for low-calorie snacks. They dissolve better in cold liquids and produce less chalkiness. Store in a cool, dry place and avoid flavored powders with sugar or fillers that add calories.",
+            "zero-fat Greek yogurt": "Look for plain zero-fat Greek yogurt with thick consistency and no added sugars. Some brands are watery or sour, which can affect texture. The high protein content and natural acidity help prevent chalkiness when mixing with protein powder. Using cold yogurt improves whipping and final fluffiness. Avoid 2% or full-fat versions to keep calories low.",
+            "liquid egg whites": "Pasteurized liquid egg whites add volume and protein without fat. They whip easily when cold and help create a fluffy texture in the snack. Avoid powdered egg whites as they may clump and affect smoothness. Use fresh or refrigerated liquid whites for best results. They also add a neutral flavor that blends well with yogurt and protein powder.",
+            "xanthan gum": "This natural hydrocolloid thickens and stabilizes the mixture without calories or fat. It mimics creaminess and prevents watery separation common in fat-free dairy snacks. Use sparingly to avoid gummy texture. Xanthan gum also helps trap air when whisked, contributing to fluffiness. High-quality, food-grade xanthan gum is best. Substitutes like guar gum may work but can alter texture.",
+            "fresh vegetables and berries": "Low-calorie, high-water-content veggies like cucumber and bell peppers add crunch and volume, increasing satiety. Berries provide natural sweetness and antioxidants without many calories. Choose fresh, firm produce for best texture. These ingredients also add color and visual appeal, making the snack more enjoyable and satisfying psychologically."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always chill your zero-fat Greek yogurt and egg whites before mixing to improve whipping and texture.",
+            "reason": "Cold ingredients trap air better when whisked, resulting in a fluffier, creamier snack. Warm mixtures tend to separate and become watery, ruining the volume and mouthfeel. This simple step ensures your snack holds its shape and feels indulgent despite having no fat."
+        },
+        {
+            "tip": "Add xanthan gum gradually while whisking to prevent clumps and achieve smooth thickening.",
+            "reason": "Xanthan gum hydrates quickly and can form lumps if added too fast. Slowly sprinkling it while whisking disperses it evenly, creating a stable, creamy texture that mimics fat. Without this, your snack may be runny or gritty, which reduces enjoyment and satiety."
+        },
+        {
+            "tip": "Use unflavored or vanilla whey protein isolate to minimize chalkiness and bitterness.",
+            "reason": "Flavored protein powders often contain sweeteners or fillers that can alter texture and flavor in low-fat snacks. Isolates dissolve better in cold liquids and have a cleaner taste, which helps keep your snack smooth and pleasant. This choice is key to making a high-protein snack that tastes fresh."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the xanthan gum and ending up with a watery, unappealing snack.",
+            "why_it_happens": "People often underestimate the role of hydrocolloids in fat-free recipes, assuming yogurt and egg whites alone will thicken enough. Without xanthan gum, the mixture separates and loses its fluffy texture.",
+            "fix": "Always add a small amount of xanthan gum gradually while whisking cold ingredients to stabilize and thicken. This prevents watery separation and creates a creamy mouthfeel without adding calories."
+        },
+        {
+            "mistake": "Using full-fat or 2% Greek yogurt, which increases calories and reduces fluffiness.",
+            "why_it_happens": "Some assume any Greek yogurt works and overlook fat content. Full-fat versions add unwanted calories and fat, changing texture and satiety dynamics.",
+            "fix": "Choose plain zero-fat Greek yogurt to keep calories low and texture light. It whips better and works with protein powder to maximize protein density."
+        },
+        {
+            "mistake": "Adding too much sweetener, causing an artificial aftertaste.",
+            "why_it_happens": "In an effort to mask dairy tang, people often over-sweeten with stevia or monk fruit, which can taste bitter in high amounts.",
+            "fix": "Add sweetener in small increments, tasting as you go. The natural sweetness from berries and lemon juice should balance flavors without needing much added sweetener."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Berry Citrus Protein Snack",
+            "description": "Swap cucumber and bell peppers for a mix of fresh strawberries, raspberries, and a splash of orange zest. This adds a bright, fruity flavor and keeps the snack low-calorie and high-protein. Expect a slightly sweeter taste and a juicy texture that complements the creamy base.",
+            "technical_note": "Because berries release juice, fold them in gently just before serving to prevent the mixture from becoming watery."
+        },
+        {
+            "name": "Savory Herb Protein Bowl",
+            "description": "Add chopped fresh herbs like dill, parsley, and chives to the yogurt base and swap sweetener for a pinch of black pepper and garlic powder. Pair with celery sticks and cherry tomatoes for a savory, high-protein snack under 150 calories. This variation feels like a light meal.",
+            "technical_note": "Omit sweetener and lemon juice to keep flavors balanced; herbs should be finely chopped and folded in to maintain smooth texture."
+        },
+        {
+            "name": "Chocolate Mocha Protein Treat",
+            "description": "Mix in 1 tsp unsweetened cocoa powder and 1/2 tsp instant coffee granules into the yogurt base. Sweeten lightly with monk fruit. This gives a rich mocha flavor while keeping calories low and protein high. Great for an afternoon pick-me-up.",
+            "technical_note": "Add cocoa and coffee before protein powder to ensure even mixing and prevent clumps."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "140 kcal",
+        "protein_grams": "22g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "0.5g",
+        "fiber_grams": "2g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and protein powder used. Always calculate based on your specific brands. This recipe is designed for a high-protein, low-calorie approach."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This snack should not be left out at room temperature for more than 30 minutes due to the egg whites and dairy content. Cover loosely if serving outside the fridge briefly. Warm temperatures cause separation and loss of fluffiness.",
+        "refrigerator": "Store in an airtight container for up to 2 days. The snack firms up when chilled and holds its volume well. It tastes best cold or slightly chilled. Stir gently if any liquid separation occurs before serving.",
+        "freezer": "Not recommended to freeze due to high water content and dairy base. Freezing causes icy texture and loss of fluffiness.",
+        "reheating": "This snack is best eaten cold. Reheating is not advised as it will cause separation and degrade texture. If needed, let sit at room temperature 10 minutes before eating.",
+        "make_ahead_strategy": "Prepare the yogurt-protein base and veggies separately up to 2 days ahead. Store components in airtight containers and assemble just before eating to maintain crunch and fluffiness. This approach works great for meal prep Sundays."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute the whey protein isolate with plant-based protein powder?",
+            "answer": "Yes, you can use plant-based protein powders like pea or rice, but texture may vary. Plant proteins often absorb liquids differently and can cause grittiness or less fluffiness. To improve texture, try blending the protein powder with a small amount of water before folding it into the yogurt mixture. Also, expect slightly different flavors and possibly a thicker consistency."
+        },
+        {
+            "question": "Why does my snack sometimes turn watery after mixing?",
+            "answer": "Watery texture usually happens when xanthan gum is skipped or ingredients aren’t cold enough. Xanthan gum stabilizes the mixture and prevents separation. Also, warm yogurt or egg whites don’t whip well and release water. Make sure to chill ingredients and add xanthan gum gradually while whisking to create a stable, creamy snack."
+        },
+        {
+            "question": "Is it safe to eat raw liquid egg whites in this snack?",
+            "answer": "Using pasteurized liquid egg whites ensures safety as they are heat-treated to kill bacteria. Avoid raw shell eggs or homemade egg whites unless fully cooked. Pasteurized egg whites are widely available and safe for no-cook recipes like this one."
+        },
+        {
+            "question": "How do I avoid a chalky taste from protein powder?",
+            "answer": "Choose a high-quality whey protein isolate with minimal fillers and add acidic ingredients like lemon juice or use cold yogurt. Mixing protein powder after thickening the base and whisking gently helps prevent chalkiness. Also, adding a small amount of liquid (water or almond milk) can improve mouthfeel."
+        },
+        {
+            "question": "Can I add nut butters or seeds to increase calories?",
+            "answer": "You can, but that will increase calories significantly and change the snack’s low-calorie profile. If you add nut butters or seeds, keep portions very small (under 1 tsp) to avoid turning this into a high-fat snack. For strict low-calorie goals, it’s best to avoid calorie-dense add-ins."
+        },
+        {
+            "question": "How long does this snack keep me full?",
+            "answer": "Thanks to the high protein and volume from veggies, this snack keeps most people full for 3-4 hours. Protein triggers satiety hormones, and the large portion size helps stretch your stomach, reducing hunger pangs between meals."
+        },
+        {
+            "question": "Can I prepare this snack ahead for the whole week?",
+            "answer": "The yogurt-protein base can be made up to 2 days ahead and stored refrigerated. Veggies should be prepped separately and added just before eating to maintain crunch. Assembling the snack fully too far in advance can cause sogginess and loss of fluffiness."
+        },
+        {
+            "question": "Is this snack suitable for cutting phases?",
+            "answer": "Absolutely! It’s designed to be high-protein and low-calorie with a large volume to keep you full without excess calories. The balance of protein and fiber-rich veggies supports fat loss while preserving muscle."
+        }
+    ],
+    "conclusion": "Give this high-protein, low-calorie snack a try and enjoy a satisfying, guilt-free treat that looks as good as it tastes! Share your macro wins or tag me if you make it—I’d love to see your versions.",
+    "seo": {
+        "primary_keyword": "high protein low calorie snack",
+        "secondary_keywords": [
+            "volume eating protein snack",
+            "easy low cal snacks",
+            "how to make appetizing presentation on a rustic wooden board low calorie",
+            "best low calorie appetizing presentation on a rustic wooden board recipe",
+            "easy high protein low calorie snacks",
+            "healthy low calorie snack meal prep",
+            "post workout low calorie snack recipe",
+            "protein snacks under 200 calories"
+        ],
+        "internal_links": [
+            {
+                "text": "healthy low calorie snack meal prep ideas",
+                "anchor": "healthy_low_calorie_snack_meal_prep"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4500 words"
+    },
+    "category_id": "cat_1779285521_870",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-06-09 01:02:35",
+        "title_seed": "appetizing presentation on a rustic wooden board"
+    },
+    "author_id": "author_001",
+    "id": "post_1780966955_632",
+    "slug": "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board",
+    "uniqueSlug": "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board_pinrecipes_image_1.png",
+            "filePath": "posts/easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board/images/easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board_pinrecipes_image_1.png",
+            "relativePath": "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board/images/easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board_pinrecipes_image_2.png",
+            "filePath": "posts/easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board/images/easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board_pinrecipes_image_2.png",
+            "relativePath": "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board/images/easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board_pinrecipes_image_3.png",
+            "filePath": "posts/easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board/images/easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board_pinrecipes_image_3.png",
+            "relativePath": "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board/images/easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        }
+    ],
+    "image": "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board_pinrecipes_image_1.png",
+    "image_path": "posts/easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board/images/easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board_pinrecipes_image_1.png",
+    "image_dir": "easy-10-minute-high-protein-low-cal-snack-with-appetizing-presentation-on-a-rustic-wooden-board/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-06-09T01:02:35+00:00",
+    "updatedAt": "2026-06-09T01:02:35+00:00"
+}
