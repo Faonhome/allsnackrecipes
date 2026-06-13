@@ -297,6 +297,50 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_4.webp",
+            "filePath": "posts/easy-baked-watermelon-a-surprisingly-protein-packed-snack/images/easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_4.webp",
+            "relativePath": "easy-baked-watermelon-a-surprisingly-protein-packed-snack/images/easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-baked-watermelon-a-surprisingly-protein-packed-snack/images/easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_7.webp",
+            "filePath": "posts/easy-baked-watermelon-a-surprisingly-protein-packed-snack/images/easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_7.webp",
+            "relativePath": "easy-baked-watermelon-a-surprisingly-protein-packed-snack/images/easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-baked-watermelon-a-surprisingly-protein-packed-snack/images/easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_6.webp",
+            "filePath": "posts/easy-baked-watermelon-a-surprisingly-protein-packed-snack/images/easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_6.webp",
+            "relativePath": "easy-baked-watermelon-a-surprisingly-protein-packed-snack/images/easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-baked-watermelon-a-surprisingly-protein-packed-snack/images/easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_8.webp",
+            "filePath": "posts/easy-baked-watermelon-a-surprisingly-protein-packed-snack/images/easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_8.webp",
+            "relativePath": "easy-baked-watermelon-a-surprisingly-protein-packed-snack/images/easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-baked-watermelon-a-surprisingly-protein-packed-snack/images/easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_9.webp",
+            "filePath": "posts/easy-baked-watermelon-a-surprisingly-protein-packed-snack/images/easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_9.webp",
+            "relativePath": "easy-baked-watermelon-a-surprisingly-protein-packed-snack/images/easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-baked-watermelon-a-surprisingly-protein-packed-snack/images/easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_5.webp",
+            "filePath": "posts/easy-baked-watermelon-a-surprisingly-protein-packed-snack/images/easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_5.webp",
+            "relativePath": "easy-baked-watermelon-a-surprisingly-protein-packed-snack/images/easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-baked-watermelon-a-surprisingly-protein-packed-snack/images/easy-baked-watermelon-a-surprisingly-protein-packed-snack_st1_image_5.webp",
+            "type": "template"
         }
     ],
     "image": "easy-baked-watermelon-a-surprisingly-protein-packed-snack_pinrecipes_image_1.png",
@@ -304,6 +348,6 @@
     "image_dir": "easy-baked-watermelon-a-surprisingly-protein-packed-snack/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-06-03T02:02:29+01:00",
-    "updatedAt": "2026-06-03T02:02:29+01:00"
+    "createdAt": "2026-06-13T02:01:59+01:00",
+    "updatedAt": "2026-06-13T02:01:59+01:00"
 }
