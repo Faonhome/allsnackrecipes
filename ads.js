@@ -8,69 +8,46 @@
 
     // ==================== CONFIGURATION ====================
     const ADS_CONFIG = {
-            "publisherId": "ca-pub-6148321058276899",
+            "publisherId": "ca-pub-3666818985097490",
             "enabled": true,
             "injectionDelay": 300,
             "placements": [
-                {
-                    "selector": ".recipe-description",
-                    "position": "after",
-                    "format": "auto",
-                    "pages": "all",
-                    "slot": "1234567890",
-                    "className": "ad-after-description"
-                },
                 {
                     "selector": ".story-section",
                     "position": "before",
                     "format": "in-article",
                     "pages": "all",
-                    "slot": "8585833617",
-                    "everyNth": 2,
-                    "maxAds": 5,
+                    "slots": [
+                        "4055138220",
+                        "8684648378"
+                    ],
+                    "everyNth": 3,
+                    "maxAds": 2,
                     "className": "ad-in-article"
-                },
-                {
-                    "selector": ".recipe-boxes",
-                    "position": "after",
-                    "format": "auto",
-                    "pages": "all",
-                    "slot": "8585833617",
-                    "className": "ad-after-recipe-box"
                 },
                 {
                     "selector": "footer.footer",
                     "position": "before",
                     "format": "horizontal",
                     "pages": "all",
-                    "slot": "8585833617",
+                    "slot": "8684648378",
                     "className": "ad-before-footer"
                 },
                 {
-                    "selector": "#main-content .container",
-                    "position": "inside-top",
+                    "selector": ".hero",
+                    "position": "after",
                     "format": "auto",
                     "pages": "spa",
-                    "slot": "8585833617",
+                    "slot": "8684648378",
                     "className": "ad-top-content"
                 },
                 {
-                    "selector": ".breadcrumb",
+                    "selector": ".header",
                     "position": "after",
                     "format": "auto",
                     "pages": "all",
-                    "slot": "8585833617",
-                    "className": "ad-after-breadcrumb"
-                },
-                {
-                    "selector": ".story-headline",
-                    "position": "before",
-                    "format": "auto",
-                    "pages": "all",
-                    "slot": "8585833617",
-                    "everyNth": 2,
-                    "maxAds": 3,
-                    "className": "ads-story-headline"
+                    "slot": "4055138220",
+                    "className": "Ad-header"
                 }
             ]
         };
@@ -143,7 +120,8 @@
     }
 
     function insertAd(placement, target) {
-        var ad = createAdUnit(placement.slot, placement.format, placement.className);
+        var slotId = placement.slot || (placement.slots && placement.slots[0]);
+        var ad = createAdUnit(slotId, placement.format, placement.className);
 
         switch (placement.position) {
             case 'before':
