@@ -1,0 +1,357 @@
+{
+    "title": "Easy Make-Ahead Healthy Cucumber Protein Snack Boxes for Volume Eating",
+    "promptIMG": "Food photography: Healthy Cucumber Recipes, appetizing presentation in a large bowl, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, colorful vegetables or berries, clean eating aesthetic, generous portion size --ar 4:3 --quality 2",
+    "description": "These crunchy cucumber snack boxes combine hydrating veggies with creamy fat-free Greek yogurt and a sprinkle of protein powder for a refreshing, high-protein, low-calorie bite. Perfect for meal prep or a mid-afternoon pick-me-up that fills you up without guilt!",
+    "hashtags": "#HealthyCucumberRecipes #HighProtein #LowCalorie #MealPrepSnacks",
+    "board_name": "Healthy High Protein Snacks",
+    "pin_variations": [
+        {
+            "title": "Refresh Your Snack Game with These High Protein Cucumber Bites!",
+            "description": "Looking for a cool, crunchy snack under 200 calories? These cucumber protein boxes are packed with flavor and keep you full. Save this for your next meal prep day! 🥒💪 #HighProteinSnacks #LowCalorie #HealthyEating",
+            "hashtags": "#HighProteinSnacks #LowCalorie #HealthyEating #SnackIdeas #MealPrep"
+        },
+        {
+            "title": "Beat Afternoon Slumps with This Easy Low-Calorie Cucumber Protein Snack",
+            "description": "Say goodbye to boring snacks! This cucumber protein combo is super easy, low in calories, and keeps hunger away. Pin it now and try today! 🥒✨ #LowCalorieSnacks #ProteinSnack #HealthyLifestyle",
+            "hashtags": "#LowCalorieSnacks #ProteinSnack #HealthyLifestyle #VolumeEating #SnackTime"
+        },
+        {
+            "title": "Make-Ahead Cucumber Protein Snack Boxes That Actually Fill You Up",
+            "description": "I love prepping these cucumber boxes for busy days—they’re light, refreshing, and loaded with protein. Perfect for cutting or post-workout fuel. Pin this recipe for easy snacking! 🥒🍽️ #MealPrep #ProteinSnacks #HealthySnacks",
+            "hashtags": "#MealPrep #ProteinSnacks #HealthySnacks #HighProtein #LowCalorie"
+        },
+        {
+            "title": "Crunchy, Creamy, and Protein-Packed Cucumber Snack Under 150 Calories!",
+            "description": "This snack hits the spot with fresh cucumbers and creamy zero-fat Greek yogurt mixed with protein powder. It’s crunchy, filling, and guilt-free. Try it today and pin for later! 🥒💚 #HealthySnack #ProteinUnder200 #LowCalorie",
+            "hashtags": "#HealthySnack #ProteinUnder200 #LowCalorie #VolumeEating #SnackIdeas"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 6,
+    "ingredients": [
+        "2 large cucumbers, sliced into thick rounds",
+        "1 cup zero-fat Greek yogurt, chilled",
+        "1 scoop vanilla whey protein isolate powder",
+        "1 tablespoon fresh dill, finely chopped",
+        "1 teaspoon lemon juice, fresh",
+        "1/4 teaspoon xanthan gum (optional, for thickening)",
+        "Salt and pepper to taste",
+        "1 teaspoon chia seeds (optional, for texture and fiber)"
+    ],
+    "yield": "6 snack servings, approximately 1 cup volume each",
+    "introduction": "I’ve always struggled with feeling hungry on low-calorie diets, especially when I want to eat a decent volume of food. That’s why I started experimenting with cucumbers — they’re super hydrating and low in calories but don’t offer much protein on their own. So I combined thick cucumber slices with zero-fat Greek yogurt and a scoop of protein powder to create a snack that’s crunchy, creamy, and surprisingly filling. What makes this version better than store-bought snacks is the sheer volume you get for under 150 calories per serving. Plus, I add a bit of xanthan gum to thicken the yogurt mixture without adding fat, so it clings nicely to the cucumber slices without dripping. I remember the first batch was too watery and bland, but once I nailed the yogurt-to-protein ratio and added fresh dill and lemon juice, it became a flavor bomb. I usually prep these snack boxes on Sunday evenings so I have a grab-and-go option for my afternoon slump at work or right after the gym. The texture is crisp and creamy, and the fullness lasts for hours without feeling heavy — perfect for cutting or just a healthy treat. Friends often ask me how I can eat so much and still lose weight, and this snack is one of my secrets!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by slicing the cucumbers into thick rounds, about 1/3 inch thick. Thick slices hold up better when dipped and provide a satisfying crunch without being watery. Avoid slicing too thin or the cucumber will become soggy when combined with the yogurt mixture. Pat the slices dry with paper towels to remove excess moisture, which helps keep the snack crisp longer.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cucumber slices are firm, dry on the surface, and about 1/3 inch thick"
+        },
+        {
+            "step": 2,
+            "instruction": "In a mixing bowl, combine the zero-fat Greek yogurt with the vanilla whey protein isolate powder. Whisk briskly to fully incorporate the powder without lumps. The protein powder thickens the yogurt and adds creaminess, but if added too quickly or without whisking, it can clump or taste chalky. Adding it slowly and whisking well ensures a smooth texture.",
+            "timing": "3 minutes",
+            "doneness_cue": "Yogurt mixture is smooth, creamy, and homogenous without lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "Add lemon juice, chopped dill, salt, and pepper to the yogurt-protein mixture. The lemon juice adds brightness and helps cut through the tang of Greek yogurt, while dill adds fresh herbal notes that complement cucumber perfectly. Season to taste but keep salt moderate to avoid water retention.",
+            "timing": "2 minutes",
+            "doneness_cue": "Mixture is well-seasoned with fresh aroma and balanced tanginess"
+        },
+        {
+            "step": 4,
+            "instruction": "If using xanthan gum, sprinkle it lightly over the yogurt mixture and whisk vigorously to prevent clumps. Xanthan gum acts as a natural thickener, giving the mixture a creamy, clingy texture without adding calories or fat. This step is key to avoid watery separation when dipping cucumber slices.",
+            "timing": "1 minute",
+            "doneness_cue": "Yogurt mixture thickens slightly and coats the back of a spoon smoothly"
+        },
+        {
+            "step": 5,
+            "instruction": "Optionally, stir in chia seeds for a bit of crunch and extra fiber. They absorb some moisture and add interesting texture without changing flavor. Let the mixture sit for 5 minutes to allow chia seeds to swell slightly, which helps with volume and satiety.",
+            "timing": "5 minutes resting",
+            "doneness_cue": "Mixture thickens further and chia seeds become gelatinous"
+        },
+        {
+            "step": 6,
+            "instruction": "Arrange cucumber slices in individual snack containers or a large serving bowl. Spoon the yogurt-protein mixture generously over each slice, or serve as a dip on the side. The thickened yogurt sticks well to the cucumber, making every bite creamy and satisfying.",
+            "timing": "3 minutes",
+            "doneness_cue": "Cucumber slices are evenly coated or paired with thick dip, ready to eat"
+        },
+        {
+            "step": 7,
+            "instruction": "Cover and refrigerate the snack boxes for at least 30 minutes before serving. Chilling firms up the yogurt mixture and lets the flavors meld. Eating it cold enhances the refreshing quality of the cucumber and makes the snack more enjoyable especially on warm days.",
+            "timing": "30 minutes",
+            "doneness_cue": "Snack is chilled, yogurt mixture is firm but creamy"
+        },
+        {
+            "step": 8,
+            "instruction": "Before serving, give the snack a quick stir if the yogurt mixture has separated slightly. The xanthan gum helps prevent this, but some settling is normal with zero-fat dairy. Stirring restores creamy texture without watering down the snack.",
+            "timing": "1 minute",
+            "doneness_cue": "Yogurt mixture is smooth and creamy again after stirring"
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy immediately as a high-protein, low-calorie snack that’s great for volume eating. These cucumber protein boxes keep well in the fridge for up to 3 days, making them perfect for meal prep and quick hunger fixes.",
+            "timing": "Immediate",
+            "doneness_cue": "Snack is fresh, flavorful, and satisfying"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Snacks Actually Fill You Up for Under 200 Calories",
+        "content": "<p>Protein is a powerhouse macronutrient when it comes to satiety and calorie burning. Its thermic effect of food (TEF) means your body uses more energy digesting protein than carbs or fats, which supports weight loss and fullness. This recipe leverages whey protein isolate, which is low in calories but highly bioavailable, ensuring you get maximum protein impact without extra fats or carbs.</p><p>The combination of protein with high-volume, low-calorie cucumbers creates a double whammy for fullness. Cucumbers are mostly water and fiber, stretching your stomach and activating mechanical fullness signals to the brain. This means you eat a larger portion size that looks and feels like a substantial snack but with very few calories.</p><p>Using zero-fat Greek yogurt adds creaminess and tang without the calorie load of fats, while xanthan gum acts as a hydrocolloid to mimic the texture fat would normally provide. This thickener prevents watery separation common in low-fat dairy mixtures and improves mouthfeel, making the snack more enjoyable and less chalky despite the protein powder.</p><p>Flavor enhancers like lemon juice and fresh dill keep the snack interesting and mask any potential chalkiness from the protein powder. Altogether, this recipe balances texture, flavor, and nutrition to make a satisfying, filling snack that fits perfectly into a high-protein, low-calorie lifestyle.</p>",
+        "ingredient_notes": {
+            "whey protein isolate powder": "Choose a high-quality whey protein isolate with minimal additives and no maltodextrin or fillers. Isolates have higher protein content per gram and fewer carbs or fats, making them ideal for low-calorie snacks. They blend smoothly with dairy and enhance creaminess without chalkiness when whisked properly.",
+            "zero-fat Greek yogurt": "Look for plain, zero-fat Greek yogurt with no added sugars. The thick texture helps bulk up the snack and provides tangy flavor. Lower fat content means fewer calories but can lead to watery separation, so thickening agents like xanthan gum help maintain texture.",
+            "cucumbers": "Pick firm, fresh cucumbers with minimal seeds for the best crunch. English or Persian cucumbers work well. Their high water content adds volume without calories, perfect for volume eating strategies.",
+            "xanthan gum": "A natural thickening agent that mimics fat’s creamy texture without adding calories. It stabilizes the yogurt-protein mixture, preventing watery separation and improving mouthfeel. Use sparingly to avoid a gummy texture.",
+            "chia seeds": "Optional for added fiber and a bit of crunch. They absorb liquid and swell, increasing volume and satiety. Use in small amounts to avoid overly gelled texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Whisk protein powder into yogurt slowly to avoid clumps.",
+            "reason": "Protein powders can clump when added too quickly or in large amounts to low-fat dairy. Slowly whisking ensures even hydration and smooth texture, preventing unpleasant chalkiness and improving mouthfeel."
+        },
+        {
+            "tip": "Pat cucumbers dry before assembling to keep crunch.",
+            "reason": "Excess moisture from cucumbers can water down the yogurt mixture and make the snack soggy. Drying slices with paper towels preserves crispness and improves overall texture."
+        },
+        {
+            "tip": "Use xanthan gum sparingly for creamy texture without calories.",
+            "reason": "Xanthan gum thickens mixtures by binding water, mimicking fat’s mouthfeel. Too much can cause a gummy or slimy texture, so precise measurement is key for a pleasant creamy consistency."
+        },
+        {
+            "tip": "Chill the snack before eating to firm up texture and meld flavors.",
+            "reason": "Cold temperatures help thicken the yogurt mixture and enhance the refreshing quality of cucumber. It also allows flavors like dill and lemon to develop fully, making the snack more enjoyable."
+        },
+        {
+            "tip": "Add fresh herbs and citrus to mask protein powder aftertaste.",
+            "reason": "Protein powders sometimes have a chalky or artificial flavor. Bright herbs like dill and acid from lemon juice balance and mask these notes, improving palatability without extra calories."
+        },
+        {
+            "tip": "Prepare snack boxes ahead for grab-and-go convenience.",
+            "reason": "Making these in advance saves time and ensures you have a healthy, filling snack ready. The recipe holds well refrigerated for several days, making meal prep easy and stress-free."
+        },
+        {
+            "tip": "Use vanilla or mildly flavored protein powder to complement cucumber.",
+            "reason": "Strongly flavored powders can clash with fresh cucumber. Vanilla or neutral flavors blend well with herbs and lemon, creating a harmonious taste experience."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping xanthan gum and ending up with watery yogurt mixture.",
+            "why_it_happens": "People often think yogurt alone will thicken enough, but zero-fat yogurt lacks fat to stabilize texture, causing separation.",
+            "fix": "Add a small amount (about 1/4 teaspoon) of xanthan gum and whisk well to thicken and stabilize the dip, preventing watery separation."
+        },
+        {
+            "mistake": "Using full-fat yogurt unknowingly increasing calories.",
+            "why_it_happens": "Labels can be confusing; some yogurts labeled Greek aren’t zero-fat, adding unwanted calories.",
+            "fix": "Double-check nutrition facts and choose plain zero-fat Greek yogurt to keep calories low and protein high."
+        },
+        {
+            "mistake": "Adding protein powder too fast causing lumps.",
+            "why_it_happens": "Protein powder can clump if added all at once without proper whisking.",
+            "fix": "Add powder gradually while whisking vigorously to ensure smooth, lump-free mixture."
+        },
+        {
+            "mistake": "Not drying cucumber slices leading to soggy snacks.",
+            "why_it_happens": "Cucumbers release water, which dilutes yogurt mixture and ruins crunch.",
+            "fix": "Pat slices dry with paper towels before assembling to maintain crisp texture."
+        },
+        {
+            "mistake": "Overusing xanthan gum resulting in gummy texture.",
+            "why_it_happens": "Too much thickener can make the snack slimy and unpleasant.",
+            "fix": "Use xanthan gum sparingly, no more than 1/4 teaspoon for this volume."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Sriracha Cucumber Protein Snack",
+            "description": "Swap dill and lemon for a teaspoon of sriracha and a pinch of smoked paprika for a spicy kick. This variation adds a bold flavor profile while keeping calories low and protein high. Expect a creamy, tangy, and spicy snack that wakes up your taste buds.",
+            "technical_note": "Adjust seasoning carefully; spicy ingredients can alter the yogurt’s texture slightly but won’t affect protein content."
+        },
+        {
+            "name": "Cucumber and Edamame Protein Dip",
+            "description": "Blend cooked edamame with Greek yogurt and protein powder for a plant-forward dip served with cucumber slices. This swap adds fiber and plant protein, slightly increasing calories but boosting volume and texture.",
+            "technical_note": "Puree edamame smoothly to avoid grainy texture; chill before serving for best consistency."
+        },
+        {
+            "name": "Cucumber and Cottage Cheese Protein Snack",
+            "description": "Replace Greek yogurt with low-fat cottage cheese mixed with protein powder. This creates a chunkier, more textured snack with a slightly higher calorie count but excellent protein density and a fresh taste.",
+            "technical_note": "Blend cottage cheese slightly if you prefer smoother texture; watch for added sodium."
+        },
+        {
+            "name": "Sweet Berry Cucumber Protein Bowl",
+            "description": "Add a handful of fresh berries and a drizzle of sugar-free syrup to the yogurt-protein mix for a sweet, refreshing snack. This variation adds antioxidants and natural sweetness without many calories.",
+            "technical_note": "Use low-calorie sweeteners to avoid aftertaste; berries add natural fiber and volume."
+        },
+        {
+            "name": "Herbed Lemon and Garlic Cucumber Snack",
+            "description": "Mix minced garlic and fresh parsley with the yogurt and protein powder for a savory, Mediterranean-inspired snack. It’s low-calorie, high-protein, and perfect for those craving a more robust flavor.",
+            "technical_note": "Let the mixture rest to mellow garlic’s sharpness; balance lemon juice to avoid overpowering."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "140 kcal",
+        "protein_grams": "20g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "0.5g",
+        "fiber_grams": "2g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and protein powder used. Always calculate based on your specific brands. This recipe is designed for a high-protein, low-calorie approach."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This snack is best kept refrigerated and should not be left at room temperature for more than 1 hour due to the dairy content. Cover with airtight lids to prevent drying out. At room temp, the yogurt may separate and cucumbers can lose crispness quickly.",
+        "refrigerator": "Store in airtight containers for up to 3 days. The flavors meld nicely when chilled, and the texture firms up. The snack holds its volume well but may require a quick stir before eating to restore creaminess.",
+        "freezer": "Freezing is not recommended as cucumbers become watery and yogurt texture degrades. If necessary, freeze only the yogurt-protein mixture separately for up to 1 month and thaw in the fridge before mixing with fresh cucumber slices.",
+        "reheating": "This snack is intended to be eaten cold or at room temperature. Reheating will cause separation of yogurt and loss of texture, so avoid warming.",
+        "make_ahead_strategy": "Prepare the yogurt-protein mixture and cucumber slices separately up to 2 days ahead. Assemble just before eating to maintain cucumber crunch. Mix in xanthan gum during prep to stabilize the dip. Perfect for meal prep Sundays!"
+    },
+    "faq": [
+        {
+            "question": "Can I substitute the whey protein powder with plant-based protein?",
+            "answer": "Yes, you can use plant-based protein powders like pea or rice protein, but be aware they can have a grittier texture and stronger flavor. You might need to adjust the amount of xanthan gum to maintain creaminess and experiment with flavorings to mask any earthiness."
+        },
+        {
+            "question": "How do I avoid the protein powder tasting chalky in this snack?",
+            "answer": "Whisk the protein powder slowly into the Greek yogurt to prevent clumps and chalkiness. Adding lemon juice and fresh herbs also helps mask any aftertaste. Using a high-quality whey isolate with mild flavor reduces chalkiness significantly."
+        },
+        {
+            "question": "Is xanthan gum necessary, or can I skip it?",
+            "answer": "While not absolutely required, xanthan gum helps stabilize the yogurt-protein mixture, preventing watery separation and improving texture. Skipping it may result in a runnier dip that doesn’t cling well to cucumber slices."
+        },
+        {
+            "question": "How long does this snack keep in the fridge?",
+            "answer": "Stored in airtight containers, it keeps well for up to 3 days. The texture may thicken and flavors meld over time, but cucumbers are best fresh, so consume sooner for optimal crunch."
+        },
+        {
+            "question": "Can I add other vegetables instead of cucumber?",
+            "answer": "Yes, crunchy low-calorie veggies like celery or bell pepper strips work well. Just be mindful of water content as some veggies release more moisture which can thin the yogurt mixture."
+        },
+        {
+            "question": "Is this snack suitable for cutting or weight loss?",
+            "answer": "Absolutely! It’s low in calories but high in protein and volume, which helps keep you full and supports muscle maintenance during calorie deficits."
+        },
+        {
+            "question": "What if I don’t have fresh dill?",
+            "answer": "You can substitute with other fresh herbs like parsley, chives, or basil. Dried herbs can be used but use less as they are more concentrated."
+        },
+        {
+            "question": "Can I add a sweetener to this snack?",
+            "answer": "Yes, a few drops of stevia or monk fruit sweetener can be added if you prefer a sweeter dip, especially if using unflavored protein powder. Just add sparingly to avoid aftertaste."
+        }
+    ],
+    "conclusion": "Give this cucumber protein snack a try next time you want a refreshing, filling bite without the calories. I’d love to hear how it fits into your routine—tag me if you make it!",
+    "seo": {
+        "primary_keyword": "high protein low calorie snack",
+        "secondary_keywords": [
+            "volume eating recipes",
+            "easy low cal snacks",
+            "how to make healthy cucumber recipes low calorie",
+            "best low calorie cucumber snack recipe",
+            "easy high protein low calorie snacks",
+            "healthy low calorie snack meal prep",
+            "post workout low calorie snack recipe",
+            "protein snacks under 200 calories"
+        ],
+        "internal_links": [
+            {
+                "text": "related low calorie snack or meal prep recipe text",
+                "anchor": "anchor_slug_here"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1779285521_870",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-01 01:02:34",
+        "title_seed": "Healthy Cucumber Recipes"
+    },
+    "author_id": "author_001",
+    "id": "post_1782867754_334",
+    "slug": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating",
+    "uniqueSlug": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_pinrecipes_image_1.webp",
+            "relativePath": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_pinrecipes_image_2.webp",
+            "relativePath": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_pinrecipes_image_3.webp",
+            "relativePath": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_7.webp",
+            "filePath": "posts/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_7.webp",
+            "relativePath": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_5.webp",
+            "filePath": "posts/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_5.webp",
+            "relativePath": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_9.webp",
+            "filePath": "posts/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_9.webp",
+            "relativePath": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_8.webp",
+            "filePath": "posts/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_8.webp",
+            "relativePath": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_6.webp",
+            "filePath": "posts/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_6.webp",
+            "relativePath": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_4.webp",
+            "filePath": "posts/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_4.webp",
+            "relativePath": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_st1_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "image": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images/easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating_pinrecipes_image_1.webp",
+    "image_dir": "easy-make-ahead-healthy-cucumber-protein-snack-boxes-for-volume-eating/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-01T02:02:36+01:00",
+    "updatedAt": "2026-07-01T02:02:36+01:00"
+}
