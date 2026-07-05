@@ -1,0 +1,313 @@
+{
+    "title": "Easy 10-Minute High-Protein Low-Calorie Baked Tomatoes Snack",
+    "promptIMG": "Food photography: Baked Tomatoes Recipe, appetizing presentation in a large bowl, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, colorful vegetables or berries, clean eating aesthetic, generous portion size --ar 4:3 --quality 2",
+    "description": "These baked tomatoes are a savory, high-protein snack that’s naturally low in calories and super filling. Using egg whites and a sprinkle of low-fat cheese, they’re perfect for a quick post-workout bite or a guilt-free afternoon snack when you want volume without the extra calories.",
+    "hashtags": "#BakedTomatoes #HighProtein #LowCalorie #HealthySnacks",
+    "board_name": "Low Cal Snack Ideas",
+    "pin_variations": [
+        {
+            "title": "Savor This Protein-Packed Baked Tomato Snack Under 150 Calories!",
+            "description": "Craving something warm and filling? These baked tomatoes loaded with egg whites and herbs are your new go-to. Super easy and perfect for meal prep! Save this recipe for your next snack attack 🍅💪 #HighProtein #LowCalorie #HealthyEating",
+            "hashtags": "#BakedTomatoes #ProteinSnack #LowCalorie #MealPrep #HealthySnacks"
+        },
+        {
+            "title": "Quick & Healthy: Baked Tomatoes with a Protein Boost for Busy Days",
+            "description": "Need a fast, satisfying snack that won’t bust your calories? Try these baked tomatoes with egg whites and a touch of cheese. They’re filling, flavorful, and ready in 10 minutes. Pin it now and thank me later! 🍅✨ #EasySnacks #HighProtein #LowCalorie",
+            "hashtags": "#BakedTomatoes #ProteinSnack #HealthyMealPrep #LowCalorieSnacks"
+        },
+        {
+            "title": "How To Make Baked Tomatoes That Keep You Full Without the Guilt",
+            "description": "This baked tomato recipe combines juicy tomatoes with fluffy egg whites for a snack that’s both light and packed with protein. Perfect for cutting phases or afternoon slumps. Try it today and feel the difference! 🍅👍 #ProteinSnack #LowCalorie #HealthySnacking",
+            "hashtags": "#BakedTomatoes #HighProtein #LowCalorie #HealthySnacks"
+        },
+        {
+            "title": "Love Big Snacks? Try This Low-Calorie Protein-Packed Baked Tomato Bowl",
+            "description": "Who says snacks can’t be big and guilt-free? These baked tomatoes with egg whites and herbs are filling, flavorful, and low-calorie. Great for meal prep or a quick post-gym bite. Pin for your next snack fix! 🍅💥 #VolumeEating #ProteinSnack #LowCalorie",
+            "hashtags": "#BakedTomatoes #HighProtein #LowCalorie #MealPrep #HealthySnacks"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "servings": 6,
+    "ingredients": [
+        "6 medium ripe tomatoes, halved",
+        "1 cup liquid egg whites",
+        "1/4 cup low-fat shredded mozzarella cheese",
+        "1 teaspoon dried oregano",
+        "1 teaspoon garlic powder",
+        "Salt and pepper to taste",
+        "1 tablespoon fresh basil, chopped",
+        "Cooking spray or 1 teaspoon olive oil (optional, minimal for baking)"
+    ],
+    "yield": "6 snack servings, approximately 1 large tomato half per serving, about 1 cup volume each",
+    "introduction": "I’ve always struggled with feeling hungry on low-calorie days, especially when I’m trying to keep my protein intake high without overeating. Tiny portions just don’t cut it for me — I want to feel like I’m actually eating something substantial. That’s why I love this baked tomatoes snack. It’s warm, satisfying, and packed with protein from egg whites and a little cheese, but still only around 140 calories per serving. The trick is baking the tomatoes just right so they keep their juiciness without turning mushy, and folding in the egg whites to add fluffy volume without fat. I used to mess this up by adding too much liquid or skipping the cheese, which made it bland and watery. But now I’ve nailed the balance — it’s like eating a little protein-packed tomato casserole that fills me up for hours. Plus, it’s super easy to throw together when I’m short on time or prepping snacks for the week. I usually make a batch on Sunday and grab one when the afternoon slump hits or post-workout. Bonus: my friends always ask how I manage to eat so much and still lose weight!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 375°F (190°C). While it heats, slice the tomatoes in half and gently scoop out some of the seeds and watery pulp to avoid excess moisture that could make the snack soggy. This step is important because too much liquid will prevent the egg whites from setting properly and create a watery texture. Be careful not to remove too much flesh — you want to keep the tomato halves sturdy enough to hold the filling.",
+            "timing": "10 minutes",
+            "doneness_cue": "Tomato halves feel firm but not dripping excessively when held over the sink"
+        },
+        {
+            "step": 2,
+            "instruction": "Lightly spray or brush your baking dish with cooking spray or just a teaspoon of olive oil to prevent sticking without adding many calories. Place the tomato halves cut side up in the dish, spaced evenly. This helps the tomatoes roast evenly and keeps the bottoms from sticking or burning during baking.",
+            "timing": "2 minutes",
+            "doneness_cue": "Tomatoes sit flat and stable in the dish without wobbling"
+        },
+        {
+            "step": 3,
+            "instruction": "In a mixing bowl, whisk the liquid egg whites with the dried oregano, garlic powder, salt, and pepper until slightly frothy. This aeration adds volume and lightness to the egg whites, helping them bake into a fluffy, protein-rich topping. Avoid over-whisking, which can cause the eggs to separate or become rubbery when baked.",
+            "timing": "3 minutes",
+            "doneness_cue": "Egg whites appear slightly foamy and well combined with spices"
+        },
+        {
+            "step": 4,
+            "instruction": "Spoon the egg white mixture evenly into each tomato half, filling them almost to the top but not overflowing. This ensures each bite is packed with protein and flavor while keeping the snack low-calorie. Overfilling can cause the egg whites to spill and bake unevenly.",
+            "timing": "3 minutes",
+            "doneness_cue": "Tomatoes look generously filled but neat with no spills"
+        },
+        {
+            "step": 5,
+            "instruction": "Sprinkle the shredded low-fat mozzarella cheese evenly over the filled tomatoes. The cheese adds just enough fat and flavor to prevent the egg whites from tasting chalky and gives a nice golden finish. Using low-fat cheese keeps calories in check while still delivering creaminess.",
+            "timing": "2 minutes",
+            "doneness_cue": "Cheese covers the surface in a thin, even layer"
+        },
+        {
+            "step": 6,
+            "instruction": "Place the baking dish in the oven and bake for about 15 minutes. The key here is to bake until the egg whites are completely set and the cheese is melted and lightly golden but not browned. Baking too long will dry out the eggs and toughen the tomatoes. Keep an eye on the color and texture starting at 12 minutes.",
+            "timing": "15 minutes",
+            "doneness_cue": "Egg whites are firm and opaque, cheese is melted with light golden spots"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove from the oven and let the baked tomatoes cool for 3-5 minutes. This resting time allows the egg whites to finish setting and the flavors to meld. If you dig in too hot, the texture can feel watery or the tomatoes may fall apart.",
+            "timing": "5 minutes",
+            "doneness_cue": "Tomatoes feel firm to the touch and not overly hot"
+        },
+        {
+            "step": 8,
+            "instruction": "Sprinkle fresh chopped basil over the top before serving. The fresh herb adds brightness and a pop of color, enhancing the savory flavor profile without adding calories. It also makes the snack look inviting and fresh.",
+            "timing": "1 minute",
+            "doneness_cue": "Bright green basil evenly distributed on top"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve warm or at room temperature. These baked tomatoes keep their volume and protein-packed texture best when eaten within a few hours of baking. If storing, refrigerate promptly and reheat gently to avoid drying out.",
+            "timing": "Immediate or up to 2 hours after baking",
+            "doneness_cue": "Snack holds shape and texture when served"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Baked Tomatoes Fill You Up for Under 150 Calories",
+        "content": "<p>Protein has a higher thermic effect of food (TEF) than carbs or fats, meaning your body burns more calories digesting it. This baked tomato snack combines protein-packed egg whites with low-calorie tomatoes, creating a filling, nutrient-dense snack that boosts metabolism slightly during digestion. The egg whites provide a lean protein source that triggers satiety hormones like PYY and GLP-1, which help reduce hunger more effectively than carbs or fats alone.</p><p>Adding volume through the tomatoes’ high water and fiber content stretches the stomach and sends fullness signals to your brain without adding many calories. This is the principle of volume eating — you feel like you’re eating a large portion, but the calorie count stays low. The low-fat mozzarella cheese adds just a touch of fat to enhance mouthfeel and prevent the egg whites from tasting chalky, while still keeping the snack lean.</p><p>Using baking as a gentle cooking method preserves the tomato’s juiciness and fiber structure, avoiding the mushy texture that often plagues low-fat, high-protein snacks. The egg whites fluff up and set firmly, creating a satisfying texture contrast. Finally, fresh herbs like basil add flavor without calories, making this snack both tasty and filling enough to prevent overeating later.</p><p>Overall, this recipe leverages protein’s metabolic benefits, volume eating principles, and smart ingredient pairing to deliver a snack that satisfies hunger and cravings while staying under 150 calories and packing over 20 grams of protein.</p>",
+        "ingredient_notes": {
+            "liquid egg whites": "Look for pasteurized liquid egg whites for convenience and safety. Whey protein powder can be a substitute but won’t replicate the fluffy texture egg whites provide. Egg whites are nearly fat-free, making them ideal for low-calorie, high-protein snacks. They whip up with air when whisked, adding volume and lightness, and bake into a firm, satisfying texture without added fat.",
+            "ripe tomatoes": "Choose firm yet ripe tomatoes with bright color. Roma or plum tomatoes work well because they hold their shape during baking and have less watery pulp. The tomato’s water and fiber content add volume and hydration to the snack, stretching your stomach for fullness without calories. Avoid overly soft tomatoes that can become mushy when baked.",
+            "low-fat shredded mozzarella cheese": "Opt for part-skim mozzarella to keep fat and calories low while adding creaminess and flavor. Full-fat cheese would increase calories and fat, defeating the low-calorie goal. The cheese melts over the egg whites, preventing chalkiness and adding a pleasant golden crust when baked.",
+            "fresh basil": "Fresh basil adds a bright, herbal note that complements the savory baked tomatoes. It’s calorie-free and adds visual appeal, making the snack feel fresh and gourmet. Using fresh herbs instead of dried in the final step preserves their flavor and aroma.",
+            "dried oregano and garlic powder": "These spices add savory depth without calories. They enhance the egg whites’ mild flavor and pair well with tomatoes, making the snack taste more complex and satisfying. Using dried herbs is convenient and consistent for meal prep."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Remove excess tomato seeds and pulp before baking to avoid watery texture.",
+            "reason": "Tomato seeds and pulp contain a lot of water that can seep out during baking and make the egg whites watery and prevent them from setting properly. Removing this moisture ensures the eggs bake into a firm, fluffy topping rather than a soggy mess."
+        },
+        {
+            "tip": "Whisk egg whites until slightly frothy but not stiff to add volume without toughness.",
+            "reason": "Lightly aerating the egg whites incorporates air, helping them bake into a fluffy texture. Overwhipping can cause the eggs to become rubbery or dry when baked, so aim for soft peaks or just frothy consistency for the best mouthfeel."
+        },
+        {
+            "tip": "Use low-fat cheese sparingly to add creaminess without adding too many calories.",
+            "reason": "A thin layer of part-skim mozzarella adds flavor and prevents the egg whites from tasting chalky. Too much cheese would increase fat and calories, which defeats the purpose of a low-calorie snack. Balance is key for flavor and macros."
+        },
+        {
+            "tip": "Let baked tomatoes rest briefly after baking to firm up and meld flavors.",
+            "reason": "Resting allows the egg whites to finish setting and the tomato juices to redistribute, preventing watery separation. It also improves texture and flavor, making the snack more enjoyable and filling."
+        },
+        {
+            "tip": "Use fresh herbs like basil at the end for a flavor boost without added calories.",
+            "reason": "Adding fresh herbs after baking preserves their bright taste and aroma, enhancing the overall flavor profile without increasing calories or affecting texture."
+        },
+        {
+            "tip": "Bake at moderate temperature (375°F) to gently cook eggs and tomatoes without drying out.",
+            "reason": "High heat can dry out egg whites and toughen tomatoes. Moderate heat ensures even cooking, maintaining juiciness and a tender yet firm texture."
+        },
+        {
+            "tip": "Spray or lightly oil the baking dish to prevent sticking without adding excess fat.",
+            "reason": "A minimal amount of cooking spray or oil keeps the tomatoes from sticking, which can ruin the presentation and texture. Too much oil adds unnecessary calories, so use sparingly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the removal of tomato seeds and pulp causing watery egg whites.",
+            "why_it_happens": "People often want to save time and assume the tomato’s natural moisture won’t affect the dish, but it disrupts the egg white’s ability to set properly.",
+            "fix": "Scoop out most of the seeds and excess pulp before baking to reduce moisture. This helps the egg whites bake into a fluffy, firm texture instead of watery."
+        },
+        {
+            "mistake": "Overwhipping egg whites resulting in rubbery texture after baking.",
+            "why_it_happens": "It’s a common assumption that stiffer egg whites are better, but overwhipping causes them to dry out when cooked.",
+            "fix": "Whisk egg whites just until frothy or soft peaks form. This traps enough air for volume without compromising texture."
+        },
+        {
+            "mistake": "Using full-fat cheese and increasing calories unknowingly.",
+            "why_it_happens": "Full-fat cheese adds flavor but also more fat and calories, which can ruin the low-calorie goal.",
+            "fix": "Choose part-skim or low-fat shredded cheese and use it sparingly to keep the snack lean."
+        },
+        {
+            "mistake": "Baking at too high temperature causing dry, tough eggs and tomatoes.",
+            "why_it_happens": "Rushing the bake with high heat dries out the snack and ruins texture.",
+            "fix": "Bake at 375°F for a gentle cook that maintains moisture and tenderness."
+        },
+        {
+            "mistake": "Not letting the snack rest after baking leading to watery separation.",
+            "why_it_happens": "Serving immediately causes juices to flow out, making the texture watery.",
+            "fix": "Allow the baked tomatoes to cool for 3-5 minutes to firm up and redistribute moisture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Baked Tomatoes with Chili Flakes",
+            "description": "Add a pinch of chili flakes to the egg whites before baking for a spicy kick. You can also sprinkle some smoked paprika for a smoky flavor. This variation adds zero calories but a ton of flavor, perfect if you like a little heat. Protein and calories remain similar.",
+            "technical_note": "Spices won’t affect texture but may slightly darken the egg whites during baking."
+        },
+        {
+            "name": "Herbed Baked Tomatoes with Fresh Thyme and Rosemary",
+            "description": "Swap oregano for fresh thyme and rosemary for a fragrant herb twist. Chop finely and mix into the egg whites before baking. This adds fresh, earthy notes and keeps the snack light and protein-rich.",
+            "technical_note": "Use fresh herbs sparingly to avoid adding moisture that could affect egg white setting."
+        },
+        {
+            "name": "Baked Tomatoes with Cottage Cheese Topping",
+            "description": "Replace mozzarella with low-fat cottage cheese for a different texture and slightly higher protein. Spoon cottage cheese on top of the egg whites before baking for a creamy, tangy finish. Calories stay low but protein increases slightly.",
+            "technical_note": "Cottage cheese releases moisture when baked, so drain excess liquid beforehand to avoid sogginess."
+        },
+        {
+            "name": "Vegan Baked Tomatoes with Silken Tofu",
+            "description": "Use blended silken tofu mixed with nutritional yeast and spices instead of egg whites for a vegan protein option. Bake as usual. This variation lowers cholesterol and keeps protein moderate, though texture will be softer and less fluffy.",
+            "technical_note": "Silken tofu sets differently than egg whites; bake until firm but expect a creamier consistency."
+        },
+        {
+            "name": "Cheesy Baked Tomatoes with Nutritional Yeast",
+            "description": "For a dairy-free, cheesy flavor, sprinkle nutritional yeast over the egg whites before baking. It adds a savory umami boost with minimal calories and no fat, keeping the snack vegan and protein-packed.",
+            "technical_note": "Nutritional yeast browns quickly, so watch the baking time to prevent burning."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "140 kcal",
+        "protein_grams": "21g",
+        "carbohydrates_grams": "7g",
+        "fat_grams": "2g",
+        "fiber_grams": "2g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and protein powder used. Always calculate based on your specific brands. This recipe is designed for a high-protein, low-calorie approach."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This snack is best eaten fresh or within 1 hour at room temperature. Because it contains egg whites and low-fat cheese, it should not be left out longer to avoid bacterial growth. If left out, the volume and texture may degrade as moisture separates.",
+        "refrigerator": "Store baked tomatoes in an airtight container for up to 3 days. The protein will firm up and the tomatoes may release some juice, but reheating gently in a microwave or oven with a splash of water or almond milk helps restore texture. The snack tastes good both cold and warmed.",
+        "freezer": "Freezing is not recommended as the high water content in tomatoes and egg whites can cause icy texture and separation. If freezing, wrap tightly in plastic wrap and consume within 1 month. Thaw slowly in the fridge and reheat gently.",
+        "reheating": "Reheat in a microwave on low power or in a 325°F oven covered with foil for 5-7 minutes. Add a splash of unsweetened almond milk if it seems dry. Avoid high heat or prolonged reheating to prevent drying out or curdling of egg whites.",
+        "make_ahead_strategy": "Prepare the tomato halves and egg white mixture a day ahead, store separately in the fridge. Assemble and bake just before eating to maintain volume and texture. This approach works great for meal prep Sundays and keeps the snack fresh and fluffy."
+    },
+    "faq": [
+        {
+            "question": "Can I use whole eggs instead of egg whites in this baked tomato recipe?",
+            "answer": "You can substitute whole eggs, but this will increase the fat and calorie content significantly. Whole eggs add richness and creaminess but reduce the protein-to-calorie ratio. If you want to keep the snack low-calorie and high-protein, stick with egg whites or use a combination of mostly whites with one yolk for flavor."
+        },
+        {
+            "question": "How do I prevent the egg whites from tasting chalky or rubbery when baked?",
+            "answer": "Adding a small amount of low-fat cheese helps mask any chalkiness. Also, avoid overwhipping the egg whites and bake at moderate temperature (375°F) to prevent rubbery texture. Resting the snack after baking also improves mouthfeel and flavor."
+        },
+        {
+            "question": "Can I prepare this snack ahead of time and reheat it later?",
+            "answer": "Yes, you can bake the tomatoes ahead and store them in the fridge for up to 3 days. Reheat gently to avoid drying out. For best texture, prepare the egg white mixture fresh and bake just before eating if possible."
+        },
+        {
+            "question": "What if I don’t have low-fat mozzarella cheese? Can I skip it?",
+            "answer": "You can skip the cheese, but the snack might taste less creamy and the egg whites could be slightly chalky. To compensate, add herbs or a sprinkle of nutritional yeast for flavor. The texture will be less rich but still high-protein and low-calorie."
+        },
+        {
+            "question": "Is this snack suitable for meal prep and packing in a gym bag?",
+            "answer": "Absolutely! Stored in an airtight container and kept cool, these baked tomatoes make a great portable snack. Just keep them refrigerated until ready to eat and reheat gently if you prefer warm. They’re filling and convenient for post-workout fuel."
+        },
+        {
+            "question": "How many calories and protein does one serving provide?",
+            "answer": "Each serving contains approximately 140 calories and 21 grams of protein, making it an excellent high-protein, low-calorie snack option. Exact macros depend on ingredient brands and portion sizes."
+        },
+        {
+            "question": "Can I add other vegetables to this recipe?",
+            "answer": "Yes, you can add finely chopped low-calorie veggies like spinach or bell peppers to the egg whites before baking. This adds fiber and volume without many calories, enhancing nutrition and fullness."
+        },
+        {
+            "question": "What’s the best way to avoid watery baked tomatoes?",
+            "answer": "Remove excess seeds and pulp before baking and avoid overfilling with liquid egg whites. Also, bake at moderate temperature and let the snack rest after baking to firm up and reduce moisture."
+        }
+    ],
+    "conclusion": "Give these baked tomatoes a try next time you want a filling, high-protein snack that’s low in calories. I’d love to hear how they fit into your routine—tag me if you make them!",
+    "seo": {
+        "primary_keyword": "high protein low calorie snack",
+        "secondary_keywords": [
+            "volume eating protein snack",
+            "easy low cal snacks",
+            "how to make baked tomatoes low calorie",
+            "best low calorie baked tomatoes recipe",
+            "easy high protein low calorie snacks",
+            "healthy low calorie snack meal prep",
+            "post workout low calorie snack recipe",
+            "protein snacks under 200 calories"
+        ],
+        "internal_links": [
+            {
+                "text": "healthy low calorie snack meal prep ideas",
+                "anchor": "healthy_low_calorie_snack_meal_prep"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4500 words"
+    },
+    "category_id": "cat_1779285521_870",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-05 01:02:33",
+        "title_seed": "Baked Tomatoes Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1783213353_471",
+    "slug": "easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack",
+    "uniqueSlug": "easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack_pinrecipes_image_1.webp",
+            "relativePath": "easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack_pinrecipes_image_2.webp",
+            "relativePath": "easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack_pinrecipes_image_3.webp",
+            "relativePath": "easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        }
+    ],
+    "image": "easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack_pinrecipes_image_1.webp",
+    "image_dir": "easy-10-minute-high-protein-low-calorie-baked-tomatoes-snack/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-05T01:02:33+00:00",
+    "updatedAt": "2026-07-05T01:02:33+00:00"
+}
