@@ -1,0 +1,316 @@
+{
+    "title": "Easy One Pot Corn Chowder Recipe for a High-Protein Low-Calorie Boost",
+    "promptIMG": "Food photography: One Pot Corn Chowder, appetizing presentation in a large bowl, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, colorful vegetables or berries, clean eating aesthetic, generous portion size --ar 4:3 --quality 2",
+    "description": "This one pot corn chowder is creamy, comforting, and packs a surprising punch of protein with minimal calories. Using egg whites and low-fat milk keeps it light yet filling — perfect for a quick lunch or a cozy post-workout meal.",
+    "hashtags": "#cornchowder #highprotein #lowcalorie #healthysnacks #easyrecipes",
+    "board_name": "Healthy High Protein Snacks",
+    "pin_variations": [
+        {
+            "title": "Cozy Up with This Protein-Packed Corn Chowder Under 200 Calories",
+            "description": "Warm up your day with this creamy, high-protein corn chowder that’s light on calories but big on flavor! 🥣 Perfect for meal prep or a quick snack. Save this recipe for your next cozy night in! #highprotein #lowcalorie #mealprep #comfortfood #snacksmart",
+            "hashtags": "#highprotein #lowcalorie #cornchowder #mealprep #comfortfood"
+        },
+        {
+            "title": "Simple One Pot Corn Chowder for a Filling Low-Cal Snack",
+            "description": "Need a snack that actually fills you up without wrecking your calorie budget? Try this one pot corn chowder — it’s easy to make, packed with protein, and super satisfying. Pin it now and enjoy later! 🍲💪 #lowcaloriesnack #proteinrecipe #easyrecipes #snackideas",
+            "hashtags": "#lowcaloriesnack #proteinrecipe #easyrecipes #snackideas"
+        },
+        {
+            "title": "Make-Ahead Corn Chowder That’s High Protein and Low Calorie",
+            "description": "Meal prep made simple with this creamy corn chowder that’s loaded with protein and low in calories. It reheats beautifully and keeps you full for hours. Try it today and keep your energy steady! 🌽🥄 #mealprepsnacks #highprotein #lowcalorie #healthymeals",
+            "hashtags": "#mealprepsnacks #highprotein #lowcalorie #healthymeals"
+        },
+        {
+            "title": "Volume Eating Made Easy: One Pot Corn Chowder Under 200 Calories",
+            "description": "Want a giant bowl of comfort that won’t blow your calorie count? This one pot corn chowder uses volume eating tricks to keep you full and satisfied with high protein and low calories. Pin it for your next snack attack! 🥣🔥 #volumeeating #highprotein #lowcalorie #snacktime",
+            "hashtags": "#volumeeating #highprotein #lowcalorie #snacktime"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "servings": 6,
+    "ingredients": [
+        "4 cups low-sodium vegetable broth, warm",
+        "2 cups fresh or frozen corn kernels",
+        "1 cup chopped celery, raw",
+        "1 cup chopped onion, raw",
+        "1 cup chopped bell peppers, mixed colors",
+        "1 cup egg whites, liquid",
+        "1 cup unsweetened low-fat milk",
+        "2 teaspoons xanthan gum (optional, for thickness)",
+        "1 teaspoon garlic powder",
+        "Salt and pepper to taste",
+        "1 teaspoon olive oil (optional, minimal amount for sautéing)"
+    ],
+    "yield": "Approximately 1.5 cups per serving, 6 generous servings total",
+    "introduction": "I’ve always struggled with feeling hungry on low-calorie days, especially when trying to cut without losing energy. That’s why I love this one pot corn chowder — it’s super filling but light enough to keep calories in check. The trick? Using egg whites and low-fat milk to boost protein without adding fat, plus xanthan gum to give it that creamy chowder texture without cream. I remember my first batch was a bit watery because I skipped the xanthan gum, so don’t make that mistake! This recipe is perfect for afternoons when I need a big comforting bowl that won’t derail my macros. Plus, it’s all done in one pot, so cleanup is a breeze. I usually make a batch on Sundays and reheat it throughout the week — it holds up great in the fridge and tastes even better warmed up. If you want a snack or light meal that fills you up and fits your goals, this chowder is a game changer.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by heating your olive oil in a large pot over medium heat. Add the chopped onion, celery, and bell peppers and sauté until they’re soft and fragrant, about 5-7 minutes. This base builds flavor without adding calories, and softening the veggies first helps release their natural sweetness, which balances the chowder’s taste. Avoid browning the veggies too much; you want them tender but not caramelized to keep the light flavor profile.",
+            "timing": "7 minutes",
+            "doneness_cue": "Vegetables are tender and translucent, with a mild aroma but no browning spots."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the corn kernels and garlic powder to the pot, stirring for 2 minutes to combine flavors. Then pour in the warm vegetable broth and bring everything to a gentle boil. The warmth of the broth helps the corn release its sweetness and starts softening all the ingredients evenly. Rushing this step can leave the corn a bit tough and the flavors underdeveloped.",
+            "timing": "5 minutes",
+            "doneness_cue": "Broth is simmering gently, vegetables are tender, and the soup starts to smell sweet and savory."
+        },
+        {
+            "step": 3,
+            "instruction": "Lower the heat to medium-low and slowly whisk in the egg whites and low-fat milk mixture. Stir continuously to prevent the egg whites from scrambling and to ensure a smooth, creamy texture. This step is crucial for adding protein and creaminess without fat. If you add the egg whites too quickly or at too high heat, they’ll curdle and ruin the chowder’s smoothness.",
+            "timing": "3 minutes",
+            "doneness_cue": "Soup thickens slightly and becomes creamy without any lumps or egg clumps."
+        },
+        {
+            "step": 4,
+            "instruction": "Sprinkle in the xanthan gum gradually while whisking to thicken the chowder naturally. This zero-calorie thickener mimics the richness of cream without adding fat or calories. Be careful not to add it all at once to avoid clumping. If you don’t have xanthan gum, you can skip it, but the chowder will be thinner.",
+            "timing": "2 minutes",
+            "doneness_cue": "Chowder has a smooth, velvety texture that coats the spoon nicely."
+        },
+        {
+            "step": 5,
+            "instruction": "Season with salt and pepper to taste, then simmer gently for another 5 minutes to allow flavors to meld. This final simmer lets the chowder thicken slightly and deepens the taste. Avoid boiling vigorously here, or the egg whites may separate.",
+            "timing": "5 minutes",
+            "doneness_cue": "Soup is thickened, aromatic, and flavors are well blended."
+        },
+        {
+            "step": 6,
+            "instruction": "Remove from heat and let the chowder rest for a few minutes before serving. This resting period helps the texture settle and the flavors to fully develop. It also prevents the soup from being too hot and watery when you eat it.",
+            "timing": "3 minutes",
+            "doneness_cue": "Chowder is slightly thickened and cool enough to enjoy immediately."
+        },
+        {
+            "step": 7,
+            "instruction": "Serve your chowder in large bowls for a satisfying volume eating experience. The large portion size with high protein and low calories means you can eat a lot without guilt. Garnish with fresh herbs if you like for a pop of color and freshness.",
+            "timing": "0 minutes",
+            "doneness_cue": "Portions look generous and inviting."
+        },
+        {
+            "step": 8,
+            "instruction": "For meal prep, let the chowder cool completely before transferring to airtight containers. This prevents condensation and sogginess during storage. Store in the fridge for up to 4 days and reheat gently on the stove or microwave with a splash of low-fat milk to restore creaminess.",
+            "timing": "0 minutes",
+            "doneness_cue": "Containers sealed and chowder cooled to room temperature."
+        },
+        {
+            "step": 9,
+            "instruction": "If freezing, portion the chowder into freezer-safe containers leaving some headspace. Thaw overnight in the fridge and reheat slowly. Texture may change slightly, so add a splash of milk and whisk to bring back creaminess after reheating.",
+            "timing": "0 minutes",
+            "doneness_cue": "Frozen chowder stored properly, thawed and reheated smoothly."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This One Pot Corn Chowder Fills You Up Without the Calories",
+        "content": "<p>This chowder is a perfect example of how combining high protein with volume eating can satisfy hunger and keep calories low. Protein has a higher thermic effect of food (TEF) than fats or carbs, meaning your body burns more calories digesting it, which helps with weight management. Plus, protein triggers satiety hormones like PYY and GLP-1 that reduce appetite more effectively than other macros.</p><p>The recipe uses egg whites and low-fat milk as lean protein sources, which provide 20+ grams of protein per serving without the fat that usually adds calories. The use of xanthan gum thickens the chowder without adding fat, mimicking the creamy texture of traditional chowders but keeping calorie density low. This thick, creamy texture helps stretch the stomach and sends fullness signals to the brain.</p><p>Adding lots of water-rich vegetables and broth increases the volume of food you eat, allowing you to enjoy a big, comforting bowl that’s still under 150 calories per serving. This is key for volume eating — the idea that you can eat large portions of low-calorie foods to feel full and satisfied. The warm temperature and savory flavor also help with psychological satiety, making this chowder feel indulgent despite its lightness.</p><p>Finally, the careful technique of whisking in egg whites slowly, controlling heat, and using acidic dairy prevents protein powder or egg whites from becoming chalky or curdled. This ensures a smooth, creamy chowder that tastes rich and satisfying without any added fats or oils.</p>",
+        "ingredient_notes": {
+            "egg whites": "Liquid egg whites are a fantastic lean protein source with virtually no fat or carbs. When buying, look for pasteurized versions for safety, especially if using in no-cook or lightly cooked recipes. They add volume and creaminess when whisked in gently, but if overheated or added too quickly, they can scramble and ruin texture. Egg whites also have a neutral flavor, making them perfect to boost protein without changing taste.",
+            "low-fat milk": "Using unsweetened low-fat milk adds a bit of creaminess and moisture without the calories and fat of cream or whole milk. It also helps hydrate the egg whites and protein powder if used. Choose brands without added sugars to keep carbs low. The acidity of milk helps prevent chalkiness in protein powders and adds a subtle sweetness to the chowder.",
+            "xanthan gum": "Xanthan gum is a zero-calorie thickener that mimics the mouthfeel of fat, essential in low-calorie creamy recipes. It’s best added gradually while whisking to avoid clumps. Quality xanthan gum produces a smooth, velvety texture that holds the chowder together without heaviness. If omitted, the chowder will be thinner but still tasty.",
+            "corn kernels": "Fresh or frozen corn provides natural sweetness and fiber without many calories. It adds texture and volume, making the chowder feel hearty. Frozen corn is convenient and retains nutrients well. Avoid canned corn with added sugars or salt to keep it healthy and low calorie.",
+            "vegetable broth": "Low-sodium vegetable broth adds depth of flavor and volume without calories. It’s the base that hydrates the chowder and softens the vegetables. Using warm broth helps integrate flavors better and prevents temperature shocks that can curdle egg whites."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Whisk egg whites slowly into warm broth to avoid curdling.",
+            "reason": "Egg whites coagulate quickly at high heat, so adding them gradually while whisking ensures a smooth texture. If added too fast or at boiling temperature, they scramble, ruining the chowder’s creaminess."
+        },
+        {
+            "tip": "Use xanthan gum sparingly and add it gradually.",
+            "reason": "Xanthan gum thickens efficiently in small amounts. Adding it all at once causes clumps and uneven texture. Gradual addition while whisking creates a silky, stable chowder without calories."
+        },
+        {
+            "tip": "Sauté vegetables gently without browning.",
+            "reason": "Softening veggies releases sweetness and flavor without adding bitterness from browning. This keeps the chowder light and fresh tasting, perfect for a low-calorie recipe."
+        },
+        {
+            "tip": "Warm broth before adding egg whites and milk.",
+            "reason": "Warm liquids help protein powders and egg whites hydrate and blend smoothly. Cold liquids can cause clumping or chalkiness, while boiling liquids risk curdling."
+        },
+        {
+            "tip": "Season at the end to control saltiness.",
+            "reason": "Broth and vegetables release flavors as they cook, so seasoning early can lead to over-salting. Adjust salt and pepper after simmering for perfect balance."
+        },
+        {
+            "tip": "Cool chowder before refrigerating to avoid condensation.",
+            "reason": "Hot chowder in containers creates moisture, which can make stored chowder watery or soggy. Cooling prevents this and preserves texture."
+        },
+        {
+            "tip": "Reheat gently with a splash of milk to restore creaminess.",
+            "reason": "Low-fat chowders can dry out or separate when reheated aggressively. Adding milk and stirring gently brings back smooth texture and flavor."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding egg whites too quickly causing curdling.",
+            "why_it_happens": "People often rush this step, not realizing egg whites coagulate fast at high temperatures.",
+            "fix": "Whisk egg whites slowly into warm (not boiling) broth and milk mixture, stirring constantly to keep the texture smooth."
+        },
+        {
+            "mistake": "Skipping xanthan gum and ending with watery chowder.",
+            "why_it_happens": "Assuming thickening will happen naturally, but low-fat liquids lack fat to create creaminess.",
+            "fix": "Use a small amount of xanthan gum added gradually while whisking to achieve desired thickness without calories."
+        },
+        {
+            "mistake": "Using full-fat milk or cream unknowingly increasing calories.",
+            "why_it_happens": "Not checking labels or assuming all milk is low-fat.",
+            "fix": "Always use unsweetened low-fat or skim milk to keep calories low and macros on point."
+        },
+        {
+            "mistake": "Overcooking vegetables until browned, adding unwanted flavors.",
+            "why_it_happens": "High heat or long sauté times cause caramelization.",
+            "fix": "Sauté veggies on medium heat just until tender and translucent for best flavor balance."
+        },
+        {
+            "mistake": "Not cooling chowder before storing leads to watery leftovers.",
+            "why_it_happens": "Hot food causes condensation in containers.",
+            "fix": "Let chowder cool to room temp before refrigerating to preserve texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Jalapeño Corn Chowder",
+            "description": "Add finely chopped jalapeños and a pinch of cayenne pepper for a spicy kick. This variation adds negligible calories but boosts flavor and metabolism. The heat pairs beautifully with the sweetness of corn and keeps the chowder exciting.",
+            "technical_note": "Add jalapeños during the vegetable sauté step and adjust seasoning to balance heat without overpowering."
+        },
+        {
+            "name": "Herbed Lemon Corn Chowder",
+            "description": "Stir in fresh chopped dill and a squeeze of lemon juice after cooking for a bright, fresh twist. This keeps calories low while adding vibrant flavor and a refreshing finish that complements the creamy texture.",
+            "technical_note": "Add herbs and lemon off heat to preserve brightness and avoid bitterness."
+        },
+        {
+            "name": "Vegan Protein Corn Chowder",
+            "description": "Substitute egg whites with silken tofu blended smooth and use unsweetened almond milk. Add pea protein powder for protein boost. This vegan version is still low calorie and creamy but has a different texture and slightly nutty flavor.",
+            "technical_note": "Blend tofu with broth before cooking and whisk in protein powder off heat to avoid clumping."
+        },
+        {
+            "name": "Smoky Chipotle Corn Chowder",
+            "description": "Add chipotle powder and smoked paprika for a smoky depth. This variation enhances flavor complexity without adding calories, perfect for those who love a bold chowder experience.",
+            "technical_note": "Add spices with garlic powder during sauté to bloom flavors."
+        },
+        {
+            "name": "Protein Powder Boosted Corn Chowder",
+            "description": "Mix in an unflavored whey isolate protein powder after cooking to increase protein content to 25g per serving. This keeps calories low but makes it even more filling for post-workout recovery.",
+            "technical_note": "Whisk protein powder into warm (not hot) chowder off heat to prevent chalkiness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "140 kcal",
+        "protein_grams": "20g",
+        "carbohydrates_grams": "12g",
+        "fat_grams": "2g",
+        "fiber_grams": "3g",
+        "sodium_mg": "250mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and brands used. Designed for a high-protein, low-calorie approach."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This chowder should not be left at room temperature for more than 2 hours due to the egg whites and dairy content. Cover it loosely if serving warm to prevent drying but refrigerate promptly.",
+        "refrigerator": "Store in airtight containers for up to 4 days. The chowder thickens as it cools but reheats well. Flavors deepen after a day, making it even tastier cold or warmed gently.",
+        "freezer": "Freeze in portioned airtight containers for up to 2 months. Thaw overnight in the fridge and reheat slowly with a splash of milk to restore creaminess. Texture may be slightly less smooth after freezing.",
+        "reheating": "Reheat gently on the stove over low heat or in short microwave bursts, stirring often. Add a little low-fat milk if it thickens too much. Avoid boiling to prevent egg whites from separating.",
+        "make_ahead_strategy": "Prepare the chowder fully and cool completely before storing. For best texture, add xanthan gum fresh when reheating if needed. This makes it perfect for weekly meal prep and quick snacks."
+    },
+    "faq": [
+        {
+            "question": "Can I use whole eggs instead of egg whites in this chowder?",
+            "answer": "You can, but whole eggs add more fat and calories, which may increase the chowder’s calorie count significantly. Egg whites keep it lean and high protein without added fat, perfect for low-calorie goals."
+        },
+        {
+            "question": "What if I don’t have xanthan gum? Can I skip it?",
+            "answer": "Yes, but the chowder will be thinner and less creamy. Xanthan gum thickens without calories and mimics creaminess. Without it, you might want to add a small amount of pureed cauliflower or potato for thickness, but that adds carbs."
+        },
+        {
+            "question": "How do I prevent the protein from tasting chalky?",
+            "answer": "Use acidic dairy like low-fat milk and add protein powders off heat or at warm temperatures. Whisking thoroughly and not overheating helps prevent chalkiness. Also, choose high-quality whey isolate for best texture."
+        },
+        {
+            "question": "Can I make this chowder vegan?",
+            "answer": "Yes! Substitute egg whites with blended silken tofu and use unsweetened almond milk. Add a plant-based protein powder like pea protein to maintain protein content. The texture will differ slightly but still be tasty and filling."
+        },
+        {
+            "question": "Is this chowder suitable for meal prep?",
+            "answer": "Absolutely. It stores well in the fridge for up to 4 days and reheats nicely. Just reheat gently and add a splash of milk to keep it creamy. Perfect for prepping lunches or snacks ahead of time."
+        },
+        {
+            "question": "How many calories and protein are in one serving?",
+            "answer": "Each serving is about 140 calories and provides roughly 20 grams of protein, making it an excellent low-calorie, high-protein snack or light meal."
+        },
+        {
+            "question": "Can I add other vegetables to this chowder?",
+            "answer": "Definitely! Low-calorie, high-volume veggies like zucchini, spinach, or mushrooms work well. Just adjust cooking times slightly to ensure everything is tender."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Warm gently on the stove over low heat or microwave in short bursts, stirring often. Adding a splash of low-fat milk helps restore creaminess and prevents drying or separation."
+        }
+    ],
+    "conclusion": "Give this one pot corn chowder a try and enjoy a cozy, filling snack that fits your macros perfectly. Share your results or tag me if you make it — I’d love to see how you customize it!",
+    "seo": {
+        "primary_keyword": "high protein low calorie snack",
+        "secondary_keywords": [
+            "volume eating protein snack",
+            "easy low cal snacks",
+            "how to make corn chowder low calorie",
+            "best low calorie corn chowder recipe",
+            "easy high protein low calorie snacks",
+            "healthy low calorie snack meal prep",
+            "post workout low calorie snack recipe",
+            "protein snacks under 200 calories"
+        ],
+        "internal_links": [
+            {
+                "text": "healthy low calorie snack meal prep ideas",
+                "anchor": "healthy_low_calorie_snack_meal_prep"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1779285521_870",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-10 01:02:07",
+        "title_seed": "One Pot Corn Chowder Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1783645327_136",
+    "slug": "easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost",
+    "uniqueSlug": "easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost/images/easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost_pinrecipes_image_1.webp",
+            "relativePath": "easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost/images/easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost/images/easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost_pinrecipes_image_2.webp",
+            "relativePath": "easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost/images/easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost/images/easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost_pinrecipes_image_3.webp",
+            "relativePath": "easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost/images/easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        }
+    ],
+    "image": "easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost/images/easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost_pinrecipes_image_1.webp",
+    "image_dir": "easy-one-pot-corn-chowder-recipe-for-a-high-protein-low-calorie-boost/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-10T01:02:07+00:00",
+    "updatedAt": "2026-07-10T01:02:07+00:00"
+}
