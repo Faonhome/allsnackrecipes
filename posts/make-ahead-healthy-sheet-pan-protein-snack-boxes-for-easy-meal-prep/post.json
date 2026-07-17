@@ -1,0 +1,365 @@
+{
+    "title": "Make-Ahead Healthy Sheet Pan Protein Snack Boxes for Easy Meal Prep",
+    "promptIMG": "Food photography: Healthy Sheet Pan Protein Snack Boxes, appetizing presentation in a large bowl, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, colorful vegetables or berries, clean eating aesthetic, generous portion size --ar 4:3 --quality 2",
+    "description": "These sheet pan snack boxes are packed with lean chicken breast, roasted veggies, and chickpeas for a high-protein, low-calorie bite that keeps you full without guilt. I love prepping these on Sundays for quick grabs during busy afternoons or post-workout refuels.",
+    "hashtags": "#HealthySheetPan #HighProteinSnacks #LowCalorieEats #MealPrepMagic",
+    "board_name": "Healthy High Protein Snacks",
+    "pin_variations": [
+        {
+            "title": "Prep These Protein-Packed Sheet Pan Snacks for Your Busy Week",
+            "description": "Need a quick, high-protein snack that won’t weigh you down? These sheet pan meal prep boxes are your new best friend! Loaded with lean protein and roasted veggies, they’re perfect for work or gym days. Save this for your next meal prep! 💪🥦 #HighProtein #MealPrep #LowCalorieSnacks",
+            "hashtags": "#HighProtein #MealPrep #LowCalorieSnacks #HealthyEating #ProteinSnack"
+        },
+        {
+            "title": "Easy Low-Calorie Sheet Pan Snack Boxes You’ll Actually Look Forward To",
+            "description": "Say goodbye to boring snacks! These sheet pan boxes combine juicy chicken, chickpeas, and crunchy veggies for a filling, low-calorie treat. Perfect for fighting the afternoon slump or post-workout hunger. Try it today and feel the difference! 🍗🌶️ #HealthySnacks #ProteinPacked #LowCalorie",
+            "hashtags": "#HealthySnacks #ProteinPacked #LowCalorie #EasyMealPrep #SnackIdeas"
+        },
+        {
+            "title": "High Protein Low Calorie Snack Boxes That Keep You Full and Satisfied",
+            "description": "Looking for snacks that fill you up without the calories? These sheet pan snack boxes hit the spot with over 20g protein and tons of volume from roasted veggies. Great for cutting phases or anytime you want a guilt-free bite. Pin this for later! 🥕🍗 #VolumeEating #ProteinSnack #HealthyMealPrep",
+            "hashtags": "#VolumeEating #ProteinSnack #HealthyMealPrep #LowCalorie #SnackPrep"
+        },
+        {
+            "title": "Make-Ahead Healthy Sheet Pan Protein Snacks for Busy Days",
+            "description": "Busy schedule? These sheet pan snack boxes are prepped in minutes and packed with lean protein and fiber-rich veggies to keep you energized. Perfect for meal prep Sundays or quick post-gym bites. Save this recipe and make your week easier! 🥗🔥 #MealPrep #HighProtein #LowCalorieSnacks",
+            "hashtags": "#MealPrep #HighProtein #LowCalorieSnacks #HealthyEating #ProteinBites"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 25,
+    "servings": 6,
+    "ingredients": [
+        "500g skinless chicken breast, cut into bite-sized pieces",
+        "1 cup canned chickpeas, rinsed and drained",
+        "2 cups chopped bell peppers (mixed colors), raw",
+        "1 large zucchini, sliced",
+        "1 cup cherry tomatoes, halved",
+        "2 tsp olive oil (for roasting, optional, minimal amount)",
+        "1 tsp smoked paprika",
+        "1 tsp garlic powder",
+        "Salt and black pepper to taste",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "6 snack servings, approximately 1 generous meal-prep box each with 2 cups volume",
+    "introduction": "I’ve always struggled with feeling hungry on low-calorie days, especially when I’m trying to cut or just keep my energy steady throughout the afternoon. Small snacks never cut it, and I hate feeling like I’m starving between meals. That’s why I started making these healthy sheet pan snack boxes—they’re packed with lean chicken and tons of roasted veggies, so you get a huge portion without blowing your calorie budget. Plus, chickpeas add a nice fiber boost that keeps me full for hours. What I love most is how easy they are to prep ahead. I toss everything on a sheet pan, roast it up, and portion it out for the week. No weird ingredients or protein powders needed—just real food that tastes great and fills you up. I did have a few tries where the veggies got too soggy, but roasting everything evenly on one pan with just a touch of olive oil fixed that. These boxes are my go-to for post-workout snacks or when I need a quick, satisfying bite at my desk. They’re hearty, flavorful, and the perfect balance of protein and volume eating to keep hunger at bay.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 425°F (220°C). This high temperature is key for roasting the chicken and veggies quickly, locking in moisture while getting a slight caramelization that adds flavor without extra calories. Line a large sheet pan with parchment paper to prevent sticking and make cleanup easier. Avoid overcrowding the pan—give the ingredients space so they roast evenly and don’t steam, which can make them soggy.",
+            "timing": "10 minutes",
+            "doneness_cue": "The oven is hot and ready when it reaches 425°F, and the parchment paper is laid out smoothly on the pan."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, combine the chicken pieces, chickpeas, bell peppers, zucchini, and cherry tomatoes. Drizzle with olive oil—just a minimal 2 teaspoons—to lightly coat everything. This small amount adds flavor and helps the seasoning stick without adding many calories. Sprinkle smoked paprika, garlic powder, salt, and pepper evenly over the mix. Toss gently but thoroughly to ensure every bite is well-seasoned. Using spices instead of heavy sauces keeps it low calorie but flavorful.",
+            "timing": "5 minutes",
+            "doneness_cue": "Ingredients are evenly coated with oil and spices, with no clumps or dry spots visible."
+        },
+        {
+            "step": 3,
+            "instruction": "Spread the seasoned mixture in a single layer on the prepared sheet pan. Single-layer roasting is crucial to get that nice roast and avoid steaming. If the pan is too crowded, the veggies will release moisture and become mushy instead of crisp. Make sure the chicken pieces aren’t touching too much to allow heat circulation.",
+            "timing": "5 minutes",
+            "doneness_cue": "Ingredients are evenly spaced on the pan, not piled or overlapping."
+        },
+        {
+            "step": 4,
+            "instruction": "Roast in the preheated oven for 20-25 minutes, tossing halfway through. This ensures even cooking and browning on all sides. Chicken should reach an internal temperature of 165°F (74°C) for safety. The veggies will soften but still hold some bite, giving a nice texture contrast. Watch closely near the end to avoid burning the chickpeas.",
+            "timing": "20-25 minutes",
+            "doneness_cue": "Chicken is golden brown and cooked through, veggies are tender but not mushy, chickpeas are slightly crisp."
+        },
+        {
+            "step": 5,
+            "instruction": "Remove the sheet pan from the oven and let it cool slightly for 5 minutes. This resting time helps the juices redistribute in the chicken, keeping it moist. It also lets the veggies firm up a bit so the texture isn’t watery when you portion out the snack boxes.",
+            "timing": "5 minutes",
+            "doneness_cue": "The chicken looks juicy and the veggies hold their shape without excess liquid pooling."
+        },
+        {
+            "step": 6,
+            "instruction": "Divide the roasted chicken, chickpeas, and veggies evenly into six meal prep containers. Portion size matters here because these boxes are designed for volume eating—each has about 2 cups of food but stays under 200 calories. This large portion helps satisfy hunger and prevent snacking on empty calories later.",
+            "timing": "5 minutes",
+            "doneness_cue": "Each container has a balanced mix of protein and veggies, visually generous and colorful."
+        },
+        {
+            "step": 7,
+            "instruction": "Garnish each box with freshly chopped parsley for a pop of color and a fresh herbal note. Parsley also adds antioxidants and a bit of vitamin C without calories. It’s a simple finishing touch that makes the snack feel more vibrant and appetizing.",
+            "timing": "2 minutes",
+            "doneness_cue": "Bright green parsley scattered evenly over each portion."
+        },
+        {
+            "step": 8,
+            "instruction": "Store the snack boxes in the refrigerator in airtight containers. Keeping them sealed helps maintain freshness and prevents the roasted veggies from drying out. These keep well for up to 4 days, making them perfect for meal prep and quick grab-and-go snacks during the week.",
+            "timing": "N/A",
+            "doneness_cue": "Containers are sealed tightly and stored in the fridge."
+        },
+        {
+            "step": 9,
+            "instruction": "When ready to eat, enjoy cold or gently reheat in the microwave for 1-2 minutes. Reheating warms the chicken and softens the veggies slightly, but avoid overheating to keep the texture pleasant. If reheating, cover loosely to retain moisture but prevent sogginess. Alternatively, these snacks are delicious straight from the fridge for a refreshing, protein-packed bite.",
+            "timing": "1-2 minutes reheating",
+            "doneness_cue": "Snack is warmed through but still firm, not mushy or dry."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Sheet Pan Snacks Actually Fill You Up for Under 200 Calories",
+        "content": "<p>Protein has a high thermic effect of food (TEF), meaning your body burns more calories digesting it compared to carbs or fats. This not only boosts metabolism but also triggers satiety hormones like PYY and GLP-1, helping you feel full longer. Combining lean chicken breast with fiber-rich chickpeas and volume-packed veggies stretches your stomach and sends strong fullness signals without adding many calories.</p><p>The low calorie density of this snack means you get a large portion size—about 2 cups per serving—that looks and feels satisfying. Using minimal olive oil keeps fat content low while still allowing for roasting flavor and texture. Roasting at high heat caramelizes the natural sugars in vegetables, enhancing flavor without sugar or fat.</p><p>Zero-fat protein sources like chicken breast provide dense protein without extra calories. Chickpeas add fiber and plant protein, further enhancing fullness and stabilizing blood sugar. The roasting technique avoids steaming, which would make veggies soggy and less appealing, preserving a satisfying texture. Parsley adds freshness and antioxidants with zero calories.</p><p>Overall, this recipe leverages protein’s metabolic benefits and volume eating principles, offering a snack that fills you up, tastes great, and fits easily into a calorie-controlled diet.</p>",
+        "ingredient_notes": {
+            "chicken breast": "Choose skinless, boneless chicken breast for the leanest protein source. Look for fresh or frozen without added marinades or sodium. Chicken breast is high in protein and low in fat, making it ideal for low-calorie snacks. It cooks quickly and roasts well, providing juicy, satisfying bites. Avoid dark meat or skin as they add calories and fat.",
+            "chickpeas": "Use canned chickpeas for convenience, rinsed well to reduce sodium. Chickpeas add plant-based protein and fiber, which help with fullness and digestive health. Their mild flavor pairs well with spices and roasting. You can substitute with other legumes like white beans if desired, but chickpeas offer a nice texture contrast here.",
+            "bell peppers": "Select colorful bell peppers (red, yellow, orange) for sweetness and visual appeal. They are low in calories but high in volume and vitamin C, which supports metabolism. Roasting intensifies their flavor without adding calories. Avoid overcooking to keep some crunch and prevent mushiness.",
+            "zucchini": "Zucchini is a great low-calorie vegetable that adds bulk and moisture. It roasts quickly and absorbs seasoning well. Use fresh zucchini and slice evenly to ensure uniform cooking. Overcooking zucchini can cause it to become watery, so keep an eye on roasting time.",
+            "olive oil": "Use a minimal amount (about 2 teaspoons) to lightly coat ingredients. Olive oil adds flavor and helps spices stick but too much increases calories significantly. Choose extra virgin olive oil for best flavor and quality. If avoiding oil, use a non-stick sheet pan and spray lightly with cooking spray."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the sheet pan when roasting.",
+            "reason": "Crowding traps steam and prevents proper roasting, causing veggies and chicken to become soggy instead of crispy. Giving ingredients space allows hot air to circulate, producing caramelization that adds flavor without extra calories."
+        },
+        {
+            "tip": "Use minimal olive oil just to coat ingredients.",
+            "reason": "Too much oil adds unnecessary calories and can make the snack greasy. A light coating helps seasoning stick and promotes browning, maintaining a low-calorie profile while enhancing taste."
+        },
+        {
+            "tip": "Toss the ingredients halfway through roasting.",
+            "reason": "Flipping ensures even cooking and browning on all sides. It prevents burning on one side and undercooking on the other, resulting in uniformly cooked, flavorful bites."
+        },
+        {
+            "tip": "Let the roasted mixture rest before portioning.",
+            "reason": "Resting redistributes juices in the chicken and lets veggies firm up, preventing watery snack boxes. This step improves texture and flavor retention."
+        },
+        {
+            "tip": "Use parchment paper on the sheet pan.",
+            "reason": "Parchment prevents sticking and makes cleanup easier. It also allows roasting without added fats like oil sprays, keeping calories low."
+        },
+        {
+            "tip": "Choose firm, fresh vegetables for roasting.",
+            "reason": "Fresh veggies hold their shape better and roast evenly. Older or watery veggies can release excess moisture, making the snack soggy and less appealing."
+        },
+        {
+            "tip": "Store snacks in airtight containers in the fridge.",
+            "reason": "Sealing prevents moisture loss and flavor transfer from other foods. It keeps the roasted veggies from drying out, preserving texture and taste for several days."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcrowding the sheet pan",
+            "why_it_happens": "It’s tempting to roast everything at once to save time, but this traps steam and prevents proper roasting.",
+            "fix": "Use two pans if needed or roast in batches to ensure ingredients are spaced out. This keeps veggies crisp and chicken nicely browned."
+        },
+        {
+            "mistake": "Using too much oil",
+            "why_it_happens": "Many assume oil is needed generously for flavor and texture, but excess adds calories quickly.",
+            "fix": "Stick to 1-2 teaspoons total, just enough to coat. Use spices and roasting to build flavor instead."
+        },
+        {
+            "mistake": "Skipping resting after roasting",
+            "why_it_happens": "Eager to eat, some portion immediately, causing watery texture and uneven moisture.",
+            "fix": "Let the pan rest 5 minutes off heat to let juices settle and veggies firm up before dividing."
+        },
+        {
+            "mistake": "Not rinsing canned chickpeas",
+            "why_it_happens": "Relying on canned legumes without rinsing leaves excess sodium and starchy liquid.",
+            "fix": "Rinse chickpeas thoroughly under cold water to reduce sodium and improve flavor."
+        },
+        {
+            "mistake": "Overcooking vegetables",
+            "why_it_happens": "Leaving veggies in too long makes them mushy and less enjoyable.",
+            "fix": "Remove pan at 20-25 minutes and check texture often; veggies should be tender but still hold shape."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Sheet Pan Snack Boxes",
+            "description": "Add ½ tsp cayenne pepper and 1 tsp chili powder to the seasoning mix for a spicy kick. Swap bell peppers for jalapeños if you like heat. This variation adds a metabolism-boosting spice profile while keeping calories low. Expect a bolder flavor and slightly more warming sensation.",
+            "technical_note": "Spices don’t affect cooking time but watch for burning; toss halfway through roasting to prevent hot spots."
+        },
+        {
+            "name": "Mediterranean Style Sheet Pan Snacks",
+            "description": "Use oregano, thyme, and lemon zest in place of paprika and garlic powder. Add a handful of halved kalamata olives (reduce chickpeas slightly to balance calories). This gives a fresh, herbaceous flavor with a salty tang while maintaining high protein and low calories.",
+            "technical_note": "Olives add healthy fats, so adjust oil accordingly to keep calories controlled."
+        },
+        {
+            "name": "Vegetarian Sheet Pan Protein Snack",
+            "description": "Replace chicken with extra firm tofu cubes or tempeh for a plant-based protein boost. Marinate tofu briefly in soy sauce and smoked paprika before roasting. This keeps protein high and calories low while offering a different texture and flavor profile.",
+            "technical_note": "Tofu needs a bit longer roasting to get crispy edges; increase cook time by 5-7 minutes."
+        },
+        {
+            "name": "Low-Carb Sheet Pan Snack",
+            "description": "Omit chickpeas and add extra zucchini and mushrooms to keep volume high but reduce carbs. Season as usual. This variation suits those on low-carb diets while still providing satisfying protein and fiber.",
+            "technical_note": "Without chickpeas, monitor roasting time closely as mushrooms release moisture and cook faster."
+        },
+        {
+            "name": "Sheet Pan Snack with Quinoa",
+            "description": "Serve the roasted chicken and veggies over ½ cup cooked quinoa per serving for a complete meal. Quinoa adds complex carbs and extra protein, raising calories slightly but keeping the snack balanced and filling.",
+            "technical_note": "Cook quinoa separately; fluff well before serving to maintain texture contrast."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "22g",
+        "carbohydrates_grams": "10g",
+        "fat_grams": "3g",
+        "fiber_grams": "3g",
+        "sodium_mg": "200mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and brands used. This recipe is designed for a high-protein, low-calorie approach."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This snack is best kept refrigerated and should not be left out at room temperature for more than 2 hours due to the chicken. If left uncovered, low-fat roasted veggies may dry out or lose texture quickly.",
+        "refrigerator": "Store in airtight containers for up to 4 days. The flavors meld well overnight, and the protein firms up slightly, making reheated snacks more satisfying. Veggies retain a pleasant texture when reheated gently or eaten cold.",
+        "freezer": "Freeze portions in airtight containers or freezer bags for up to 2 months. Thaw overnight in the fridge. Note that freezing may slightly soften the roasted veggies and affect texture, but protein remains intact.",
+        "reheating": "Reheat in microwave for 1-2 minutes covered loosely to retain moisture. Avoid overheating to prevent drying out chicken or mushy veggies. Adding a splash of water or unsweetened almond milk before reheating can help maintain moisture.",
+        "make_ahead_strategy": "Prepare and roast all ingredients 1-2 days ahead, then portion into containers. Store covered in fridge and garnish fresh parsley just before serving to keep it bright and fresh. This method ensures optimal texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute the chicken breast with another protein?",
+            "answer": "Absolutely! You can swap chicken breast for turkey breast, lean pork, or even plant-based proteins like tofu or tempeh. Just adjust cooking times accordingly—plant proteins often need a bit longer roasting to develop a nice texture. Keep in mind the protein content and calories may vary, so adjust portion sizes if needed."
+        },
+        {
+            "question": "How do I prevent the roasted veggies from getting soggy?",
+            "answer": "The key is roasting at a high temperature (425°F) and spreading ingredients in a single layer to avoid steaming. Tossing halfway through helps even cooking. Also, avoid overcrowding the pan and use minimal oil. Let the veggies rest after roasting to firm up before storing or serving."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Yes! Replace chicken with extra firm tofu or tempeh marinated in your favorite spices. Chickpeas add plant protein and fiber, helping keep the snack filling. Roast veggies as usual. This keeps the snack high in protein and low in calories while fitting vegan diets."
+        },
+        {
+            "question": "Is it okay to eat these snacks cold?",
+            "answer": "Definitely! These sheet pan snack boxes taste great cold, especially straight from the fridge. The roasted flavors are still vibrant, and the texture remains satisfying. Eating cold is convenient for on-the-go or quick snacks without reheating."
+        },
+        {
+            "question": "How do I keep the calorie count low while still having flavorful snacks?",
+            "answer": "Focus on lean proteins, lots of low-calorie veggies, and minimal added fats. Use herbs, spices, and roasting to build flavor without heavy sauces or oils. Limiting oil to 1-2 teaspoons total keeps calories down while maintaining taste and texture."
+        },
+        {
+            "question": "Can I use frozen vegetables instead of fresh?",
+            "answer": "You can, but fresh veggies roast better with a firmer texture. Frozen vegetables tend to release more water when roasted, which can make the snack soggy. If using frozen, thaw and pat dry thoroughly before roasting to reduce moisture."
+        },
+        {
+            "question": "How long do these snacks keep in the fridge?",
+            "answer": "Stored in airtight containers, they keep well for up to 4 days. Beyond that, the texture and flavor may degrade. For longer storage, freeze portions and thaw as needed."
+        },
+        {
+            "question": "What’s the best way to reheat without drying out the chicken?",
+            "answer": "Reheat gently in the microwave for 1-2 minutes covered loosely to trap steam. Adding a splash of water or unsweetened almond milk before reheating helps keep the chicken moist. Avoid overheating which can dry it out and toughen the texture."
+        }
+    ],
+    "conclusion": "I hope you love these healthy sheet pan snack boxes as much as I do! They’re a lifesaver for busy days and keep me full without the guilt. Try making a batch, track your macros, and tag me with your results—I’d love to see your creations!",
+    "seo": {
+        "primary_keyword": "healthy sheet pan protein snack",
+        "secondary_keywords": [
+            "high protein low calorie snacks",
+            "volume eating recipes",
+            "how to make sheet pan snacks low calorie",
+            "best low calorie sheet pan recipe",
+            "easy high protein low calorie snacks",
+            "healthy low calorie snack meal prep",
+            "post workout low calorie snack recipe",
+            "protein snacks under 200 calories"
+        ],
+        "internal_links": [
+            {
+                "text": "easy high protein low calorie snack recipes",
+                "anchor": "easy_high_protein_low_calorie_snack_recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "category_id": "cat_1779285502_712",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-17 01:02:01",
+        "title_seed": "Healthy Sheet Pan Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1784250121_374",
+    "slug": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep",
+    "uniqueSlug": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_pinrecipes_image_1.webp",
+            "filePath": "posts/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_pinrecipes_image_1.webp",
+            "relativePath": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_pinrecipes_image_2.webp",
+            "filePath": "posts/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_pinrecipes_image_2.webp",
+            "relativePath": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_pinrecipes_image_3.webp",
+            "filePath": "posts/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_pinrecipes_image_3.webp",
+            "relativePath": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_6.webp",
+            "filePath": "posts/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_6.webp",
+            "relativePath": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_6.webp",
+            "type": "template",
+            "title": "High Protein Low Calorie Snack Boxes That Keep You Full and Satisfied"
+        },
+        {
+            "fileName": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_7.webp",
+            "filePath": "posts/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_7.webp",
+            "relativePath": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_7.webp",
+            "type": "template",
+            "title": "Make-Ahead Healthy Sheet Pan Protein Snacks for Busy Days"
+        },
+        {
+            "fileName": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_4.webp",
+            "filePath": "posts/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_4.webp",
+            "relativePath": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_4.webp",
+            "type": "template",
+            "title": "Prep These Protein-Packed Sheet Pan Snacks for Your Busy Week"
+        },
+        {
+            "fileName": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_5.webp",
+            "filePath": "posts/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_5.webp",
+            "relativePath": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_5.webp",
+            "type": "template",
+            "title": "Easy Low-Calorie Sheet Pan Snack Boxes You’ll Actually Look Forward To"
+        },
+        {
+            "fileName": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_9.webp",
+            "filePath": "posts/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_9.webp",
+            "relativePath": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_9.webp",
+            "type": "overlay_list",
+            "title": "Prep These Protein-Packed Sheet Pan Snacks for Your Busy Week",
+            "no_link": true
+        },
+        {
+            "fileName": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_8.webp",
+            "filePath": "posts/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_8.webp",
+            "relativePath": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_st1_image_8.webp",
+            "type": "recipe_card",
+            "title": "Prep These Protein-Packed Sheet Pan Snacks for Your Busy Week",
+            "no_link": true
+        }
+    ],
+    "image": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_pinrecipes_image_1.webp",
+    "image_path": "posts/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images/make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep_pinrecipes_image_1.webp",
+    "image_dir": "make-ahead-healthy-sheet-pan-protein-snack-boxes-for-easy-meal-prep/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-17T02:02:04+01:00",
+    "updatedAt": "2026-07-17T02:02:04+01:00"
+}
