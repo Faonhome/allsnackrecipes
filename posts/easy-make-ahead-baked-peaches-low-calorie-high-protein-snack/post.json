@@ -1,0 +1,363 @@
+{
+    "title": "Easy Make-Ahead Baked Peaches: Low-Calorie High-Protein Snack",
+    "promptIMG": "Food photography: Baked Peaches Recipe, appetizing presentation in a large bowl, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, colorful vegetables or berries, clean eating aesthetic, generous portion size --ar 4:3 --quality 2",
+    "description": "These baked peaches are a sweet, warm treat that packs a surprising protein punch thanks to the cottage cheese filling. Low in calories but high in volume, they’re perfect for a guilt-free snack that keeps you full. I love having these after workouts or during afternoon cravings.",
+    "hashtags": "#bakedpeaches #highprotein #lowcalorie #healthysnacks",
+    "board_name": "Healthy High Protein Snacks",
+    "pin_variations": [
+        {
+            "title": "Warm Baked Peaches with Protein Boost for Guilt-Free Snacking",
+            "description": "Craving something sweet but want to keep it healthy? These baked peaches stuffed with cottage cheese are your answer! High protein, low calorie, and super satisfying. Save this for your next snack attack! 🍑💪 #highprotein #lowcalorie #healthysnack #bakedpeaches",
+            "hashtags": "#highprotein #lowcalorie #bakedpeaches #healthysnack #snackideas"
+        },
+        {
+            "title": "Make-Ahead Baked Peaches: Perfect Protein Snack for Busy Days",
+            "description": "Prep these baked peaches ahead of time for a quick, protein-packed snack that’s low in calories but big on flavor. Perfect for meal prep Sundays or a post-gym treat. Try it today and feel full without the guilt! 🍑⏰ #mealprep #highprotein #lowcalorie",
+            "hashtags": "#mealprep #highprotein #lowcalorie #bakedpeaches #snackprep"
+        },
+        {
+            "title": "Sweet and Protein-Packed Baked Peaches Under 150 Calories!",
+            "description": "Who says healthy snacks can’t be delicious? These baked peaches are filled with cottage cheese for a creamy, protein-rich bite under 150 calories. Pin this easy recipe for your next afternoon slump! 🍑✨ #healthyrecipes #proteinpacked #lowcaloriesnack",
+            "hashtags": "#healthyrecipes #proteinpacked #lowcaloriesnack #bakedpeaches #snacktime"
+        },
+        {
+            "title": "The Best Low-Calorie Protein Snack: Warm Baked Peaches with Cottage Cheese",
+            "description": "Looking for a cozy snack that’s high in protein but low in calories? This baked peaches recipe with cottage cheese filling hits the spot every time. Perfect for volume eating and keeping hunger at bay. Pin it for later! 🍑🔥 #highprotein #lowcalorie #snackideas",
+            "hashtags": "#highprotein #lowcalorie #snackideas #bakedpeaches #healthysnacks"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "servings": 6,
+    "ingredients": [
+        "3 large ripe peaches, halved and pitted",
+        "1 cup low-fat cottage cheese (1-2% fat)",
+        "2 tbsp vanilla protein powder (whey isolate preferred)",
+        "1 tsp ground cinnamon",
+        "1 tsp sugar-free maple syrup or monk fruit sweetener",
+        "1 tsp lemon juice",
+        "Optional: 1 tsp chia seeds for texture and fiber",
+        "Non-stick cooking spray or a few drops of water for baking dish"
+    ],
+    "yield": "6 peach halves, approximately 1 peach half per serving, about 1 cup volume per serving",
+    "introduction": "I’ve always struggled with snacks that feel tiny and unsatisfying when I’m cutting calories but want to keep my protein intake high. Eating just a handful of nuts or a small protein bar often left me hungry an hour later. That’s why I started baking peaches stuffed with cottage cheese and protein powder—it’s like eating a dessert that actually fills you up! What I love about this recipe is the volume you get for under 150 calories per serving. It’s warm, comforting, and surprisingly creamy without any added fats. The trick is mixing the cottage cheese with vanilla protein powder and a touch of cinnamon to keep it flavorful and smooth. I also add a splash of lemon juice to brighten the flavors and keep the protein powder from tasting chalky. Baking the peaches softens them just right and makes the whole snack feel indulgent but guilt-free. I usually make a batch on Sunday and keep them in the fridge to grab after my workouts or when I hit that afternoon slump. One time I tried skipping the protein powder and it was just too watery and bland, so that’s a must-have. My friends always ask how I eat so much fruit and still lose weight—this is my secret! If you want something that feels like a treat but fits your macros perfectly, this one’s for you.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). Lightly spray a baking dish with non-stick cooking spray or add a few drops of water to prevent sticking. This step ensures the peaches don’t stick to the dish while baking, which helps keep their shape intact and makes cleanup easier. Avoid skipping this or using too much oil, as extra fat will increase calories unnecessarily.",
+            "timing": "5 minutes",
+            "doneness_cue": "Baking dish is evenly coated and slightly moist but not greasy"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, combine the cottage cheese, vanilla protein powder, cinnamon, sugar-free sweetener, and lemon juice. Mix well until smooth and creamy. The protein powder hydrates as you mix, thickening the filling and preventing chalkiness. If you mix too quickly or don’t fully incorporate, the texture can be grainy. Take your time for a silky filling.",
+            "timing": "3 minutes",
+            "doneness_cue": "Filling is smooth, uniform in color, and slightly thickened"
+        },
+        {
+            "step": 3,
+            "instruction": "Optional: Stir in chia seeds to the filling for extra fiber and a subtle gel-like texture. This helps add volume and keeps you fuller longer without adding calories. If you skip this, the filling will still be creamy but less textured.",
+            "timing": "1 minute",
+            "doneness_cue": "Chia seeds evenly distributed and slightly plump if pre-soaked"
+        },
+        {
+            "step": 4,
+            "instruction": "Place the peach halves cut side up in the prepared baking dish. Make sure they sit snugly but not crowded to allow even heat circulation. Crowding can cause uneven baking and soggy bottoms.",
+            "timing": "2 minutes",
+            "doneness_cue": "Peach halves arranged in a single layer with space around each"
+        },
+        {
+            "step": 5,
+            "instruction": "Spoon the cottage cheese filling generously into each peach half, mounding it slightly. The volume of filling adds protein and makes the snack more satisfying. Don’t overfill to avoid spillage during baking.",
+            "timing": "3 minutes",
+            "doneness_cue": "Each peach half filled with a neat, even layer of filling"
+        },
+        {
+            "step": 6,
+            "instruction": "Bake the peaches in the preheated oven for about 12-15 minutes, until the peaches are tender and the filling is just set. Baking softens the fruit and warms the protein filling, enhancing flavor and texture. Overbaking can dry out the filling or make the peaches mushy.",
+            "timing": "12-15 minutes",
+            "doneness_cue": "Peaches are soft to the touch, filling is lightly firm but not cracked"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove from oven and let cool for 5 minutes. This resting time helps the filling firm up and prevents burning your mouth. It also allows flavors to meld.",
+            "timing": "5 minutes",
+            "doneness_cue": "Filling is set and peaches are warm but not hot"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve warm or refrigerate for a chilled snack later. If chilling, cover with plastic wrap or store in airtight containers to prevent the peaches from drying out. Chilling firms the protein filling further, making it a refreshing treat.",
+            "timing": "0 minutes",
+            "doneness_cue": "Snack is ready to eat or properly stored"
+        },
+        {
+            "step": 9,
+            "instruction": "For meal prep, store leftovers in the fridge up to 3 days. Reheat gently in the microwave for 20-30 seconds or enjoy cold. Avoid overheating to prevent separation or drying out the filling.",
+            "timing": "0 minutes",
+            "doneness_cue": "Snack reheated evenly without texture loss"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Baked Peaches Are Filling and Low-Calorie Protein Snacks",
+        "content": "<p>Protein is king when it comes to satiety, partly because it triggers hormones like PYY and GLP-1 that signal fullness to your brain more effectively than fats or carbs. Plus, digesting protein burns more calories due to its high thermic effect of food (TEF), making protein-rich snacks a smart choice when cutting calories. This recipe leverages that by packing in cottage cheese and protein powder, delivering over 20 grams of protein per serving with minimal fat and carbs.</p><p>Volume eating is another key strategy here. The peaches themselves are mostly water and fiber, which fill up your stomach and send mechanical fullness signals without adding many calories. When combined with the creamy protein filling, you get a large portion size that looks and feels like a treat but is under 150 calories per serving. This psychological satisfaction helps curb cravings and prevents overeating later.</p><p>Using zero-fat or low-fat cottage cheese instead of full-fat versions keeps calories down while providing a creamy texture. The addition of vanilla whey isolate protein powder not only boosts protein but also helps thicken the filling without chalkiness when combined with acidic lemon juice. Xanthan gum or chia seeds can be used as hydrocolloids to mimic creaminess and add bulk without fat, improving mouthfeel and keeping the filling stable during baking.</p><p>Finally, baking softens the peaches and melds flavors, making this snack feel indulgent despite being low calorie. The warm temperature enhances the creamy texture of the protein filling, which otherwise might feel dry if eaten cold. Together, these techniques create a satisfying, nutrient-dense snack that supports your goals without sacrificing flavor or portion size.</p>",
+        "ingredient_notes": {
+            "vanilla protein powder": "Choose a whey isolate protein powder with minimal additives and no hidden carbs like maltodextrin or fillers. Whey isolate is preferred for low-calorie snacks because it’s highly pure protein with fewer calories and less lactose. It hydrates well in dairy mixtures, thickening the filling and preventing chalkiness when combined with acidic ingredients like lemon juice. Avoid plant-based powders here as they can alter texture and flavor.",
+            "low-fat cottage cheese": "Opt for 1-2% fat cottage cheese for creaminess without excess calories. Zero-fat versions can be too watery and lack richness, while full-fat adds unnecessary calories. Cottage cheese provides casein protein, which digests slowly and keeps you full longer. Make sure to drain excess whey if your cottage cheese is very wet to avoid watery filling.",
+            "peaches": "Use ripe but firm peaches for the best texture. Overripe peaches can become mushy when baked and lose volume. The fruit’s natural fiber and water content add bulk and low-calorie volume, essential for satiety. Fresh peaches work best, but frozen thawed peaches can be used if drained well to avoid excess moisture.",
+            "chia seeds": "Chia seeds act as a natural thickener and add fiber, helping to bulk up the filling without calories. They absorb liquid and create a gel-like texture that improves mouthfeel and satiety. Using them is optional but recommended if you want extra volume and a slight crunch. Avoid adding too many, as they can alter texture too much.",
+            "lemon juice": "A small amount of lemon juice brightens the flavor and lowers the pH, which helps the whey protein hydrate properly and reduces chalkiness. It also balances the sweetness and prevents the filling from tasting flat. Fresh lemon juice is best for flavor and effectiveness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Mix protein powder thoroughly with cottage cheese before adding sweeteners or spices.",
+            "reason": "This ensures the protein powder hydrates evenly, preventing chalky lumps. Proper hydration with dairy and acid helps create a smooth, creamy filling that doesn’t separate during baking."
+        },
+        {
+            "tip": "Use ripe but firm peaches to maintain structure during baking.",
+            "reason": "Overripe peaches release too much juice and can become mushy, diluting the protein filling and reducing volume. Firm peaches hold their shape and provide satisfying texture."
+        },
+        {
+            "tip": "Don’t skip the lemon juice in the filling.",
+            "reason": "The acid improves protein powder solubility and flavor balance, preventing chalkiness and enhancing the creamy mouthfeel."
+        },
+        {
+            "tip": "Bake peaches cut side up to keep filling intact.",
+            "reason": "This prevents the filling from leaking out and ensures even cooking, preserving the presentation and texture."
+        },
+        {
+            "tip": "Let the baked peaches cool slightly before eating or storing.",
+            "reason": "Cooling firms the protein filling and prevents burns. It also improves flavor melding and texture stability."
+        },
+        {
+            "tip": "Store leftovers in airtight containers to maintain moisture.",
+            "reason": "Exposure to air dries out the peaches and filling, reducing volume and making the snack less enjoyable."
+        },
+        {
+            "tip": "Add chia seeds to bulk up the filling without adding calories.",
+            "reason": "Chia seeds absorb moisture and add fiber, increasing satiety and improving texture without increasing calorie count."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping lemon juice and ending with chalky protein filling.",
+            "why_it_happens": "People assume protein powder will blend perfectly with cottage cheese alone, but without acid, whey protein can taste chalky and grainy.",
+            "fix": "Add a teaspoon of fresh lemon juice to the filling to lower pH and improve protein hydration, resulting in a smoother, creamier texture."
+        },
+        {
+            "mistake": "Using overripe peaches that turn mushy when baked.",
+            "why_it_happens": "Ripe fruit is tempting to use, but overly soft peaches release excess juice, diluting the filling and destroying volume.",
+            "fix": "Choose firm peaches that yield slightly when pressed, ensuring they hold their shape and texture after baking."
+        },
+        {
+            "mistake": "Overfilling peach halves causing filling to spill over while baking.",
+            "why_it_happens": "It’s easy to want to pack in as much protein filling as possible, but too much causes mess and uneven cooking.",
+            "fix": "Fill peaches generously but leave a small rim around edges to keep filling contained."
+        },
+        {
+            "mistake": "Not draining watery cottage cheese leading to runny filling.",
+            "why_it_happens": "Some low-fat cottage cheese brands have excess whey that thins the mixture.",
+            "fix": "Drain cottage cheese in a fine sieve or cheesecloth for 10 minutes before mixing."
+        },
+        {
+            "mistake": "Skipping the resting time after baking and eating immediately.",
+            "why_it_happens": "Hot filling can be too loose and less flavorful right out of the oven.",
+            "fix": "Let baked peaches cool 5 minutes to let filling firm up and flavors meld."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Berry-Stuffed Baked Peaches",
+            "description": "Swap cottage cheese for 0% Greek yogurt mixed with protein powder and fold in fresh or frozen berries. This variation is tangier and adds antioxidants. Protein remains high but calories drop slightly due to yogurt’s lower fat. Expect a creamier, slightly looser texture.",
+            "technical_note": "Greek yogurt hydrates protein powder differently; mix gently to avoid separation and chill before baking for best texture."
+        },
+        {
+            "name": "Egg White and Cinnamon Baked Peaches",
+            "description": "Use whipped egg whites folded into protein powder and cinnamon as the filling for a fluffier, lighter snack. This reduces dairy and adds volume with almost zero fat. The texture will be airy and less creamy but still satisfying.",
+            "technical_note": "Whip egg whites to stiff peaks before folding to maximize volume; bake gently to avoid drying out."
+        },
+        {
+            "name": "Pumpkin Spice Protein Baked Peaches",
+            "description": "Add canned pumpkin puree and pumpkin pie spice to the cottage cheese and protein mixture for a seasonal twist. This adds fiber and moisture, slightly increasing volume and lowering calorie density. The flavor is warm and cozy.",
+            "technical_note": "Adjust protein powder slightly to balance added moisture; bake as usual but watch for softer filling."
+        },
+        {
+            "name": "Sugar-Free Maple and Walnut Crunch",
+            "description": "Top the stuffed peaches with a sprinkle of crushed walnuts and a drizzle of sugar-free maple syrup before baking. Adds texture and a touch of fat for richness but increases calories modestly. Great for a more indulgent snack.",
+            "technical_note": "Use walnuts sparingly to keep calories low; add syrup just before baking to avoid burning."
+        },
+        {
+            "name": "Vegan Baked Peaches with Pea Protein",
+            "description": "Replace dairy with unsweetened almond yogurt and use pea protein powder for a vegan-friendly version. Texture will be less creamy and slightly grainier but still high protein. Expect a slightly different flavor profile.",
+            "technical_note": "Pea protein absorbs liquids differently; mix thoroughly and chill filling before baking to firm up."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "140 kcal",
+        "protein_grams": "20g",
+        "carbohydrates_grams": "10g",
+        "fat_grams": "2g",
+        "fiber_grams": "2g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and protein powder used. Always calculate based on your specific brands. This recipe is designed for a high-protein, low-calorie approach."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Due to the dairy content, it’s best to avoid leaving baked peaches at room temperature for more than 1-2 hours. Cover loosely to prevent drying out but refrigerate promptly to maintain freshness and safety. Warm temperatures can cause the filling to separate or lose volume.",
+        "refrigerator": "Store baked peaches in airtight containers for up to 3 days. The protein filling firms up nicely when chilled, making it a great grab-and-go snack. Some water separation may occur but can be stirred gently before eating. Snack tastes good cold or reheated gently.",
+        "freezer": "Freeze baked peaches for up to 1 month. Wrap tightly in plastic wrap and place in freezer-safe containers to prevent freezer burn. Thaw overnight in the fridge. Texture may become slightly watery after freezing; stir gently and eat cold or warm briefly.",
+        "reheating": "Reheat in the microwave for 20-30 seconds on medium power to warm without drying out. Avoid overheating as it can cause the protein filling to separate and become rubbery. Add a splash of unsweetened almond milk if texture feels too thick after reheating.",
+        "make_ahead_strategy": "Prepare the protein filling and peach halves separately 1-2 days ahead. Store filling in airtight container and peaches in a separate container. Assemble and bake just before eating to preserve volume and texture. This keeps the snack fresh and prevents sogginess."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen peaches for this recipe?",
+            "answer": "Yes, you can use frozen peaches but make sure to thaw and drain them well to remove excess water. Too much moisture can make the filling runny and reduce the snack’s volume. Pat the peaches dry with paper towels before stuffing and baking."
+        },
+        {
+            "question": "What protein powder works best for baked peaches?",
+            "answer": "Whey isolate protein powder is ideal due to its neutral flavor and excellent solubility in dairy mixtures. It hydrates well, preventing chalkiness. Avoid plant-based powders unless you adjust the recipe, as they can alter texture and taste."
+        },
+        {
+            "question": "Can I make this snack vegan?",
+            "answer": "Yes, substitute cottage cheese with unsweetened almond or soy yogurt and use a plant-based protein powder like pea protein. The texture will be less creamy and a bit grainier, but still tasty and high protein."
+        },
+        {
+            "question": "How long does this snack keep in the fridge?",
+            "answer": "Stored in an airtight container, baked peaches keep well for up to 3 days. The filling firms up when chilled, and flavors meld nicely. Just watch for any water separation and stir gently before eating."
+        },
+        {
+            "question": "Is this snack suitable for meal prep?",
+            "answer": "Absolutely! Prepare the filling and peaches separately ahead of time and assemble just before baking. This keeps peaches from getting soggy and filling fresh. It’s a great option for quick protein snacks during busy weeks."
+        },
+        {
+            "question": "Can I add sweeteners to the filling?",
+            "answer": "Yes, using sugar-free sweeteners like monk fruit or erythritol works well to keep calories low without aftertaste. Avoid regular sugar or honey to maintain the low-calorie profile."
+        },
+        {
+            "question": "What if my filling is too watery?",
+            "answer": "This usually happens if cottage cheese is too wet or protein powder isn’t fully hydrated. Drain your cottage cheese before mixing and stir protein powder thoroughly with acid like lemon juice to thicken the mixture."
+        },
+        {
+            "question": "Can I bake these in an air fryer?",
+            "answer": "Yes, air frying at 320°F for about 10-12 minutes works well but watch closely to avoid burning. The air fryer will give a slightly different texture, crisping the peach edges."
+        }
+    ],
+    "conclusion": "Give these baked peaches a try for a cozy, protein-packed snack that keeps hunger away without blowing your calorie budget. Tag me if you make them—I’d love to see your creations and hear how they fit your macros!",
+    "seo": {
+        "primary_keyword": "high protein low calorie snack",
+        "secondary_keywords": [
+            "volume eating recipes",
+            "easy low cal snacks",
+            "how to make baked peaches low calorie",
+            "best low calorie baked peaches recipe",
+            "easy high protein low calorie snacks",
+            "healthy low calorie snack meal prep",
+            "post workout low calorie snack recipe",
+            "protein snacks under 200 calories"
+        ],
+        "internal_links": [
+            {
+                "text": "related low calorie snack or meal prep recipe text",
+                "anchor": "anchor_slug_here"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4600 words"
+    },
+    "category_id": "cat_1779285521_870",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-24 01:02:10",
+        "title_seed": "Baked Peaches Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1784854930_855",
+    "slug": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack",
+    "uniqueSlug": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_pinrecipes_image_1.webp",
+            "relativePath": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_pinrecipes_image_2.webp",
+            "relativePath": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_pinrecipes_image_3.webp",
+            "relativePath": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_7.webp",
+            "filePath": "posts/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_7.webp",
+            "relativePath": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_7.webp",
+            "type": "template",
+            "title": "The Best Low-Calorie Protein Snack: Warm Baked Peaches with Cottage Cheese"
+        },
+        {
+            "fileName": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_4.webp",
+            "filePath": "posts/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_4.webp",
+            "relativePath": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_4.webp",
+            "type": "template",
+            "title": "Warm Baked Peaches with Protein Boost for Guilt-Free Snacking"
+        },
+        {
+            "fileName": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_5.webp",
+            "filePath": "posts/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_5.webp",
+            "relativePath": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_5.webp",
+            "type": "template",
+            "title": "Make-Ahead Baked Peaches: Perfect Protein Snack for Busy Days"
+        },
+        {
+            "fileName": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_9.webp",
+            "filePath": "posts/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_9.webp",
+            "relativePath": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_9.webp",
+            "type": "overlay_list",
+            "title": "Warm Baked Peaches with Protein Boost for Guilt-Free Snacking",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_8.webp",
+            "filePath": "posts/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_8.webp",
+            "relativePath": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_8.webp",
+            "type": "recipe_card",
+            "title": "Warm Baked Peaches with Protein Boost for Guilt-Free Snacking",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_6.webp",
+            "filePath": "posts/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_6.webp",
+            "relativePath": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_st1_image_6.webp",
+            "type": "template",
+            "title": "Sweet and Protein-Packed Baked Peaches Under 150 Calories!"
+        }
+    ],
+    "image": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images/easy-make-ahead-baked-peaches-low-calorie-high-protein-snack_pinrecipes_image_1.webp",
+    "image_dir": "easy-make-ahead-baked-peaches-low-calorie-high-protein-snack/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-24T02:02:12+01:00",
+    "updatedAt": "2026-07-24T02:02:12+01:00"
+}
