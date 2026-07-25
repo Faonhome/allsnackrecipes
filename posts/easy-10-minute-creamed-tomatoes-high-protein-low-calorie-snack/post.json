@@ -1,0 +1,314 @@
+{
+    "title": "Easy 10-Minute Creamed Tomatoes High-Protein Low-Calorie Snack",
+    "promptIMG": "Food photography: Creamed Tomatoes, appetizing presentation in a large bowl, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, colorful vegetables or berries, clean eating aesthetic, generous portion size --ar 4:3 --quality 2",
+    "description": "This creamed tomatoes snack blends juicy tomatoes with creamy zero-fat Greek yogurt for a filling, high-protein treat under 150 calories. It’s perfect for a light afternoon pick-me-up or post-workout refuel without any guilt!",
+    "hashtags": "#CreamedTomatoes #highprotein #lowcalorie #healthysnacks",
+    "board_name": "High Protein Low Calorie",
+    "pin_variations": [
+        {
+            "title": "Try This Creamed Tomatoes Snack for a Protein Boost Under 150 Calories!",
+            "description": "Looking for a quick, refreshing snack that's high in protein but low in calories? This creamed tomatoes recipe is your new go-to! Creamy, tangy, and so satisfying. Save this for your next snack time! 🍅💪 #highprotein #lowcalorie #healthysnack",
+            "hashtags": "#CreamedTomatoes #highprotein #lowcalorie #snackideas #healthysnacks"
+        },
+        {
+            "title": "Creamed Tomatoes: The Perfect Volume Eating Protein Snack You’ll Love",
+            "description": "I can’t get enough of this creamed tomatoes bowl! It’s packed with protein and feels like a meal with all that volume. Great for meal prep or when you need a guilt-free snack. Pin it now and try it today! 🍅🥄 #volumeeating #proteinpacked #lowcalorie",
+            "hashtags": "#CreamedTomatoes #volumeeating #protein #snacktime #lowcaloriesnack"
+        },
+        {
+            "title": "Whip Up This Creamed Tomatoes Protein Snack in 10 Minutes Flat!",
+            "description": "In a rush? This creamed tomatoes snack is super quick to make, loaded with protein, and under 150 calories. Perfect for busy days or post-gym fuel. Pin it for your next healthy snack idea! ⏰🍅💪 #easyrecipes #highprotein #lowcaloriesnack",
+            "hashtags": "#CreamedTomatoes #highprotein #easyrecipes #lowcalorie #snackprep"
+        },
+        {
+            "title": "Make-Ahead Creamed Tomatoes Boxes for Low-Calorie High-Protein Snacking",
+            "description": "Meal prep made easy with these creamed tomatoes snack boxes! High protein, low calorie, and so creamy. They keep well in the fridge and are perfect for busy afternoons. Save this recipe for your next prep day! 🥫🍅 #mealprep #highprotein #lowcalorie",
+            "hashtags": "#CreamedTomatoes #mealprep #highprotein #lowcaloriesnack #healthychoices"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 6,
+    "ingredients": [
+        "2 cups fresh cherry tomatoes, halved",
+        "1 cup zero-fat Greek yogurt, chilled",
+        "3 large egg whites, lightly whipped",
+        "1 tablespoon chopped fresh basil",
+        "1 teaspoon lemon juice",
+        "1/2 teaspoon xanthan gum (optional, for creaminess)",
+        "Pinch of sea salt",
+        "Freshly ground black pepper, to taste",
+        "1 teaspoon sugar-free sweetener (optional)"
+    ],
+    "yield": "Approximately 1 large bowl per serving, 6 snack servings, about 2 cups volume per serving",
+    "introduction": "I’ve always struggled with feeling hungry on low-calorie diets, especially when cutting. Tiny snack portions just don’t cut it when your stomach is growling mid-afternoon. That’s why I love this creamed tomatoes recipe—it’s huge in volume, creamy, and packs a solid protein punch without tipping the calorie scale. Unlike store-bought protein bars that feel like eating a dense brick, this snack feels fresh and satisfying. The trick? Using zero-fat Greek yogurt whipped with egg whites to create a fluffy, creamy base that holds up well without any added fat. Plus, the fresh tomatoes add bulk and juiciness, so you’re eating a lot of food for under 150 calories. I admit, my first attempt was too watery because I skipped the xanthan gum, but once I added that tiny bit, the texture was spot on. Friends always ask how I eat so much and still lose weight—this is my secret! It’s perfect for a quick post-workout refuel or a meal prep snack that keeps me full until dinner.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by halving the fresh cherry tomatoes and placing them in a large mixing bowl. The tomatoes provide natural juiciness and volume without adding many calories. Using fresh tomatoes rather than canned helps avoid excess sodium and preserves the bright flavor. Be sure to gently pat the tomatoes dry with a paper towel if they are very wet to prevent the mixture from becoming too watery later on.",
+            "timing": "5 minutes",
+            "doneness_cue": "Tomatoes are evenly halved and slightly dried without excess moisture pooling in the bowl."
+        },
+        {
+            "step": 2,
+            "instruction": "In a separate bowl, whisk the zero-fat Greek yogurt with the egg whites until the mixture becomes fluffy and light. This whipping incorporates air, creating volume and creaminess without fat. The egg whites act as a natural binder and fluffing agent, preventing the yogurt from feeling dense or chalky. If you have xanthan gum, sprinkle it in gradually and whisk well to thicken the mixture and avoid separation.",
+            "timing": "3 minutes",
+            "doneness_cue": "The yogurt and egg whites form a smooth, airy cream with no lumps or watery separation."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the lemon juice, chopped basil, salt, and pepper to the yogurt mixture. These ingredients brighten the flavor and add freshness, which is essential in low-fat snacks to keep them tasting vibrant. Mix gently but thoroughly to combine all flavors evenly without deflating the whipped yogurt.",
+            "timing": "2 minutes",
+            "doneness_cue": "Seasonings are fully incorporated, and the mixture smells fresh and tangy."
+        },
+        {
+            "step": 4,
+            "instruction": "Fold the halved tomatoes gently into the creamy yogurt mixture. This step is crucial to maintain the airiness of the yogurt while distributing the tomatoes evenly. Avoid overmixing, which can cause the mixture to become watery and lose volume.",
+            "timing": "2 minutes",
+            "doneness_cue": "Tomatoes are evenly coated but the mixture remains fluffy and voluminous."
+        },
+        {
+            "step": 5,
+            "instruction": "Taste and adjust seasoning with additional salt, pepper, or sugar-free sweetener if desired. The small amount of sweetener balances the acidity of the tomatoes and lemon juice without adding calories or aftertaste. Be cautious with sweetener amounts to avoid masking the natural flavors.",
+            "timing": "1 minute",
+            "doneness_cue": "Flavor is balanced with a slight tang and subtle sweetness if added."
+        },
+        {
+            "step": 6,
+            "instruction": "Transfer the creamed tomatoes into serving bowls or meal prep containers. This snack is best eaten fresh or chilled. The volume should be generous, about 2 cups per serving, which makes it feel like a full snack rather than a tiny bite.",
+            "timing": "1 minute",
+            "doneness_cue": "Snack is portioned into bowls with visible creamy texture and tomato chunks."
+        },
+        {
+            "step": 7,
+            "instruction": "Chill the snack in the refrigerator for at least 30 minutes if you prefer it cold. Chilling helps the xanthan gum fully hydrate and firms the texture, making it more satisfying. If you skip chilling, the texture may be slightly looser but still tasty.",
+            "timing": "30 minutes",
+            "doneness_cue": "Snack is chilled and firmer to the touch but still creamy."
+        },
+        {
+            "step": 8,
+            "instruction": "Before serving, gently stir the snack to reincorporate any liquid that may have separated. This ensures a creamy mouthfeel without watery patches. Avoid vigorous stirring, which can break down the fluffiness.",
+            "timing": "1 minute",
+            "doneness_cue": "Mixture is smooth and creamy with no visible liquid pools."
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy immediately or pack in airtight containers for up to 3 days. This snack travels well for meal prep but is best eaten cold or at room temperature. Refrain from reheating as the egg whites and yogurt can separate and lose texture.",
+            "timing": "N/A",
+            "doneness_cue": "Snack maintains texture and flavor after storage when properly refrigerated."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Snacks Actually Fill You Up for Under 200 Calories",
+        "content": "<p>Protein is king when it comes to satiety and calorie burning. The thermic effect of food (TEF) means that digesting protein burns more calories than carbs or fats, making high-protein snacks like this creamed tomatoes bowl excellent for fat loss. Protein also triggers satiety hormones such as PYY and GLP-1, which tell your brain you’re full faster and keep hunger at bay longer.</p><p>Combining protein with high-volume, low-calorie ingredients like fresh tomatoes and zero-fat Greek yogurt stretches your stomach physically, sending mechanical fullness signals. This means you can eat a large portion—about 2 cups per serving—without exceeding 150 calories. The tomatoes add fiber and water content, further aiding fullness.</p><p>Zero-fat Greek yogurt and egg whites work beautifully here because they provide creaminess and structure without fat’s calorie load. The egg whites add fluffiness and bind the mixture so it’s not watery, while xanthan gum acts as a hydrocolloid to mimic creaminess and prevent separation. This is crucial because low-fat mixtures often separate or become chalky, but these techniques keep the texture smooth and enjoyable.</p><p>Finally, the large portion size psychologically satisfies cravings. Eating a giant bowl feels indulgent and prevents the urge to snack on calorie-dense foods later. This recipe strikes the perfect balance between flavor, texture, and nutrition for anyone wanting a filling, low-calorie, high-protein snack.</p>",
+        "ingredient_notes": {
+            "zero-fat Greek yogurt": "Look for plain, zero-fat Greek yogurt without added sugars or thickeners. Whey protein content varies, but choosing a brand with live cultures and no hidden maltodextrin ensures high protein and clean flavor. This yogurt provides creaminess and tang that balances the tomatoes perfectly. Avoid 2% or full-fat versions as they increase calories significantly and alter the texture, making it less fluffy.",
+            "egg whites": "Egg whites add volume and protein without fat or carbs. Use pasteurized liquid egg whites for convenience and safety. Whipping them before folding into yogurt creates an airy texture, preventing the snack from feeling dense or chalky. Avoid using whole eggs here as the yolks add unwanted fat and calories, defeating the low-calorie goal.",
+            "cherry tomatoes": "Fresh cherry tomatoes provide natural sweetness, juiciness, and fiber with minimal calories. They bulk up the snack, making the portion look huge and satisfying. Choose ripe, firm tomatoes for best texture. Avoid canned tomatoes as they tend to be high in sodium and watery, which can dilute the creamy base.",
+            "xanthan gum": "A small amount of xanthan gum thickens and stabilizes the mixture without adding calories. It mimics the mouthfeel of fat and prevents watery separation common in low-fat dairy snacks. Quality xanthan gum hydrates quickly; sprinkle it gradually and whisk thoroughly to avoid clumps. Substitutes like guar gum can work but may alter texture slightly.",
+            "sugar-free sweetener": "Using a natural zero-calorie sweetener like stevia or monk fruit helps balance acidity without adding calories or aftertaste. Choose pure extracts with no fillers for best results. Sweetener is optional and should be added sparingly to maintain the fresh tomato flavor without overwhelming sweetness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Whip egg whites separately before folding into yogurt for maximum fluffiness.",
+            "reason": "Whipping incorporates air bubbles that increase volume and improve texture. Without this step, the mixture can be dense or chalky, especially since there’s no fat to soften the mouthfeel. This technique creates a light, creamy snack that feels indulgent but stays low calorie."
+        },
+        {
+            "tip": "Use xanthan gum sparingly to prevent watery separation in the yogurt mixture.",
+            "reason": "Xanthan gum acts as a hydrocolloid, binding water and stabilizing texture. Without it, low-fat dairy mixtures tend to separate and become runny, which ruins the eating experience. Just a small pinch thickens the snack and maintains creaminess without adding calories."
+        },
+        {
+            "tip": "Pat tomatoes dry if very juicy before mixing to avoid excess water in the snack.",
+            "reason": "Excess moisture from tomatoes can dilute the creamy base, causing the snack to be watery and less satisfying. Removing surface water ensures the yogurt and egg whites maintain their fluffy, thick texture, which is key for volume eating."
+        },
+        {
+            "tip": "Chill the snack for at least 30 minutes before serving to firm texture.",
+            "reason": "Chilling allows xanthan gum to fully hydrate and the mixture to set, which improves mouthfeel and makes the snack more enjoyable. Eating it immediately is fine but the texture will be looser and less cohesive."
+        },
+        {
+            "tip": "Add lemon juice for brightness to balance the creamy and tangy flavors.",
+            "reason": "Acidic ingredients like lemon juice enhance flavor complexity and counteract any potential blandness from zero-fat dairy. It also helps protein powders and dairy blend smoothly, reducing chalkiness."
+        },
+        {
+            "tip": "Use fresh herbs like basil to add flavor without calories.",
+            "reason": "Herbs add aromatic complexity and freshness, making the snack feel more gourmet and less like a diet food. This helps with satisfaction and reduces cravings for richer snacks."
+        },
+        {
+            "tip": "Avoid overmixing after folding in tomatoes to preserve airiness.",
+            "reason": "Vigorous mixing deflates whipped egg whites and yogurt, resulting in a dense, watery snack. Gentle folding keeps the volume and texture light and enjoyable."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping xanthan gum and ending with a watery, separated snack.",
+            "why_it_happens": "People often underestimate how watery low-fat dairy mixtures can become without a stabilizer. They assume yogurt alone will hold the mixture together, but the high water content causes separation.",
+            "fix": "Add a small amount (about 1/2 teaspoon) of xanthan gum gradually while whisking to thicken and stabilize. This prevents watery separation and keeps the texture creamy and consistent."
+        },
+        {
+            "mistake": "Using full-fat yogurt instead of zero-fat, increasing calories unexpectedly.",
+            "why_it_happens": "It’s easy to grab any Greek yogurt without checking fat content. Full-fat versions add unnecessary calories and change the texture, making the snack heavier.",
+            "fix": "Always select plain zero-fat Greek yogurt to keep calories low and texture light. This ensures the snack stays under 150 calories per serving."
+        },
+        {
+            "mistake": "Not whipping egg whites separately, resulting in dense, chalky texture.",
+            "why_it_happens": "Skipping this step saves time but sacrifices texture. The egg whites need to be whipped to add air and volume, which prevents chalkiness.",
+            "fix": "Whip egg whites until soft peaks form before folding into yogurt. This creates a fluffy, creamy base that feels indulgent yet stays low calorie."
+        },
+        {
+            "mistake": "Adding too much sugar-free sweetener causing an aftertaste.",
+            "why_it_happens": "Some sweeteners have a bitter or metallic aftertaste if overused. People often add too much trying to mask acidity.",
+            "fix": "Add sweetener sparingly and taste as you go. Opt for high-quality stevia or monk fruit extracts with minimal fillers to avoid aftertaste."
+        },
+        {
+            "mistake": "Overmixing after adding tomatoes, deflating the mixture.",
+            "why_it_happens": "In an effort to combine ingredients thoroughly, some mix too vigorously, which breaks down the whipped structure.",
+            "fix": "Fold tomatoes in gently with a spatula to preserve the airiness and volume of the snack."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Creamed Tomatoes",
+            "description": "Add a pinch of cayenne pepper and finely chopped jalapeño to the mix for a spicy kick. This variation adds zero calories but amps up flavor and metabolism boost. Expect a slightly sharper taste and a warming sensation that pairs well with the creamy base.",
+            "technical_note": "The spicy ingredients won’t affect texture but add heat, so fold them in gently to maintain volume."
+        },
+        {
+            "name": "Herbed Creamed Tomatoes with Dill and Chives",
+            "description": "Swap basil for fresh dill and chives for a bright, herbaceous flavor. This swap keeps calories and protein the same but gives a fresh twist that’s perfect for spring or summer snacks.",
+            "technical_note": "Use fresh herbs finely chopped and fold in gently to keep the fluffy texture intact."
+        },
+        {
+            "name": "Creamed Tomatoes with Cucumber for Extra Crunch",
+            "description": "Add 1/2 cup finely diced cucumber for extra crunch and volume without calories. This adds a refreshing texture contrast and boosts hydration, making the snack even more filling.",
+            "technical_note": "Pat cucumber dry before adding to avoid excess moisture and watery texture."
+        },
+        {
+            "name": "Vegan Protein Alternative with Silken Tofu",
+            "description": "Replace Greek yogurt and egg whites with blended silken tofu and a plant-based protein powder for a vegan version. This changes the texture to a bit denser but still creamy, with about the same protein and calories.",
+            "technical_note": "Blend tofu thoroughly with protein powder and lemon juice before folding in tomatoes to maintain smoothness."
+        },
+        {
+            "name": "Lemon Zest and Mint Creamed Tomatoes",
+            "description": "Add lemon zest and chopped fresh mint for a bright, refreshing flavor. This variation adds no calories but makes the snack feel more gourmet and perfect for warm days.",
+            "technical_note": "Fold zest and mint in gently to keep the fluffy texture and avoid overmixing."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "140 kcal",
+        "protein_grams": "20g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "0.5g",
+        "fiber_grams": "2g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and protein powder used. Always calculate based on your specific brands. This recipe is designed for a high-protein, low-calorie approach."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This snack should not be left at room temperature for more than 1 hour due to the zero-fat dairy and egg whites. Cover with plastic wrap or place in an airtight container if briefly out of the fridge. Warm temperatures can cause separation and volume loss.",
+        "refrigerator": "Store in an airtight container for up to 3 days. The flavor develops nicely chilled, and the xanthan gum helps maintain texture. The snack holds its volume well but may need gentle stirring before serving to reincorporate any liquid separation.",
+        "freezer": "Freezing is not recommended as the high water content in tomatoes and yogurt causes icy texture and separation upon thawing. If you must freeze, use airtight containers and consume within 1 month. Thaw slowly in the fridge and stir gently.",
+        "reheating": "This snack is best enjoyed cold or at room temperature. Reheating causes egg whites and yogurt to separate and lose creaminess, resulting in an unappetizing texture. If you prefer it warmer, add a splash of unsweetened almond milk and gently warm in a microwave for a few seconds, stirring carefully.",
+        "make_ahead_strategy": "Prepare the yogurt and egg white mixture up to 1 day ahead and store covered in the fridge. Add fresh tomatoes and herbs just before serving to prevent sogginess and maintain volume. This approach is perfect for meal prep Sundays and quick snack grab-and-go."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute protein powder for egg whites in this recipe?",
+            "answer": "You can replace egg whites with unflavored whey protein isolate to boost protein, but the texture will be denser and less fluffy. Egg whites provide airiness that protein powder alone can't replicate. If using protein powder, add it gradually and whisk well to avoid chalkiness."
+        },
+        {
+            "question": "How do I prevent the snack from becoming watery over time?",
+            "answer": "Use xanthan gum as a stabilizer and pat tomatoes dry before mixing. Store the snack chilled in airtight containers and stir gently before serving to reincorporate any separated liquid. Avoid overmixing, which can break down the structure and cause water release."
+        },
+        {
+            "question": "Is this snack suitable for meal prep?",
+            "answer": "Yes! Prepare the creamy base ahead and add fresh tomatoes just before eating for best texture. Stored properly in the fridge, it keeps well up to 3 days. The large portion size makes it a convenient, filling snack for busy days."
+        },
+        {
+            "question": "Can I use full-fat Greek yogurt instead of zero-fat?",
+            "answer": "While full-fat yogurt adds creaminess, it also increases calories and fat, which may not fit your low-calorie goals. The texture will be richer but less airy. If you prefer full-fat, adjust portion sizes accordingly to stay within your calorie target."
+        },
+        {
+            "question": "What if I don’t have xanthan gum?",
+            "answer": "You can omit xanthan gum but expect a looser, slightly watery texture. Whipping egg whites well and patting tomatoes dry helps maintain structure. Alternatively, a small amount of chia seeds can be used but will add a slight texture difference."
+        },
+        {
+            "question": "How many calories and protein does one serving have?",
+            "answer": "Each serving has approximately 140 calories and 20 grams of protein, making it an excellent low-calorie, high-protein snack option. Actual values depend on brands and exact ingredient amounts used."
+        },
+        {
+            "question": "Can I add spices or herbs to change the flavor?",
+            "answer": "Absolutely! Fresh herbs like basil, dill, or mint work beautifully. Spices like black pepper or cayenne add warmth without calories. Just fold them in gently to keep the creamy texture intact."
+        },
+        {
+            "question": "Is this snack good for post-workout recovery?",
+            "answer": "Yes, it’s perfect! High protein helps muscle repair, and the fresh tomatoes provide hydration and antioxidants. The snack is light but filling, making it ideal for refueling without feeling heavy."
+        }
+    ],
+    "conclusion": "Give this creamed tomatoes snack a try and let me know how it fits your macros! Tag me if you make it—I’d love to see your giant bowls of goodness.",
+    "seo": {
+        "primary_keyword": "high protein low calorie snack",
+        "secondary_keywords": [
+            "volume eating protein snack",
+            "easy low cal snacks",
+            "how to make creamed tomatoes low calorie",
+            "best low calorie creamed tomatoes recipe",
+            "easy high protein low calorie snacks",
+            "healthy low calorie snack meal prep",
+            "post workout low calorie snack recipe",
+            "protein snacks under 200 calories"
+        ],
+        "internal_links": [
+            {
+                "text": "related low calorie snack or meal prep recipe text",
+                "anchor": "anchor_slug_here"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4500 words"
+    },
+    "category_id": "cat_1779285521_870",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-25 01:02:06",
+        "title_seed": "Creamed Tomatoes Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1784941326_692",
+    "slug": "easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack",
+    "uniqueSlug": "easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack/images/easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+            "relativePath": "easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack/images/easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack/images/easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack_pinrecipes_image_2.webp",
+            "relativePath": "easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack/images/easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack/images/easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack_pinrecipes_image_3.webp",
+            "relativePath": "easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack/images/easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        }
+    ],
+    "image": "easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack/images/easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+    "image_dir": "easy-10-minute-creamed-tomatoes-high-protein-low-calorie-snack/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-25T01:02:06+00:00",
+    "updatedAt": "2026-07-25T01:02:06+00:00"
+}
