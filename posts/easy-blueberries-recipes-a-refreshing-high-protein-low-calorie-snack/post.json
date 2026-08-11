@@ -280,6 +280,56 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_9.webp",
+            "filePath": "posts/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack/images/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_9.webp",
+            "relativePath": "easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack/images/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack/images/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_9.webp",
+            "type": "overlay_list",
+            "title": "Boost Your Day with This Easy Blueberry Protein Snack",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_7.webp",
+            "filePath": "posts/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack/images/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_7.webp",
+            "relativePath": "easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack/images/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack/images/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_7.webp",
+            "type": "template",
+            "title": "Simple Homemade Blueberry Protein Snack You’ll Love"
+        },
+        {
+            "fileName": "easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_6.webp",
+            "filePath": "posts/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack/images/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_6.webp",
+            "relativePath": "easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack/images/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack/images/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_6.webp",
+            "type": "template",
+            "title": "Easy Blueberries Snack to Crush Your Afternoon Slump"
+        },
+        {
+            "fileName": "easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_8.webp",
+            "filePath": "posts/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack/images/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_8.webp",
+            "relativePath": "easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack/images/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack/images/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_8.webp",
+            "type": "recipe_card",
+            "title": "Boost Your Day with This Easy Blueberry Protein Snack",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_5.webp",
+            "filePath": "posts/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack/images/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_5.webp",
+            "relativePath": "easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack/images/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack/images/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_5.webp",
+            "type": "template",
+            "title": "Refreshing Blueberry Protein Bowl Under 150 Calories"
+        },
+        {
+            "fileName": "easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_4.webp",
+            "filePath": "posts/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack/images/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_4.webp",
+            "relativePath": "easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack/images/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack/images/easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_st1_image_4.webp",
+            "type": "template",
+            "title": "Boost Your Day with This Easy Blueberry Protein Snack"
         }
     ],
     "image": "easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
@@ -287,6 +337,6 @@
     "image_dir": "easy-blueberries-recipes-a-refreshing-high-protein-low-calorie-snack/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-08-10T01:02:53+00:00",
-    "updatedAt": "2026-08-10T01:02:53+00:00"
+    "createdAt": "2026-08-11T02:01:57+01:00",
+    "updatedAt": "2026-08-11T02:01:57+01:00"
 }
