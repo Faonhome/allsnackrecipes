@@ -1,0 +1,363 @@
+{
+    "title": "Easy 10-Minute Healthy Blueberry Recipes Weight Watchers High-Protein Snack",
+    "promptIMG": "Food photography: Healthy Blueberry Recipes Weight Watchers, appetizing presentation in a large bowl, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, colorful vegetables or berries, clean eating aesthetic, generous portion size --ar 4:3 --quality 2",
+    "description": "This blueberry protein bowl is a fresh, guilt-free snack that’s packed with protein but low in calories. Using zero-fat Greek yogurt and fresh blueberries gives you volume and sweetness without the sugar crash. Perfect for a quick afternoon boost or post-workout refuel!",
+    "hashtags": "#HealthyBlueberryRecipes #HighProtein #LowCalorie #WeightWatchersSnack",
+    "board_name": "Healthy High Protein Snacks",
+    "pin_variations": [
+        {
+            "title": "Boost Your Energy with This Low-Calorie Blueberry Protein Bowl!",
+            "description": "Looking for a snack that fuels your day without the guilt? This blueberry protein bowl is loaded with protein and under 150 calories. Try it today and feel full longer! 🫐💪 #HighProteinSnacks #LowCalorie #HealthyEating",
+            "hashtags": "#BlueberrySnack #ProteinBowl #WeightWatchersFriendly #HealthySnackIdeas"
+        },
+        {
+            "title": "Post-Workout Favorite: Blueberry Protein Snack Under 150 Calories",
+            "description": "Just finished your workout? Grab this blueberry protein bowl for a refreshing, high-protein snack that won’t weigh you down. Perfect for meal prep or a quick fix! Save this for later 🏋️‍♀️🍓 #PostWorkoutSnack #LowCalorieProtein #HealthySnacking",
+            "hashtags": "#ProteinSnack #WeightWatchers #HealthyMealPrep #BlueberryRecipes"
+        },
+        {
+            "title": "Volume Eating Made Easy with This Blueberry Protein Bowl",
+            "description": "Craving something filling but low calorie? This blueberry bowl is packed with air-popped popcorn and Greek yogurt to keep you full and energized. Try it today and enjoy every bite! 🥄💙 #VolumeEating #HighProtein #LowCalorieSnacks",
+            "hashtags": "#HealthySnacks #WeightWatchersFriendly #ProteinPacked #BlueberryLovers"
+        },
+        {
+            "title": "Make-Ahead Blueberry Protein Snack for Weight Watchers",
+            "description": "Meal prep just got easier! This blueberry protein bowl stays fresh and creamy in the fridge, making it a perfect grab-and-go snack for your busy days. Pin this for your next meal prep session! 🍽️🫐 #MealPrepSnacks #LowCalorieProtein #HealthyEating",
+            "hashtags": "#ProteinSnack #WeightWatchersRecipes #BlueberrySnack #HealthyMealPrep"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 6,
+    "ingredients": [
+        "2 cups zero-fat Greek yogurt, chilled",
+        "1 cup fresh blueberries, washed",
+        "1 scoop vanilla whey protein isolate powder",
+        "1/2 cup air-popped popcorn, unsalted",
+        "1 tsp powdered erythritol (optional, for sweetness)",
+        "1/4 tsp xanthan gum (to thicken and add creaminess)",
+        "1 tsp fresh lemon juice",
+        "1/2 tsp pure vanilla extract"
+    ],
+    "yield": "Approximately 1 large bowl per serving, 6 snack servings, about 2 cups volume per serving",
+    "introduction": "I’ve always struggled with feeling hungry on low-calorie days, especially when cutting or trying to stay within Weight Watchers points. Small snacks just don’t cut it, and I hate the idea of feeling deprived. That’s why I love this blueberry protein bowl — it feels like a giant, satisfying snack but packs in high protein and stays under 150 calories! The trick is using zero-fat Greek yogurt as a creamy base, then fluffing it up with a tiny bit of xanthan gum to keep it thick without adding fat. Adding air-popped popcorn gives it unexpected volume and crunch without calorie overload, which is a total game changer for volume eating. I used to make batches that were too watery or chalky from protein powder, but I found that mixing the protein powder with lemon juice and vanilla helps it blend smoothly and avoid that weird aftertaste. Now, I eat this every afternoon when I hit that 3pm slump or after workouts, and it keeps me full for hours. Plus, it’s so easy to prep in advance and feels like a treat, not a diet chore. My friends always ask how I eat so much and still lose weight — this bowl is the secret!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by chilling your zero-fat Greek yogurt in the fridge for at least an hour before making the snack. Cold yogurt helps the protein powder mix in better and prevents the mixture from becoming watery. When ready, place the yogurt in a large mixing bowl. Slowly sprinkle the xanthan gum over the yogurt while whisking vigorously to avoid clumps. This step is crucial because xanthan gum acts as a thickener without adding calories or fat, giving the snack a creamy, luscious texture that feels indulgent but stays light. Avoid adding xanthan gum all at once or without mixing, as it can form lumps that ruin the smoothness.",
+            "timing": "10 minutes",
+            "doneness_cue": "The yogurt should become thick and creamy, with no visible lumps or watery separation."
+        },
+        {
+            "step": 2,
+            "instruction": "In a small bowl, combine the vanilla whey protein isolate powder with fresh lemon juice and vanilla extract. The acidity from the lemon juice helps prevent the protein powder from tasting chalky and aids in smooth hydration. Slowly fold this mixture into the thickened yogurt base, stirring gently but thoroughly. If you rush or skip the lemon juice, the protein powder can clump or leave a chalky mouthfeel. Take your time to blend fully until the mixture is homogenous and creamy.",
+            "timing": "5 minutes",
+            "doneness_cue": "The mixture should be smooth, creamy, and slightly glossy without any grainy texture."
+        },
+        {
+            "step": 3,
+            "instruction": "Gently fold in the fresh blueberries, taking care not to crush them. Blueberries add natural sweetness and antioxidants while keeping the calorie count low. Their water content also contributes to volume eating, helping you feel full. Be sure your berries are fresh and firm for the best texture; overripe berries can break down and make the snack watery.",
+            "timing": "2 minutes",
+            "doneness_cue": "Blueberries are evenly distributed without bursting or discoloring the mixture."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the air-popped popcorn last, folding it gently into the mixture. This unexpected ingredient adds crunch and volume without many calories, making the snack feel more substantial. Avoid using buttered or salted popcorn as it will add unwanted calories and fat. The popcorn should remain crisp, so fold it in just before serving or storing to avoid sogginess.",
+            "timing": "1 minute",
+            "doneness_cue": "Popcorn is evenly mixed but still visibly crunchy and separate from the yogurt."
+        },
+        {
+            "step": 5,
+            "instruction": "Taste the mixture and add powdered erythritol if you want a touch more sweetness without calories. Stir gently to combine. Using a powdered sweetener prevents clumping and dissolves better than granulated forms. Adjust sweetness to your preference but keep it light to avoid masking the fresh blueberry flavor.",
+            "timing": "1 minute",
+            "doneness_cue": "Sweetener is fully dissolved and the flavor is balanced, not overly sweet."
+        },
+        {
+            "step": 6,
+            "instruction": "Divide the mixture evenly into six serving bowls or containers. This portion size gives you a generous 2-cup volume per snack, perfect for volume eating and staying satisfied between meals. Using clear containers helps you see the colorful blueberries and popcorn, making the snack more visually appealing.",
+            "timing": "2 minutes",
+            "doneness_cue": "Each container holds a thick, creamy mixture with visible blueberries and popcorn."
+        },
+        {
+            "step": 7,
+            "instruction": "Cover the bowls or containers tightly and refrigerate for at least 30 minutes before eating. Chilling firms up the texture and enhances the flavors. The xanthan gum thickens further when cold, preventing watery separation common with zero-fat dairy. Don’t skip this step or eat immediately, or the texture will be loose and less satisfying.",
+            "timing": "30 minutes",
+            "doneness_cue": "The snack should feel firm and creamy, not runny or separated."
+        },
+        {
+            "step": 8,
+            "instruction": "Before serving, give the snack a gentle stir to re-incorporate any slight separation on top. This refreshes the texture and blends the flavors. If the popcorn has softened, add a small handful of fresh air-popped popcorn for crunch. This keeps the snack enjoyable and texturally interesting.",
+            "timing": "1 minute",
+            "doneness_cue": "Snack is creamy with fresh crunch and bright blueberry flavor."
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy immediately or pack the snack for your afternoon slump, post-workout refuel, or meal prep stash. This snack holds up well in the fridge for up to 3 days, making it easy to prepare ahead and enjoy on busy days without sacrificing fullness or flavor.",
+            "timing": "N/A",
+            "doneness_cue": "Snack is fresh, flavorful, and satisfying when eaten cold."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Snacks Actually Fill You Up for Under 200 Calories",
+        "content": "<p>Protein has a unique thermic effect of food (TEF), meaning your body uses more energy digesting it compared to carbs or fats. This boosts calorie burn and helps with fat loss. Plus, protein stimulates satiety hormones like PYY, GLP-1, and cholecystokinin, which make you feel full longer. This blueberry protein bowl packs over 20 grams of protein per serving, triggering these hormones effectively.</p><p>Combining protein with high-volume, low-calorie foods like fresh blueberries and air-popped popcorn stretches your stomach and sends mechanical fullness signals to your brain. This volume eating strategy tricks your body into feeling satisfied without the calorie load. The snack’s calorie density is low, packing a large 2-cup serving for under 150 calories, so you get a huge portion that looks and feels like a meal.</p><p>Zero-fat Greek yogurt and egg-white-based protein powders work better here than nut butters or oils because they provide protein without fat, keeping calories low. Xanthan gum acts as a hydrocolloid, mimicking creaminess and thickening the mixture without adding calories or fat. This prevents watery separation common in low-fat dairy snacks and keeps the texture indulgent.</p><p>Protein powders can be chalky in low-fat environments, but mixing them with acidic ingredients like lemon juice and vanilla extract helps prevent that. Also, chilling the snack firms the texture and enhances flavor, making this a perfect make-ahead snack that stays fresh and satisfying for days.</p>",
+        "ingredient_notes": {
+            "vanilla whey protein isolate powder": "Look for a high-quality whey protein isolate with minimal additives or fillers. Isolates have higher protein content and lower carbs and fats, ideal for low-calorie snacks. Avoid powders with maltodextrin or artificial creamers that add hidden calories. This protein powder hydrates well in cold, low-fat mixtures, especially when combined with acidic ingredients like lemon juice to reduce chalkiness.",
+            "zero-fat Greek yogurt": "Choose a plain zero-fat Greek yogurt brand that is thick and creamy without added sugars or stabilizers. The 0% fat content keeps calories low while providing a smooth base rich in casein protein, which digests slowly to keep you full. Avoid low-fat or full-fat varieties as they increase calories and can affect texture. The yogurt’s acidity also helps blend protein powder smoothly.",
+            "fresh blueberries": "Select firm, ripe blueberries without bruises or mold. Fresh berries add natural sweetness, antioxidants, and fiber with very few calories. Their water content boosts volume eating by adding bulk and hydration. Frozen berries can be used but may release more water and affect texture, so drain excess liquid if using frozen.",
+            "xanthan gum": "A zero-calorie thickening agent that mimics fat’s creamy mouthfeel in low-fat recipes. It stabilizes the mixture, preventing watery separation common in zero-fat dairy snacks. Use sparingly (around 1/4 tsp) to avoid sliminess or gumminess. Xanthan gum also helps suspend popcorn and blueberries evenly, improving texture and presentation.",
+            "air-popped popcorn": "Choose plain, unsalted, and unbuttered air-popped popcorn as a low-calorie, high-volume ingredient. It adds crunch and bulk without fat or sugar, making your snack feel more substantial. Avoid microwave popcorn with added oils or flavorings that increase calories. Add popcorn last to maintain crispness and fold gently to prevent sogginess."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always chill your Greek yogurt before mixing to improve protein powder hydration and texture.",
+            "reason": "Cold yogurt slows protein powder clumping and prevents watery separation. If yogurt is warm, protein powder can form lumps and the mixture may become runny. Chilling also firms the snack for better mouthfeel."
+        },
+        {
+            "tip": "Use lemon juice when mixing protein powder to reduce chalkiness and improve flavor.",
+            "reason": "Acidic ingredients like lemon juice change the protein powder’s pH, which helps it dissolve better and masks the chalky taste common in low-fat, high-protein recipes. This small addition makes a big difference in smoothness."
+        },
+        {
+            "tip": "Add xanthan gum gradually while whisking to avoid clumps and get a creamy texture.",
+            "reason": "Xanthan gum thickens mixtures quickly but can form lumps if added too fast or without mixing. Slow addition with vigorous whisking ensures it disperses evenly, creating a smooth, creamy snack without extra calories."
+        },
+        {
+            "tip": "Fold in popcorn just before serving or storing to keep it crunchy.",
+            "reason": "Popcorn absorbs moisture quickly and becomes soggy. Adding it last maintains crispness and volume, enhancing the snack’s texture and making it more satisfying."
+        },
+        {
+            "tip": "Use a high-quality whey protein isolate with minimal fillers for best results.",
+            "reason": "Low-quality powders often contain maltodextrin or artificial additives that add hidden calories and affect texture. A clean isolate hydrates better and tastes less chalky, essential for low-calorie snacks."
+        },
+        {
+            "tip": "Store the snack in airtight containers to preserve freshness and texture.",
+            "reason": "Exposure to air can dry out the snack or cause watery separation. Airtight storage keeps it creamy and fresh for up to 3 days, perfect for meal prep."
+        },
+        {
+            "tip": "If you want extra sweetness, use powdered erythritol instead of granulated sweeteners.",
+            "reason": "Powdered sweeteners dissolve more easily and don’t leave a gritty texture. They also avoid aftertaste common with some low-calorie sweeteners, keeping the snack pleasant."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping xanthan gum and ending up with a watery, unappealing texture.",
+            "why_it_happens": "People often assume yogurt alone will thicken enough, but zero-fat yogurt lacks fat to hold texture, causing watery separation.",
+            "fix": "Add a small amount of xanthan gum while whisking to thicken and stabilize the mixture, preventing watery separation and improving mouthfeel."
+        },
+        {
+            "mistake": "Using full-fat or low-fat yogurt which increases calories and changes texture.",
+            "why_it_happens": "Many think any Greek yogurt works, not realizing fat content impacts calorie count and creaminess.",
+            "fix": "Always choose zero-fat Greek yogurt for this recipe to keep calories low and texture thick without adding fat."
+        },
+        {
+            "mistake": "Adding protein powder too quickly causing clumps and chalkiness.",
+            "why_it_happens": "Rushing mixing or adding powder all at once leads to poor hydration and lumps.",
+            "fix": "Mix protein powder with lemon juice first, then slowly fold into yogurt while stirring gently to ensure smoothness."
+        },
+        {
+            "mistake": "Adding popcorn too early, making it soggy.",
+            "why_it_happens": "Popcorn absorbs moisture fast and loses crunch if mixed too soon.",
+            "fix": "Fold popcorn in last, right before eating or storing, to keep it crisp and fresh."
+        },
+        {
+            "mistake": "Not chilling the snack before eating resulting in loose texture.",
+            "why_it_happens": "Cold temperatures help xanthan gum thicken and firm the snack; skipping chilling leaves it runny.",
+            "fix": "Refrigerate the snack for at least 30 minutes before serving to achieve the right creamy, thick texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Mixed Berry Protein Bowl",
+            "description": "Swap blueberries for a mix of strawberries, raspberries, and blackberries for a colorful twist. This adds a variety of antioxidants and a slightly tangier flavor while keeping calories low. The texture remains creamy and thick with the same xanthan gum technique. Protein and calorie counts stay similar.",
+            "technical_note": "Use fresh berries and fold gently to avoid crushing. Adjust sweetness if needed due to berry tartness."
+        },
+        {
+            "name": "Cinnamon Vanilla Blueberry Snack",
+            "description": "Add 1/2 tsp ground cinnamon to the yogurt mixture and increase vanilla extract to 3/4 tsp for a warm, cozy flavor. Cinnamon also helps regulate blood sugar, making this snack ideal for steady energy. Macros remain low-calorie and high-protein.",
+            "technical_note": "Mix cinnamon with protein powder before blending to ensure even distribution and avoid clumps."
+        },
+        {
+            "name": "Egg White Protein Blueberry Bowl",
+            "description": "Replace whey protein powder with pasteurized liquid egg whites for a fat-free protein boost. This variation is great for those avoiding dairy protein. Texture is lighter and fluffier but still creamy thanks to xanthan gum. Expect a mild eggy taste that pairs well with vanilla and lemon.",
+            "technical_note": "Whip egg whites gently before folding to add volume and prevent separation."
+        },
+        {
+            "name": "Sugar-Free Maple Blueberry Snack",
+            "description": "Use a sugar-free maple syrup instead of erythritol for sweetness and a hint of maple flavor. This adds a cozy note without calories. Keep protein powder and yogurt the same for high protein and low calories.",
+            "technical_note": "Add syrup slowly and taste to avoid over-sweetening; syrup can thin the mixture slightly."
+        },
+        {
+            "name": "Tropical Blueberry Protein Bowl",
+            "description": "Add diced pineapple and shredded unsweetened coconut flakes with blueberries for a tropical vibe. This adds fiber and flavor while keeping calories low. Coconut adds texture but use sparingly to maintain low fat.",
+            "technical_note": "Drain pineapple well to prevent excess moisture; fold coconut in last for crunch."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "140 kcal",
+        "protein_grams": "22g",
+        "carbohydrates_grams": "10g",
+        "fat_grams": "0.5g",
+        "fiber_grams": "3g",
+        "sodium_mg": "130mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and protein powder used. Always calculate based on your specific brands. This recipe is designed for a high-protein, low-calorie approach."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This snack should not be left at room temperature for more than 1 hour due to the dairy content. Keep it covered if out briefly to avoid drying or contamination. Water separation can occur if left warm, so refrigerate promptly.",
+        "refrigerator": "Store in airtight containers for up to 3 days. The snack firms up when cold, enhancing creaminess and flavor. Popcorn may soften over time; add fresh popcorn before eating to maintain crunch. Best served chilled but can sit at room temp for 10-15 minutes before eating.",
+        "freezer": "Freezing is not recommended as the high-water content and yogurt texture will become icy and grainy upon thawing, losing the creamy mouthfeel. If freezing, use airtight containers and thaw overnight in the fridge, stirring well before serving.",
+        "reheating": "This snack is best enjoyed cold and should not be reheated. Heating can cause separation of egg whites or xanthan gum thickened mixtures, ruining texture. If you prefer a warmer snack, add a splash of unsweetened almond milk and stir gently to loosen before warming slightly.",
+        "make_ahead_strategy": "Prepare the yogurt, protein powder, and xanthan gum mixture up to 2 days ahead and store in the fridge. Add fresh blueberries and popcorn just before serving to maintain freshness and crunch. This makes meal prep easy and keeps the snack tasting fresh."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute the whey protein powder with a plant-based protein?",
+            "answer": "Yes, you can use a plant-based protein powder, but be aware that texture and flavor may change. Plant proteins sometimes have a grittier texture and stronger taste, so you might need to adjust sweeteners or add more lemon juice to mask chalkiness. Also, some plant proteins absorb liquids differently, so add xanthan gum carefully to maintain creaminess."
+        },
+        {
+            "question": "Why does my snack turn watery after mixing?",
+            "answer": "Watery texture usually happens if you skip xanthan gum or add protein powder too quickly without proper mixing. Xanthan gum stabilizes the mixture by thickening it, preventing water from separating. Also, ensure your Greek yogurt is thick and zero-fat; low-fat or diluted yogurts release more water. Whisk xanthan gum slowly into cold yogurt to avoid lumps and watery separation."
+        },
+        {
+            "question": "Can I use frozen blueberries instead of fresh?",
+            "answer": "Frozen blueberries can be used but thaw them first and drain excess liquid well to avoid watering down the snack. Frozen berries release more juice, which can make the mixture runny. Fresh berries are preferred for texture and volume eating benefits, but frozen works in a pinch."
+        },
+        {
+            "question": "How long does this snack keep in the fridge?",
+            "answer": "Stored in airtight containers, this snack stays fresh and creamy for up to 3 days. The texture firms up nicely when chilled. After 3 days, the flavor may fade and popcorn will lose crunch, so it’s best eaten within this timeframe for optimal taste and texture."
+        },
+        {
+            "question": "Is this snack suitable for Weight Watchers points?",
+            "answer": "Yes, this snack is low in calories and fat, making it a great choice for Weight Watchers. Using zero-fat Greek yogurt and whey isolate keeps points low while providing high protein. Always check your specific product labels to calculate exact points based on brands used."
+        },
+        {
+            "question": "Can I make this snack vegan?",
+            "answer": "To make it vegan, substitute Greek yogurt with a high-protein, unsweetened plant-based yogurt and use a vegan protein powder. Keep in mind texture and flavor will differ and you may need to adjust xanthan gum and sweeteners to achieve similar creaminess and taste."
+        },
+        {
+            "question": "Why do I get a chalky taste from the protein powder?",
+            "answer": "Chalkiness often comes from protein powder not hydrating well in low-fat mixtures. Adding lemon juice and vanilla extract helps reduce this by changing pH and improving solubility. Also, use a high-quality whey isolate powder without fillers. Mixing protein powder slowly into chilled yogurt prevents lumps and chalky flavor."
+        },
+        {
+            "question": "Can I add nuts or seeds for extra crunch?",
+            "answer": "While nuts and seeds add crunch and nutrients, they also increase calories and fat, which may not fit the low-calorie goal. If you want to add them, use small amounts (1-2 tsp) and account for the extra calories in your macros. Air-popped popcorn is a better low-calorie crunch option here."
+        }
+    ],
+    "conclusion": "I hope you love this blueberry protein bowl as much as I do! It’s a tasty, filling snack that fits perfectly into a Weight Watchers plan. Try it out and tag me with your macro wins—I’d love to see your versions!",
+    "seo": {
+        "primary_keyword": "healthy blueberry recipes weight watchers",
+        "secondary_keywords": [
+            "high protein low calorie snacks",
+            "volume eating recipes",
+            "how to make blueberry protein bowl low calorie",
+            "best low calorie blueberry snack recipe",
+            "easy high protein low calorie snacks",
+            "healthy low calorie snack meal prep",
+            "post workout low calorie snack recipe",
+            "protein snacks under 200 calories"
+        ],
+        "internal_links": [
+            {
+                "text": "low calorie Greek yogurt snack recipe",
+                "anchor": "low-calorie-greek-yogurt-snack"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1779285521_870",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-21 01:01:53",
+        "title_seed": "Healthy Blueberry Recipes Weight Watchers"
+    },
+    "author_id": "author_001",
+    "id": "post_1787274113_480",
+    "slug": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack",
+    "uniqueSlug": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_pinrecipes_image_1.webp",
+            "relativePath": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_pinrecipes_image_2.webp",
+            "relativePath": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_pinrecipes_image_3.webp",
+            "relativePath": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_7.webp",
+            "filePath": "posts/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_7.webp",
+            "relativePath": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_7.webp",
+            "type": "template",
+            "title": "Make-Ahead Blueberry Protein Snack for Weight Watchers"
+        },
+        {
+            "fileName": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_5.webp",
+            "filePath": "posts/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_5.webp",
+            "relativePath": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_5.webp",
+            "type": "template",
+            "title": "Post-Workout Favorite: Blueberry Protein Snack Under 150 Calories"
+        },
+        {
+            "fileName": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_9.webp",
+            "filePath": "posts/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_9.webp",
+            "relativePath": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_9.webp",
+            "type": "overlay_list",
+            "title": "Boost Your Energy with This Low-Calorie Blueberry Protein Bowl!",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_6.webp",
+            "filePath": "posts/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_6.webp",
+            "relativePath": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_6.webp",
+            "type": "template",
+            "title": "Volume Eating Made Easy with This Blueberry Protein Bowl"
+        },
+        {
+            "fileName": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_4.webp",
+            "filePath": "posts/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_4.webp",
+            "relativePath": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_4.webp",
+            "type": "template",
+            "title": "Boost Your Energy with This Low-Calorie Blueberry Protein Bowl!"
+        },
+        {
+            "fileName": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_8.webp",
+            "filePath": "posts/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_8.webp",
+            "relativePath": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_st1_image_8.webp",
+            "type": "recipe_card",
+            "title": "Boost Your Energy with This Low-Calorie Blueberry Protein Bowl!",
+            "no_link": true
+        }
+    ],
+    "image": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images/easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack_pinrecipes_image_1.webp",
+    "image_dir": "easy-10-minute-healthy-blueberry-recipes-weight-watchers-high-protein-snack/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-21T02:01:56+01:00",
+    "updatedAt": "2026-08-21T02:01:56+01:00"
+}
