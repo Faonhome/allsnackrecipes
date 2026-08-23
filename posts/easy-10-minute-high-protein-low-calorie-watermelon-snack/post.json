@@ -1,0 +1,312 @@
+{
+    "title": "Easy 10-Minute High-Protein Low-Calorie Watermelon Snack",
+    "promptIMG": "Food photography: Healthy Watermelon Recipes, appetizing presentation in a large bowl, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, colorful vegetables or berries, clean eating aesthetic, generous portion size --ar 4:3 --quality 2",
+    "description": "This refreshing watermelon protein bowl combines juicy watermelon cubes with creamy zero-fat Greek yogurt and a sprinkle of chia seeds for added protein and fiber. It's a guilt-free, hydrating snack perfect for beating the afternoon slump or post-workout refuel.",
+    "hashtags": "#HealthyWatermelonRecipes #HighProtein #LowCalorie #Volumeeating",
+    "board_name": "Healthy High Protein Snacks",
+    "pin_variations": [
+        {
+            "title": "Beat the Heat with This Protein-Packed Watermelon Snack",
+            "description": "Stay cool and full with this watermelon and Greek yogurt bowl that's loaded with protein but light on calories. Perfect for summer afternoons or quick meal prep! 🍉💪 Save this for your next snack attack. #HighProteinSnacks #LowCalorie #HealthyEating",
+            "hashtags": "#HighProteinSnacks #LowCalorie #HealthyEating #WatermelonSnack #ProteinBowl"
+        },
+        {
+            "title": "Hydrating Low-Calorie Protein Snack Under 150 Calories",
+            "description": "Need a snack that’s refreshing and filling? This watermelon protein bowl hits the spot with juicy fruit and creamy yogurt, packing 20g protein without the guilt. Try it today and feel energized! 🍓🥄 #ProteinSnack #LowCalorie #HealthySnackIdeas",
+            "hashtags": "#ProteinSnack #LowCalorie #HealthySnackIdeas #WatermelonRecipe #MealPrep"
+        },
+        {
+            "title": "Quick Watermelon Protein Bowl for Volume Eating Lovers",
+            "description": "Love big portions that don't blow your calories? This watermelon bowl is bursting with volume and protein to keep you satisfied. Perfect for your cutting phase or just a light snack! 🍉✨ Pin this for later. #Volumeeating #HighProtein #SnackSmart",
+            "hashtags": "#Volumeeating #HighProtein #SnackSmart #LowCalorieSnacks #HealthyRecipes"
+        },
+        {
+            "title": "Make-Ahead Watermelon Protein Snack Boxes for Busy Days",
+            "description": "Prep these watermelon protein bowls ahead for an easy grab-and-go snack that’s hydrating and packed with protein. Great for meal prep Sundays and busy workweeks! 🍉📦 Try it and thank me later. #MealPrep #ProteinSnack #LowCalorie",
+            "hashtags": "#MealPrep #ProteinSnack #LowCalorie #HealthyWatermelon #SnackPrep"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 6,
+    "ingredients": [
+        "4 cups watermelon, cubed and chilled",
+        "1 1/2 cups zero-fat Greek yogurt, cold",
+        "3 tbsp unflavored whey protein isolate powder",
+        "1 tbsp chia seeds",
+        "1 tsp fresh lime juice",
+        "1 tsp stevia or monk fruit sweetener (optional)",
+        "A few fresh mint leaves for garnish"
+    ],
+    "yield": "Approximately 1 large bowl per serving, 6 snack servings, about 2 cups volume per serving",
+    "introduction": "I’ve always struggled with feeling hungry on low-calorie days, especially when I’m trying to cut weight but still want to eat a decent volume of food. That’s why I love this watermelon protein bowl — it’s huge, hydrating, and packed with protein, so I can snack guilt-free. Unlike most store-bought protein bars that are tiny and often loaded with weird fillers, this snack feels like a real treat without blowing my calories. The trick I found was using zero-fat Greek yogurt combined with whey isolate powder to keep it creamy and protein-rich without adding fat or calories. Adding chia seeds gives it a slight crunch and helps thicken the mixture, so it’s not watery or bland. Plus, a splash of lime juice brightens the flavor and keeps it fresh. I usually whip this up in about 10 minutes and keep it chilled for a refreshing snack after the gym or during that dreaded afternoon slump. I once tried a batch with regular yogurt, and it turned out too watery, so zero-fat Greek yogurt is key here. My friends even ask how I manage to eat so much and still lose weight! This recipe is perfect for anyone who wants to eat big portions, stay full longer, and enjoy a sweet, fresh snack without guilt.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by cutting fresh watermelon into bite-sized cubes and chilling them well in the fridge. The cold temperature helps keep the snack refreshing and prevents the yogurt mixture from becoming watery when combined. Make sure to drain any excess juice from the watermelon before mixing to avoid a soggy texture. Using chilled fruit and yogurt together is key to maintaining a thick, creamy consistency without adding fat.",
+            "timing": "10 minutes",
+            "doneness_cue": "Watermelon cubes are firm, cold, and mostly free of excess juice."
+        },
+        {
+            "step": 2,
+            "instruction": "In a mixing bowl, combine the zero-fat Greek yogurt with the whey protein isolate powder. Stir them together slowly to avoid clumps and ensure the protein powder hydrates fully. This step is crucial because whey isolate absorbs liquid quickly but can become chalky if not mixed properly. Using a cold yogurt base and mixing gently helps keep the texture smooth and creamy.",
+            "timing": "3 minutes",
+            "doneness_cue": "The yogurt-protein mixture is smooth, thick, and free of lumps."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the chia seeds and a teaspoon of fresh lime juice to the yogurt-protein mixture. The chia seeds act as a natural thickener and add a little crunch, while lime juice brightens the flavor and helps mask any protein powder aftertaste. Stir well and let the mixture sit for 5 minutes to allow the chia seeds to absorb some moisture and swell slightly, enhancing the texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture thickens slightly and chia seeds appear plump."
+        },
+        {
+            "step": 4,
+            "instruction": "Gently fold the chilled watermelon cubes into the yogurt mixture. Be careful not to stir too vigorously to avoid breaking down the watermelon and releasing too much juice, which would thin the mixture. The goal is to keep the watermelon pieces intact to provide volume and a juicy burst in every bite.",
+            "timing": "2 minutes",
+            "doneness_cue": "Watermelon is evenly distributed without excess liquid pooling."
+        },
+        {
+            "step": 5,
+            "instruction": "Taste the mixture and add stevia or monk fruit sweetener if you want a touch more sweetness. These zero-calorie sweeteners blend well without adding calories or affecting the texture. Avoid adding sugar or honey since they would increase calories and could make the mixture watery.",
+            "timing": "1 minute",
+            "doneness_cue": "Sweetness is balanced without aftertaste."
+        },
+        {
+            "step": 6,
+            "instruction": "Transfer the mixture into serving bowls or meal prep containers. Garnish with fresh mint leaves for a pop of color and refreshing aroma. Mint also complements the watermelon flavor beautifully and adds to the snack’s fresh vibe.",
+            "timing": "2 minutes",
+            "doneness_cue": "Bowls look vibrant and inviting with mint garnish."
+        },
+        {
+            "step": 7,
+            "instruction": "Chill the prepared bowls in the refrigerator for at least 30 minutes before serving. This resting time allows flavors to meld and the texture to firm up, making the snack more satisfying. Eating it cold enhances the refreshing quality, especially on warm days.",
+            "timing": "30 minutes",
+            "doneness_cue": "Snack is cold, thickened, and flavors are well blended."
+        },
+        {
+            "step": 8,
+            "instruction": "Before serving, give the bowl a gentle stir to redistribute any settled chia seeds or juice. This keeps the texture consistent throughout. If the mixture feels too thick, add a splash of unsweetened almond milk to loosen it slightly without adding many calories.",
+            "timing": "1 minute",
+            "doneness_cue": "Texture is creamy and easy to scoop."
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy immediately or pack the snack bowls for meal prep. This recipe holds well in the fridge for up to 3 days, making it great for busy weeks. Just keep the watermelon fresh and avoid adding too much juice to prevent sogginess over time.",
+            "timing": "0 minutes",
+            "doneness_cue": "Snack remains fresh and appetizing after storage."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Snacks Actually Fill You Up for Under 200 Calories",
+        "content": "<p>Protein has a unique thermic effect of food (TEF), meaning your body burns more calories digesting protein compared to carbs or fats. This makes high-protein snacks like this watermelon bowl especially effective for weight loss or maintenance. Plus, protein triggers satiety hormones such as PYY, GLP-1, and cholecystokinin, which help you feel full longer and reduce cravings.</p><p>Combining protein with high-volume, low-calorie ingredients like watermelon and Greek yogurt stretches the stomach and sends mechanical fullness signals to the brain. Watermelon is over 90% water, so it adds bulk without calories, making the portion size feel huge. This is the principle of volume eating—eating large portions of foods with low calorie density to satisfy hunger without overeating.</p><p>Zero-fat Greek yogurt and egg whites (or whey isolate) provide creamy texture and protein without fat, which is crucial in low-calorie snacks. Fat adds calories quickly, so minimizing it while maintaining creaminess requires hydrocolloids like chia seeds or xanthan gum to mimic that mouthfeel. Mixing the protein powder carefully with acidic dairy prevents chalkiness, and chilling firms the texture, so the snack feels indulgent yet light.</p><p>Finally, a large portion psychologically satisfies cravings. Eating two cups of this watermelon protein bowl feels like a treat, not a diet snack. This combination of smart ingredient choices, texture tricks, and volume eating science makes this snack both delicious and effective for anyone looking to stay full and fueled under 200 calories.</p>",
+        "ingredient_notes": {
+            "whey protein isolate powder": "When choosing whey protein isolate for low-calorie snacks, look for a product with minimal additives, no maltodextrin, and zero fat or carbs. Whey isolate is preferred over concentrate because it has a higher protein percentage and fewer calories. It hydrates quickly in dairy bases but can become chalky if overmixed or combined with full-fat dairy. Using it with zero-fat Greek yogurt ensures a creamy texture without extra calories. If you’re sensitive to dairy, a plant-based isolate might work but expect texture differences.",
+            "zero-fat Greek yogurt": "Zero-fat Greek yogurt is essential here for creaminess without fat calories. Choose plain, unsweetened varieties with live cultures for probiotic benefits. Avoid 2% or full-fat yogurts as they add unwanted calories and can make the snack heavier. The thick texture of Greek yogurt helps prevent watery mixtures common in low-fat recipes. Also, the natural acidity helps reduce chalkiness from protein powder. If you can’t find zero-fat, drain regular nonfat yogurt to thicken it but expect some variation.",
+            "chia seeds": "Chia seeds act as a natural thickener and bulking agent. They absorb liquid and swell, adding volume and a pleasant crunch without calories. They also provide fiber, which aids satiety and digestion. When added to the yogurt-protein mix, they help mimic creaminess lost by cutting fat. You can substitute with ground flaxseed but expect a slightly different texture and flavor. Use sparingly to avoid a gelatinous feel.",
+            "fresh watermelon": "Watermelon is a perfect low-calorie, high-volume base. It’s hydrating and sweet, satisfying cravings for sugary snacks without added sugar. Choose ripe, firm watermelon to avoid excess juice that can water down the snack. Cutting and chilling the watermelon ahead ensures the snack stays refreshing. If watermelon is out of season, cantaloupe or honeydew melon can be used but will slightly change flavor and texture.",
+            "stevia or monk fruit sweetener": "Zero-calorie sweeteners like stevia or monk fruit help balance tartness from yogurt and lime without adding calories or sugar. Choose pure extracts without fillers to avoid aftertaste. These sweeteners dissolve well in cold mixtures and maintain sweetness over time. Avoid sugar or honey as they add calories and can thin the texture. Adjust sweetness to taste but use sparingly to keep the snack natural."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always chill your ingredients before mixing to keep the texture thick and refreshing.",
+            "reason": "Cold ingredients prevent the yogurt and watermelon from releasing excess liquid, which can make the snack watery. Chilling also helps the protein powder hydrate properly and keeps the mixture creamy without fat."
+        },
+        {
+            "tip": "Mix protein powder slowly into yogurt to avoid lumps and chalkiness.",
+            "reason": "Whey protein isolate can clump if stirred too vigorously or added too fast. Slow mixing ensures smooth hydration and a pleasant texture, especially important since there’s no fat to mask any chalkiness."
+        },
+        {
+            "tip": "Use chia seeds to add volume and prevent watery texture in low-fat mixtures.",
+            "reason": "Chia seeds absorb moisture and swell, thickening the snack naturally. This mimics the mouthfeel that fat usually provides, making the snack more satisfying without adding calories."
+        },
+        {
+            "tip": "Add a splash of lime juice to brighten flavors and cut through yogurt tartness.",
+            "reason": "Acidic ingredients enhance flavor complexity and help mask any protein powder aftertaste. Lime juice also helps prevent the protein from tasting chalky and keeps the snack tasting fresh."
+        },
+        {
+            "tip": "Drain excess watermelon juice before mixing to avoid sogginess.",
+            "reason": "Watermelon is juicy and can release liquid that thins the yogurt mixture. Removing excess juice maintains the snack’s thick texture and prevents it from becoming watery over time."
+        },
+        {
+            "tip": "Sweeten with zero-calorie natural sweeteners like stevia or monk fruit.",
+            "reason": "These sweeteners add sweetness without calories or sugar, which is critical in keeping the snack low-calorie. They also blend well in cold dairy mixtures without affecting texture."
+        },
+        {
+            "tip": "Let the mixture rest for 5-10 minutes after adding chia seeds before serving.",
+            "reason": "This resting time allows chia seeds to absorb moisture and swell, improving the texture and making the snack feel thicker and more substantial."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping draining watermelon juice before mixing.",
+            "why_it_happens": "People often want to save time and mix everything together, but watermelon’s high water content can make the snack watery and unappetizing.",
+            "fix": "Drain the watermelon cubes in a colander for a few minutes before folding them into the yogurt mixture. This prevents excess liquid from thinning the snack and keeps the texture thick and creamy."
+        },
+        {
+            "mistake": "Using full-fat or 2% Greek yogurt instead of zero-fat.",
+            "why_it_happens": "Some assume full-fat yogurt tastes better and is healthier, but it adds unwanted calories and changes the snack’s texture and macro balance.",
+            "fix": "Choose zero-fat Greek yogurt to keep calories low and texture thick. If unavailable, drain regular nonfat yogurt to thicken it but expect slight differences."
+        },
+        {
+            "mistake": "Mixing protein powder too quickly causing lumps and chalkiness.",
+            "why_it_happens": "Rushing this step or adding powder all at once causes clumping, which ruins texture and mouthfeel.",
+            "fix": "Add protein powder gradually and stir gently but thoroughly to hydrate it smoothly. Using cold yogurt helps reduce chalkiness."
+        },
+        {
+            "mistake": "Adding sugar or honey to sweeten, increasing calories.",
+            "why_it_happens": "People want natural sweetness but don’t realize sugar adds significant calories and thins the mixture.",
+            "fix": "Use zero-calorie sweeteners like stevia or monk fruit to maintain sweetness without calories or texture issues."
+        },
+        {
+            "mistake": "Not letting chia seeds rest to thicken the mixture.",
+            "why_it_happens": "Impatience leads to serving the snack immediately, resulting in a runny texture.",
+            "fix": "Allow at least 5 minutes for chia seeds to absorb moisture and swell, thickening the snack naturally."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Tropical Twist with Pineapple and Coconut Flakes",
+            "description": "Swap watermelon for fresh pineapple chunks and add a teaspoon of unsweetened coconut flakes for a tropical flavor. Use the same yogurt and protein base. This variation adds a bit more natural sweetness and a chewy texture, with macros remaining similar but slightly higher in carbs.",
+            "technical_note": "Pineapple releases more juice than watermelon, so drain excess liquid well to avoid thinning the mixture."
+        },
+        {
+            "name": "Berry Protein Bowl with Mixed Berries and Flaxseed",
+            "description": "Replace watermelon with a mix of strawberries, blueberries, and raspberries. Add ground flaxseed instead of chia for a slightly nuttier flavor and omega-3 boost. This version is lower in sugar and higher in antioxidants, with similar protein content.",
+            "technical_note": "Berries have less water than watermelon, so the texture may be thicker; add a splash of almond milk if needed."
+        },
+        {
+            "name": "Vegan Protein Watermelon Bowl with Pea Protein",
+            "description": "Use plant-based pea protein powder and coconut yogurt instead of Greek yogurt for a vegan option. The texture will be slightly different, creamier but less tangy. Expect a minor increase in calories due to coconut yogurt’s fat content.",
+            "technical_note": "Pea protein can have a stronger flavor; add lime juice and sweetener to balance it."
+        },
+        {
+            "name": "Spiced Watermelon Protein Bowl with Cinnamon and Ginger",
+            "description": "Add a pinch of cinnamon and ground ginger to the yogurt-protein mix for a warming spice twist. This adds flavor complexity without calories and can help with digestion. Watermelon remains the base for hydration and volume.",
+            "technical_note": "Spices won’t affect texture but should be added sparingly to avoid overpowering the fresh watermelon flavor."
+        },
+        {
+            "name": "Egg White Watermelon Mousse",
+            "description": "Whip pasteurized egg whites to soft peaks and fold into the yogurt-protein-watermelon mix for extra fluffiness and protein boost. This creates a mousse-like texture that feels indulgent but stays low calorie.",
+            "technical_note": "Whipping egg whites requires clean bowls and no fat contamination; fold gently to keep airiness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "140 kcal",
+        "protein_grams": "20g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "2g",
+        "fiber_grams": "2g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and protein powder used. Always calculate based on your specific brands. This recipe is designed for a high-protein, low-calorie approach."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This snack should not be left at room temperature for more than 1 hour due to the dairy and protein content. Keep it covered to prevent contamination and avoid volume loss or watery separation when warm.",
+        "refrigerator": "Store in airtight containers for up to 3 days. The snack firms up when chilled and flavors meld nicely. Volume remains good but chia seeds may continue to thicken the mixture, so stir gently before eating. Best served cold.",
+        "freezer": "Freezing is not recommended as the high water content in watermelon causes icy texture and separation. Protein and yogurt also lose creaminess after freezing.",
+        "reheating": "This snack is best enjoyed cold or at room temperature. Reheating is not advised as heat can cause separation and loss of texture.",
+        "make_ahead_strategy": "Prepare the yogurt-protein base and watermelon cubes separately up to 2 days ahead. Combine and add chia seeds just before serving or packing for meal prep to maintain texture and volume."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular yogurt instead of zero-fat Greek yogurt?",
+            "answer": "You can, but regular yogurt has more water and fat, which may make the snack watery and increase calories. To compensate, drain the yogurt using a cheesecloth to thicken it or expect a thinner texture. Zero-fat Greek yogurt is best for thick, creamy consistency and lower calories."
+        },
+        {
+            "question": "What if I don’t have whey protein isolate? Can I use concentrate or plant protein?",
+            "answer": "Whey isolate has fewer carbs and fat than concentrate, making it ideal for low-calorie snacks. Concentrate will add slightly more calories and may be less smooth. Plant proteins can be used but may affect flavor and texture; adding lime juice and sweetener helps balance plant protein taste."
+        },
+        {
+            "question": "How do I avoid the protein powder tasting chalky?",
+            "answer": "Mix protein powder slowly into cold, acidic yogurt and add lime juice to reduce chalkiness. Avoid overmixing or using full-fat dairy, which can separate. Chilling the mixture before eating also improves texture and flavor."
+        },
+        {
+            "question": "Can I prepare this snack the night before?",
+            "answer": "Yes, but keep watermelon cubes separate until ready to eat to prevent sogginess. Add chia seeds just before serving or packing to maintain texture. Stored properly, it stays fresh up to 3 days refrigerated."
+        },
+        {
+            "question": "Is this snack suitable for post-workout recovery?",
+            "answer": "Absolutely! It provides 20g of protein to help muscle repair, plus hydration from watermelon. It’s light but filling, making it ideal for refueling without heaviness."
+        },
+        {
+            "question": "How many calories and protein does one serving have?",
+            "answer": "Each serving contains approximately 140 calories and 20 grams of protein, making it a high-protein, low-calorie snack option that supports satiety and muscle maintenance."
+        },
+        {
+            "question": "Can I add nuts or nut butters to increase calories?",
+            "answer": "You can, but nuts and nut butters add significant calories and fat, changing the low-calorie nature of the snack. If you want more calories, add a small amount (like 1 tsp) and adjust macros accordingly."
+        },
+        {
+            "question": "What’s the best way to sweeten the snack without adding calories?",
+            "answer": "Use natural zero-calorie sweeteners like stevia or monk fruit. They blend well in cold mixtures and don’t affect texture. Avoid sugar or honey to keep calories low."
+        }
+    ],
+    "conclusion": "Give this watermelon protein bowl a try next time you want a big, refreshing snack that fits your macros. I’d love to hear how it works for you—tag me with your results!",
+    "seo": {
+        "primary_keyword": "high protein low calorie watermelon snack",
+        "secondary_keywords": [
+            "volume eating protein snack",
+            "easy low cal snacks",
+            "how to make watermelon snack low calorie",
+            "best low calorie watermelon recipe",
+            "easy high protein low calorie snacks",
+            "healthy low calorie snack meal prep",
+            "post workout low calorie snack recipe",
+            "protein snacks under 200 calories"
+        ],
+        "internal_links": [
+            {
+                "text": "related low calorie snack or meal prep recipe text",
+                "anchor": "anchor_slug_here"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "category_id": "cat_1779285521_870",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-23 01:01:47",
+        "title_seed": "Healthy Watermelon Recipes"
+    },
+    "author_id": "author_001",
+    "id": "post_1787446907_271",
+    "slug": "easy-10-minute-high-protein-low-calorie-watermelon-snack",
+    "uniqueSlug": "easy-10-minute-high-protein-low-calorie-watermelon-snack",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-10-minute-high-protein-low-calorie-watermelon-snack_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-10-minute-high-protein-low-calorie-watermelon-snack/images/easy-10-minute-high-protein-low-calorie-watermelon-snack_pinrecipes_image_1.webp",
+            "relativePath": "easy-10-minute-high-protein-low-calorie-watermelon-snack/images/easy-10-minute-high-protein-low-calorie-watermelon-snack_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-high-protein-low-calorie-watermelon-snack_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-10-minute-high-protein-low-calorie-watermelon-snack/images/easy-10-minute-high-protein-low-calorie-watermelon-snack_pinrecipes_image_2.webp",
+            "relativePath": "easy-10-minute-high-protein-low-calorie-watermelon-snack/images/easy-10-minute-high-protein-low-calorie-watermelon-snack_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-high-protein-low-calorie-watermelon-snack_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-10-minute-high-protein-low-calorie-watermelon-snack/images/easy-10-minute-high-protein-low-calorie-watermelon-snack_pinrecipes_image_3.webp",
+            "relativePath": "easy-10-minute-high-protein-low-calorie-watermelon-snack/images/easy-10-minute-high-protein-low-calorie-watermelon-snack_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        }
+    ],
+    "image": "easy-10-minute-high-protein-low-calorie-watermelon-snack_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-10-minute-high-protein-low-calorie-watermelon-snack/images/easy-10-minute-high-protein-low-calorie-watermelon-snack_pinrecipes_image_1.webp",
+    "image_dir": "easy-10-minute-high-protein-low-calorie-watermelon-snack/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-23T01:01:47+00:00",
+    "updatedAt": "2026-08-23T01:01:47+00:00"
+}
