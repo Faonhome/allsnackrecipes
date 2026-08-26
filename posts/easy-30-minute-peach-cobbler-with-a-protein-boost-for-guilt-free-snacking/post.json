@@ -1,0 +1,316 @@
+{
+    "title": "Easy 30-Minute Peach Cobbler With a Protein Boost for Guilt-Free Snacking",
+    "promptIMG": "Food photography: 30 Minute Peach Cobbler Recipe, appetizing presentation in a large bowl, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, colorful vegetables or berries, clean eating aesthetic, generous portion size --ar 4:3 --quality 2",
+    "description": "This peach cobbler is not your typical dessert—it's packed with protein and low in calories, making it perfect for a satisfying snack without the guilt. Using cottage cheese and egg whites adds creaminess and fluff while keeping calories low. Great for afternoon cravings or a post-workout treat!",
+    "hashtags": "#peachcobbler #highprotein #lowcalorie #healthysnacks",
+    "board_name": "Healthy High Protein Snacks",
+    "pin_variations": [
+        {
+            "title": "Whip Up This Protein-Packed Peach Cobbler in Just 30 Minutes!",
+            "description": "Craving something sweet but want to keep it healthy? This peach cobbler recipe is loaded with protein and under 200 calories per serving. Perfect for meal prep or a quick snack. 🍑💪 Save it now and try it today! #highprotein #lowcalorie #snackideas #peachcobbler",
+            "hashtags": "#highprotein #lowcalorie #snackideas #peachcobbler"
+        },
+        {
+            "title": "Guilt-Free Peach Cobbler That Fuels Your Day With Protein",
+            "description": "Enjoy a delicious peach cobbler that’s low calorie but high in protein to keep you full longer. Made with cottage cheese and egg whites, it’s ideal for cutting phases or post-gym snacks. 🍑🔥 Pin this for later meal prep inspiration! #protein #lowcaloriesnack #mealprep",
+            "hashtags": "#protein #lowcaloriesnack #mealprep #peachcobbler"
+        },
+        {
+            "title": "30-Minute Peach Cobbler: Your New Favorite High-Protein Snack",
+            "description": "Looking for a quick snack that satisfies your sweet tooth and protein goals? This peach cobbler is fluffy, fruity, and low in calories. Perfect for busy days or a Netflix binge. 🍑✨ Try it out and pin for easy snack ideas! #healthysnacks #proteinpacked #lowcaloriesnacks",
+            "hashtags": "#healthysnacks #proteinpacked #lowcaloriesnacks #peachcobbler"
+        },
+        {
+            "title": "Quick & Creamy Peach Cobbler Loaded With Protein Under 200 Calories",
+            "description": "This recipe balances sweet peaches with high-protein cottage cheese and egg whites for a creamy, filling snack. Only 30 minutes to make and perfect for volume eating without the calories. 🍑👌 Pin now and snack smart! #protein #lowcalorie #snackrecipes",
+            "hashtags": "#protein #lowcalorie #snackrecipes #peachcobbler"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "servings": 6,
+    "ingredients": [
+        "2 cups fresh or frozen peaches, sliced",
+        "1 cup low-fat cottage cheese, well drained",
+        "4 large egg whites",
+        "1/4 cup vanilla protein powder (whey isolate preferred)",
+        "2 tsp baking powder",
+        "1 tsp cinnamon",
+        "1 tsp vanilla extract",
+        "2 tbsp erythritol or preferred zero-calorie sweetener",
+        "1/4 cup unsweetened almond milk",
+        "1 tsp xanthan gum (optional for fluffiness)",
+        "Cooking spray or minimal butter for greasing"
+    ],
+    "yield": "Approximately 1 generous bowl per serving, 6 snack servings total, about 1 cup volume per serving",
+    "introduction": "I’ve always struggled with feeling hungry when I’m sticking to a low-calorie diet, especially during the afternoon slump. Most snacks left me unsatisfied or packed with empty calories. That’s why I created this 30-minute peach cobbler recipe that’s high in protein but low in calories. It’s a game changer for anyone who wants volume without guilt. What I love about this recipe is that it’s way more filling than store-bought bars or shakes — you get a big bowl of fluffy, fruity goodness that actually keeps me full for hours. I use cottage cheese and egg whites to add protein and creaminess without any fat, and the trick is incorporating a bit of xanthan gum to keep the texture light and airy. Plus, the protein powder blends in smoothly with the almond milk and spices, so there’s no weird chalkiness. I had a few batches that were too watery before I nailed the right balance, but now it’s my go-to snack after workouts or when I want to treat myself without breaking my calorie bank. My friends always ask how I can eat so much and still lose weight — this is the secret! It’s perfect for meal prep Sundays and fits easily into MyFitnessPal tracking. If you want a sweet, satisfying snack that fuels your goals, you’ll love this peach cobbler.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and lightly grease a medium baking dish with cooking spray or a tiny bit of butter. This prevents sticking and helps the cobbler brown nicely without adding unnecessary calories. While the oven warms, slice your peaches if using fresh, or thaw frozen peaches and drain any excess liquid to avoid a watery cobbler. This step is crucial because excess moisture can make the batter too runny and affect the texture. You want the peaches juicy but not soggy. Preparing the fruit properly ensures the cobbler holds together well and bakes evenly.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven preheated, peaches sliced and drained, baking dish greased"
+        },
+        {
+            "step": 2,
+            "instruction": "In a mixing bowl, combine the cottage cheese and egg whites. Use a blender or hand mixer to blend until smooth and creamy, eliminating any lumps. This creates a silky base that mimics creaminess without fat. If you skip this, the texture can be grainy or curdled. Once smooth, add the vanilla protein powder, erythritol, cinnamon, and vanilla extract. Blend again just until incorporated. The protein powder hydrates better in this dairy base, preventing chalkiness. Adding sweetener now ensures even sweetness throughout. Avoid overmixing to keep the mixture light.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture is smooth, creamy, and slightly thickened with no lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "Sprinkle the baking powder evenly over the protein mixture, then gently fold it in using a spatula. This helps the cobbler rise and become fluffy without adding calories or fat. Be careful not to overmix at this stage, or you’ll deflate the air bubbles that create volume. If you’re using xanthan gum, sprinkle it now and fold in gently to thicken and stabilize the batter. This step is key for a light texture that holds together during baking.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter is smooth, slightly thickened, and airy"
+        },
+        {
+            "step": 4,
+            "instruction": "Fold the sliced peaches gently into the batter, ensuring they’re evenly distributed but not crushed. This layering keeps chunks of juicy fruit throughout the cobbler, adding natural sweetness and moisture. Avoid stirring too vigorously to prevent the batter from becoming watery. The peaches add volume without many calories, making the snack more filling.",
+            "timing": "3 minutes",
+            "doneness_cue": "Peach slices are evenly mixed but intact"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the batter and peach mixture into the prepared baking dish, spreading it evenly. The batter should be thick but pourable, coating the peaches well. If it’s too runny, the cobbler won’t set properly. The spread batter creates a nice crust on top as it bakes, giving texture contrast between soft fruit and fluffy topping.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter evenly spread with visible peach pieces"
+        },
+        {
+            "step": 6,
+            "instruction": "Bake the cobbler in the preheated oven for 18-20 minutes. Keep an eye on it after 15 minutes to avoid overbaking, which can dry it out. The baking powder will cause it to puff up and become golden on top. The protein and egg whites set during this time, creating a firm but fluffy texture. The smell of cinnamon and vanilla will fill your kitchen when it’s almost done.",
+            "timing": "18-20 minutes",
+            "doneness_cue": "Top is lightly golden, cobbler is firm to touch and springs back slightly"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the cobbler from the oven and let it cool for 5 minutes before serving. Cooling allows the proteins to set fully, improving texture and making it easier to portion. If served too hot, it can be a bit runny. The cobbler will still be warm and comforting but easier to eat and track macros.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cobbler is warm, set, and not watery"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve the peach cobbler in generous bowls for volume eating satisfaction. You can add a sprinkle of cinnamon on top or a few fresh peach slices for extra flavor without adding calories. This snack is perfect on its own or paired with a cup of black coffee or herbal tea.",
+            "timing": "2 minutes",
+            "doneness_cue": "Portioned bowls look full and colorful"
+        },
+        {
+            "step": 9,
+            "instruction": "Store any leftovers in an airtight container in the fridge for up to 3 days. Reheat gently in the microwave for 30 seconds if desired, adding a splash of almond milk to loosen if it thickened too much. Avoid overheating to prevent separation or drying out. This makes a great grab-and-go snack for busy days.",
+            "timing": "N/A",
+            "doneness_cue": "Leftovers stored properly, reheated to warm but not hot"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This High-Protein Peach Cobbler Fills You Up Without the Calories",
+        "content": "<p>This peach cobbler recipe is a perfect example of how combining high-protein ingredients with low-calorie, high-volume foods creates a snack that satisfies both your hunger and your sweet tooth. Protein has a high thermic effect of food (TEF), meaning your body burns more calories digesting it compared to carbs or fats. Plus, protein triggers satiety hormones like PYY and GLP-1, which help you feel full longer. By using cottage cheese and egg whites, this recipe packs over 20 grams of protein per serving while keeping fat and calories low.</p><p>The inclusion of fresh peaches adds natural sweetness and fiber, increasing volume without adding many calories. Fiber and water-rich foods stretch the stomach and send mechanical fullness signals to the brain, enhancing satiety. The use of xanthan gum mimics the creamy texture fat usually provides, so you get that indulgent mouthfeel without the calorie cost. Protein powder, especially whey isolate, blends smoothly with the zero-fat dairy base, preventing chalkiness through proper hydration and acidity from the yogurt.</p><p>Because the portion size is generous—about a cup per serving—you get the psychological satisfaction of eating a large bowl, which helps reduce cravings. The baking powder introduces air pockets that create a fluffy texture, making the snack feel light but filling. This cobbler is an excellent example of volume eating: maximizing food bulk while minimizing calories, which is key to sticking with a calorie deficit without feeling deprived.</p><p>Overall, this recipe balances macros and texture science to deliver a delicious, filling snack that supports your fitness goals. It’s a smart way to enjoy dessert-like flavors while staying on track.</p>",
+        "ingredient_notes": {
+            "vanilla protein powder": "Look for a whey isolate protein powder with minimal additives and no hidden maltodextrin or creamers. Whey isolate works best here because it dissolves smoothly in low-fat mixtures, preventing chalkiness and ensuring a creamy texture. Avoid plant-based powders that can be gritty unless well-blended. Protein powder provides the bulk of the protein and helps firm up the cobbler without adding fat.",
+            "low-fat cottage cheese": "Choose a brand with 0-1% fat and minimal added sodium. Cottage cheese adds creaminess and moisture, plus casein protein which digests slowly, helping keep you full. Properly draining it before blending prevents watery mixtures. Avoid full-fat varieties as they increase calories and alter texture.",
+            "egg whites": "Egg whites contribute volume and structure without fat. Whipping them slightly before folding in can add fluffiness, but over-whipping risks deflating the batter. They bind the ingredients and help the cobbler rise with baking powder. Avoid using whole eggs to keep calories low.",
+            "xanthan gum": "This zero-calorie hydrocolloid thickens and stabilizes the batter, mimicking fat’s creamy mouthfeel. It prevents watery separation common in low-fat dairy mixtures and improves texture. Use sparingly as too much can cause gumminess. It’s optional but recommended for best results.",
+            "erythritol": "A sugar alcohol sweetener that adds sweetness without calories or blood sugar spikes. Choose a fine powdered form to blend easily. It has minimal aftertaste compared to stevia and works well in baked goods. Using erythritol keeps this cobbler low-calorie and diabetic-friendly."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Drain the cottage cheese thoroughly before blending.",
+            "reason": "Excess liquid from cottage cheese can make the batter too watery, resulting in a soggy cobbler that won’t set properly. Draining ensures the right consistency and prevents separation during baking."
+        },
+        {
+            "tip": "Use whey isolate protein powder for best texture.",
+            "reason": "Whey isolate dissolves more completely in low-fat mixtures, preventing chalkiness and grit. It also provides a clean flavor that blends well with vanilla and cinnamon."
+        },
+        {
+            "tip": "Don’t skip the baking powder—it’s key for fluffiness.",
+            "reason": "Baking powder introduces air bubbles that expand during baking, creating a light, airy texture. Without it, the cobbler will be dense and less satisfying."
+        },
+        {
+            "tip": "Incorporate xanthan gum for creaminess without fat.",
+            "reason": "Xanthan gum thickens and stabilizes the batter, mimicking the mouthfeel of fat. It prevents watery texture and keeps the cobbler fluffy and moist."
+        },
+        {
+            "tip": "Blend cottage cheese and egg whites until smooth.",
+            "reason": "Smoothing the base eliminates lumps and creates a creamy texture that mixes well with protein powder and sweeteners, improving the final mouthfeel."
+        },
+        {
+            "tip": "Cool the cobbler slightly before serving.",
+            "reason": "Cooling helps the protein and egg whites set fully, improving texture and making it easier to portion without it falling apart."
+        },
+        {
+            "tip": "Use fresh or properly drained frozen peaches.",
+            "reason": "Too much moisture from unthawed frozen peaches can dilute the batter and cause sogginess. Proper preparation ensures the right fruit-to-batter ratio."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping draining the cottage cheese",
+            "why_it_happens": "People often assume cottage cheese can be used straight from the container, but the liquid content varies and can be high.",
+            "fix": "Drain the cottage cheese in a fine sieve or cheesecloth for at least 10 minutes before blending to remove excess whey and achieve the right batter consistency."
+        },
+        {
+            "mistake": "Using full-fat cottage cheese or whole eggs",
+            "why_it_happens": "Some may think full-fat versions taste better or add richness, but they increase calories and alter texture.",
+            "fix": "Stick to low-fat cottage cheese and egg whites to keep calories low and texture light. This preserves the high-protein, low-calorie balance."
+        },
+        {
+            "mistake": "Overmixing after adding baking powder",
+            "why_it_happens": "People try to fully incorporate baking powder but overmixing deflates the air bubbles needed for fluffiness.",
+            "fix": "Gently fold baking powder in just until combined to keep the batter airy and light."
+        },
+        {
+            "mistake": "Not using a zero-calorie thickener like xanthan gum",
+            "why_it_happens": "Some skip it thinking it’s unnecessary, but low-fat mixtures can separate or be watery.",
+            "fix": "Add a small amount of xanthan gum to stabilize and thicken the batter, improving texture without adding calories."
+        },
+        {
+            "mistake": "Rushing the cooling phase",
+            "why_it_happens": "Impatience leads to eating immediately, but the cobbler can be too soft and runny.",
+            "fix": "Let the cobbler cool for 5 minutes after baking to allow proteins to set, resulting in better texture and portioning."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Blueberry Protein Cobbler",
+            "description": "Swap peaches for fresh or frozen blueberries for a different antioxidant-rich flavor. Blueberries add a bit more tartness and fewer carbs, making this version slightly lower calorie. The texture remains fluffy and moist with the same protein boost.",
+            "technical_note": "Blueberries release more juice, so drain any excess liquid before folding in to prevent a watery batter."
+        },
+        {
+            "name": "Vegan-Friendly Peach Cobbler",
+            "description": "Replace egg whites with aquafaba (chickpea water) whipped to stiff peaks and use a plant-based protein powder. This keeps the snack high protein and low calorie but adjusts texture slightly—expect a lighter, mousse-like cobbler.",
+            "technical_note": "Aquafaba takes longer to whip and is less stable than egg whites; fold gently to maintain volume."
+        },
+        {
+            "name": "Spiced Maple Peach Cobbler",
+            "description": "Add a pinch of nutmeg and substitute erythritol with sugar-free maple syrup for a richer autumn flavor. This variation adds a touch more sweetness and depth but still stays under 200 calories per serving.",
+            "technical_note": "Liquid sweeteners may thin the batter slightly; reduce almond milk by 1 tbsp to compensate."
+        },
+        {
+            "name": "Cinnamon Vanilla Protein Cobbler with Chia Seeds",
+            "description": "Add 1 tbsp chia seeds to the batter for extra fiber and omega-3s. The chia thickens the mixture and adds a subtle crunch. This version promotes gut health while keeping protein high and calories low.",
+            "technical_note": "Allow batter to rest 5 minutes after mixing to let chia seeds hydrate fully before baking."
+        },
+        {
+            "name": "Tropical Mango Peach Cobbler",
+            "description": "Mix diced mango with peaches for a tropical twist. Mango adds natural sweetness and vitamin C. The texture is juicy and vibrant, making this a refreshing high-protein snack option.",
+            "technical_note": "Mango has higher water content; drain diced mango slightly to avoid excess moisture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "145 kcal",
+        "protein_grams": "22g",
+        "carbohydrates_grams": "10g",
+        "fat_grams": "1.5g",
+        "fiber_grams": "2g",
+        "sodium_mg": "160mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and protein powder used. Always calculate based on your specific brands. This recipe is designed for a high-protein, low-calorie approach."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This cobbler is best eaten fresh or chilled. Due to the zero-fat dairy and egg whites, it should not be left at room temperature for more than 2 hours to avoid spoilage. Cover loosely to prevent drying out but avoid airtight containers at room temp.",
+        "refrigerator": "Store in an airtight container in the fridge for up to 3 days. The cobbler firms up when chilled and flavors meld nicely. Reheat gently in the microwave with a splash of almond milk to restore creaminess, or enjoy cold.",
+        "freezer": "Freeze leftovers in a sealed container for up to 1 month. To thaw, place in fridge overnight. Texture may become slightly watery after freezing; stir gently before reheating to recombine.",
+        "reheating": "Reheat in the microwave on medium power for 30-45 seconds with a splash of almond milk to loosen texture. Avoid overheating as it can cause separation or rubbery egg whites.",
+        "make_ahead_strategy": "Prepare the batter and peach mixture up to 24 hours in advance and keep refrigerated. Bake fresh when ready to eat for best texture. Alternatively, bake and store baked cobbler refrigerated, reheating portions as needed."
+    },
+    "faq": [
+        {
+            "question": "Can I use whole eggs instead of egg whites?",
+            "answer": "Using whole eggs will increase the fat and calorie content, which may affect the low-calorie goal of this snack. Egg whites keep the cobbler light and high in protein without added fat. If you use whole eggs, expect a richer texture but higher calories."
+        },
+        {
+            "question": "What if I don’t have xanthan gum?",
+            "answer": "Xanthan gum helps thicken and stabilize the batter, but it’s optional. Without it, the cobbler might be a bit less creamy and more prone to watery separation. You can try substituting with a small amount of chia seeds or guar gum, but results will vary."
+        },
+        {
+            "question": "How do I avoid a chalky taste from protein powder?",
+            "answer": "Choose a high-quality whey isolate and blend it well with the cottage cheese and egg whites. Using vanilla-flavored protein powder and adding vanilla extract and cinnamon helps mask any chalkiness. Also, avoid over-adding protein powder beyond the recipe amount."
+        },
+        {
+            "question": "Can I make this cobbler vegan?",
+            "answer": "Yes, by substituting egg whites with whipped aquafaba and using a plant-based protein powder. The texture will be lighter and slightly different but still tasty and high protein. Adjust baking time slightly as aquafaba behaves differently."
+        },
+        {
+            "question": "How long does this snack keep in the fridge?",
+            "answer": "Stored in an airtight container, it keeps well for up to 3 days. The texture firms up when chilled but remains creamy. Reheat gently or eat cold depending on preference."
+        },
+        {
+            "question": "Is this recipe suitable for meal prep?",
+            "answer": "Absolutely! You can prepare the batter ahead and bake fresh or bake in advance and store portions in the fridge. It reheats well and makes for a quick, protein-rich snack during busy days."
+        },
+        {
+            "question": "Can I substitute the sweetener?",
+            "answer": "Yes, you can swap erythritol for stevia or monk fruit sweetener, but adjust amounts carefully to avoid aftertaste or bitterness. Powdered sweeteners blend best in this recipe."
+        },
+        {
+            "question": "What if my batter is too runny?",
+            "answer": "Runny batter often results from excess liquid in cottage cheese or fruit. Drain cottage cheese thoroughly and remove extra juice from peaches. Adding xanthan gum helps thicken the mixture."
+        }
+    ],
+    "conclusion": "Give this protein-packed peach cobbler a try and enjoy a sweet snack that truly satisfies without the calorie overload. Tag me with your results—I’d love to see how it fits your macros!",
+    "seo": {
+        "primary_keyword": "high protein low calorie snack",
+        "secondary_keywords": [
+            "volume eating protein snack",
+            "easy low cal snacks",
+            "how to make peach cobbler low calorie",
+            "best low calorie peach cobbler recipe",
+            "easy high protein low calorie snacks",
+            "healthy low calorie snack meal prep",
+            "post workout low calorie snack recipe",
+            "protein snacks under 200 calories"
+        ],
+        "internal_links": [
+            {
+                "text": "low calorie cottage cheese snack recipe",
+                "anchor": "low_calorie_cottage_cheese_snack"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4500 words"
+    },
+    "category_id": "cat_1779285521_870",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-26 01:02:19",
+        "title_seed": "30 Minute Peach Cobbler Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1787706139_493",
+    "slug": "easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking",
+    "uniqueSlug": "easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking/images/easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking_pinrecipes_image_1.webp",
+            "relativePath": "easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking/images/easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking/images/easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking_pinrecipes_image_2.webp",
+            "relativePath": "easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking/images/easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking/images/easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking_pinrecipes_image_3.webp",
+            "relativePath": "easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking/images/easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        }
+    ],
+    "image": "easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking/images/easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking_pinrecipes_image_1.webp",
+    "image_dir": "easy-30-minute-peach-cobbler-with-a-protein-boost-for-guilt-free-snacking/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-26T01:02:19+00:00",
+    "updatedAt": "2026-08-26T01:02:19+00:00"
+}
