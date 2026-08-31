@@ -1,0 +1,313 @@
+{
+    "title": "Easy Basil Chicken Air Fryer Recipe for a High-Protein Low-Calorie Snack",
+    "promptIMG": "Food photography: Basil Chicken Air Fryer Recipe, appetizing presentation in a large bowl, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, colorful vegetables or berries, clean eating aesthetic, generous portion size --ar 4:3 --quality 2",
+    "description": "This basil chicken made in the air fryer is a lean, protein-packed snack that’s light on calories but big on flavor. The fresh basil adds a bright herbal note, and cooking it air-fried keeps it juicy without extra fat. Perfect for an afternoon energy boost or post-workout refuel!",
+    "hashtags": "#basilchicken #highprotein #lowcalorie #airfryersnack #healthysnack",
+    "board_name": "High Protein Low Calorie",
+    "pin_variations": [
+        {
+            "title": "Quick Basil Chicken Snack Under 200 Calories You’ll Love",
+            "description": "Need a tasty, high-protein snack that won’t wreck your calorie count? This basil chicken air fryer recipe is juicy, flavorful, and ready in minutes. Save this for your next meal prep or a fast post-workout bite! 🍗🌿 #highprotein #lowcalorie #airfryerrecipes",
+            "hashtags": "#highprotein #lowcalorie #airfryersnack #mealprep #proteinpacked"
+        },
+        {
+            "title": "How to Make Basil Chicken in the Air Fryer for a Protein Boost",
+            "description": "This simple basil chicken is perfect when you want a quick, healthy snack. Air frying keeps it tender and juicy without added oil. Try it today for a guilt-free protein hit that keeps you full longer! 🍃🔥 #proteinpacked #lowcaloriesnack #easyrecipes",
+            "hashtags": "#proteinpacked #lowcaloriesnack #airfryer #healthysnacks #quickrecipes"
+        },
+        {
+            "title": "Flavorful Basil Chicken Air Fryer Snack for Cutting Season",
+            "description": "Cutting calories but still craving something filling? This basil chicken air fryer recipe gives you tons of protein with minimal calories. The fresh herbs make it taste gourmet without the guilt. Pin this for your next snack fix! 🍗💪 #cuttingseason #highprotein #lowcalorie",
+            "hashtags": "#cuttingseason #highprotein #lowcalorie #airfryersnack #healthymealprep"
+        },
+        {
+            "title": "Meal Prep Basil Chicken: High Protein, Low Calorie Snack Idea",
+            "description": "Meal prepping just got easier with this basil chicken air fryer recipe. It’s packed with protein, low in calories, and keeps well for quick snacking. Perfect for busy days or when you need a satisfying volume snack! 🌿⏰ #mealprep #protein #lowcalorie",
+            "hashtags": "#mealprep #protein #lowcalorie #airfryerrecipes #healthysnacks"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "servings": 6,
+    "ingredients": [
+        "500g skinless boneless chicken breast, cut into bite-sized pieces",
+        "1 cup fresh basil leaves, chopped",
+        "1 tablespoon lemon juice, fresh",
+        "1 teaspoon garlic powder",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "1 teaspoon olive oil (optional, for tossing)",
+        "1/2 teaspoon smoked paprika (optional, for flavor depth)"
+    ],
+    "yield": "Approximately 6 snack servings, about 1 cup of chicken per serving, high volume due to lean protein",
+    "introduction": "I’ve always struggled with feeling hungry on low-calorie diets, especially in the afternoons when my energy dips. That’s why I started experimenting with high-protein, low-calorie snacks that actually fill me up without ruining my macros. This basil chicken air fryer recipe is a total game-changer. It’s juicy, flavorful, and the fresh basil adds a brightness that makes every bite exciting. Unlike many store-bought protein bars or snacks that leave me wanting more, this recipe gives me a satisfying volume of food for under 200 calories per serving. \n\nOne trick I learned is to cut the chicken into small pieces so it cooks evenly and quickly in the air fryer, locking in moisture without needing oil. Tossing the chicken in lemon juice and garlic powder before cooking boosts flavor without adding calories. I used to have batches that turned out dry or bland, but air frying at the right temperature and timing keeps it tender every time. Plus, the basil isn’t just for taste; it adds a fresh herbal aroma that makes this snack feel gourmet, not like a boring diet meal. \n\nI usually prep a batch on Sundays and portion it out for the week. It’s perfect for my gym bag or a quick office snack. The best part? I get a solid 25 grams of protein per serving, which keeps me full and energized until dinner. If you want a snack that’s easy, tasty, and fits perfectly into a high-protein low-calorie lifestyle, give this basil chicken a try—I think you’ll love it as much as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by cutting the chicken breast into uniform, bite-sized pieces. This ensures the chicken cooks evenly and quickly in the air fryer without drying out. Smaller pieces also increase the surface area, meaning more crispy edges and better flavor absorption. Avoid pieces that are too large, as they may cook unevenly, or too small, which can dry out. Pat the chicken dry with paper towels before seasoning to help the spices stick better and prevent steaming in the air fryer.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken pieces are evenly sized and dry to the touch before seasoning"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, toss the chicken pieces with lemon juice, garlic powder, salt, pepper, and smoked paprika if using. The lemon juice not only adds fresh flavor but also tenderizes the chicken slightly. Toss until all pieces are evenly coated. If you want a touch of richness, add a teaspoon of olive oil, but it’s optional to keep calories low. Make sure the seasoning is spread evenly so every bite bursts with flavor.",
+            "timing": "3 minutes",
+            "doneness_cue": "Chicken pieces look evenly coated with seasoning and slightly glossy if oil is used"
+        },
+        {
+            "step": 3,
+            "instruction": "Preheat your air fryer to 200°C (about 400°F) for 3-5 minutes. Preheating is important to get a good sear on the chicken quickly, which locks in juices and prevents the pieces from drying out. If you skip this step, the chicken might cook slower and become rubbery. A hot air fryer also helps create a nice crispy exterior without frying in oil.",
+            "timing": "5 minutes",
+            "doneness_cue": "Air fryer reaches target temperature and is ready for cooking"
+        },
+        {
+            "step": 4,
+            "instruction": "Arrange the chicken pieces in the air fryer basket in a single layer, making sure they don’t overlap. Crowding the basket traps steam and leads to soggy chicken. Cook in batches if necessary. The goal is to have hot air circulate freely around each piece for even cooking and crispiness.",
+            "timing": "2 minutes",
+            "doneness_cue": "Chicken pieces are spaced evenly in a single layer with no overlap"
+        },
+        {
+            "step": 5,
+            "instruction": "Cook the chicken at 200°C for about 12-15 minutes, shaking or tossing the basket halfway through to ensure even browning. The internal temperature should reach 75°C (165°F) to be safe and juicy. Avoid overcooking, which dries out the chicken. The exterior will be lightly crisp and the inside tender when done.",
+            "timing": "12-15 minutes",
+            "doneness_cue": "Chicken is golden brown on edges and cooked through with no pink inside"
+        },
+        {
+            "step": 6,
+            "instruction": "Once cooked, immediately toss the hot chicken with the chopped fresh basil. The residual heat releases the basil’s aroma without wilting it completely, keeping the herb bright and fresh. This step adds a pop of flavor and freshness that balances the savory chicken beautifully.",
+            "timing": "2 minutes",
+            "doneness_cue": "Basil looks vibrant and fragrant, coating the warm chicken pieces"
+        },
+        {
+            "step": 7,
+            "instruction": "Allow the chicken to cool slightly before serving or packing into meal prep containers. Cooling helps the juices redistribute and prevents condensation in storage, which can make the chicken soggy. If packing for later, store basil separately and add fresh just before eating to keep it vibrant.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken is warm but not steaming, basil fresh and not wilted"
+        },
+        {
+            "step": 8,
+            "instruction": "For meal prep, portion the chicken into containers with some fresh veggies like cucumber or bell peppers for added volume and crunch without calories. This combo creates a balanced snack that’s filling and keeps well in the fridge for up to 4 days.",
+            "timing": "3 minutes",
+            "doneness_cue": "Containers are neatly packed with chicken and veggies, ready to refrigerate"
+        },
+        {
+            "step": 9,
+            "instruction": "Reheat gently in the air fryer or microwave if desired, but avoid overheating to prevent drying. You can add a splash of water or lemon juice when reheating to keep the chicken moist. Fresh basil is best added after reheating to preserve its flavor and color.",
+            "timing": "3 minutes",
+            "doneness_cue": "Chicken is warmed through but still juicy, basil fresh on top"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Basil Chicken Snack Packs Protein and Volume Without the Calories",
+        "content": "<p>Protein is king when it comes to satiety and calorie burning. The thermic effect of food (TEF) means your body uses more energy digesting protein than carbs or fats, helping you burn calories even while snacking. This basil chicken recipe delivers a hefty 25 grams of protein per serving, which triggers hormones like PYY and GLP-1 that tell your brain you’re full and satisfied.</p><p>Combining this lean protein with fresh basil and optional low-calorie veggies adds volume without adding many calories. This volume stretches your stomach and sends mechanical fullness signals, so you feel like you’re eating a hearty snack, not just a few bites. The air fryer technique crisps the chicken without oil, keeping the calorie count low but texture high.</p><p>Using lemon juice and fresh herbs enhances flavor without fat or sugar, so you don’t miss out on taste. The small amount of olive oil is optional and used sparingly to avoid adding unnecessary calories. The texture challenge of low-fat cooking is solved by cutting chicken small for even cooking and using the air fryer’s hot circulating air to lock in moisture.</p><p>Finally, the basil not only adds a fresh, aromatic note but also visually makes the snack appealing, which psychologically helps you enjoy the portion size more. This recipe balances flavor, texture, and nutrition perfectly for a high-protein, low-calorie snack that keeps hunger at bay.</p>",
+        "ingredient_notes": {
+            "chicken breast": "Choose skinless, boneless chicken breast for the leanest protein source. Chicken breast is low in fat and high in protein, making it ideal for low-calorie snacks. Look for fresh or frozen chicken with no added marinades or preservatives. This cut cooks quickly and stays tender when air fried if cut into uniform pieces. Avoid dark meat or skin as they add calories and fat.",
+            "fresh basil": "Fresh basil adds a bright herbal flavor without calories. Use vibrant green leaves that are free from wilting or browning. Basil’s aromatic oils enhance the chicken’s taste and provide antioxidants. Dried basil won’t give the same fresh flavor or visual appeal, so fresh is best. Add basil after cooking to preserve its aroma and texture.",
+            "lemon juice": "Fresh lemon juice tenderizes chicken slightly and adds acidity that balances the savory spices. Use freshly squeezed juice rather than bottled for best flavor and no preservatives. The acidity also helps prevent the protein from becoming tough during cooking. Lemon juice is calorie-free and adds brightness without sugar or fat.",
+            "garlic powder": "Garlic powder provides savory depth without moisture, which is important in low-fat cooking to avoid sogginess. It’s a calorie-free way to add robust flavor. Use pure garlic powder without additives or salt to control seasoning. Fresh garlic can be used but may add moisture and change cooking time slightly.",
+            "olive oil": "Used sparingly (1 teaspoon), olive oil adds a slight richness and helps seasoning stick. Opt for extra virgin olive oil for flavor, but it’s optional to keep calories minimal. Too much oil increases calories quickly, so measure carefully. The oil also helps crisp the chicken in the air fryer but can be skipped if you want zero added fat."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Cut chicken into uniform small pieces for even cooking.",
+            "reason": "Uniform pieces ensure the chicken cooks evenly in the air fryer, preventing some pieces from drying out while others remain undercooked. This technique maintains juiciness and texture, which is crucial since there’s little fat to keep the meat moist."
+        },
+        {
+            "tip": "Preheat the air fryer before cooking the chicken.",
+            "reason": "Preheating creates a hot environment that sears the chicken quickly, locking in juices and creating a crispy exterior without added oil. Skipping this step can lead to uneven cooking and rubbery texture."
+        },
+        {
+            "tip": "Toss chicken with lemon juice and seasoning before cooking.",
+            "reason": "The lemon juice tenderizes the meat and enhances flavor without calories. Even seasoning distribution ensures every bite is flavorful, which helps satisfaction despite the low calorie count."
+        },
+        {
+            "tip": "Add fresh basil after cooking rather than during.",
+            "reason": "Adding basil after cooking preserves its bright flavor and vibrant color. Cooking basil can dull its aroma and turn it limp, reducing the fresh herbal note that makes this snack special."
+        },
+        {
+            "tip": "Avoid overcrowding the air fryer basket.",
+            "reason": "Crowding traps steam and prevents crisping, resulting in soggy chicken. Cooking in batches allows hot air to circulate freely, producing a better texture and flavor."
+        },
+        {
+            "tip": "Use a meat thermometer to check doneness.",
+            "reason": "Ensuring the chicken reaches 75°C (165°F) guarantees it’s safe to eat while preventing overcooking, which causes dryness. This is especially important in low-fat recipes where moisture retention is key."
+        },
+        {
+            "tip": "Store cooked chicken in airtight containers with veggies for volume.",
+            "reason": "Pairing protein with low-calorie veggies increases volume and satiety without adding many calories. Airtight storage keeps the chicken fresh and prevents flavor loss during meal prep."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Chicken turns out dry and rubbery.",
+            "why_it_happens": "This usually happens when chicken pieces are too large or cooked too long without fat to keep moisture, or if the air fryer isn’t preheated.",
+            "fix": "Cut chicken into smaller, uniform pieces and preheat the air fryer. Cook only until the internal temperature reaches 75°C (165°F). Avoid overcooking by checking early and shaking the basket halfway through."
+        },
+        {
+            "mistake": "Chicken is soggy instead of crispy.",
+            "why_it_happens": "Overcrowding the air fryer basket traps steam, preventing crisping. Also, using wet marinades or not patting chicken dry can cause sogginess.",
+            "fix": "Pat chicken dry before seasoning and cook in a single layer with space between pieces. Avoid wet marinades or add them sparingly to keep the surface dry."
+        },
+        {
+            "mistake": "Basil flavor is muted or wilted.",
+            "why_it_happens": "Cooking basil with the chicken causes it to lose aroma and color, making it taste dull.",
+            "fix": "Add fresh basil immediately after cooking while the chicken is hot but off heat. This releases aroma without wilting the leaves."
+        },
+        {
+            "mistake": "Protein powder or seasoning clumps (if used in variations).",
+            "why_it_happens": "Adding dry ingredients without proper mixing or hydration can cause clumps and chalkiness.",
+            "fix": "Mix dry seasoning or protein powder evenly with lemon juice or a small amount of water before tossing with chicken to ensure smooth coating."
+        },
+        {
+            "mistake": "Snack is too small to feel satisfying.",
+            "why_it_happens": "Not adding volume with veggies or underestimating portion size can leave you hungry despite eating protein.",
+            "fix": "Pair chicken with crunchy, low-calorie veggies like cucumber or bell pepper to increase volume and satiety without extra calories."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Basil Chicken",
+            "description": "Add 1/2 teaspoon cayenne pepper and 1 teaspoon chili flakes to the seasoning mix for a spicy kick. This variation keeps the calories low but adds a metabolism-boosting heat. The texture remains the same, but the flavor is bolder and perfect if you love spice.",
+            "technical_note": "Be careful not to overdo the spice; start mild and adjust. The air fryer cooking time remains unchanged."
+        },
+        {
+            "name": "Basil Chicken with Egg Whites",
+            "description": "Coat the chicken pieces lightly in whipped egg whites before seasoning to add extra fluffiness and protein. This adds volume and a delicate texture without fat. It raises protein content slightly while keeping calories low.",
+            "technical_note": "Whip egg whites until soft peaks form and gently fold chicken pieces in. Air fry as usual but watch for slightly faster browning."
+        },
+        {
+            "name": "Lemon Basil Chicken with Cucumber Salad",
+            "description": "Serve the basil chicken over a bed of sliced cucumbers tossed with lemon juice and dill. This adds crunch and hydrating volume, making the snack even more filling while keeping it under 200 calories per serving.",
+            "technical_note": "Prepare cucumber salad fresh and add just before serving to avoid sogginess."
+        },
+        {
+            "name": "Basil Chicken with Sugar-Free Teriyaki Glaze",
+            "description": "Brush cooked chicken with a homemade sugar-free teriyaki glaze made from soy sauce, ginger, garlic, and erythritol. This adds a sweet-savory dimension without extra calories, perfect for a flavor twist.",
+            "technical_note": "Apply glaze after cooking and briefly air fry for 2 minutes to set it without burning."
+        },
+        {
+            "name": "Herbed Basil Chicken with Mixed Greens",
+            "description": "Mix fresh basil with parsley and thyme for a more complex herb flavor. Serve with a side of mixed greens dressed lightly with lemon juice for a refreshing, nutrient-dense snack.",
+            "technical_note": "Fresh herbs should be added after cooking to preserve flavor and aroma."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "150 kcal",
+        "protein_grams": "25g",
+        "carbohydrates_grams": "2g",
+        "fat_grams": "2g",
+        "fiber_grams": "0.5g",
+        "sodium_mg": "350mg",
+        "note": "Nutritional values are estimates and may vary based on specific chicken and seasoning brands. This recipe is designed for a high-protein, low-calorie approach."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This basil chicken snack should not be left at room temperature for more than 2 hours due to food safety concerns with cooked poultry. Keep covered if serving immediately to prevent drying.",
+        "refrigerator": "Store in airtight containers for up to 4 days. The chicken holds its texture well when chilled, though the basil is best added fresh before eating to maintain flavor and color. Reheat gently to avoid drying.",
+        "freezer": "Freeze cooked chicken in sealed containers or freezer bags for up to 2 months. Thaw overnight in the fridge and reheat gently. Note that freezing may slightly affect texture, making it less juicy.",
+        "reheating": "Reheat in the air fryer at 160°C (320°F) for 3-5 minutes or microwave on medium power with a splash of water to keep moist. Avoid overheating which can dry the chicken and wilt basil.",
+        "make_ahead_strategy": "Cook and season the chicken in advance, then store basil separately. Portion chicken into containers with fresh veggies. Add basil fresh before eating to keep the snack vibrant. Perfect for meal prepping several days ahead."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breast for this recipe?",
+            "answer": "Yes, you can substitute chicken thighs, but keep in mind they have higher fat content and calories. Thighs will be juicier but also slightly more calorie-dense. Adjust cooking time as thighs may take a few minutes longer to cook through."
+        },
+        {
+            "question": "Can I prepare this snack without an air fryer?",
+            "answer": "Absolutely! You can bake the chicken in a preheated oven at 200°C (400°F) for 15-20 minutes, turning halfway through. The texture will be slightly different, with less crispiness, but still delicious and high in protein."
+        },
+        {
+            "question": "How do I prevent the chicken from drying out?",
+            "answer": "Cutting the chicken into small, uniform pieces and cooking at the right temperature and time are key. Avoid overcooking by checking for an internal temperature of 75°C (165°F). Also, patting chicken dry before seasoning helps with crisping."
+        },
+        {
+            "question": "Is it okay to add oil to increase flavor?",
+            "answer": "You can add up to 1 teaspoon of olive oil to help seasoning stick and add richness, but keep it minimal to maintain low calories. Too much oil will increase calorie count quickly."
+        },
+        {
+            "question": "How long does this snack keep in the fridge?",
+            "answer": "Store the cooked chicken in an airtight container and consume within 4 days for best taste and safety. Add fresh basil just before eating to keep flavor vibrant."
+        },
+        {
+            "question": "Can I use dried basil instead of fresh?",
+            "answer": "Dried basil can be used in seasoning but won’t provide the same fresh aroma and bright flavor. For best results, add fresh basil after cooking as directed."
+        },
+        {
+            "question": "What if I don’t have lemon juice?",
+            "answer": "You can substitute lemon juice with a splash of apple cider vinegar or white wine vinegar to add acidity and tenderize the chicken, but lemon juice offers the best fresh flavor balance."
+        },
+        {
+            "question": "Is this snack suitable for cutting or weight loss?",
+            "answer": "Definitely! It’s high in protein, low in calories and fat, and filling thanks to the lean chicken and fresh herbs. It fits perfectly into a calorie-controlled diet for fat loss or maintenance."
+        }
+    ],
+    "conclusion": "Give this basil chicken air fryer recipe a try next time you need a filling, high-protein snack that won’t blow your calorie budget. I’d love to hear how it fits into your meal prep or workout routine—tag me if you make it!",
+    "seo": {
+        "primary_keyword": "basil chicken air fryer recipe",
+        "secondary_keywords": [
+            "high protein low calorie snack",
+            "volume eating protein snack",
+            "how to make basil chicken low calorie",
+            "best low calorie basil chicken recipe",
+            "easy high protein low calorie snacks",
+            "healthy low calorie snack meal prep",
+            "post workout low calorie snack recipe",
+            "protein snacks under 200 calories"
+        ],
+        "internal_links": [
+            {
+                "text": "easy high protein low calorie chicken snack",
+                "anchor": "easy-high-protein-low-calorie-chicken-snack"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "category_id": "cat_1779285477_354",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-31 01:01:58",
+        "title_seed": "Basil Chicken Air Fryer Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1788138118_779",
+    "slug": "easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack",
+    "uniqueSlug": "easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack/images/easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+            "relativePath": "easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack/images/easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack/images/easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_2.webp",
+            "relativePath": "easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack/images/easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack/images/easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_3.webp",
+            "relativePath": "easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack/images/easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        }
+    ],
+    "image": "easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack/images/easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+    "image_dir": "easy-basil-chicken-air-fryer-recipe-for-a-high-protein-low-calorie-snack/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-31T01:01:58+00:00",
+    "updatedAt": "2026-08-31T01:01:58+00:00"
+}
