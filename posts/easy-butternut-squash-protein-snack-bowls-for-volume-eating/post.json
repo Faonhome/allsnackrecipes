@@ -309,6 +309,56 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_5.webp",
+            "filePath": "posts/easy-butternut-squash-protein-snack-bowls-for-volume-eating/images/easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_5.webp",
+            "relativePath": "easy-butternut-squash-protein-snack-bowls-for-volume-eating/images/easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-butternut-squash-protein-snack-bowls-for-volume-eating/images/easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_5.webp",
+            "type": "template",
+            "title": "Satisfy Hunger with This Easy High-Protein Butternut Squash Bowl"
+        },
+        {
+            "fileName": "easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_7.webp",
+            "filePath": "posts/easy-butternut-squash-protein-snack-bowls-for-volume-eating/images/easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_7.webp",
+            "relativePath": "easy-butternut-squash-protein-snack-bowls-for-volume-eating/images/easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-butternut-squash-protein-snack-bowls-for-volume-eating/images/easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_7.webp",
+            "type": "template",
+            "title": "Make-Ahead Butternut Squash Protein Bowls for Healthy Snacking"
+        },
+        {
+            "fileName": "easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_6.webp",
+            "filePath": "posts/easy-butternut-squash-protein-snack-bowls-for-volume-eating/images/easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_6.webp",
+            "relativePath": "easy-butternut-squash-protein-snack-bowls-for-volume-eating/images/easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-butternut-squash-protein-snack-bowls-for-volume-eating/images/easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_6.webp",
+            "type": "template",
+            "title": "Post-Workout Butternut Squash Protein Snack You’ll Love"
+        },
+        {
+            "fileName": "easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_4.webp",
+            "filePath": "posts/easy-butternut-squash-protein-snack-bowls-for-volume-eating/images/easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_4.webp",
+            "relativePath": "easy-butternut-squash-protein-snack-bowls-for-volume-eating/images/easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-butternut-squash-protein-snack-bowls-for-volume-eating/images/easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_4.webp",
+            "type": "template",
+            "title": "Wholesome Butternut Squash Protein Snack Under 200 Calories"
+        },
+        {
+            "fileName": "easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_8.webp",
+            "filePath": "posts/easy-butternut-squash-protein-snack-bowls-for-volume-eating/images/easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_8.webp",
+            "relativePath": "easy-butternut-squash-protein-snack-bowls-for-volume-eating/images/easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-butternut-squash-protein-snack-bowls-for-volume-eating/images/easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_8.webp",
+            "type": "recipe_card",
+            "title": "Wholesome Butternut Squash Protein Snack Under 200 Calories",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_9.webp",
+            "filePath": "posts/easy-butternut-squash-protein-snack-bowls-for-volume-eating/images/easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_9.webp",
+            "relativePath": "easy-butternut-squash-protein-snack-bowls-for-volume-eating/images/easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-butternut-squash-protein-snack-bowls-for-volume-eating/images/easy-butternut-squash-protein-snack-bowls-for-volume-eating_st1_image_9.webp",
+            "type": "overlay_list",
+            "title": "Wholesome Butternut Squash Protein Snack Under 200 Calories",
+            "no_link": true
         }
     ],
     "image": "easy-butternut-squash-protein-snack-bowls-for-volume-eating_pinrecipes_image_1.webp",
@@ -316,6 +366,6 @@
     "image_dir": "easy-butternut-squash-protein-snack-bowls-for-volume-eating/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-09-09T01:02:21+00:00",
-    "updatedAt": "2026-09-09T01:02:21+00:00"
+    "createdAt": "2026-09-13T02:01:27+01:00",
+    "updatedAt": "2026-09-13T02:01:27+01:00"
 }
