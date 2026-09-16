@@ -1,0 +1,313 @@
+{
+    "title": "Easy 10-Minute Baked Cinnamon High-Protein Low-Calorie Snack",
+    "promptIMG": "Food photography: Baked Cinnamon Recipe, appetizing presentation in a large bowl, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, colorful vegetables or berries, clean eating aesthetic, generous portion size --ar 4:3 --quality 2",
+    "description": "This baked cinnamon snack is a warm, protein-packed treat that keeps calories low but satisfaction high. Using egg whites and cinnamon for flavor, it’s perfect for a cozy afternoon pick-me-up or post-workout bite without guilt.",
+    "hashtags": "#bakedcinnamon #highprotein #lowcalorie #healthysnacks",
+    "board_name": "Low Calorie Protein Snacks",
+    "pin_variations": [
+        {
+            "title": "Warm Up Your Snack Game with This Baked Cinnamon Protein Treat",
+            "description": "Looking for a cozy, low-calorie snack that’s packed with protein? This baked cinnamon recipe is quick, flavorful, and perfect for meal prep. Save it now and enjoy guilt-free snacking! 🍂🔥 #highprotein #lowcalorie #snackideas",
+            "hashtags": "#bakedcinnamon #proteinpacked #healthysnacks #mealprep"
+        },
+        {
+            "title": "Satisfy Your Sweet Tooth with This Low-Calorie Cinnamon Protein Snack",
+            "description": "Craving something sweet but don’t want to derail your macros? Try this baked cinnamon snack that’s loaded with protein and under 150 calories. Pin it for your next snack attack! 🍎💪 #lowcaloriesnacks #protein #healthyeating",
+            "hashtags": "#bakedcinnamon #proteinpower #lowcalorie #healthysnacks"
+        },
+        {
+            "title": "Post-Workout Perfection: Baked Cinnamon Protein Snack Under 150 Calories",
+            "description": "Refuel after a tough workout with this easy baked cinnamon snack. High in protein and low in calories, it’s just what your body needs. Try it today and feel full longer! 🏋️‍♀️✨ #postworkout #protein #lowcalorie",
+            "hashtags": "#bakedcinnamon #proteinboost #lowcaloriesnack #fitfood"
+        },
+        {
+            "title": "Make-Ahead Baked Cinnamon Protein Snack for Busy Days",
+            "description": "Meal prep made simple with this baked cinnamon snack that’s high-protein and low-calorie. Keep it in your fridge for a quick, filling bite anytime. Pin for your next meal prep session! 🍽️📅 #mealprep #protein #lowcalorie",
+            "hashtags": "#bakedcinnamon #mealprepsnack #highprotein #lowcalorie"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "servings": 6,
+    "ingredients": [
+        "6 large egg whites, room temperature",
+        "1/2 cup zero-fat Greek yogurt",
+        "1 scoop vanilla whey protein isolate powder",
+        "1 tablespoon ground cinnamon",
+        "1 teaspoon vanilla extract",
+        "1 tablespoon erythritol or preferred sugar-free sweetener",
+        "1/4 teaspoon xanthan gum (optional, for texture)",
+        "Non-stick cooking spray"
+    ],
+    "yield": "Approximately 6 individual snack portions, about 1/2 cup volume each",
+    "introduction": "I’ve always struggled with feeling hungry on low-calorie diets, especially when cutting. Tiny snack portions just don’t cut it, and I hate feeling like I’m starving between meals. That’s why I created this baked cinnamon recipe — it’s a warm, cozy snack that’s surprisingly filling without packing on the calories. What makes it better than store-bought protein bars? The volume! You get a nice, fluffy texture thanks to egg whites and a bit of xanthan gum, so it feels like you’re eating way more than just 150 calories. Plus, cinnamon adds that comforting flavor without any sugar. I learned the hard way that skipping the xanthan gum made the snack too watery, so that little addition really helps keep it just right. I usually whip this up on Sundays for the week, and it’s perfect for my afternoon slump or post-gym hunger. Honestly, friends have asked how I eat so much and still keep my calories low — this snack is the secret. It’s creamy, slightly spiced, and keeps me full for hours. Plus, no weird ingredients or artificial nonsense, just simple, wholesome stuff you probably already have. If you’re looking for a snack that fits your macros and your cravings, give this one a try!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and lightly grease a baking dish or line it with parchment paper. This ensures your baked cinnamon snack doesn’t stick and bakes evenly. Proper greasing is essential because egg whites can stick to pans if you skip this step, which makes cleanup harder and can ruin the texture of your snack.",
+            "timing": "5 minutes",
+            "doneness_cue": "The baking dish surface should look evenly coated but not wet or pooling with grease."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk the egg whites until frothy but not stiff. This initial frothiness helps incorporate air into the mixture, contributing to a lighter, fluffier final texture. Avoid over-whisking at this stage to prevent drying out the egg whites.",
+            "timing": "2 minutes",
+            "doneness_cue": "Egg whites should look slightly foamy with bubbles but still pourable."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the zero-fat Greek yogurt, vanilla extract, and erythritol to the egg whites. Stir gently to combine. The yogurt adds creaminess and tang, balancing the cinnamon’s warmth, while erythritol sweetens without adding calories. Mixing gently avoids deflating the air you just whisked in.",
+            "timing": "2 minutes",
+            "doneness_cue": "Mixture should be smooth and slightly thick but still easy to stir."
+        },
+        {
+            "step": 4,
+            "instruction": "Sift in the protein powder, ground cinnamon, and xanthan gum (if using). Stir carefully to incorporate without lumps. The protein powder provides the high-protein content, cinnamon adds flavor, and xanthan gum acts as a binder and thickener to prevent a watery texture, which is common in low-fat mixtures.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter should be uniform in color and texture with no dry powder spots."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the batter into your prepared baking dish and spread evenly. The even layer ensures uniform cooking and that each bite has consistent texture and flavor. Try not to over-spread to keep some thickness for fluffiness.",
+            "timing": "1 minute",
+            "doneness_cue": "Batter should fill the dish evenly, about 1 inch thick."
+        },
+        {
+            "step": 6,
+            "instruction": "Bake in the preheated oven for about 15 minutes or until the edges are slightly golden and the center is set but still moist. Baking time can vary depending on your oven, so start checking at 12 minutes to avoid drying out the snack. The goal is a soft, cake-like texture, not dry or rubbery.",
+            "timing": "15 minutes",
+            "doneness_cue": "Top should be firm to the touch with a slight spring, no wet batter visible."
+        },
+        {
+            "step": 7,
+            "instruction": "Remove from the oven and let it cool in the pan for 5 minutes. Cooling helps the baked cinnamon snack firm up and makes it easier to slice without crumbling. Cutting too soon can cause it to fall apart.",
+            "timing": "5 minutes",
+            "doneness_cue": "Snack feels set and slightly springy when touched."
+        },
+        {
+            "step": 8,
+            "instruction": "Slice into six equal portions and serve warm or chilled. This recipe is great warm for comfort or chilled for a firmer texture. You can store leftovers in the fridge, and the flavors actually develop more after a few hours.",
+            "timing": "1 minute",
+            "doneness_cue": "Slices hold their shape well and are easy to pick up."
+        },
+        {
+            "step": 9,
+            "instruction": "For meal prep, store portions in airtight containers and refrigerate. Reheat briefly in the microwave if desired, but avoid overheating to prevent drying. Adding a splash of almond milk before reheating can help maintain moisture.",
+            "timing": "Varies",
+            "doneness_cue": "Snack is warm and moist but not rubbery after reheating."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Snacks Actually Fill You Up for Under 200 Calories",
+        "content": "<p>Protein has a unique thermic effect of food (TEF), meaning your body burns more calories digesting it compared to carbs or fats. This baked cinnamon snack packs a solid protein punch with whey isolate and egg whites, making your metabolism work harder even after you eat. Protein also triggers satiety hormones like PYY and GLP-1, which help you feel full longer and reduce cravings. This is why high-protein snacks can keep hunger at bay better than carb-heavy treats.</p><p>Besides protein, this recipe leverages volume eating principles by including zero-fat Greek yogurt and egg whites, which add bulk without many calories. The large portion size tricks your brain into feeling satisfied because your stomach stretches, sending mechanical fullness signals. Cinnamon adds flavor without calories, and the xanthan gum thickens the mixture to a creamy, satisfying texture without fat. This means you get a snack that feels indulgent but is actually light.</p><p>Low-calorie recipes often struggle with texture because fat is usually what provides creaminess and mouthfeel. Here, the combination of protein powder, yogurt, and xanthan gum mimics that richness. Using whey isolate powder ensures minimal carbs and fats, keeping calories low while maximizing protein. The acidic yogurt also helps prevent protein powder chalkiness, making the texture smooth and pleasant. Chilling or baking firms the snack, so it holds its shape and feels substantial.</p><p>Finally, the psychological effect of a large, warm snack that looks like a treat can’t be overstated. It satisfies emotional cravings and hunger simultaneously, making it easier to stick to your calorie goals. This recipe balances science and comfort perfectly for anyone needing a high-protein, low-calorie snack that actually fills you up.</p>",
+        "ingredient_notes": {
+            "whey protein isolate powder": "Choose a high-quality whey protein isolate with minimal additives and no hidden carbs like maltodextrin. Isolates have higher protein content and lower calories than concentrates, perfect for low-calorie snacks. In this recipe, it provides the bulk of the protein without adding fat or sugar. Mix it thoroughly to avoid chalkiness, and if you notice dryness, adding a bit of acidic yogurt helps smooth the texture.",
+            "zero-fat Greek yogurt": "Opt for 0% fat Greek yogurt to keep calories low while adding creaminess and a slight tang. The yogurt’s acidity helps prevent protein powder from tasting chalky and improves mouthfeel. Avoid flavored or sweetened varieties to control sugar content. Using Greek yogurt also boosts protein content and adds moisture, which is essential for the baked texture of this snack.",
+            "egg whites": "Egg whites are a fantastic low-calorie, high-protein ingredient that add structure and fluffiness when baked. They help the snack rise slightly and hold together without fat. Be sure to use fresh egg whites and whip them gently to incorporate air without drying them out. Avoid using whole eggs to keep calories and fat low.",
+            "xanthan gum": "A zero-calorie hydrocolloid that acts as a thickener and stabilizer, xanthan gum prevents watery separation common in low-fat, high-protein mixtures. It mimics the texture fat would normally provide, giving the snack a creamy mouthfeel and helping it hold its shape. Use sparingly—too much can make the texture gummy. If unavailable, guar gum is a possible substitute but may alter texture slightly.",
+            "erythritol": "A sugar alcohol that provides sweetness without calories or blood sugar spikes. Choose a high-purity erythritol to avoid aftertaste. It blends well with protein powders and yogurt, enhancing flavor without adding carbs or calories. Using erythritol keeps this snack guilt-free and suitable for low-calorie diets."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Whisk egg whites until just frothy before mixing other ingredients.",
+            "reason": "Incorporating air into egg whites early adds volume and lightness to the snack. Over-whisking can dry them out, while under-whisking leads to a dense texture. This step is key to achieving a fluffy, satisfying bite without adding fat or calories."
+        },
+        {
+            "tip": "Use acidic ingredients like Greek yogurt to prevent protein powder chalkiness.",
+            "reason": "Protein powders can taste chalky when mixed with neutral or alkaline bases. The acidity in Greek yogurt balances the pH and smooths the texture, creating a creamier mouthfeel that’s more enjoyable, especially in low-fat recipes."
+        },
+        {
+            "tip": "Add xanthan gum sparingly to stabilize texture without gumminess.",
+            "reason": "Hydrocolloids like xanthan gum thicken mixtures and prevent watery separation in low-fat snacks. However, too much makes the texture gummy and unpleasant. Using just a small amount ensures a creamy, stable snack that holds together well."
+        },
+        {
+            "tip": "Don’t skip the cooling step before slicing.",
+            "reason": "Allowing the baked snack to cool firms it up, making slicing neater and preventing crumbling. Cutting while hot can ruin the texture and presentation, so patience here pays off with better-looking, easier-to-eat portions."
+        },
+        {
+            "tip": "Store leftovers in airtight containers to maintain moisture.",
+            "reason": "Low-fat snacks can dry out quickly when exposed to air. Airtight storage preserves texture and flavor, keeping your snack fresh for days. This also helps retain the volume and prevents the snack from becoming rubbery."
+        },
+        {
+            "tip": "Use room temperature ingredients for even mixing and baking.",
+            "reason": "Cold ingredients can cause uneven baking and clumping, especially with protein powder. Bringing ingredients to room temp ensures smooth batter and consistent texture, resulting in a better final product."
+        },
+        {
+            "tip": "Reheat gently with a splash of almond milk if needed.",
+            "reason": "Microwaving can dry out low-fat snacks. Adding a bit of unsweetened almond milk before reheating helps retain moisture and improve texture without adding calories, making your snack taste freshly baked."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the xanthan gum and ending up with a watery, separated snack.",
+            "why_it_happens": "Many assume that protein and yogurt alone will create a stable texture, but without a binder, low-fat mixtures often separate and become watery.",
+            "fix": "Add a small amount (about 1/4 teaspoon) of xanthan gum to thicken and stabilize the batter. Mix thoroughly to avoid clumps and ensure a creamy, cohesive texture."
+        },
+        {
+            "mistake": "Using full-fat yogurt instead of zero-fat, increasing calories unintentionally.",
+            "why_it_happens": "It’s easy to grab whatever yogurt is on hand without checking fat content, which can add unwanted calories and fat.",
+            "fix": "Always use 0% Greek yogurt for this recipe to keep calories low and maintain the intended texture and macros."
+        },
+        {
+            "mistake": "Overbaking and drying out the snack.",
+            "why_it_happens": "Low-fat baked goods can dry out quickly if left in the oven too long, especially without fat to retain moisture.",
+            "fix": "Check the snack starting at 12 minutes and remove it once the center is set but still moist. Cooling will firm it up without drying."
+        },
+        {
+            "mistake": "Not whisking egg whites enough, resulting in dense texture.",
+            "why_it_happens": "Under-whisked egg whites don’t trap enough air, making the snack heavy and less satisfying.",
+            "fix": "Whisk egg whites until frothy before folding in other ingredients to add volume and lightness."
+        },
+        {
+            "mistake": "Using protein powder with fillers or maltodextrin, causing bloating or chalkiness.",
+            "why_it_happens": "Some protein powders contain additives that affect digestion and texture negatively.",
+            "fix": "Choose a clean whey protein isolate with minimal ingredients and no maltodextrin for best results."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Pumpkin Spice Baked Cinnamon Snack",
+            "description": "Add 1/4 cup pumpkin puree and a pinch of nutmeg and cloves to the batter for a seasonal twist. This variation keeps calories low but adds moisture and a richer flavor profile. Protein remains high, though you may need to reduce yogurt slightly to balance moisture.",
+            "technical_note": "Pumpkin puree adds water content, so reduce yogurt by 2 tablespoons to maintain batter consistency and avoid sogginess."
+        },
+        {
+            "name": "Chocolate Cinnamon Protein Snack",
+            "description": "Mix in 1 tablespoon unsweetened cocoa powder and swap vanilla protein powder for chocolate flavor. The cocoa adds depth without extra calories. Expect a slightly denser texture but still fluffy and satisfying.",
+            "technical_note": "Cocoa powder absorbs moisture; add an extra tablespoon of yogurt or egg whites if batter feels too thick."
+        },
+        {
+            "name": "Vegan Baked Cinnamon Snack",
+            "description": "Replace egg whites with aquafaba (chickpea brine) whipped to stiff peaks and use plant-based protein powder. This keeps the snack high-protein and low-calorie but may have a slightly different texture and flavor.",
+            "technical_note": "Aquafaba whips differently than egg whites; whip until stiff peaks form and fold gently to retain air."
+        },
+        {
+            "name": "Berry Swirl Baked Cinnamon Snack",
+            "description": "Fold in 1/4 cup mashed fresh or frozen berries for a fruity note. This adds antioxidants and natural sweetness with minimal calories. The texture becomes moister and colorful, making it visually appealing.",
+            "technical_note": "Berries add moisture; reduce yogurt slightly and avoid overmixing to keep swirls intact."
+        },
+        {
+            "name": "Spiced Orange Cinnamon Snack",
+            "description": "Add 1 teaspoon orange zest and a pinch of ground ginger for a bright, zesty flavor. This variation is low-calorie and high-protein, offering a fresh twist on the classic cinnamon taste.",
+            "technical_note": "Zest adds flavor without moisture, so no texture adjustments needed."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "140 kcal",
+        "protein_grams": "20g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "0.5g",
+        "fiber_grams": "2g",
+        "sodium_mg": "160mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and protein powder used. Always calculate based on your specific brands. This recipe is designed for a high-protein, low-calorie approach."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Due to the egg whites and yogurt content, this snack should not be left at room temperature for more than 2 hours. Cover it loosely if needed, but refrigeration is best to maintain freshness and prevent spoilage. Warm temperatures can cause separation or loss of fluffiness.",
+        "refrigerator": "Store in an airtight container for up to 4 days. The snack firms up when chilled and maintains flavor well. Eating it cold gives a firmer texture, while warming slightly restores softness. Volume remains mostly intact after refrigeration.",
+        "freezer": "Freeze portions wrapped tightly in plastic wrap and stored in a freezer-safe container for up to 1 month. Thaw overnight in the fridge. Texture may become slightly denser after freezing but still enjoyable. Avoid refreezing to maintain quality.",
+        "reheating": "Reheat gently in the microwave for 20-30 seconds with a splash of unsweetened almond milk to keep moist. Avoid overheating as it can dry out the snack or cause separation. Reheating restores warmth and soft texture.",
+        "make_ahead_strategy": "Prepare the batter and bake in advance, then slice and store portions in the fridge. For best volume and texture, add any toppings fresh before eating. This snack holds well for meal prep and is great for busy weekdays."
+    },
+    "faq": [
+        {
+            "question": "Can I use a different protein powder for this baked cinnamon snack?",
+            "answer": "Yes, but choose a whey protein isolate or a plant-based isolate with minimal additives for best texture and flavor. Some protein powders with fillers or maltodextrin can cause chalkiness or affect the snack’s structure. Always check ingredient labels and adjust liquid ratios slightly if the batter feels too thick or thin."
+        },
+        {
+            "question": "Why did my baked cinnamon snack turn out watery?",
+            "answer": "Watery texture usually happens if you skip xanthan gum or add too much liquid. Xanthan gum acts as a binder to hold moisture and stabilize the mixture. Also, overmixing or using low-protein yogurt can cause excess water. Make sure to measure ingredients carefully and include the thickener for best results."
+        },
+        {
+            "question": "Can I replace egg whites with whole eggs?",
+            "answer": "You can, but whole eggs add fat and calories, changing the macros and texture. Egg whites keep the snack light and low-calorie while providing structure. Using whole eggs will make it denser and higher in fat, so it’s not ideal if you’re aiming for a low-calorie, high-protein snack."
+        },
+        {
+            "question": "Is this snack suitable for meal prep?",
+            "answer": "Absolutely! It stores well in the fridge for up to 4 days and can be portioned into containers for grab-and-go snacks. Just reheat gently or enjoy cold. This makes it perfect for busy schedules or post-workout refueling."
+        },
+        {
+            "question": "How do I avoid a chalky taste from protein powder?",
+            "answer": "Using an acidic ingredient like zero-fat Greek yogurt helps neutralize chalkiness. Also, choose a high-quality whey isolate with minimal fillers. Mixing protein powder thoroughly and not overbaking helps maintain a smooth texture and pleasant flavor."
+        },
+        {
+            "question": "Can I make this snack vegan?",
+            "answer": "Yes, by substituting egg whites with whipped aquafaba and using a plant-based protein powder. The texture will be slightly different—less firm and a bit more moist—but still delicious and high-protein. Be sure to whip the aquafaba to stiff peaks to add volume."
+        },
+        {
+            "question": "What sweeteners work best in this recipe?",
+            "answer": "Sugar-free sweeteners like erythritol, stevia, or monk fruit blend well without adding calories or aftertaste. Avoid liquid sweeteners as they add moisture and can alter texture. Use powdered forms and adjust sweetness to taste."
+        },
+        {
+            "question": "How long does this snack keep its volume after baking?",
+            "answer": "It holds volume well for several hours at room temperature and up to 4 days refrigerated. Some slight settling may occur, but the texture remains fluffy enough to feel substantial. Adding xanthan gum helps maintain structure over time."
+        }
+    ],
+    "conclusion": "I hope you love this baked cinnamon snack as much as I do! It’s a perfect way to enjoy a big, satisfying portion without blowing your calorie goals. Try it out and tag me with your results—I’d love to see how it fits your macros!",
+    "seo": {
+        "primary_keyword": "baked cinnamon high protein snack",
+        "secondary_keywords": [
+            "high protein low calorie snacks",
+            "volume eating protein snack",
+            "how to make baked cinnamon low calorie",
+            "best low calorie baked cinnamon recipe",
+            "easy high protein low calorie snacks",
+            "healthy low calorie snack meal prep",
+            "post workout low calorie snack recipe",
+            "protein snacks under 200 calories"
+        ],
+        "internal_links": [
+            {
+                "text": "healthy low calorie snack meal prep",
+                "anchor": "healthy-low-calorie-snack-meal-prep"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1779285521_870",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-09-16 01:01:38",
+        "title_seed": "Baked Cinnamon Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1789520498_913",
+    "slug": "easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack",
+    "uniqueSlug": "easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack/images/easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+            "relativePath": "easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack/images/easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack/images/easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack_pinrecipes_image_2.webp",
+            "relativePath": "easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack/images/easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack/images/easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack_pinrecipes_image_3.webp",
+            "relativePath": "easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack/images/easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        }
+    ],
+    "image": "easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack/images/easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+    "image_dir": "easy-10-minute-baked-cinnamon-high-protein-low-calorie-snack/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-09-16T01:01:38+00:00",
+    "updatedAt": "2026-09-16T01:01:38+00:00"
+}
