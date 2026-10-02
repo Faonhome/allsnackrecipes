@@ -300,6 +300,56 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_5.webp",
+            "filePath": "posts/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_5.webp",
+            "relativePath": "make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_5.webp",
+            "type": "template",
+            "title": "Easy High-Protein Butternut Squash Snack for Cutting Phase"
+        },
+        {
+            "fileName": "make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_9.webp",
+            "filePath": "posts/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_9.webp",
+            "relativePath": "make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why You’ll Love These Protein-Packed Butternut Squash Snack Boxes",
+            "no_link": true
+        },
+        {
+            "fileName": "make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_7.webp",
+            "filePath": "posts/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_7.webp",
+            "relativePath": "make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_7.webp",
+            "type": "template",
+            "title": "Giant Butternut Squash Protein Bowls That Won’t Break Your Calories"
+        },
+        {
+            "fileName": "make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_6.webp",
+            "filePath": "posts/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_6.webp",
+            "relativePath": "make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_6.webp",
+            "type": "template",
+            "title": "Make-Ahead Butternut Squash Protein Snack Boxes That Fill You Up"
+        },
+        {
+            "fileName": "make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_4.webp",
+            "filePath": "posts/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_4.webp",
+            "relativePath": "make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_4.webp",
+            "type": "template",
+            "title": "Why You’ll Love These Protein-Packed Butternut Squash Snack Boxes"
+        },
+        {
+            "fileName": "make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_8.webp",
+            "filePath": "posts/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_8.webp",
+            "relativePath": "make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_st1_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why You’ll Love These Protein-Packed Butternut Squash Snack Boxes",
+            "no_link": true
         }
     ],
     "image": "make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes_pinrecipes_image_1.webp",
@@ -307,6 +357,6 @@
     "image_dir": "make-ahead-low-calorie-high-protein-butternut-squash-snack-boxes/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-09-26T02:01:18+00:00",
-    "updatedAt": "2026-09-26T02:01:18+00:00"
+    "createdAt": "2026-10-02T02:01:21+00:00",
+    "updatedAt": "2026-10-02T02:01:21+00:00"
 }

@@ -1,0 +1,314 @@
+{
+    "title": "Easy Make-Ahead One Pot Pumpkin Protein Bowls for Low-Calorie Snacking",
+    "promptIMG": "Food photography: One Pot Pumpkin Protein Bowl, appetizing presentation in a large bowl, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, colorful vegetables or berries, clean eating aesthetic, generous portion size --ar 4:3 --quality 2",
+    "description": "This one pot pumpkin protein bowl is a cozy, high-protein, low-calorie snack that fills you up without the guilt. Using pumpkin for volume and egg whites for fluffiness, it’s perfect for an afternoon pick-me-up or post-workout treat.",
+    "hashtags": "#OnePotPumpkin #HighProtein #LowCalorie #HealthySnacks",
+    "board_name": "Healthy High Protein Snacks",
+    "pin_variations": [
+        {
+            "title": "Cozy Pumpkin Protein Bowls That Keep You Full Under 200 Calories",
+            "description": "Love pumpkin? This one pot protein bowl packs a punch with 20g of protein and under 150 calories. Perfect for your afternoon slump or meal prep. 🍂🎃 Save this recipe for a guilt-free snack! #ProteinSnacks #LowCalorie #MealPrep",
+            "hashtags": "#ProteinSnacks #LowCalorie #MealPrep #PumpkinRecipes #HealthyEating"
+        },
+        {
+            "title": "Make-Ahead Pumpkin Protein Snack That’s Super Easy and Low Cal",
+            "description": "Need a quick, filling snack? This one pot pumpkin bowl is your new best friend! High protein, low calorie, and packed with cozy fall flavors. Try it today and pin for later! 🍁💪 #HighProtein #LowCalorie #PumpkinSnack",
+            "hashtags": "#HighProtein #LowCalorie #PumpkinSnack #HealthySnacks #EasyRecipes"
+        },
+        {
+            "title": "Guilt-Free Pumpkin Protein Bowl for Volume Eating and Energy Boost",
+            "description": "This pumpkin protein bowl is huge on volume but light on calories — perfect for cutting or meal prep days. Whip it up in one pot and enjoy a creamy, fluffy snack anytime. 🎃✨ Pin now and fuel your day! #VolumeEating #ProteinSnack",
+            "hashtags": "#VolumeEating #ProteinSnack #LowCalorie #HealthyEating #Pumpkin"
+        },
+        {
+            "title": "Delicious One Pot Pumpkin Protein Snack Under 150 Calories",
+            "description": "Looking for a filling snack that won’t break your calorie bank? This one pot pumpkin bowl blends protein and fiber for a satisfying treat. Chill, eat, and repeat! 🍂🥄 Save this for your next snack attack. #ProteinUnder200 #LowCal",
+            "hashtags": "#ProteinUnder200 #LowCal #PumpkinRecipes #HealthySnacks #MealPrep"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 6,
+    "ingredients": [
+        "1 1/2 cups zero-fat Greek yogurt, cold",
+        "1 cup canned pumpkin puree, unsweetened",
+        "4 large egg whites, pasteurized",
+        "2 scoops vanilla whey protein isolate powder",
+        "1/2 teaspoon ground cinnamon",
+        "1/4 teaspoon ground nutmeg",
+        "1 teaspoon pure vanilla extract",
+        "1/2 teaspoon xanthan gum (optional, for thickness)",
+        "Stevia or monk fruit sweetener to taste"
+    ],
+    "yield": "Approximately 1 large bowl per serving, 6 snack servings, about 2 cups volume per serving",
+    "introduction": "I’ve always struggled with feeling hungry on a low-calorie diet, especially when cutting. Small snacks just don’t cut it, and I hate feeling like I’m starving between meals. That’s why I developed this one pot pumpkin protein bowl — it’s huge in volume but low in calories, so you get to eat a big portion without the guilt. I love pumpkin for its fiber and moisture, which fills up the bowl without adding many calories. The trick to this recipe is whipping the egg whites and folding in xanthan gum to get a creamy, fluffy texture without any fat. Plus, using zero-fat Greek yogurt keeps the protein high and calories low. I’ve tried store-bought protein bars and powders, but they never give me this much food for so few calories. This recipe is my go-to for afternoon snacks or post-workout recovery when I want something cozy and satisfying. It keeps me full for hours and tastes like a treat, not a diet food. I once made a batch without the xanthan gum and it turned out watery, so that little addition makes all the difference. Honestly, my friends ask how I eat such a big snack and still lose weight — it’s all about volume and protein!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by whisking the cold zero-fat Greek yogurt and pumpkin puree together in a large bowl until smooth. This combination creates a creamy base that’s naturally low in calories but high in volume. Make sure to mix thoroughly to avoid lumps. The pumpkin adds fiber and moisture, which helps stretch the snack without adding fat. Avoid overmixing here as you want to keep some air in the mixture for lightness.",
+            "timing": "3 minutes",
+            "doneness_cue": "Smooth, thick mixture with no lumps and a uniform orange color"
+        },
+        {
+            "step": 2,
+            "instruction": "In a separate clean bowl, whip the egg whites until soft peaks form using an electric mixer. This step is crucial because whipped egg whites add volume and fluffiness without calories or fat. If you skip whipping or don’t reach soft peaks, the texture will be dense and less satisfying. Be careful not to overbeat or the whites will become dry and grainy.",
+            "timing": "4 minutes",
+            "doneness_cue": "Egg whites hold soft peaks that gently fold over when the whisk is lifted"
+        },
+        {
+            "step": 3,
+            "instruction": "Slowly fold the whipped egg whites into the pumpkin-yogurt mixture using a spatula. Folding gently preserves the air bubbles, giving the snack a light, airy texture. Stirring too vigorously will deflate the mixture, resulting in a denser snack. Use a gentle folding motion, scraping around the bowl and lifting the mixture from the bottom.",
+            "timing": "2 minutes",
+            "doneness_cue": "Mixture is homogenous but still light and fluffy, no streaks of egg whites visible"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the vanilla whey protein isolate powder, cinnamon, nutmeg, vanilla extract, and sweetener to the bowl. Mix gently but thoroughly until the protein powder is fully hydrated and the spices are evenly distributed. Protein isolate is preferred here for its low calorie and smooth texture. Avoid adding protein powder all at once; sprinkle it gradually to prevent clumps.",
+            "timing": "3 minutes",
+            "doneness_cue": "Smooth, creamy texture with no chalky bits and even spice distribution"
+        },
+        {
+            "step": 5,
+            "instruction": "Optionally, sprinkle xanthan gum evenly over the mixture and gently fold it in. Xanthan gum acts as a zero-calorie thickener that helps stabilize the texture and prevents watery separation. If you skip this, the snack may become runny after chilling. Make sure to distribute it evenly to avoid clumps, and don’t overmix once added.",
+            "timing": "1 minute",
+            "doneness_cue": "Mixture thickens slightly and feels creamy without lumps"
+        },
+        {
+            "step": 6,
+            "instruction": "Taste the mixture and adjust sweetness with more stevia or monk fruit if needed. Since this snack is low calorie, it’s important to balance flavor without adding sugar or calories. Sweeteners like stevia avoid the aftertaste when used sparingly. Mix gently after adding sweetener to keep the fluff intact.",
+            "timing": "1 minute",
+            "doneness_cue": "Balanced sweetness that complements pumpkin and spices without bitterness"
+        },
+        {
+            "step": 7,
+            "instruction": "Divide the mixture evenly into six large bowls or meal prep containers. Portion size matters here because the snack is designed to be filling and voluminous. Using large containers helps emphasize the generous serving size which psychologically satisfies hunger better than small portions.",
+            "timing": "2 minutes",
+            "doneness_cue": "Evenly portioned servings, approximately 2 cups each, looking fluffy and creamy"
+        },
+        {
+            "step": 8,
+            "instruction": "Refrigerate the bowls for at least 30 minutes before eating. Chilling firms up the texture since there’s almost no fat to provide structure. This step also melds the flavors and makes the snack taste more indulgent. If you eat it right away, it might feel slightly loose and less creamy.",
+            "timing": "30 minutes",
+            "doneness_cue": "Snack is chilled, thicker, and holds its shape well when scooped"
+        },
+        {
+            "step": 9,
+            "instruction": "Before serving, give the bowl a gentle stir if some separation occurred. Enjoy cold for best texture and flavor. This snack keeps well in the fridge and is perfect for meal prep or a quick post-workout boost. Avoid reheating as heat can cause the egg whites to separate and lose fluffiness.",
+            "timing": "0 minutes",
+            "doneness_cue": "Creamy, fluffy texture with no watery separation and fresh pumpkin aroma"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Snacks Actually Fill You Up for Under 200 Calories",
+        "content": "<p>This one pot pumpkin protein snack works so well because it combines several smart techniques and ingredients that maximize satiety while keeping calories low. Protein has a high thermic effect of food (TEF), meaning your body burns more calories digesting it compared to carbs or fat. Plus, protein triggers satiety hormones like PYY and GLP-1, which help curb hunger better than other macros. Using zero-fat Greek yogurt and egg whites provides a huge protein punch without adding fat calories.</p><p>Volume eating principles are key here: pumpkin puree adds fiber and water, stretching the snack’s volume to about 2 cups per serving. This mechanical stretching sends fullness signals to the brain, making you feel satisfied even on a calorie deficit. The xanthan gum acts as a hydrocolloid, mimicking creaminess without fat, preventing watery separation common in low-fat snacks. This keeps the texture indulgent and creamy, which is psychologically rewarding.</p><p>Protein powder in a low-fat environment can sometimes get chalky or gritty, but here it’s hydrated in acidic Greek yogurt and chilled, which improves mouthfeel and flavor. Whipping egg whites adds air, creating a fluffy texture that feels like you’re eating a dessert rather than a diet food. Large portion size also tricks your brain into feeling like you’re eating a lot, which helps with cravings and adherence to a low-calorie plan.</p><p>Overall, this recipe balances science and flavor, delivering a snack that’s high protein, low calorie, and satisfying in both texture and volume. It’s perfect for meal prep, post-workout recovery, or anytime you want a guilt-free treat that keeps you full for hours.</p>",
+        "ingredient_notes": {
+            "vanilla whey protein isolate powder": "Choose a high-quality whey protein isolate with minimal additives and no hidden maltodextrin or fillers. Isolate powders have higher protein content and lower carbs and fats than concentrates, making them ideal for low-calorie snacks. They dissolve better in cold mixtures and help create a smooth texture without chalkiness when properly hydrated in acidic yogurt.",
+            "zero-fat Greek yogurt": "Look for plain zero-fat Greek yogurt with no added sugars or thickeners. The acidity in Greek yogurt helps break down protein powder and prevent gritty texture. Using 0% fat keeps calories low but still provides creaminess and protein. Avoid 2% or full-fat versions as they add unwanted calories and alter texture.",
+            "egg whites": "Pasteurized liquid egg whites are safest and easiest to whip. Whipping egg whites incorporates air, adding volume and fluffiness without calories or fat. Avoid whole eggs or powdered whites as they add fat or don’t whip as well, which changes the texture and satiety impact.",
+            "pumpkin puree": "Use canned unsweetened pumpkin puree for natural fiber and moisture. It adds volume and a subtle sweetness without calories or sugar. Fresh pumpkin can be used but may vary in moisture content. Avoid pumpkin pie filling with spices and sugar.",
+            "xanthan gum": "A small amount of xanthan gum acts as a zero-calorie thickener and stabilizer, preventing watery separation common in low-fat dairy snacks. It mimics fat’s mouthfeel and keeps the texture creamy. Use sparingly to avoid gummy or slimy texture. If omitted, expect a looser, less cohesive snack."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always whip egg whites to soft peaks before folding in to maximize volume.",
+            "reason": "Whipping egg whites traps air, creating a light, fluffy texture that adds volume without calories. Soft peaks hold shape but are still moist, making folding easier and preventing deflation. Skipping or underwhipping leads to denser texture and less satisfying snack."
+        },
+        {
+            "tip": "Add protein powder gradually while stirring to avoid clumps.",
+            "reason": "Protein powders can clump when added all at once, especially in cold mixtures. Gradual addition allows the powder to hydrate evenly, producing a smooth texture. Clumps cause gritty mouthfeel and uneven flavor distribution."
+        },
+        {
+            "tip": "Use xanthan gum to thicken and stabilize low-fat mixtures.",
+            "reason": "Low-fat or zero-fat dairy mixtures tend to separate and become watery. Xanthan gum acts as a hydrocolloid, binding water and creating creaminess without added calories. This keeps the snack pleasant and cohesive after chilling."
+        },
+        {
+            "tip": "Chill the snack for at least 30 minutes before eating.",
+            "reason": "Chilling firms the texture since there’s no fat to provide structure. It also enhances flavor melding and reduces any chalkiness from protein powder. Eating immediately may result in a looser, less creamy snack."
+        },
+        {
+            "tip": "Use stevia or monk fruit sweeteners sparingly to avoid aftertaste.",
+            "reason": "These zero-calorie sweeteners can taste bitter if overused. Adding just enough balances pumpkin’s earthiness and protein powder’s mild flavor without overpowering the snack. Over-sweetening masks natural flavors and reduces satisfaction."
+        },
+        {
+            "tip": "Fold whipped egg whites gently to preserve air bubbles.",
+            "reason": "Vigorous mixing deflates the egg whites, reducing volume and fluffiness. Gentle folding keeps the snack airy and light, which is crucial for feeling full on fewer calories."
+        },
+        {
+            "tip": "Use cold ingredients for easier whipping and better texture.",
+            "reason": "Cold yogurt and egg whites whip better and hold air longer. Warm mixtures can make egg whites watery and less stable, resulting in a less fluffy snack."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping xanthan gum and ending up with a watery snack.",
+            "why_it_happens": "Many assume zero-fat dairy alone will hold texture, but without a thickener, water separates after chilling.",
+            "fix": "Add 1/2 teaspoon xanthan gum evenly and fold carefully to thicken and stabilize the mixture, preventing watery separation."
+        },
+        {
+            "mistake": "Not whipping egg whites enough, resulting in dense texture.",
+            "why_it_happens": "People rush this step or don’t use clean bowls, so egg whites don’t aerate properly.",
+            "fix": "Use a clean, dry bowl and electric mixer to whip egg whites to soft peaks for maximum volume and fluffiness."
+        },
+        {
+            "mistake": "Adding protein powder too quickly causing clumps.",
+            "why_it_happens": "Protein powder absorbs liquid slowly; dumping it all at once creates lumps.",
+            "fix": "Sprinkle protein powder gradually while stirring gently to ensure smooth hydration."
+        },
+        {
+            "mistake": "Using full-fat yogurt and increasing calories unknowingly.",
+            "why_it_happens": "Some yogurts labeled Greek aren’t zero-fat, adding unexpected calories.",
+            "fix": "Check labels carefully and use plain zero-fat Greek yogurt for accurate macros."
+        },
+        {
+            "mistake": "Over-sweetening with zero-calorie sweeteners causing bitterness.",
+            "why_it_happens": "Sweeteners like stevia have a strong aftertaste if overused.",
+            "fix": "Add sweetener in small increments and taste as you go to avoid overpowering the natural flavors."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chocolate Pumpkin Protein Bowl",
+            "description": "Swap vanilla whey protein for chocolate flavor and add 1 tablespoon unsweetened cocoa powder. This variation adds a rich chocolatey note while keeping macros similar. The cocoa pairs beautifully with pumpkin and spices for a dessert-like snack.",
+            "technical_note": "Cocoa powder can dry out the mixture slightly; add an extra tablespoon of pumpkin or yogurt if needed to maintain creaminess."
+        },
+        {
+            "name": "Pumpkin Spice with Chia Seeds",
+            "description": "Add 1 tablespoon chia seeds to the original recipe for extra fiber and omega-3s. Chia seeds absorb moisture and thicken the bowl, adding slight crunch and nutritional benefits without many calories.",
+            "technical_note": "Chia seeds thicken the snack over time; let the mixture rest 10 minutes before chilling to allow seeds to hydrate fully."
+        },
+        {
+            "name": "Dairy-Free Pumpkin Protein Bowl",
+            "description": "Use unsweetened almond milk yogurt and pea protein powder instead of Greek yogurt and whey. This keeps the snack vegan and low calorie, though texture will be less creamy and more mousse-like.",
+            "technical_note": "Pea protein can be chalkier; blend thoroughly and add xanthan gum to improve mouthfeel."
+        },
+        {
+            "name": "Pumpkin Pie Egg White Omelet Snack",
+            "description": "Instead of mixing, cook whipped egg whites with pumpkin puree and spices in a non-stick pan for a fluffy omelet-style snack. This variation is warm and savory-sweet, perfect for breakfast or snack.",
+            "technical_note": "Cook on low heat to avoid browning and drying out egg whites, flipping carefully to keep fluffiness."
+        },
+        {
+            "name": "Pumpkin Protein Smoothie Bowl",
+            "description": "Blend all ingredients with ice cubes for a thick smoothie bowl version. This is refreshing and still high protein, low calorie, great for warmer days or on-the-go.",
+            "technical_note": "Add ice gradually to avoid over-thinning; blend just enough for smooth texture without losing volume."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "140 kcal",
+        "protein_grams": "20g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "0.5g",
+        "fiber_grams": "3g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and protein powder used. Always calculate based on your specific brands. This recipe is designed for a high-protein, low-calorie approach."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This snack should not be left at room temperature for more than 1 hour due to egg whites and dairy content. Keep covered to prevent drying out or contamination. Water separation may occur if left warm, so refrigeration is best.",
+        "refrigerator": "Store in airtight containers for up to 3 days. The texture firms up nicely when chilled and flavors meld. The snack holds volume well but may need gentle stirring if slight separation occurs. Best eaten cold or at room temperature.",
+        "freezer": "Freeze for up to 1 month in airtight containers. Thaw overnight in the fridge. Texture may become slightly icy or less fluffy after freezing; stir gently to restore some creaminess. Avoid freezing if using chia seeds as they change texture.",
+        "reheating": "Not recommended to reheat as heat can cause egg whites to separate and lose fluffiness. Enjoy cold or at room temperature for best texture and flavor.",
+        "make_ahead_strategy": "Prepare the mixture up to step 6 (before folding in egg whites) 1-2 days ahead and store covered in the fridge. Whip egg whites fresh and fold in just before serving to preserve volume and texture. Portion into containers after folding for meal prep."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute the egg whites with something else?",
+            "answer": "Egg whites are key for adding volume and fluffiness without calories or fat. If you’re allergic or vegan, aquafaba (chickpea water) can be whipped similarly but may alter taste and texture. Note that aquafaba has slightly more carbs and less protein, so macros will change."
+        },
+        {
+            "question": "Why does my snack become watery after chilling?",
+            "answer": "Watery separation happens when there’s no thickener to bind water in low-fat mixtures. Adding xanthan gum or chia seeds helps prevent this by stabilizing the texture. Also, folding egg whites gently preserves air bubbles that keep the mixture light and cohesive."
+        },
+        {
+            "question": "Can I use flavored protein powder?",
+            "answer": "Yes, vanilla or pumpkin spice flavors work best. Chocolate can be used but may require adjusting spices. Avoid powders with added sugars or fillers to keep calories low and texture smooth."
+        },
+        {
+            "question": "How do I avoid chalky protein taste?",
+            "answer": "Use whey protein isolate for smoother texture and hydrate it well in acidic Greek yogurt. Chilling also improves mouthfeel. Avoid mixing protein powder directly into water or almond milk alone, as it can taste gritty."
+        },
+        {
+            "question": "Is this snack good for post-workout?",
+            "answer": "Absolutely! It provides 20g of protein with minimal fat and carbs, perfect for muscle recovery. The pumpkin adds fiber and antioxidants, making it a nutritious post-exercise option."
+        },
+        {
+            "question": "Can I meal prep this for the whole week?",
+            "answer": "You can prep the base mixture ahead but for best texture, whip egg whites fresh each day and fold in before eating. If folded in advance, consume within 3 days as volume and freshness decline."
+        },
+        {
+            "question": "What if I don’t have xanthan gum?",
+            "answer": "You can omit xanthan gum but expect a looser texture and some watery separation after chilling. Adding chia seeds or consuming immediately helps, but xanthan gum is best for stable creaminess."
+        },
+        {
+            "question": "How many calories and protein per serving?",
+            "answer": "Each serving has about 140 calories and 20 grams of protein, making it a high-protein, low-calorie snack that’s filling and satisfying."
+        }
+    ],
+    "conclusion": "Give this one pot pumpkin protein bowl a try and let me know how it fits your macros! Tag me if you make it—I love seeing your snack creations.",
+    "seo": {
+        "primary_keyword": "one pot pumpkin high protein snack",
+        "secondary_keywords": [
+            "high protein low calorie snacks",
+            "volume eating recipes",
+            "how to make one pot pumpkin low calorie",
+            "best low calorie pumpkin snack recipe",
+            "easy high protein low calorie snacks",
+            "healthy low calorie snack meal prep",
+            "post workout low calorie snack recipe",
+            "protein snacks under 200 calories"
+        ],
+        "internal_links": [
+            {
+                "text": "healthy low calorie snack meal prep",
+                "anchor": "healthy_low_calorie_snack_meal_prep"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1779285521_870",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-10-02 02:01:17",
+        "title_seed": "One Pot Pumpkin Recipes"
+    },
+    "author_id": "author_001",
+    "id": "post_1790906477_723",
+    "slug": "easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking",
+    "uniqueSlug": "easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking/images/easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking_pinrecipes_image_1.webp",
+            "relativePath": "easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking/images/easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking/images/easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking_pinrecipes_image_2.webp",
+            "relativePath": "easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking/images/easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking/images/easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking_pinrecipes_image_3.webp",
+            "relativePath": "easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking/images/easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        }
+    ],
+    "image": "easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking/images/easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking_pinrecipes_image_1.webp",
+    "image_dir": "easy-make-ahead-one-pot-pumpkin-protein-bowls-for-low-calorie-snacking/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-10-02T02:01:17+00:00",
+    "updatedAt": "2026-10-02T02:01:17+00:00"
+}
