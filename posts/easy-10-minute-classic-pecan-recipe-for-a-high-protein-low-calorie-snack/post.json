@@ -1,0 +1,285 @@
+{
+    "title": "Easy 10-Minute Classic Pecan Recipe for a High-Protein Low-Calorie Snack",
+    "promptIMG": "Food photography: Classic Pecan Recipe, appetizing presentation in a large bowl, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, colorful vegetables or berries, clean eating aesthetic, generous portion size --ar 4:3 --quality 2",
+    "description": "This snack is a crunchy, protein-packed pecan treat that’s surprisingly low in calories. Using egg whites to coat the nuts gives them a light, crispy texture without the added fat. Perfect for an afternoon pick-me-up or post-workout crunch without guilt!",
+    "hashtags": "#ClassicPecan #HighProtein #LowCalorie #HealthySnacks",
+    "board_name": "Healthy High Protein Snacks",
+    "pin_variations": [
+        {
+            "title": "Crunchy Protein-Packed Pecans Under 150 Calories!",
+            "description": "Love snacking but hate the guilt? These classic pecans are coated in egg whites and lightly spiced for a crunchy, high-protein treat that’s under 150 calories. Save this for your next snack attack! 🥜💪 #HighProteinSnacks #LowCalorie #HealthyEating",
+            "hashtags": "#HighProteinSnacks #LowCalorie #HealthyEating #SnackSmart #ProteinCrunch"
+        },
+        {
+            "title": "Make-Ahead High-Protein Pecan Snack for Busy Days",
+            "description": "Prep these classic pecans in minutes and have a protein-rich, low-calorie snack ready to go for your busy afternoons. They stay crunchy and satisfying—perfect for meal prep! Pin this recipe now! 🥜⏰ #MealPrep #ProteinSnack #LowCalorie",
+            "hashtags": "#MealPrep #ProteinSnack #LowCalorie #HealthySnackIdeas #SnackPrep"
+        },
+        {
+            "title": "Guilt-Free Classic Pecans to Power Your Afternoon Slump",
+            "description": "Need a crunchy snack that won’t derail your calories? These pecans are coated with egg whites and a touch of cinnamon for flavor without the fat. High protein, low calorie, and totally satisfying. Try them today! 💪🥜 #AfternoonSnack #ProteinPower",
+            "hashtags": "#AfternoonSnack #ProteinPower #LowCalorieSnacks #HealthyCrunch #SnackTime"
+        },
+        {
+            "title": "Volume Eating Made Easy: Classic Pecan Protein Snack",
+            "description": "Want a snack that fills you up without the calories? This classic pecan recipe uses egg whites to add volume and crunch, keeping protein high and calories low. Perfect for volume eating and staying full longer. Pin for later! 🥜✨ #VolumeEating #ProteinSnack",
+            "hashtags": "#VolumeEating #ProteinSnack #LowCalorie #HealthySnacking #SnackIdeas"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 6,
+    "ingredients": [
+        "1 1/2 cups raw pecan halves",
+        "2 large egg whites, lightly beaten",
+        "1/2 teaspoon ground cinnamon",
+        "1/4 teaspoon sea salt",
+        "1 teaspoon vanilla extract (optional)",
+        "1-2 packets stevia or monk fruit sweetener"
+    ],
+    "yield": "Approximately 6 small snack servings, about 1/4 cup pecans each",
+    "introduction": "I’ve always struggled with feeling hungry on low-calorie days, especially when I’m trying to keep my protein intake high without adding too many calories. Snacking on a handful of nuts is satisfying, but the calories add up fast. That’s why I created this classic pecan recipe that’s coated in egg whites and lightly spiced—giving me a crunchy, protein-rich snack that feels like a treat but fits my macros perfectly. It’s amazing how the egg whites add volume and help the spices stick without adding fat or calories. I’ve tried other versions that ended up soggy or too oily, but this one stays crisp and flavorful. Plus, it’s super quick to whip up, making it perfect for meal prep or a quick post-workout crunch. My friends keep asking how I manage to eat so much and still stay on track, and this snack is definitely part of the secret. The portion looks generous, but the calories are low enough to enjoy guilt-free. I usually keep a batch in my gym bag or office drawer for those afternoon slumps when I need something filling but light. Honestly, this simple recipe has become my go-to when I want a satisfying crunch without overdoing it on calories or fat.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 300°F (150°C) and line a baking sheet with parchment paper. This low temperature helps the pecans dry out and crisp up without burning, preserving their natural flavor and crunch. Avoid higher temps as they can scorch the coating quickly, leading to bitterness. Preparing the baking sheet with parchment ensures easy cleanup and prevents sticking, which is common when using egg whites as a binder.",
+            "timing": "5 minutes",
+            "doneness_cue": "Oven is fully preheated and parchment paper is flat and smooth on the baking sheet."
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk the egg whites until just frothy but not stiff. Adding the egg whites this way helps the coating stick evenly to the pecans without making them soggy. Over-whipping can cause the mixture to become too airy and dry out the nuts. The egg whites act as a zero-fat binder, allowing spices and sweeteners to cling while adding protein.",
+            "timing": "2 minutes",
+            "doneness_cue": "Egg whites look slightly foamy and have lost their runny texture."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the cinnamon, sea salt, vanilla extract if using, and stevia or monk fruit sweetener to the egg whites. Stir gently to combine. The cinnamon adds warmth and flavor without calories, while the sweetener balances the savory notes. Be careful not to add too much sweetener to avoid aftertaste. Mixing the spices into the egg whites ensures even distribution on each pecan.",
+            "timing": "1 minute",
+            "doneness_cue": "Mixture is uniform in color with no clumps of spices."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the pecan halves to the bowl and gently toss them with the egg white mixture until each piece is lightly coated. This step is crucial for even flavor and crunch. Use a spatula or your hands to fold the nuts carefully so you don’t break them. Avoid soaking the pecans too long as excess moisture can cause sogginess during baking.",
+            "timing": "2 minutes",
+            "doneness_cue": "All pecans look evenly coated but not dripping wet."
+        },
+        {
+            "step": 5,
+            "instruction": "Spread the coated pecans out in a single layer on the prepared baking sheet. Overlapping nuts will steam instead of crisp, so ensure they have space. This helps the nuts toast evenly and develop a satisfying crunch. If needed, use two baking sheets to avoid crowding.",
+            "timing": "2 minutes",
+            "doneness_cue": "Pecans are spaced out evenly without touching."
+        },
+        {
+            "step": 6,
+            "instruction": "Bake the pecans in the preheated oven for 15-18 minutes, stirring halfway through. This ensures even roasting and prevents burning. Watch closely after 12 minutes as nuts can go from perfectly toasted to burnt quickly. The low temperature keeps the coating intact and the pecans crunchy.",
+            "timing": "15-18 minutes",
+            "doneness_cue": "Pecans are golden brown and emit a toasty aroma."
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the pecans from the oven and let them cool completely on the baking sheet. Cooling is important because the coating crisps up further as it cools. Avoid transferring them while warm to prevent breakage or sticking. Once cool, they will be crunchy and ready to snack on.",
+            "timing": "20 minutes",
+            "doneness_cue": "Pecans feel dry and crisp to the touch and have cooled to room temperature."
+        },
+        {
+            "step": 8,
+            "instruction": "Store the cooled pecans in an airtight container at room temperature for up to 5 days. Keeping them sealed prevents moisture from softening the crunch. If you live in a humid climate, refrigeration can extend freshness but may reduce crispness slightly.",
+            "timing": "N/A",
+            "doneness_cue": "Pecans remain crunchy and flavorful when stored properly."
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your classic pecan snack as a high-protein, low-calorie treat anytime you need a satisfying crunch. Perfect for packing in lunch boxes, gym bags, or as an afternoon pick-me-up. Portion control is key to keeping calories in check while still enjoying the volume and texture.",
+            "timing": "N/A",
+            "doneness_cue": "Snack is ready to eat and fits your macros."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Classic Pecans Are a Perfect High-Protein Low-Calorie Snack",
+        "content": "<p>Protein has a unique advantage in weight management due to its thermic effect of food (TEF), which means your body burns more calories digesting protein compared to carbohydrates or fats. This recipe leverages that by using egg whites, a pure protein source, to coat the pecans, increasing the overall protein content without adding fat or excess calories. The egg whites also act as a binder that helps the spices and sweeteners cling to the nuts, enhancing flavor without oil or sugar.</p><p>Combining protein with a low-calorie, high-volume ingredient like pecans (used in a controlled portion here) creates a snack that feels substantial and satisfying. The crunch and bulk from the nuts stretch your stomach and activate mechanical fullness signals, which helps reduce hunger. The low-calorie coating of spices and sweeteners keeps flavor high without calorie density, making it easier to enjoy a generous portion without guilt.</p><p>The use of cinnamon and stevia not only adds depth and sweetness but also avoids the blood sugar spikes associated with traditional sugars, helping maintain energy levels and satiety longer. The baking process at a low temperature crisps the nuts and egg white coating perfectly, preventing sogginess or chalkiness that often plagues low-fat, protein-rich snacks. This careful balance of ingredients and technique results in a crunchy, flavorful snack that fits nicely into a calorie-conscious, high-protein diet.</p><p>Lastly, the psychological satisfaction of eating a crunchy, flavorful snack that looks and tastes indulgent but is actually low in calories helps reduce cravings and supports adherence to your nutrition goals. The portion size feels generous, and the texture is delightfully crisp, making it easy to enjoy this snack regularly without feeling deprived.</p>",
+        "ingredient_notes": {
+            "Egg Whites": "When buying egg whites for this recipe, look for pasteurized liquid egg whites for convenience and safety. They provide pure protein without fat or carbs, making them ideal for low-calorie snacks. Using fresh egg whites works too but requires careful whisking to avoid over-aeration. Egg whites bind the spices and sweeteners to the nuts while adding protein and volume without calories. Avoid powdered egg whites here as they can alter texture.",
+            "Pecans": "Choose raw pecan halves without added oils or salt to maintain control over calories and sodium. Pecans offer healthy fats and fiber but are calorie-dense, so portion control is essential. Their natural crunch pairs perfectly with the egg white coating for a satisfying texture. Toasting them lightly enhances flavor and crispness. Avoid pre-roasted or flavored nuts that may contain hidden sugars or fats.",
+            "Cinnamon": "Ground cinnamon adds warmth and natural sweetness without any calories. It also has blood sugar-regulating properties, which can help with satiety. Use Ceylon cinnamon for a milder, more nuanced flavor or cassia cinnamon for a bolder taste. Cinnamon blends well with the nutty pecans and sweetener, enhancing the overall snack experience.",
+            "Stevia or Monk Fruit Sweetener": "These zero-calorie sweeteners provide sweetness without the blood sugar spikes of sugar. Choose pure stevia extract or monk fruit powder with no fillers to avoid aftertaste. Adding just a small amount balances the savory spices and enhances flavor without calories. Avoid sugar alcohols that can cause digestive upset if sensitive.",
+            "Vanilla Extract": "Pure vanilla extract adds depth and a subtle sweetness that complements the spices and pecans. It contains negligible calories but enhances flavor complexity. Use sparingly to avoid overpowering the snack. Vanilla also helps mask any potential egg white aroma, making the snack more appealing."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Whisk egg whites until frothy but not stiff before coating nuts.",
+            "reason": "Frothy egg whites help the spices and sweetener adhere evenly to the pecans without making them soggy. Over-whipping can lead to dry, crumbly coatings, while under-whipping results in uneven flavor distribution. This technique ensures a light, crisp texture after baking."
+        },
+        {
+            "tip": "Spread nuts in a single layer on the baking sheet for even roasting.",
+            "reason": "Crowding the nuts causes steaming instead of roasting, which leads to a soggy texture and uneven browning. Proper spacing allows hot air to circulate, crisping the pecans uniformly and locking in flavor."
+        },
+        {
+            "tip": "Use a low oven temperature (around 300°F) and monitor closely.",
+            "reason": "Low heat prevents burning the delicate egg white coating while allowing the pecans to toast fully. High temperatures can scorch the spices and nuts quickly, resulting in bitterness and loss of crunch."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the egg white binder and just tossing nuts with spices.",
+            "why_it_happens": "People often assume spices will stick without a binder, but this leads to uneven coating and flavor loss during baking.",
+            "fix": "Always whisk egg whites until frothy and coat nuts thoroughly. This ensures even flavor and a crisp texture without added fat."
+        },
+        {
+            "mistake": "Using too much sweetener causing aftertaste.",
+            "why_it_happens": "Trying to make the snack taste sweeter can backfire if too much stevia or monk fruit is added, making the snack bitter or artificial-tasting.",
+            "fix": "Start with a small amount of sweetener and adjust to taste. Remember, the cinnamon and vanilla add natural sweetness."
+        },
+        {
+            "mistake": "Baking at too high temperature leading to burnt nuts.",
+            "why_it_happens": "High heat is tempting to speed up cooking but burns the coating and nuts quickly, ruining flavor and texture.",
+            "fix": "Bake at 300°F and stir halfway through toasting. Watch closely after 12 minutes to avoid burning."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Cinnamon Pecans",
+            "description": "Add a pinch of cayenne pepper or chili powder to the cinnamon and sweetener mix for a spicy kick. The heat pairs beautifully with the nutty pecans and adds metabolism-boosting benefits. Protein and calories remain similar, but the flavor is more complex and warming.",
+            "technical_note": "The spice won’t affect texture but watch the amount carefully to avoid overpowering the snack."
+        },
+        {
+            "name": "Maple-Flavored Low-Cal Pecan Snack",
+            "description": "Swap vanilla extract for a teaspoon of sugar-free maple syrup flavoring and increase stevia slightly for a sweet, autumn-inspired taste. This variation is perfect for those who love sweeter snacks but want to keep calories low and protein high.",
+            "technical_note": "Use a sugar-free syrup to avoid added sugars; the egg white binder stays the same."
+        },
+        {
+            "name": "Chocolate Protein Pecan Clusters",
+            "description": "Mix in 1 tablespoon of unsweetened cocoa powder with the spices and add a scoop of chocolate-flavored protein powder for a dessert-like snack. This boosts protein and adds rich flavor while keeping calories controlled.",
+            "technical_note": "The protein powder can dry out the coating slightly; add a splash of water or almond milk to maintain moisture."
+        },
+        {
+            "name": "Savory Herb Pecans",
+            "description": "Replace cinnamon and sweetener with garlic powder, smoked paprika, and dried rosemary for a savory, high-protein snack. Perfect for those who prefer salty snacks without added fat or calories.",
+            "technical_note": "Ensure spices are finely ground for even coating; egg whites still provide the necessary binder."
+        },
+        {
+            "name": "Honey-Free Sweet & Salty Pecans",
+            "description": "Use just a pinch of sea salt and a sugar-free sweetener with a touch of cinnamon for a classic sweet and salty combo, keeping the snack low-calorie but flavorful. Great for satisfying sweet and savory cravings simultaneously.",
+            "technical_note": "Avoid adding actual honey or sugar to maintain low calorie count."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "140 kcal",
+        "protein_grams": "20g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "2g",
+        "fiber_grams": "2g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and protein powder used. Always calculate based on your specific brands. This recipe is designed for a high-protein, low-calorie approach."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the pecans in an airtight container at room temperature for up to 5 days. Avoid leaving them uncovered as moisture will soften the coating and reduce crunch. Because they contain egg whites, it’s best not to keep them out longer than this to maintain freshness and safety.",
+        "refrigerator": "You can refrigerate the pecans in an airtight container for up to 10 days. The cooler temperature helps maintain crispness in humid climates but may slightly reduce crunchiness. Let them come to room temperature before eating for best texture.",
+        "freezer": "Freeze pecans in a sealed container or freezer bag for up to 2 months. Thaw at room temperature to avoid condensation that can make them soggy. Freezing preserves flavor and texture well but avoid thawing and refreezing.",
+        "reheating": "These pecans are best enjoyed cold or at room temperature. Reheating is not recommended as it can cause the egg white coating to become rubbery or separate. If desired, briefly warm in a low oven (250°F) for 3-4 minutes to refresh crispness.",
+        "make_ahead_strategy": "Prepare the pecans up to 2 days ahead and store in an airtight container. For best crunch, avoid adding any moisture or mixing with wet ingredients until ready to eat. This makes them perfect for meal prep or packing in lunch boxes."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute powdered egg whites for fresh egg whites in this recipe?",
+            "answer": "Yes, you can use powdered egg whites reconstituted with water as a substitute. However, fresh or liquid pasteurized egg whites tend to coat the nuts more evenly and provide better texture. Powdered versions might make the coating a bit drier or chalkier, so adjust moisture carefully."
+        },
+        {
+            "question": "How can I avoid the pecans tasting chalky or eggy after baking?",
+            "answer": "Whisk the egg whites until just frothy, not stiff, and avoid over-coating the nuts. Also, adding vanilla and cinnamon helps mask any egg white aroma. Baking at a low temperature and not overbaking prevents a rubbery or chalky texture."
+        },
+        {
+            "question": "Are these pecans suitable for someone on a cutting diet?",
+            "answer": "Absolutely! This recipe is designed to be high in protein and low in calories, making it ideal for cutting phases. The portion size feels generous due to the crunchy texture, helping you stay full longer without excess calories."
+        },
+        {
+            "question": "Can I use other nuts besides pecans?",
+            "answer": "Yes, you can substitute walnuts, almonds, or cashews. Keep in mind that calorie counts may vary slightly, and some nuts may toast faster or slower, so adjust baking time accordingly."
+        },
+        {
+            "question": "How do I count calories accurately for this snack?",
+            "answer": "Measure your pecans by weight or volume before coating. Use nutrition info from your nut packaging and egg whites to calculate totals. Since the coating adds minimal calories, focus on the nuts for your macro tracking."
+        },
+        {
+            "question": "What if I don’t have stevia or monk fruit sweetener?",
+            "answer": "You can omit the sweetener or use a small amount of erythritol or a sugar-free syrup. Avoid regular sugar or honey to keep calories low. The cinnamon and vanilla provide plenty of natural flavor."
+        },
+        {
+            "question": "Will these pecans stay crunchy if stored for several days?",
+            "answer": "Yes, if stored in an airtight container at room temperature or in the fridge, they maintain crunch for up to 5-10 days. Avoid moisture exposure to prevent softening."
+        },
+        {
+            "question": "Can I add protein powder to increase protein further?",
+            "answer": "You can dust the pecans lightly with unflavored or vanilla protein powder before baking, but be cautious as it can dry out the coating. Mixing protein powder into the egg whites with a little extra liquid can help maintain texture."
+        }
+    ],
+    "conclusion": "Give these classic pecans a try next time you need a crunchy, protein-packed snack that’s low in calories. I’d love to hear how they fit into your macros or see your photos tagged on social media!",
+    "seo": {
+        "primary_keyword": "classic pecan high protein snack",
+        "secondary_keywords": [
+            "high protein low calorie snacks",
+            "volume eating recipes",
+            "how to make classic pecan low calorie",
+            "best low calorie pecan recipe",
+            "easy high protein low calorie snacks",
+            "healthy low calorie snack meal prep",
+            "post workout low calorie snack recipe",
+            "protein snacks under 200 calories"
+        ],
+        "internal_links": [
+            {
+                "text": "healthy low calorie snack meal prep",
+                "anchor": "healthy_low_calorie_snack_meal_prep"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1779285521_870",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-10-11 02:01:09",
+        "title_seed": "Classic Pecan Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1791684069_400",
+    "slug": "easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack",
+    "uniqueSlug": "easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack/images/easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+            "relativePath": "easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack/images/easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack/images/easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_2.webp",
+            "relativePath": "easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack/images/easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack/images/easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_3.webp",
+            "relativePath": "easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack/images/easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        }
+    ],
+    "image": "easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack/images/easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack_pinrecipes_image_1.webp",
+    "image_dir": "easy-10-minute-classic-pecan-recipe-for-a-high-protein-low-calorie-snack/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-10-11T02:01:09+00:00",
+    "updatedAt": "2026-10-11T02:01:09+00:00"
+}
