@@ -1,0 +1,363 @@
+{
+    "title": "Easy Apples Recipe: A High-Protein Low-Calorie Snack You’ll Love",
+    "promptIMG": "Food photography: Easy Apples Recipe, appetizing presentation in a large bowl, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, colorful vegetables or berries, clean eating aesthetic, generous portion size --ar 4:3 --quality 2",
+    "description": "This Easy Apples Recipe is a simple, guilt-free snack packed with protein and low in calories. Using crisp apples and creamy zero-fat Greek yogurt, it’s perfect for when you need a filling bite without the extra calories. Great for afternoon cravings or post-workout refuel!",
+    "hashtags": "#EasyApplesRecipe #highprotein #lowcalorie #healthysnacks",
+    "board_name": "Healthy High Protein Snacks",
+    "pin_variations": [
+        {
+            "title": "Snack Smart with This Easy High-Protein Apple Bowl 🍏💪",
+            "description": "Looking for a snack that fills you up without wrecking your calories? This Easy Apples Recipe blends fresh apples with creamy Greek yogurt for a protein boost under 150 calories. Save this for your next snack time! #proteinrecipes #lowcaloriesnacks #healthyeating",
+            "hashtags": "#proteinrecipes #lowcaloriesnacks #healthyeating"
+        },
+        {
+            "title": "Beat the Afternoon Slump: Easy Apples Protein Snack 🍎✨",
+            "description": "Power through your afternoon with this easy, high-protein apple snack. It’s light, refreshing, and keeps hunger at bay without adding extra calories. Try it today and feel the difference! #afternoonsnack #highprotein #lowcalorie",
+            "hashtags": "#afternoonsnack #highprotein #lowcalorie"
+        },
+        {
+            "title": "Make-Ahead Easy Apples Snack for Healthy Meal Prep 🥄🍏",
+            "description": "Prep your snacks ahead with this Easy Apples Recipe that’s perfect for meal prep. High protein, low calories, and super tasty! Pin this for your next batch of healthy snacks. #mealprepsnacks #highprotein #lowcalories",
+            "hashtags": "#mealprepsnacks #highprotein #lowcalories"
+        },
+        {
+            "title": "Volume Eating Made Simple: Easy Apples Protein Snack Bowl 🍎🥣",
+            "description": "Want a snack that’s big on volume but low on calories? This Easy Apples Recipe uses fresh fruit and Greek yogurt to keep you full and fueled. Pin it now and snack smarter! #volumeeating #proteinbowl #lowcaloriesnack",
+            "hashtags": "#volumeeating #proteinbowl #lowcaloriesnack"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 6,
+    "ingredients": [
+        "3 medium crisp apples, cored and chopped",
+        "2 cups zero-fat Greek yogurt, plain",
+        "1 scoop vanilla whey protein isolate powder",
+        "1 tsp ground cinnamon",
+        "1 tbsp fresh lemon juice",
+        "1 tbsp sugar-free maple syrup",
+        "1 tsp xanthan gum (optional, for creaminess)",
+        "A handful of fresh blueberries (optional, for color and volume)"
+    ],
+    "yield": "Approximately 1 large bowl per serving, 6 snack servings, about 2 cups volume per serving",
+    "introduction": "I’ve always struggled with feeling hungry on low-calorie days, especially when I’m trying to cut without losing muscle. Tiny snacks just don’t cut it, and I hate feeling like I’m eating air. That’s why I developed this Easy Apples Recipe — it’s a huge bowl of fresh apples combined with creamy zero-fat Greek yogurt and a scoop of protein powder. It’s way more satisfying than those tiny protein bars that leave you wanting more. \n\nOne trick I learned was to add a little xanthan gum to thicken the yogurt mixture so it feels creamy without any fat. Plus, the lemon juice keeps the apples fresh and bright. I usually whip this up in about 10 minutes, and it’s perfect for my afternoon slump or post-workout snack. The portion looks huge but stays under 150 calories with 20 grams of protein, so I can eat a big bowl without guilt. \n\nI remember my first batch was too watery because I skipped the xanthan gum — lesson learned! Now it’s my go-to snack that even my friends ask about. Honestly, it feels like a dessert but fuels me like a meal. If you want a simple, filling snack that fits your macros and tastes great, you’ll love this.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by chopping the apples into bite-sized pieces and tossing them with the lemon juice. This prevents browning and keeps the fruit tasting fresh. The acidity also brightens the flavor, which balances the creamy yogurt later. Make sure to coat all apple pieces evenly to avoid any brown spots. This step is important because visually appealing fruit makes the snack more enjoyable and prevents any off-putting discoloration.",
+            "timing": "5 minutes",
+            "doneness_cue": "Apples appear vibrant and lightly coated without any browning"
+        },
+        {
+            "step": 2,
+            "instruction": "In a mixing bowl, combine the zero-fat Greek yogurt with the vanilla whey protein powder. Stir well until smooth and no lumps remain. Protein powder can clump in low-fat mixtures, so use a whisk or electric mixer to get a creamy texture. If you want extra creaminess without adding calories, sprinkle in xanthan gum gradually while whisking. This thickens the mixture and prevents watery separation, which is common when using zero-fat yogurt.",
+            "timing": "3 minutes",
+            "doneness_cue": "Yogurt mixture is smooth, thick, and slightly glossy without lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the sugar-free maple syrup and ground cinnamon to the yogurt mixture. These add natural sweetness and warming spice without extra calories. Mix thoroughly to evenly distribute the flavors. Cinnamon also helps reduce the chalky taste that sometimes comes from protein powder. Adjust sweetness to your taste, but keep it minimal to avoid aftertaste from artificial sweeteners.",
+            "timing": "2 minutes",
+            "doneness_cue": "Mixture smells fragrant with cinnamon and tastes lightly sweet"
+        },
+        {
+            "step": 4,
+            "instruction": "Gently fold the chopped apples and optional blueberries into the yogurt-protein mixture. Folding rather than stirring preserves the fruit’s texture and prevents it from becoming mushy. The fruit adds volume and crunch, which helps fill your stomach without many calories. Be careful not to overmix, or the apples will release too much juice and thin the mixture.",
+            "timing": "2 minutes",
+            "doneness_cue": "Fruit is evenly distributed and still maintains firm texture"
+        },
+        {
+            "step": 5,
+            "instruction": "Divide the mixture into six serving bowls or containers. The portion size should look generous—around 2 cups per serving—to maximize volume eating benefits. Large portions with low calorie density help signal fullness to your brain. Cover and chill for at least 30 minutes if you prefer a firmer texture. Chilling also helps the xanthan gum fully hydrate, improving creaminess.",
+            "timing": "30 minutes chilling (optional)",
+            "doneness_cue": "Snack is firm but creamy, and portion looks like a satisfying bowl"
+        },
+        {
+            "step": 6,
+            "instruction": "Before serving, give each bowl a quick stir to redistribute any settled liquid. This step refreshes the texture and ensures every bite has balanced creaminess and crunch. If the mixture seems too thick after chilling, add a splash of unsweetened almond milk to loosen it without adding calories. Avoid stirring too vigorously to keep the fruit intact.",
+            "timing": "1 minute",
+            "doneness_cue": "Mixture is smooth and easy to scoop without watery separation"
+        },
+        {
+            "step": 7,
+            "instruction": "Taste and adjust seasoning if needed. Sometimes a pinch more cinnamon or a few drops of lemon juice brighten the flavor before eating. This final tweak ensures the snack is perfectly balanced between sweet, tart, and creamy. Remember, the goal is a naturally flavorful snack that feels indulgent but stays low calorie.",
+            "timing": "1 minute",
+            "doneness_cue": "Balanced flavor with no overpowering sweetness or sourness"
+        },
+        {
+            "step": 8,
+            "instruction": "If packing for on-the-go, store the snack in airtight containers and keep refrigerated until ready to eat. The texture holds well for up to 3 days, making it great for meal prep. Avoid freezing as the fruit texture will degrade. When ready to eat, enjoy cold or let sit at room temperature for 10 minutes to soften slightly.",
+            "timing": "Storage time varies",
+            "doneness_cue": "Snack maintains texture and flavor after refrigeration"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your mixing utensils and bowls promptly after use. Protein powder and yogurt can dry and stick, making cleaning harder later. Quick cleanup keeps your kitchen ready for the next batch and prevents waste. Plus, fresh ingredients mean better flavor and texture each time you make this snack.",
+            "timing": "5 minutes",
+            "doneness_cue": "Utensils are clean and ready for next use"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Snacks Actually Fill You Up for Under 200 Calories",
+        "content": "<p>High-protein snacks like this Easy Apples Recipe work so well for weight management because protein triggers several satiety hormones such as PYY and GLP-1, which help reduce appetite more than carbs or fats. Plus, protein has a higher thermic effect of food (TEF), meaning your body burns more calories digesting it compared to other macros. This snack packs over 20 grams of protein, which is significant for a low-calorie treat.</p><p>Combining protein with high-volume, low-calorie ingredients like apples and blueberries stretches your stomach, sending mechanical fullness signals to your brain. This is the principle behind volume eating — eating large portions of low-calorie foods to feel full without overeating. The water and fiber in the fruit add bulk, while the zero-fat Greek yogurt provides creaminess without unnecessary calories or fat.</p><p>Using xanthan gum as a hydrocolloid thickener mimics the texture fat usually provides, preventing watery separation common in low-fat dairy and protein powder mixtures. This keeps the snack creamy and satisfying. Also, choosing a high-quality whey isolate protein powder without fillers or maltodextrin ensures no hidden calories or chalky aftertaste, which can be a problem in low-calorie recipes.</p><p>Overall, this snack satisfies both the physiological need for protein and the psychological desire for a substantial portion size. The large bowl looks and feels like a treat, which helps curb cravings without blowing your calorie budget. It’s a smart way to enjoy a filling, tasty snack that supports your fitness and nutrition goals.</p>",
+        "ingredient_notes": {
+            "vanilla whey protein isolate powder": "Look for a pure whey isolate with minimal additives and no maltodextrin or fillers to keep calories low and protein content high. Whey isolate dissolves better in cold, low-fat mixtures than concentrates, reducing chalkiness. It provides a clean vanilla flavor that complements fruit well. Store in a cool, dry place and avoid mixing with hot liquids to preserve texture.",
+            "zero-fat Greek yogurt": "Choose plain zero-fat Greek yogurt for maximum protein and minimal calories. The thick texture helps create a creamy base without fat, but it can be watery if not handled properly. Avoid flavored yogurts with added sugars. The acidity in Greek yogurt also helps balance protein powder’s chalkiness and adds tang to the snack.",
+            "apples": "Use crisp, fresh apples like Honeycrisp or Fuji for natural sweetness and crunch. Apples add fiber and water, increasing volume and satiety without many calories. Tossing them in lemon juice prevents browning and keeps flavor fresh. Avoid pre-cut apples that may be oxidized or mushy.",
+            "xanthan gum": "A zero-calorie hydrocolloid used to thicken and stabilize low-fat mixtures. It mimics fat’s creamy mouthfeel and prevents watery separation common in yogurt-protein blends. Use sparingly (about 1 tsp) to avoid gummy texture. Xanthan gum hydrates fully when chilled, improving the snack’s consistency.",
+            "sugar-free maple syrup": "Opt for a natural-tasting, sugar-free syrup sweetened with erythritol or monk fruit to avoid calories and aftertaste. It adds subtle sweetness that balances tart yogurt and cinnamon, enhancing overall flavor without raising glycemic load. Store in the fridge after opening to maintain freshness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Whisk protein powder into yogurt slowly to avoid lumps.",
+            "reason": "Protein powders can clump in low-fat dairy because they lack fat to bind smoothly. Whisking gradually and thoroughly prevents chalky lumps and creates a silky texture. If lumps form, use a hand mixer or blender to smooth out the mixture."
+        },
+        {
+            "tip": "Add xanthan gum last and whisk it well to thicken evenly.",
+            "reason": "Xanthan gum thickens mixtures by hydrating and forming a gel network. Adding it slowly while whisking avoids clumps and ensures uniform texture. Without proper mixing, it can create gummy spots or fail to thicken the snack adequately."
+        },
+        {
+            "tip": "Chill the snack for at least 30 minutes before eating.",
+            "reason": "Chilling allows xanthan gum to fully hydrate and protein powder to settle, improving creaminess and firmness. Eating immediately may result in a thinner, watery texture that’s less satisfying."
+        },
+        {
+            "tip": "Use fresh, crisp apples for best crunch and flavor.",
+            "reason": "Older or softer apples release more juice and become mushy when mixed, which dilutes the snack and reduces volume. Crisp apples maintain texture and add satisfying bite."
+        },
+        {
+            "tip": "Measure sweeteners carefully to avoid aftertaste.",
+            "reason": "Sugar-free sweeteners like erythritol or monk fruit can taste bitter or metallic if overused. Start with small amounts and adjust to taste to keep the snack naturally sweet without off-flavors."
+        },
+        {
+            "tip": "Serve the snack large to maximize volume eating benefits.",
+            "reason": "Eating a big portion of low-calorie food tricks your brain into feeling full and satisfied, helping you stick to calorie goals. Smaller portions may leave you hungry and tempted to snack more."
+        },
+        {
+            "tip": "Store leftovers in airtight containers to preserve freshness.",
+            "reason": "Exposure to air causes apples to brown and yogurt to dry out. Airtight storage maintains texture and flavor for up to 3 days, making meal prep easy and convenient."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping xanthan gum and ending up with watery snack.",
+            "why_it_happens": "People often assume yogurt and protein powder alone will thicken, but zero-fat dairy lacks fat to bind liquids, causing watery separation.",
+            "fix": "Add about 1 tsp xanthan gum while whisking to thicken and stabilize the mixture. Chill to allow full hydration for best texture."
+        },
+        {
+            "mistake": "Using full-fat yogurt and increasing calories unknowingly.",
+            "why_it_happens": "Full-fat yogurts add extra calories and fat, which can sabotage low-calorie goals if not accounted for.",
+            "fix": "Always check labels and use zero-fat Greek yogurt to keep protein high and calories low."
+        },
+        {
+            "mistake": "Not tossing apples in lemon juice and getting brown, unappetizing fruit.",
+            "why_it_happens": "Apples oxidize quickly when cut, turning brown and losing freshness.",
+            "fix": "Toss chopped apples in lemon juice immediately after cutting to preserve color and flavor."
+        },
+        {
+            "mistake": "Over-sweetening with sugar-free syrups causing aftertaste.",
+            "why_it_happens": "Sugar-free sweeteners can taste bitter if used excessively.",
+            "fix": "Start with small amounts and adjust to taste, balancing sweetness without overpowering."
+        },
+        {
+            "mistake": "Mixing protein powder too fast causing lumps.",
+            "why_it_happens": "Protein powder can clump when added quickly to cold yogurt.",
+            "fix": "Add powder gradually and whisk continuously or use a blender for smooth texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Berry Blast Protein Apple Bowl",
+            "description": "Swap half the apples for mixed berries like raspberries and strawberries. This adds antioxidants and a tart flavor twist while keeping calories low. Protein and volume remain high, and the texture is more colorful and refreshing.",
+            "technical_note": "Berries release more juice, so fold gently to avoid thinning the mixture. You may want to add a touch more xanthan gum for thickness."
+        },
+        {
+            "name": "Cinnamon Spice Apple Protein Snack",
+            "description": "Increase cinnamon to 2 tsp and add a pinch of nutmeg and cloves for a warm, cozy flavor. This variation feels like dessert but stays low calorie and high protein. It’s perfect for fall afternoons or holiday-inspired snacks.",
+            "technical_note": "Spices don’t affect texture but intensify flavor, so adjust to your preference."
+        },
+        {
+            "name": "Vegan Protein Apple Snack",
+            "description": "Replace whey protein with a plant-based protein powder like pea or rice protein and use coconut yogurt (light version) to keep it vegan. Expect a slightly different texture and flavor, but still packed with protein and low in calories.",
+            "technical_note": "Plant proteins can be chalkier; blend well and add xanthan gum for creaminess."
+        },
+        {
+            "name": "Peach and Apple Protein Bowl",
+            "description": "Add chopped fresh or canned peaches (in juice, drained) to the apples for a juicy, sweet combo. This adds variety and keeps the snack colorful and refreshing. Protein stays high with yogurt and powder.",
+            "technical_note": "Peaches add moisture; fold gently and consider chilling longer for firmness."
+        },
+        {
+            "name": "Spiced Apple Protein with Chia Seeds",
+            "description": "Add 1 tbsp chia seeds to the mix for extra fiber and omega-3s. The seeds gel slightly, thickening the snack and adding a pleasant texture without many calories. This boosts nutritional value while keeping protein and calories balanced.",
+            "technical_note": "Chia seeds absorb liquid over time, so the snack thickens more if chilled overnight."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "140 kcal",
+        "protein_grams": "20g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "2g",
+        "fiber_grams": "2g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and protein powder used. Always calculate based on your specific brands. This recipe is designed for a high-protein, low-calorie approach."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This snack contains zero-fat dairy and fresh fruit, so it should not be left out at room temperature for more than 1 hour. Exposure to warmth can cause separation and bacterial growth. Keep covered and refrigerated when not eating.",
+        "refrigerator": "Store in airtight containers for up to 3 days. The snack holds its volume well when chilled, and flavors meld nicely. Protein firms up slightly, improving creaminess. It tastes best cold or slightly chilled.",
+        "freezer": "Freezing is not recommended as the fruit texture degrades and the yogurt-protein mixture becomes icy and grainy upon thawing. If freezing, use airtight containers and thaw overnight in the fridge, stirring before eating.",
+        "reheating": "This snack is best enjoyed cold or at room temperature. Reheating is not advised as heat can cause protein to denature and separate, and fruit texture to soften undesirably.",
+        "make_ahead_strategy": "Prepare the yogurt-protein mixture and chop apples 1-2 days ahead. Toss apples in lemon juice just before mixing to prevent browning. Store components separately if possible and combine before eating to keep fruit fresh and crunchy."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute whey protein with plant-based protein?",
+            "answer": "Yes, you can use plant-based protein powders like pea or rice protein. Keep in mind these may have a chalkier texture and stronger flavor, so blend thoroughly and consider adding xanthan gum for creaminess. The protein content might vary slightly, so adjust portions accordingly."
+        },
+        {
+            "question": "How do I prevent the snack from becoming watery?",
+            "answer": "Watery texture usually happens if you skip xanthan gum or don’t chill the mixture long enough. Xanthan gum thickens and stabilizes the snack, preventing separation. Also, chilling for at least 30 minutes helps ingredients bind and improves creaminess."
+        },
+        {
+            "question": "Can I use flavored Greek yogurt instead of plain zero-fat?",
+            "answer": "It’s best to use plain zero-fat Greek yogurt to control calories and sweetness. Flavored yogurts often contain added sugars and fats, increasing calories and potentially overpowering the snack’s flavor balance."
+        },
+        {
+            "question": "How long does this snack keep in the fridge?",
+            "answer": "Stored in an airtight container, it stays fresh for up to 3 days. The apples may soften slightly but remain tasty. Stir before eating to redistribute any liquid that settles."
+        },
+        {
+            "question": "Is this snack suitable for post-workout?",
+            "answer": "Absolutely! With over 20 grams of protein and natural carbs from fruit, it helps muscle recovery and replenishes glycogen. It’s light yet filling, making it ideal after exercise."
+        },
+        {
+            "question": "Can I add nuts or seeds for extra texture?",
+            "answer": "You can add small amounts of nuts or seeds, but be mindful they add calories and fat. Chia seeds are a great low-calorie option for texture and nutrition without overwhelming calories."
+        },
+        {
+            "question": "What if I don’t have xanthan gum?",
+            "answer": "Without xanthan gum, the snack may be thinner and separate more easily. You can try adding a small amount of chia seeds or blending in ice cubes to thicken, but texture won’t be quite as creamy."
+        },
+        {
+            "question": "Can I make this snack sweeter?",
+            "answer": "Yes, add a bit more sugar-free maple syrup or a few drops of liquid stevia. Add sweeteners gradually to avoid aftertaste and keep calories low."
+        }
+    ],
+    "conclusion": "Give this Easy Apples Recipe a try next time you want a filling, high-protein snack without the calories. I’d love to hear how it fits your macros or see your version — tag me if you make it!",
+    "seo": {
+        "primary_keyword": "high protein low calorie snack",
+        "secondary_keywords": [
+            "volume eating protein snack",
+            "easy low cal snacks",
+            "how to make easy apples recipe low calorie",
+            "best low calorie easy apples recipe",
+            "easy high protein low calorie snacks",
+            "healthy low calorie snack meal prep",
+            "post workout low calorie snack recipe",
+            "protein snacks under 200 calories"
+        ],
+        "internal_links": [
+            {
+                "text": "healthy low calorie snack meal prep",
+                "anchor": "healthy_low_calorie_snack_meal_prep"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "category_id": "cat_1779285521_870",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-10-22 02:01:17",
+        "title_seed": "Easy Apples Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1792634477_936",
+    "slug": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love",
+    "uniqueSlug": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_pinrecipes_image_1.webp",
+            "relativePath": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_pinrecipes_image_2.webp",
+            "relativePath": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_pinrecipes_image_3.webp",
+            "relativePath": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_8.webp",
+            "filePath": "posts/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_8.webp",
+            "relativePath": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_8.webp",
+            "type": "recipe_card",
+            "title": "Snack Smart with This Easy High-Protein Apple Bowl 🍏💪",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_4.webp",
+            "filePath": "posts/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_4.webp",
+            "relativePath": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_4.webp",
+            "type": "template",
+            "title": "Snack Smart with This Easy High-Protein Apple Bowl 🍏💪"
+        },
+        {
+            "fileName": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_9.webp",
+            "filePath": "posts/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_9.webp",
+            "relativePath": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_9.webp",
+            "type": "overlay_list",
+            "title": "Snack Smart with This Easy High-Protein Apple Bowl 🍏💪",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_5.webp",
+            "filePath": "posts/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_5.webp",
+            "relativePath": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_5.webp",
+            "type": "template",
+            "title": "Beat the Afternoon Slump: Easy Apples Protein Snack 🍎✨"
+        },
+        {
+            "fileName": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_6.webp",
+            "filePath": "posts/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_6.webp",
+            "relativePath": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_6.webp",
+            "type": "template",
+            "title": "Make-Ahead Easy Apples Snack for Healthy Meal Prep 🥄🍏"
+        },
+        {
+            "fileName": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_7.webp",
+            "filePath": "posts/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_7.webp",
+            "relativePath": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_st1_image_7.webp",
+            "type": "template",
+            "title": "Volume Eating Made Simple: Easy Apples Protein Snack Bowl 🍎🥣"
+        }
+    ],
+    "image": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images/easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love_pinrecipes_image_1.webp",
+    "image_dir": "easy-apples-recipe-a-high-protein-low-calorie-snack-youll-love/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-10-22T02:01:20+00:00",
+    "updatedAt": "2026-10-22T02:01:20+00:00"
+}
