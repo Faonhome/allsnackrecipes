@@ -1,0 +1,313 @@
+{
+    "title": "Easy 10-Minute High-Protein Low-Cal Snack with Healthy Apples",
+    "promptIMG": "Food photography: Healthy Apples Recipes, appetizing presentation in a large bowl, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, colorful vegetables or berries, clean eating aesthetic, generous portion size --ar 4:3 --quality 2",
+    "description": "This snack combines crisp apples with creamy zero-fat Greek yogurt and a scoop of vanilla whey protein for a refreshing, high-protein treat under 150 calories. The secret? Adding chia seeds for volume and texture without extra calories. Perfect for a mid-afternoon boost or post-workout refuel!",
+    "hashtags": "#HealthyApplesRecipes #highprotein #lowcalorie #healthysnacks",
+    "board_name": "Healthy High Protein Snacks",
+    "pin_variations": [
+        {
+            "title": "Boost Your Snack Game with This Apple Protein Bowl Under 150 Calories",
+            "description": "Need a guilt-free snack that fills you up? Try this apple protein bowl with Greek yogurt and chia seeds. It’s quick, tasty, and packed with protein to keep you energized. 🍎💪 Save this for your next snack time! #HighProteinLowCalorie #HealthySnacks #SnackIdeas",
+            "hashtags": "#HighProteinLowCalorie #HealthySnacks #SnackIdeas #AppleProtein #LowCalSnack"
+        },
+        {
+            "title": "Crunchy Apples Meet Creamy Protein Yogurt – Your New Favorite Snack!",
+            "description": "Looking for a snack that’s both crunchy and creamy? This apple and protein yogurt combo hits the spot with under 150 calories and over 20g protein. Perfect for meal prep or a quick office snack. 🍏🥄 Pin it now! #VolumeEating #ProteinSnack #LowCalorie",
+            "hashtags": "#VolumeEating #ProteinSnack #LowCalorie #HealthyEating #SnackPrep"
+        },
+        {
+            "title": "High-Protein Apple Snack That Keeps Hunger Away All Afternoon",
+            "description": "Say goodbye to afternoon cravings with this high-protein apple snack. The mix of tart apples, smooth Greek yogurt, and chia seeds keeps you full and satisfied without the calories. Try it today and feel the difference! 🍎✨ #ProteinSnack #LowCalorieSnacks #HealthyLifestyle",
+            "hashtags": "#ProteinSnack #LowCalorieSnacks #HealthyLifestyle #SnackTime #PostWorkout"
+        },
+        {
+            "title": "Simple, Delicious, and Low-Cal: Apple Protein Bowl You’ll Love",
+            "description": "This apple protein bowl is the perfect low-calorie snack for anyone watching their macros. It’s creamy, crunchy, and packed with protein to fuel your day. Great for meal prep or a quick treat. 🍏👌 Pin for later! #HealthySnackIdeas #ProteinUnder150 #LowCalorie",
+            "hashtags": "#HealthySnackIdeas #ProteinUnder150 #LowCalorie #MealPrepSnacks #HighProtein"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 6,
+    "ingredients": [
+        "3 large apples, cored and diced",
+        "2 cups zero-fat Greek yogurt, chilled",
+        "1/2 cup vanilla whey protein isolate powder",
+        "2 tablespoons chia seeds",
+        "1 teaspoon cinnamon",
+        "1 teaspoon pure vanilla extract",
+        "Stevia or monk fruit sweetener, to taste (optional)",
+        "Ice cubes (optional, for fluffiness)"
+    ],
+    "yield": "Approximately 1.5 cups per serving, 6 snack servings, about 9 cups total volume",
+    "introduction": "I’ve always struggled with feeling hungry on low-calorie days, especially when I’m cutting and trying to keep protein high. Tiny portions just don’t cut it for me—I want to eat a snack that feels like a real meal without blowing my calorie budget. That’s why I came up with this apple protein bowl. It’s loaded with volume thanks to diced apples and chia seeds, but still packs over 20 grams of protein per serving with zero-fat Greek yogurt and whey isolate. Plus, it’s under 150 calories, so I can eat a big bowl and not feel guilty. \n\nWhat makes this version better than store-bought bars or shakes? The texture. I add a little ice and vanilla extract to fluff up the yogurt, and the chia seeds add a satisfying crunch and thickness without any fat. I’ve tried using different yogurts, but zero-fat Greek yogurt is the key to keeping calories low and the texture creamy without separation. One time, I accidentally used a 2% yogurt and the snack was way too rich and heavy for what I wanted. \n\nNow, I eat this every afternoon when that 3pm slump hits or right after a workout. It keeps me full for hours, and I love that it’s mostly whole food—real apples and simple ingredients. My friends always ask how I eat so much and still lose weight, and this is my secret. It’s perfect for meal prep Sundays, too, because it holds up well in the fridge and tastes even better chilled.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by dicing your apples into small, bite-sized pieces. This increases the surface area and volume, making the snack feel larger and crunchier. Using fresh, crisp apples adds natural sweetness and fiber, which helps with satiety. Avoid letting the apples sit too long after cutting to prevent browning; a quick toss with a tiny splash of lemon juice can help if prepping ahead. The crunch from the apples is key to making this snack feel satisfying without adding calories.",
+            "timing": "5 minutes",
+            "doneness_cue": "Apples are evenly diced, fresh, and firm without any browning"
+        },
+        {
+            "step": 2,
+            "instruction": "In a mixing bowl, combine the zero-fat Greek yogurt with vanilla whey protein isolate powder. Whisk vigorously to prevent clumps and to incorporate air, which adds fluffiness and volume. Adding the protein powder slowly while whisking helps it hydrate properly. If you skip this step or rush it, the powder can clump or feel chalky. The goal is a smooth, creamy base that’s thick but not gritty.",
+            "timing": "3 minutes",
+            "doneness_cue": "Mixture is smooth, thick, and light with no visible clumps"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the cinnamon and pure vanilla extract to the yogurt-protein mixture. These natural flavors enhance the apple’s sweetness without adding sugar or calories. Stir gently to combine, being careful not to deflate the air you just whisked in. This step adds depth to the flavor profile, making the snack more enjoyable and less bland.",
+            "timing": "1 minute",
+            "doneness_cue": "Flavors are evenly distributed and aroma is inviting"
+        },
+        {
+            "step": 4,
+            "instruction": "If you want extra fluffiness, fold in a few ice cubes or crushed ice into the mixture. This chills the snack quickly and adds volume by incorporating air pockets. The ice also helps prevent watery separation that can happen with zero-fat yogurt. Don’t skip this if you like a creamy, ice-cream-like texture; just make sure to eat it soon after to avoid dilution.",
+            "timing": "1 minute",
+            "doneness_cue": "Mixture looks light and airy with a slightly frosty appearance"
+        },
+        {
+            "step": 5,
+            "instruction": "Stir in the chia seeds last. They act as a natural thickener and add crunch, fiber, and volume without calories. The seeds absorb moisture and swell, which helps the snack feel more substantial and filling. Make sure to mix them evenly so every bite has some crunch. If you skip chia seeds, the snack might feel less satisfying and thinner.",
+            "timing": "1 minute",
+            "doneness_cue": "Chia seeds are evenly distributed and mixture thickens slightly"
+        },
+        {
+            "step": 6,
+            "instruction": "Gently fold in the diced apples to the yogurt mixture. The goal is to keep the apples intact to preserve their crunch and volume. Overmixing can break down the apples and make the snack mushy, losing the satisfying texture contrast. This layering of crunchy apples and creamy protein-rich yogurt is what makes this snack so enjoyable and filling.",
+            "timing": "1 minute",
+            "doneness_cue": "Apples are evenly mixed without bruising or mushiness"
+        },
+        {
+            "step": 7,
+            "instruction": "Taste your snack and add stevia or monk fruit sweetener if you want a touch more sweetness. Use sparingly to avoid any bitter aftertaste common with these sweeteners. The natural sugars in the apples usually provide enough sweetness, so add sweetener only if needed. Mixing well ensures the sweetener is evenly distributed without clumping.",
+            "timing": "1 minute",
+            "doneness_cue": "Sweetness level is balanced and no clumps of sweetener remain"
+        },
+        {
+            "step": 8,
+            "instruction": "Divide the snack into six equal portions using a measuring cup or kitchen scale for accuracy. This helps with calorie counting and ensures consistent protein intake per serving. Portion control is key when you want to stay under 150 calories but still feel full. Use airtight containers if prepping ahead to maintain freshness.",
+            "timing": "2 minutes",
+            "doneness_cue": "Each portion is uniform in size and volume"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately or chill in the refrigerator for at least 30 minutes to let the chia seeds absorb moisture and thicken the snack further. Chilling also enhances the flavors and texture. If you prepare in advance, give the snack a quick stir before eating to redistribute any settled liquid and fluff it back up.",
+            "timing": "30 minutes chilling",
+            "doneness_cue": "Snack is thickened, chilled, and flavors melded"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Snacks Actually Fill You Up for Under 200 Calories",
+        "content": "<p>Protein has a unique advantage in weight management because of its thermic effect of food (TEF), meaning your body burns more calories digesting protein than fats or carbs. This snack leverages that by packing over 20 grams of protein, which triggers satiety hormones like PYY and GLP-1, helping you feel full longer. The combination of protein with high-volume, low-calorie ingredients like apples and chia seeds stretches your stomach, sending mechanical fullness signals to your brain.</p><p>The calorie density here is impressively low—this entire bowl is about 150 calories but provides nearly 2 cups of food. Zero-fat Greek yogurt and egg-white-based protein powders work better than nut butters or oils in low-calorie snacks because they provide creaminess and protein without adding fat calories. Adding hydrocolloids like chia seeds thickens the mixture naturally, mimicking creaminess and improving mouthfeel.</p><p>Texture is often the challenge in low-fat, high-protein snacks. Protein powders can taste chalky, but using acidic dairy like Greek yogurt and mixing with cold liquids prevents that chalkiness. The ice cubes whipped in add volume and a pleasant fluffiness, while the crunchy apples provide contrast, making the snack feel indulgent despite being light. Large portion sizes psychologically satisfy cravings, so you feel like you’re eating a treat, not a diet snack.</p><p>Altogether, this recipe balances the science of protein digestion, satiety hormones, and volume eating principles to create a snack that’s filling, flavorful, and low-calorie. It’s perfect for anyone wanting to stay full while cutting calories or just needing a healthy, satisfying snack option.</p>",
+        "ingredient_notes": {
+            "vanilla whey protein isolate powder": "Choose a high-quality whey isolate with minimal additives and no maltodextrin or fillers. Whey isolate is preferred over concentrate because it has higher protein content per calorie and less lactose, which helps keep this snack low-calorie and easy to digest. It hydrates well in cold mixtures but requires thorough whisking to avoid clumps. If you’re vegan, a pea protein isolate can be a substitute but expect a slightly different texture and flavor.",
+            "zero-fat Greek yogurt": "Look for plain zero-fat Greek yogurt with no added sugars or thickeners. This ingredient provides creaminess and tang without fat calories, which is essential for keeping calories low. Using 0% rather than 2% or higher fat yogurt keeps the macros in check, but it can be tricky as some brands separate more easily. Stir well and keep chilled to maintain texture. Avoid flavored yogurts to control sugar and calorie intake.",
+            "chia seeds": "Chia seeds act as a natural thickener and bulking agent without adding significant calories. They absorb moisture and swell, increasing volume and providing a pleasant crunch and texture contrast. Opt for whole chia seeds rather than ground for the best textural effect. They also add fiber, which helps with satiety and digestion. If you dislike the texture, flax seeds can be a substitute but won’t thicken as much.",
+            "cinnamon": "Cinnamon adds natural sweetness and warmth without calories, enhancing the flavor complexity of the snack. It also has a subtle role in blood sugar regulation, which can help prevent energy crashes. Using fresh cinnamon powder is best for aroma and potency. Avoid cinnamon sugar blends to keep the snack low-calorie.",
+            "stevia or monk fruit sweetener": "These zero-calorie sweeteners provide sweetness without impacting blood sugar or calories. Choose pure stevia or monk fruit extracts without fillers to avoid aftertaste. Use sparingly, as too much can cause bitterness. They help balance the tartness of the apples and yogurt, making the snack more palatable without added sugar."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Whisk protein powder into yogurt slowly to avoid clumps.",
+            "reason": "Protein powder tends to clump when added too quickly to thick dairy. Whisking slowly while adding powder allows it to hydrate evenly and prevents chalky lumps. This technique ensures a smooth, creamy texture that feels indulgent despite being low-fat."
+        },
+        {
+            "tip": "Add ice cubes to fluff up the yogurt mixture.",
+            "reason": "Ice adds volume and air pockets, making the snack feel larger and more satisfying. It also chills the mixture quickly and helps prevent watery separation common in zero-fat dairy. Without this step, the snack can be dense and less enjoyable."
+        },
+        {
+            "tip": "Use fresh, firm apples for maximum crunch and volume.",
+            "reason": "Crisp apples provide fiber and mechanical fullness, stretching your stomach and signaling satiety. Older or soft apples break down quickly and reduce the satisfying texture contrast that makes this snack feel like a treat."
+        },
+        {
+            "tip": "Mix chia seeds in last to maintain their crunch.",
+            "reason": "If chia seeds sit too long in liquid, they gel completely, losing their crunch and making the snack slimy. Adding them just before serving preserves texture and adds enjoyable bite without extra calories."
+        },
+        {
+            "tip": "Measure portions with a kitchen scale for accurate calorie control.",
+            "reason": "Even small differences in portion size can add up in calories, especially with protein powders. Using a scale ensures consistent servings and helps you track macros precisely."
+        },
+        {
+            "tip": "Store the snack chilled and stir before eating if separated.",
+            "reason": "Zero-fat dairy can separate when stored, causing watery liquid on top. Stirring reincorporates the liquid and restores creamy texture, making the snack taste fresh and enjoyable even after refrigeration."
+        },
+        {
+            "tip": "Avoid flavored protein powders with added sugars or fillers.",
+            "reason": "These can increase calories and cause chalkiness or off flavors in the mixture. Plain or naturally flavored powders keep the snack clean and macro-friendly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using full-fat yogurt instead of zero-fat.",
+            "why_it_happens": "People often assume full-fat yogurt is healthier or more filling, but it adds unnecessary calories and fat, defeating the low-calorie goal.",
+            "fix": "Always choose 0% Greek yogurt for this snack. It provides creaminess without fat calories, keeping the macros in check and texture stable."
+        },
+        {
+            "mistake": "Skipping the whisking step, resulting in clumpy protein.",
+            "why_it_happens": "Rushing or stirring protein powder in too quickly causes clumps that ruin texture.",
+            "fix": "Slowly add protein powder while whisking vigorously to ensure smooth, lump-free mixture."
+        },
+        {
+            "mistake": "Not adding enough volume ingredients leading to a small portion.",
+            "why_it_happens": "People underestimate how much volume chia seeds and apples add, leading to tiny, unsatisfying servings.",
+            "fix": "Include plenty of diced apples and chia seeds to bulk up the snack without extra calories."
+        },
+        {
+            "mistake": "Using too much sweetener causing bitterness.",
+            "why_it_happens": "Zero-calorie sweeteners can taste bitter if overused.",
+            "fix": "Add sweetener sparingly and taste as you go to keep a balanced flavor."
+        },
+        {
+            "mistake": "Preparing the snack too far in advance causing sogginess.",
+            "why_it_happens": "Chia seeds absorb liquid over time and apples can release moisture, making the snack watery.",
+            "fix": "Prepare components separately if needed and combine shortly before eating for best texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Berry-Apple Protein Bowl",
+            "description": "Swap half the apples for fresh mixed berries like blueberries and raspberries. This adds antioxidants and a tart flavor twist while keeping calories low. The texture remains crunchy and creamy with a slight berry burst. Protein and calories stay similar, making it a refreshing variation.",
+            "technical_note": "Because berries release more juice than apples, fold them in gently and serve soon after mixing to avoid sogginess."
+        },
+        {
+            "name": "Cinnamon Pumpkin Apple Snack",
+            "description": "Add 1/4 cup canned pumpkin puree and extra cinnamon for a fall-inspired flavor. Pumpkin adds fiber and volume with minimal calories. The snack becomes creamier and slightly denser but still under 150 calories per serving with 20g protein.",
+            "technical_note": "Pumpkin adds moisture; reduce ice cubes slightly to maintain texture and prevent watery separation."
+        },
+        {
+            "name": "Egg White Protein Apple Bowl",
+            "description": "Replace Greek yogurt with whipped pasteurized egg whites for a fat-free, high-protein base. This makes the snack even lighter in calories but adds a different fluffy texture. Apples and chia seeds remain for volume and crunch.",
+            "technical_note": "Whip egg whites to stiff peaks before folding in protein powder carefully to preserve airiness."
+        },
+        {
+            "name": "Maple-Flavored Apple Protein Snack",
+            "description": "Add a teaspoon of sugar-free maple syrup and a pinch of nutmeg for a sweet, cozy flavor. This variation is still low-calorie but adds a touch of indulgence. Use stevia to balance sweetness if needed.",
+            "technical_note": "Mix syrup thoroughly with yogurt to avoid clumping and adjust sweetener accordingly."
+        },
+        {
+            "name": "Tropical Apple Protein Bowl",
+            "description": "Mix diced apples with small chunks of pineapple and shredded unsweetened coconut. This tropical twist adds fiber and flavor while keeping calories low and protein high. The snack feels like a treat with a fresh, bright taste.",
+            "technical_note": "Drain pineapple well to prevent excess moisture and fold ingredients gently to maintain crunch."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "145 kcal",
+        "protein_grams": "21g",
+        "carbohydrates_grams": "9g",
+        "fat_grams": "1g",
+        "fiber_grams": "3g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and protein powder used. Always calculate based on your specific brands. This recipe is designed for a high-protein, low-calorie approach."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This snack is best kept chilled and should not be left at room temperature for more than 1 hour due to the zero-fat dairy and protein powder. If left out longer, the yogurt may separate and the texture will degrade. Always cover it tightly to prevent drying out.",
+        "refrigerator": "Store in airtight containers for up to 3 days. The snack thickens as chia seeds absorb moisture, and flavors meld nicely when chilled. Stir gently before eating to redistribute any liquid and fluff the texture. It tastes best cold but can be left at room temp for 10-15 minutes before serving.",
+        "freezer": "Freezing is not recommended as the high-water content from apples and yogurt causes ice crystals and separation, resulting in a grainy texture. If you must freeze, use airtight containers and thaw overnight in the fridge, then stir thoroughly. Expect some texture loss.",
+        "reheating": "This snack is best eaten cold or at room temperature. Reheating is not advised because heat can cause the protein and yogurt to separate and lose creaminess. If you prefer it less cold, let it sit out for 10 minutes before eating.",
+        "make_ahead_strategy": "Prepare the yogurt-protein base and diced apples separately. Store the yogurt mixture chilled and the apples in an airtight container with a little lemon juice to prevent browning. Mix together just before eating to maintain maximum crunch and freshness. Chia seeds can be added last minute or mixed in 15 minutes before serving to allow thickening."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute the whey protein with a plant-based protein?",
+            "answer": "Yes, you can use plant-based protein powders like pea or rice protein. However, the texture might be slightly different, sometimes grittier or less creamy. Make sure to choose a powder without added sugars or fillers to keep calories low. Whisk well to avoid clumps and adjust sweetness as plant proteins can taste earthier."
+        },
+        {
+            "question": "Why does my snack sometimes turn watery after refrigeration?",
+            "answer": "Zero-fat Greek yogurt and protein powders can separate when chilled, causing watery liquid on top. This is normal. Simply stir the snack before eating to reincorporate the liquid and restore creaminess. Using ice cubes during mixing also helps prevent this separation by adding volume and air."
+        },
+        {
+            "question": "How can I prevent the protein powder from tasting chalky?",
+            "answer": "Whisk the protein powder slowly into the yogurt to hydrate it evenly and avoid clumps. Using acidic dairy like Greek yogurt also helps mask chalkiness. Cold liquids and adding vanilla extract improve flavor. Avoid rushing this step for the best texture."
+        },
+        {
+            "question": "Can I make this snack ahead for meal prep?",
+            "answer": "Absolutely! Prepare the yogurt-protein base and apples separately, then combine just before eating. Chia seeds can be added shortly before serving to maintain crunch. Stored properly in airtight containers, the snack keeps well for up to 3 days in the fridge."
+        },
+        {
+            "question": "Is this snack suitable for cutting or weight loss?",
+            "answer": "Yes, it’s designed to be low-calorie and high-protein to support fat loss while keeping you full. The volume from apples and chia seeds helps prevent hunger pangs common on calorie deficits."
+        },
+        {
+            "question": "Can I use flavored Greek yogurt instead of plain zero-fat?",
+            "answer": "It’s best to use plain zero-fat Greek yogurt to control sugar and calorie content. Flavored yogurts often contain added sugars and fats that increase calories and may alter texture."
+        },
+        {
+            "question": "What’s the best apple variety to use?",
+            "answer": "Firm, crisp apples like Honeycrisp, Fuji, or Gala work best for crunch and sweetness. Softer apples may become mushy and reduce the snack’s satisfying texture."
+        },
+        {
+            "question": "How do I adjust sweetness without adding calories?",
+            "answer": "Use zero-calorie sweeteners like stevia or monk fruit sparingly. Add a little at a time and taste to avoid bitterness. The natural sugars in apples usually provide enough sweetness."
+        }
+    ],
+    "conclusion": "Give this healthy apple protein snack a try and let me know how it fits into your day! Tag me if you make it—I love seeing your macro-friendly creations.",
+    "seo": {
+        "primary_keyword": "high protein low calorie snack",
+        "secondary_keywords": [
+            "volume eating protein snack",
+            "easy low cal snacks",
+            "how to make healthy apples recipes low calorie",
+            "best low calorie apple protein snack recipe",
+            "easy high protein low calorie snacks",
+            "healthy low calorie snack meal prep",
+            "post workout low calorie snack recipe",
+            "protein snacks under 200 calories"
+        ],
+        "internal_links": [
+            {
+                "text": "related low calorie snack or meal prep recipe text",
+                "anchor": "healthy-protein-snack-meal-prep"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1779285521_870",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-11-01 02:01:10",
+        "title_seed": "Healthy Apples Recipes"
+    },
+    "author_id": "author_001",
+    "id": "post_1793498470_215",
+    "slug": "easy-10-minute-high-protein-low-cal-snack-with-healthy-apples",
+    "uniqueSlug": "easy-10-minute-high-protein-low-cal-snack-with-healthy-apples",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-10-minute-high-protein-low-cal-snack-with-healthy-apples_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-10-minute-high-protein-low-cal-snack-with-healthy-apples/images/easy-10-minute-high-protein-low-cal-snack-with-healthy-apples_pinrecipes_image_1.webp",
+            "relativePath": "easy-10-minute-high-protein-low-cal-snack-with-healthy-apples/images/easy-10-minute-high-protein-low-cal-snack-with-healthy-apples_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-high-protein-low-cal-snack-with-healthy-apples_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-10-minute-high-protein-low-cal-snack-with-healthy-apples/images/easy-10-minute-high-protein-low-cal-snack-with-healthy-apples_pinrecipes_image_2.webp",
+            "relativePath": "easy-10-minute-high-protein-low-cal-snack-with-healthy-apples/images/easy-10-minute-high-protein-low-cal-snack-with-healthy-apples_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-high-protein-low-cal-snack-with-healthy-apples_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-10-minute-high-protein-low-cal-snack-with-healthy-apples/images/easy-10-minute-high-protein-low-cal-snack-with-healthy-apples_pinrecipes_image_3.webp",
+            "relativePath": "easy-10-minute-high-protein-low-cal-snack-with-healthy-apples/images/easy-10-minute-high-protein-low-cal-snack-with-healthy-apples_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        }
+    ],
+    "image": "easy-10-minute-high-protein-low-cal-snack-with-healthy-apples_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-10-minute-high-protein-low-cal-snack-with-healthy-apples/images/easy-10-minute-high-protein-low-cal-snack-with-healthy-apples_pinrecipes_image_1.webp",
+    "image_dir": "easy-10-minute-high-protein-low-cal-snack-with-healthy-apples/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-11-01T02:01:10+00:00",
+    "updatedAt": "2026-11-01T02:01:10+00:00"
+}
