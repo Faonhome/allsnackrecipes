@@ -1,0 +1,317 @@
+{
+    "title": "Easy 10-Minute High-Protein Low-Calorie Baked Sweet Potatoes Snack",
+    "promptIMG": "Food photography: Baked Sweet Potatoes Recipe, appetizing presentation in a large bowl, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, colorful vegetables or berries, clean eating aesthetic, generous portion size --ar 4:3 --quality 2",
+    "description": "I love this baked sweet potato snack because it’s packed with protein yet low in calories, making it perfect for when I need a filling bite without the guilt. The trick? Mixing in creamy zero-fat Greek yogurt to boost protein and keep it light. Great for a post-workout refuel or an afternoon pick-me-up!",
+    "hashtags": "#bakedsweetpotatoes #highprotein #lowcalorie #healthysnacks",
+    "board_name": "Healthy High Protein Snacks",
+    "pin_variations": [
+        {
+            "title": "Protein-Packed Baked Sweet Potato Snack Under 200 Calories!",
+            "description": "Looking for a snack that fills you up without packing on calories? This baked sweet potato bowl with Greek yogurt is your answer! Try it today and enjoy a creamy, satisfying treat. 🍠💪 #highprotein #lowcalorie #postworkoutsnack",
+            "hashtags": "#bakedsweetpotatoes #proteinboost #healthysnack #lowcaloriesnack"
+        },
+        {
+            "title": "How to Make Baked Sweet Potatoes a High-Protein Low-Calorie Snack",
+            "description": "Transform your sweet potatoes into a protein powerhouse with just a few simple ingredients. Perfect for meal prep or quick snacks. Save this recipe for later and enjoy guilt-free volume eating! 🥄🍠 #mealprep #highprotein #volumeeating",
+            "hashtags": "#bakedsweetpotatoes #lowcaloriesnack #proteinrecipe #mealprepsnacks"
+        },
+        {
+            "title": "The Best Volume Eating Protein Snack: Baked Sweet Potatoes Edition",
+            "description": "Need a snack that’s big on volume but light on calories? This baked sweet potato recipe with egg whites and Greek yogurt hits the spot. Pin this for your next snack craving! 🥚🍠 #volumeeating #proteinpacked #lowcaloriesnacks",
+            "hashtags": "#bakedsweetpotatoes #protein #lowcalorie #snackideas"
+        },
+        {
+            "title": "Make-Ahead Low-Calorie High-Protein Baked Sweet Potato Boxes",
+            "description": "Prep these baked sweet potato protein boxes ahead of time for easy grab-and-go snacks that keep you full and fueled. Perfect for busy days or post-gym hunger! Try it out and tag a friend who needs this! 🍠📦 #mealprep #highprotein #lowcalorie",
+            "hashtags": "#bakedsweetpotatoes #mealprepideas #proteinbox #healthysnacks"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 6,
+    "ingredients": [
+        "3 medium sweet potatoes, baked and cooled",
+        "1 cup zero-fat Greek yogurt, plain",
+        "4 large egg whites, whipped",
+        "1 scoop vanilla whey protein isolate powder",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon ground cinnamon",
+        "Stevia or monk fruit sweetener, to taste",
+        "Optional: 1/4 teaspoon xanthan gum (for extra creaminess)"
+    ],
+    "yield": "Approximately 1 giant bowl per serving, 6 snack servings, about 2 cups volume per serving",
+    "introduction": "I’ve always struggled with feeling hungry on low-calorie diets, especially when cutting. Tiny portions just didn’t cut it for me, so I needed something that felt like a real snack but didn’t blow my macros. That’s why I fell in love with this baked sweet potato recipe. It’s surprisingly filling because of the volume and protein packed inside, yet each serving clocks in under 200 calories. What makes it better than your average baked sweet potato? I mix in whipped egg whites and zero-fat Greek yogurt, which add fluffiness and creaminess without extra fat. Plus, adding a scoop of vanilla whey protein isolate blends perfectly, giving it a smooth texture without that chalky protein powder taste I hate. I’ve tried versions that were too watery or bland, but using the right zero-fat yogurt brand and whipping the egg whites just right fixed that. Now, I eat this every afternoon when I need a big snack that won’t ruin my calorie goals but still feels indulgent. Honestly, friends always ask how I eat so much and still lose weight — this is my secret!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by baking your sweet potatoes until soft and tender, then let them cool completely. You want the potatoes cool so they don’t deflate the whipped egg whites later. Once cooled, scoop the flesh into a large mixing bowl. The baked sweet potatoes provide natural sweetness and fiber, which add bulk and keep you full longer without adding many calories. Avoid using warm potatoes here because the heat can cause the egg whites to collapse, ruining the fluffy texture we want.",
+            "timing": "10 minutes (baking time excluded)",
+            "doneness_cue": "Sweet potato flesh is soft and scoopable, cooled to room temperature"
+        },
+        {
+            "step": 2,
+            "instruction": "While the potatoes bake, whip your egg whites until they form stiff peaks. This means when you lift the whisk, the peaks stand straight up without collapsing. Whipping egg whites adds incredible volume and fluffiness without any fat or calories, perfect for a light snack. If you rush this or don’t whip enough, your final snack will be dense and less satisfying. Use a clean, dry bowl and beaters for best results.",
+            "timing": "5 minutes",
+            "doneness_cue": "Egg whites hold stiff peaks, glossy and stable"
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, mix the zero-fat Greek yogurt with the vanilla protein powder, vanilla extract, cinnamon, and your chosen sweetener. Stir gently but thoroughly to avoid lumps. The protein powder hydrates best when combined with the yogurt’s slight acidity, which also helps prevent chalkiness. Take care not to overmix or the yogurt can become watery. This mixture gives the snack its creamy texture and protein punch.",
+            "timing": "3 minutes",
+            "doneness_cue": "Smooth, creamy mixture with no lumps"
+        },
+        {
+            "step": 4,
+            "instruction": "Fold the whipped egg whites gently into the yogurt and protein mixture. Use a spatula and fold carefully to keep as much air as possible. This step is crucial to maintain the fluffy texture that makes the snack feel indulgent yet light. Overmixing here will deflate the egg whites and make the snack dense. The goal is a light, mousse-like consistency.",
+            "timing": "2 minutes",
+            "doneness_cue": "Mixture looks airy and light without streaks of egg white"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the cooled sweet potato flesh to the protein-yogurt-egg white mixture and fold gently until fully combined. The sweet potato adds natural sweetness, fiber, and volume, making the snack filling and satisfying. Folding gently prevents deflating the whipped egg whites and keeps the texture airy. Mixing too vigorously will lose the fluffiness and make the snack heavy.",
+            "timing": "2 minutes",
+            "doneness_cue": "Uniform mixture with no large lumps, airy texture maintained"
+        },
+        {
+            "step": 6,
+            "instruction": "If you want extra creaminess and to prevent watery separation, sprinkle in 1/4 teaspoon xanthan gum and fold gently. Xanthan gum acts as a natural thickener and stabilizer, especially useful in low-fat mixtures that tend to separate. Don’t add too much or the texture can become gummy. This small addition helps keep your snack luscious and smooth.",
+            "timing": "1 minute",
+            "doneness_cue": "Mixture thickens slightly, no graininess"
+        },
+        {
+            "step": 7,
+            "instruction": "Taste your mixture and adjust sweetness or cinnamon as desired. Since the sweet potatoes and vanilla protein powder add natural sweetness, you might only need a little stevia or monk fruit. Avoid over-sweetening as it can cause aftertaste in low-fat snacks. Balance flavors for a natural, satisfying taste.",
+            "timing": "1 minute",
+            "doneness_cue": "Balanced sweet and spiced flavor without bitterness"
+        },
+        {
+            "step": 8,
+            "instruction": "Divide the mixture evenly into serving bowls or meal prep containers. Each serving should be about 2 cups in volume, giving you a large portion that looks and feels like a real snack. The volume eating aspect helps trick your brain into feeling full with fewer calories, which is key when cutting or dieting.",
+            "timing": "2 minutes",
+            "doneness_cue": "Evenly portioned servings with fluffy, creamy appearance"
+        },
+        {
+            "step": 9,
+            "instruction": "Chill the bowls or containers in the refrigerator for at least 30 minutes before eating. Chilling firms the mixture, making it more mousse-like and enjoyable. If you eat it right away, the texture might be too loose or watery. The cold temperature also enhances the flavors and helps prevent separation in low-fat snacks.",
+            "timing": "30 minutes",
+            "doneness_cue": "Snack is firm but creamy, holds shape when scooped"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Snacks Actually Fill You Up for Under 200 Calories",
+        "content": "<p>This baked sweet potato snack works because it combines high-quality protein with high-volume, low-calorie ingredients that maximize satiety. Protein has a high thermic effect of food (TEF), meaning your body burns more calories digesting it compared to carbs or fat. Plus, protein triggers satiety hormones like PYY and GLP-1 more effectively, helping you feel full longer. By pairing protein with fiber-rich sweet potatoes and water-dense Greek yogurt, you physically stretch your stomach, sending fullness signals to your brain.</p><p>Zero-fat Greek yogurt and whipped egg whites provide creamy texture and volume without added fat or calories. The whipped egg whites introduce air, increasing portion size and creating a fluffy mouthfeel that tricks your brain into thinking you’re eating more. Xanthan gum stabilizes the mixture, mimicking creaminess usually provided by fat, without extra calories. The vanilla protein powder hydrates best in the acidic yogurt base, preventing the chalky texture common in low-fat protein snacks.</p><p>The large portion size is key for psychological satisfaction. Eating a giant bowl that looks substantial helps reduce cravings and hunger pangs, even though the calorie count stays low. This recipe balances flavor, texture, and volume so you don’t feel deprived. It’s a perfect example of how science-backed volume eating and protein leverage can make dieting easier and more enjoyable.</p>",
+        "ingredient_notes": {
+            "vanilla whey protein isolate powder": "Choose a high-quality whey protein isolate with minimal additives and no maltodextrin or fillers. Isolates are lower in carbs and fat than concentrates, making them ideal for low-calorie snacks. This protein powder hydrates well in acidic dairy, preventing chalkiness and providing a smooth, creamy texture. When mixing, avoid shaking vigorously to reduce foam and maintain a pleasant mouthfeel.",
+            "zero-fat Greek yogurt": "Select a plain zero-fat Greek yogurt brand that’s thick and creamy without added sugars or stabilizers. The acidity of Greek yogurt helps protein powder dissolve better and reduces chalkiness. Using 0% fat keeps calories down while still delivering tanginess and creaminess. Avoid low-fat or flavored yogurts as they often contain hidden sugars or thickeners that impact texture and calories.",
+            "egg whites": "Whipping fresh egg whites adds volume and lightness without calories or fat. They provide structure and fluffiness, crucial in low-fat recipes where creaminess is hard to achieve. Use room temperature whites for best whipping results, and ensure no yolk contaminates the whites as fat inhibits foam formation. Pasteurized egg whites are a safe, convenient alternative.",
+            "xanthan gum": "This natural thickener stabilizes watery mixtures by binding water molecules, mimicking fat’s creaminess. A very small amount (1/4 teaspoon) prevents separation in low-fat, high-water content snacks. Quality xanthan gum is odorless and tasteless, so it won’t affect flavor. Omitting it may cause your snack to separate or become watery after chilling.",
+            "stevia or monk fruit sweetener": "These zero-calorie sweeteners provide sweetness without affecting blood sugar or calories. Choose pure, high-quality forms to avoid bitterness or aftertaste common in blends. Adding sweetener balances the natural earthiness of sweet potatoes and protein powder, making the snack more palatable without adding sugar or calories."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always whip egg whites in a clean, dry bowl to achieve maximum volume.",
+            "reason": "Any fat or moisture in the bowl can prevent egg whites from whipping properly, resulting in a dense, less fluffy texture. Since egg whites are key to adding volume without calories, this step ensures your snack stays light and airy."
+        },
+        {
+            "tip": "Use cold zero-fat Greek yogurt straight from the fridge for best texture.",
+            "reason": "Cold yogurt helps protein powder hydrate evenly and reduces the chance of the mixture becoming watery. Warm yogurt can cause separation and affect the final mouthfeel, making the snack less enjoyable."
+        },
+        {
+            "tip": "Fold ingredients gently to preserve air in the whipped egg whites.",
+            "reason": "Vigorous mixing deflates the egg whites, reducing volume and making the snack dense. Gentle folding keeps the mixture airy, which is essential for volume eating and satiety."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping whipping egg whites or not whipping to stiff peaks.",
+            "why_it_happens": "Some people underestimate how much volume egg whites add and skip this step to save time.",
+            "fix": "Take the time to whip egg whites properly until stiff peaks form. This step is essential to create the fluffy texture that makes the snack filling and light."
+        },
+        {
+            "mistake": "Using warm sweet potatoes causing watery texture.",
+            "why_it_happens": "Adding warm potatoes can cause the whipped egg whites to collapse and the mixture to separate.",
+            "fix": "Always cool baked sweet potatoes completely before mixing to maintain the airiness and prevent watery separation."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chocolate Cinnamon Baked Sweet Potato Snack",
+            "description": "Swap vanilla protein powder for chocolate flavor and add a pinch of cocoa powder and cinnamon. This variation adds a rich, dessert-like taste while keeping calories low and protein high. Expect a slightly denser texture due to cocoa but still fluffy and satisfying.",
+            "technical_note": "Cocoa powder can absorb moisture, so you might need to add a splash of unsweetened almond milk to maintain creaminess."
+        },
+        {
+            "name": "Pumpkin Spice Protein Sweet Potato Bowl",
+            "description": "Add canned pumpkin puree and pumpkin pie spice to the base recipe for a seasonal twist. The pumpkin adds fiber and moisture, enhancing volume and flavor without extra calories. Protein content remains high with minimal change.",
+            "technical_note": "Because pumpkin adds moisture, reduce yogurt slightly to keep the texture thick and mousse-like."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "150 kcal",
+        "protein_grams": "22g",
+        "carbohydrates_grams": "18g",
+        "fat_grams": "0.5g",
+        "fiber_grams": "4g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and protein powder used. Always calculate based on your specific brands. This recipe is designed for a high-protein, low-calorie approach."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This snack is best eaten chilled and should not be left at room temperature for more than 2 hours due to the dairy and egg whites. Keep it covered in a cool spot if needed briefly.",
+        "refrigerator": "Store in an airtight container for up to 3 days. The snack firms up nicely when chilled and holds its volume well. It tastes best cold but can be left out 10 minutes before eating to soften slightly.",
+        "freezer": "Freezing is not recommended as the high water content in sweet potatoes and yogurt causes icy texture and loss of fluffiness upon thawing.",
+        "reheating": "Not applicable; this snack is intended to be eaten cold. Reheating may cause separation and loss of texture.",
+        "make_ahead_strategy": "You can bake sweet potatoes up to 2 days in advance and store them in the fridge. Prepare the yogurt-protein and whipped egg white mixture on the day of eating for best volume. Combine just before serving or packing for meal prep."
+    },
+    "faq": [
+        {
+            "question": "Can I use protein powder other than whey isolate?",
+            "answer": "Yes, but choose a protein powder with minimal fillers and a neutral or vanilla flavor. Plant-based powders may alter texture and flavor and sometimes don’t hydrate as smoothly. Whey isolate is preferred for its creamy texture and low calorie content."
+        },
+        {
+            "question": "How do I prevent the snack from tasting chalky?",
+            "answer": "Use acidic zero-fat Greek yogurt to help protein powder dissolve better and avoid chalkiness. Also, mix protein powder gently and avoid overmixing. Adding vanilla extract and cinnamon can mask any slight chalky notes."
+        },
+        {
+            "question": "Can I prepare this snack entirely ahead of time?",
+            "answer": "You can bake and cool sweet potatoes up to 2 days ahead and store separately. Whip egg whites and mix yogurt-protein fresh on the day of eating to maintain fluffiness. Combine all components just before serving."
+        },
+        {
+            "question": "Is this snack suitable for cutting or weight loss?",
+            "answer": "Absolutely! It’s high in protein and fiber, low in calories, and provides a large volume, making it perfect for satiety during calorie deficits."
+        },
+        {
+            "question": "What if I don’t have xanthan gum?",
+            "answer": "Xanthan gum helps stabilize the mixture, but if you don’t have it, the snack might separate slightly after chilling. Stir gently before eating to recombine."
+        },
+        {
+            "question": "Can I replace egg whites with another ingredient?",
+            "answer": "Egg whites provide unique volume and fluffiness. Aquafaba can be a vegan substitute but may change flavor and texture. Otherwise, the snack will be denser without egg whites."
+        },
+        {
+            "question": "How do I count calories accurately for this recipe?",
+            "answer": "Measure all ingredients by weight or volume carefully. Use nutrition info from your specific protein powder and yogurt brands. Tracking apps like MyFitnessPal help keep accuracy."
+        },
+        {
+            "question": "Can I add nuts or seeds for texture?",
+            "answer": "You can add small amounts of nuts or seeds for crunch, but be mindful of calories. They add healthy fats but increase calorie density, so adjust portions accordingly."
+        }
+    ],
+    "conclusion": "Give this baked sweet potato protein snack a try and see how filling and tasty low-calorie eating can be! Tag me with your results — I’d love to see your creations.",
+    "seo": {
+        "primary_keyword": "high protein low calorie snack",
+        "secondary_keywords": [
+            "volume eating protein snack",
+            "easy low cal snacks",
+            "how to make baked sweet potatoes low calorie",
+            "best low calorie baked sweet potatoes recipe",
+            "easy high protein low calorie snacks",
+            "healthy low calorie snack meal prep",
+            "post workout low calorie snack recipe",
+            "protein snacks under 200 calories"
+        ],
+        "internal_links": [
+            {
+                "text": "related low calorie snack or meal prep recipe text",
+                "anchor": "anchor_slug_here"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4500 words"
+    },
+    "category_id": "cat_1779285521_870",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-11-05 02:01:16",
+        "title_seed": "Baked Sweet Potatoes Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1793844076_910",
+    "slug": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack",
+    "uniqueSlug": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_pinrecipes_image_1.webp",
+            "relativePath": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_pinrecipes_image_2.webp",
+            "relativePath": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_pinrecipes_image_3.webp",
+            "relativePath": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_8.webp",
+            "filePath": "posts/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_8.webp",
+            "relativePath": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_8.webp",
+            "type": "recipe_card",
+            "title": "Protein-Packed Baked Sweet Potato Snack Under 200 Calories!",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_6.webp",
+            "filePath": "posts/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_6.webp",
+            "relativePath": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_6.webp",
+            "type": "template",
+            "title": "The Best Volume Eating Protein Snack: Baked Sweet Potatoes Edition"
+        },
+        {
+            "fileName": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_9.webp",
+            "filePath": "posts/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_9.webp",
+            "relativePath": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_9.webp",
+            "type": "overlay_list",
+            "title": "Protein-Packed Baked Sweet Potato Snack Under 200 Calories!",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_5.webp",
+            "filePath": "posts/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_5.webp",
+            "relativePath": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_5.webp",
+            "type": "template",
+            "title": "How to Make Baked Sweet Potatoes a High-Protein Low-Calorie Snack"
+        },
+        {
+            "fileName": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_7.webp",
+            "filePath": "posts/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_7.webp",
+            "relativePath": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_7.webp",
+            "type": "template",
+            "title": "Make-Ahead Low-Calorie High-Protein Baked Sweet Potato Boxes"
+        },
+        {
+            "fileName": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_4.webp",
+            "filePath": "posts/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_4.webp",
+            "relativePath": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-hassan/st1/posts/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_st1_image_4.webp",
+            "type": "template",
+            "title": "Protein-Packed Baked Sweet Potato Snack Under 200 Calories!"
+        }
+    ],
+    "image": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images/easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack_pinrecipes_image_1.webp",
+    "image_dir": "easy-10-minute-high-protein-low-calorie-baked-sweet-potatoes-snack/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-11-05T02:01:22+00:00",
+    "updatedAt": "2026-11-05T02:01:22+00:00"
+}
