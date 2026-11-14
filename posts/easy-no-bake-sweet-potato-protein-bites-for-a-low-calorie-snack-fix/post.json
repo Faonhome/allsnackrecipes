@@ -1,0 +1,313 @@
+{
+    "title": "Easy No Bake Sweet Potato Protein Bites for a Low-Calorie Snack Fix",
+    "promptIMG": "Food photography: No Bake Sweet Potato Protein Bites, appetizing presentation in a large bowl, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, colorful vegetables or berries, clean eating aesthetic, generous portion size --ar 4:3 --quality 2",
+    "description": "These no bake sweet potato protein bites are a lifesaver when you want a sweet, filling snack without the calorie overload. Packed with protein and naturally low in calories, the secret is using mashed sweet potato and egg whites for fluffiness. Perfect for a quick afternoon boost or post-workout refuel!",
+    "hashtags": "#NoBakeSweetPotato #HighProteinSnack #LowCalorieSnack #HealthyEats",
+    "board_name": "Healthy High Protein Snacks",
+    "pin_variations": [
+        {
+            "title": "Sweet Potato Protein Bites That Keep You Full and Fueled!",
+            "description": "Craving something sweet but want to stay on track? These no bake sweet potato bites pack protein and flavor without the guilt. Try making a batch for your next snack attack! 🍠💪 #HealthySnacks #ProteinPower #LowCalorie",
+            "hashtags": "#HealthySnacks #ProteinPower #LowCalorie #NoBake"
+        },
+        {
+            "title": "No Bake Sweet Potato Snacks Under 150 Calories You’ll Love!",
+            "description": "Looking for a low-calorie, high-protein snack? These sweet potato bites are easy to make and perfect for meal prep. Save this recipe and snack smart all week! 🥄✨ #MealPrep #LowCalorieSnacks #ProteinBites",
+            "hashtags": "#MealPrep #LowCalorieSnacks #ProteinBites #CleanEating"
+        },
+        {
+            "title": "Guilt-Free Sweet Potato Protein Bites for Your Afternoon Slump",
+            "description": "Beat the afternoon crash with these no bake sweet potato protein bites. They’re creamy, fluffy, and loaded with protein to keep you energized. Pin now and snack later! 🍠🔥 #PostWorkoutSnack #HighProtein #HealthyEats",
+            "hashtags": "#PostWorkoutSnack #HighProtein #HealthyEats #SnackSmart"
+        },
+        {
+            "title": "Make-Ahead No Bake Sweet Potato Protein Bites for Busy Days",
+            "description": "Need a quick, healthy snack? These no bake sweet potato protein bites are perfect for meal prep and stay fresh in the fridge. Try them today and enjoy a tasty protein boost anytime! 🥄💥 #MealPrepSnacks #HighProtein #LowCalorie",
+            "hashtags": "#MealPrepSnacks #HighProtein #LowCalorie #NoBake"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 6,
+    "ingredients": [
+        "1 cup cooked and mashed sweet potato, cooled",
+        "1/2 cup liquid egg whites",
+        "1/3 cup vanilla whey protein isolate powder",
+        "1 tsp ground cinnamon",
+        "1/2 tsp pure vanilla extract",
+        "2 tbsp zero-calorie sweetener (erythritol or monk fruit)",
+        "1/4 tsp xanthan gum (optional, for texture)",
+        "Pinch of salt"
+    ],
+    "yield": "Approximately 6 protein bites per serving, about 2 cups total volume",
+    "introduction": "I’ve always struggled with feeling hungry on low-calorie diets, especially during my afternoon slump. Tiny snacks just didn’t cut it, so I started experimenting with no bake sweet potato protein bites to get a satisfying volume of food without blowing my calories. Sweet potato is naturally sweet and filling, and when you mix it with egg whites and protein powder, you get a fluffy, creamy texture that feels indulgent but is under 150 calories per serving. The trick I learned was adding a little xanthan gum to keep the bites from getting watery, which happened in my first few batches. Also, cooling the mashed sweet potato before mixing prevents the protein powder from clumping. These bites are perfect for meal prep — I keep a batch in my fridge and grab one whenever I need a quick protein boost without feeling guilty. My friends even ask how I eat so much and still lose weight! Honestly, it’s all about the volume and smart ingredients. I love that these bites are easy to make and don’t require baking, so you can whip them up in 10 minutes and have snacks ready for the week. Plus, they taste great cold or at room temp, which is perfect for my busy lifestyle.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by cooking and mashing your sweet potato until smooth. Let it cool completely before mixing. This step is crucial because warm sweet potato can cause your protein powder to clump and create a gritty texture. Cooling also helps the egg whites whip better later on. Avoid rushing this step — patience here means a smoother, creamier final snack.",
+            "timing": "10 minutes (cooling time)",
+            "doneness_cue": "Sweet potato mash is cool to the touch and smooth without lumps"
+        },
+        {
+            "step": 2,
+            "instruction": "Whip the liquid egg whites lightly until frothy but not stiff. This adds volume and fluffiness to your bites without adding fat or calories. If you skip whipping, your bites might turn out dense and less satisfying. Incorporate the whipped egg whites gently into the sweet potato mixture to keep the airiness intact.",
+            "timing": "3 minutes",
+            "doneness_cue": "Egg whites are frothy with small bubbles but still pourable"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the vanilla whey protein isolate powder, cinnamon, vanilla extract, sweetener, salt, and xanthan gum to the cooled sweet potato. Mix thoroughly but gently to avoid deflating the whipped egg whites. The protein powder boosts the protein content while xanthan gum acts as a binder to prevent the mixture from being watery.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture is uniform, slightly thickened, and no dry powder remains"
+        },
+        {
+            "step": 4,
+            "instruction": "Combine the whipped egg whites with the sweet potato mixture using a folding motion. This ensures you keep the air incorporated for a light texture. Overmixing will deflate the mixture and result in dense bites, so be gentle and patient.",
+            "timing": "2 minutes",
+            "doneness_cue": "Mixture looks fluffy and well combined without streaks"
+        },
+        {
+            "step": 5,
+            "instruction": "Scoop the mixture into bite-sized portions using a spoon or small cookie scoop. Place them on a parchment-lined tray or plate. This helps keep bites uniform in size and makes them easier to store or grab on the go.",
+            "timing": "5 minutes",
+            "doneness_cue": "All bites are roughly equal in size and hold their shape"
+        },
+        {
+            "step": 6,
+            "instruction": "Refrigerate the bites for at least 30 minutes to firm up. Chilling allows the xanthan gum to thicken the mixture and the protein powder to hydrate fully, giving the bites a pleasant, chewy texture. Skipping this step will cause the bites to be too soft and sticky.",
+            "timing": "30 minutes",
+            "doneness_cue": "Bites are firm to the touch and easy to handle"
+        },
+        {
+            "step": 7,
+            "instruction": "Once chilled, transfer the bites to an airtight container for storage. Keep refrigerated until ready to eat. This preserves freshness and texture, preventing the bites from drying out or becoming too moist.",
+            "timing": "2 minutes",
+            "doneness_cue": "Bites stored in sealed container with no condensation inside"
+        },
+        {
+            "step": 8,
+            "instruction": "When ready to eat, enjoy the bites cold or at room temperature. If you prefer, let them sit out for 10 minutes to soften slightly. These bites are great as a quick snack or post-workout refuel, offering a creamy, sweet, and protein-packed treat without extra calories.",
+            "timing": "0 minutes",
+            "doneness_cue": "Bites taste creamy and sweet with a light, fluffy texture"
+        },
+        {
+            "step": 9,
+            "instruction": "For meal prep, double or triple the recipe and store bites in portioned containers. This makes grabbing a healthy snack effortless on busy days. Just remember to keep them refrigerated and consume within 4 days for best flavor and texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Bites portioned neatly and refrigerated, ready for easy snacking"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These No Bake Sweet Potato Bites Actually Fill You Up for Under 150 Calories",
+        "content": "<p>Protein has a higher thermic effect of food (TEF) compared to carbs and fats, meaning your body burns more calories digesting it. This makes high-protein snacks like these sweet potato bites excellent for weight management. Protein also triggers satiety hormones such as PYY and GLP-1, which help you feel full longer. Pairing protein with high-volume, low-calorie ingredients like sweet potato adds bulk without extra calories, stretching your stomach and sending fullness signals to your brain.</p><p>Sweet potato is nutrient-dense and high in fiber and water, which adds volume and helps slow digestion. Using zero-fat dairy alternatives like liquid egg whites adds protein without fat or calories, while xanthan gum mimics creaminess and binds ingredients together without adding calories. The protein powder used is a whey isolate, which is low in carbs and fat, and hydrates well in cold mixtures when combined with acidic or cooled ingredients, preventing chalkiness.</p><p>The no bake method preserves the fluffy texture from whipped egg whites and prevents drying out, unlike baking which can make low-fat snacks dense. Chilling firms the bites by allowing the xanthan gum and protein to set, giving a satisfying chew. The large portion size looks generous, which psychologically satisfies cravings even on a calorie deficit. Altogether, these techniques create a high-protein, low-calorie snack that fills you up, tastes great, and fits perfectly into a volume eating approach.</p>",
+        "ingredient_notes": {
+            "whey protein isolate powder": "Choose a pure whey protein isolate with minimal additives and no maltodextrin or fillers. Isolates have a higher protein percentage and lower carbs and fat than concentrates, making them ideal for low-calorie snacks. Look for unflavored or naturally flavored versions to avoid artificial aftertastes. In this recipe, the isolate hydrates well in the cool sweet potato mixture, preventing chalkiness and contributing to a creamy texture.",
+            "liquid egg whites": "Liquid egg whites provide a fat-free, high-quality protein source that whips easily to add volume and fluffiness. Using pasteurized liquid egg whites is safest and most convenient. Avoid powdered egg whites here as they can produce a dry texture. The whipped whites lighten the bites and keep calories low while boosting protein content significantly.",
+            "sweet potato": "Cooked and cooled sweet potato adds natural sweetness, fiber, and volume with very few calories. Choose orange-fleshed varieties for a richer flavor and color. Cooling the mash is important to prevent protein powder clumping. Avoid sweet potato puree with added sugars or fats, which would increase calories and ruin the low-calorie profile.",
+            "xanthan gum": "Xanthan gum is a zero-calorie hydrocolloid that thickens and binds ingredients, mimicking fat’s texture in low-calorie recipes. Use sparingly (about 1/4 tsp) to avoid a slimy texture. It helps prevent watery separation common in fat-free dairy or egg-based snacks, giving the bites structure and a pleasant chew.",
+            "zero-calorie sweetener": "Erythritol or monk fruit sweeteners add sweetness without calories or blood sugar impact. Choose pure forms without fillers to avoid digestive upset. These sweeteners help balance the earthy sweet potato flavor and enhance overall taste without unwanted aftertaste common with some artificial sweeteners."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Cool your mashed sweet potato completely before mixing in protein powder.",
+            "reason": "Warm sweet potato can cause protein powder to clump and produce a gritty texture. Cooling prevents this and helps the protein hydrate evenly, resulting in a smooth, creamy bite."
+        },
+        {
+            "tip": "Whip the egg whites until frothy, not stiff, before folding into the mixture.",
+            "reason": "Frothy egg whites add volume and lightness without fat. Over-whipping can make them dry and hard to fold, while under-whipping reduces fluffiness."
+        },
+        {
+            "tip": "Use xanthan gum sparingly as a binder to prevent watery texture.",
+            "reason": "Xanthan gum thickens the mixture without adding calories. Too much can make the bites slimy or gummy, so precise measurement is key."
+        },
+        {
+            "tip": "Fold ingredients gently to keep the air in the mixture.",
+            "reason": "Vigorous mixing deflates whipped egg whites, leading to dense bites. Gentle folding preserves volume and creates a light texture."
+        },
+        {
+            "tip": "Refrigerate bites for at least 30 minutes before eating.",
+            "reason": "Chilling firms the texture by allowing protein and xanthan gum to set, making the bites easier to handle and more satisfying."
+        },
+        {
+            "tip": "Use a high-quality whey isolate protein powder with minimal additives.",
+            "reason": "Pure isolates hydrate better in low-fat mixtures and avoid chalkiness or off-flavors common with blends containing maltodextrin or fillers."
+        },
+        {
+            "tip": "Measure sweeteners carefully to avoid aftertaste.",
+            "reason": "Using too much erythritol or monk fruit can cause bitterness or cooling sensations. Stick to recommended amounts for balanced sweetness."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Mixing protein powder into warm sweet potato causing clumps and chalkiness.",
+            "why_it_happens": "People often want to speed up prep and mix ingredients while still warm, not realizing heat affects protein hydration.",
+            "fix": "Always cool mashed sweet potato completely before adding protein powder. This prevents clumps and ensures a smooth texture."
+        },
+        {
+            "mistake": "Skipping xanthan gum and ending with watery, loose bites.",
+            "why_it_happens": "Without a binder, fat-free and egg white mixtures can separate or be too soft to hold shape.",
+            "fix": "Add a small amount (about 1/4 tsp) of xanthan gum to thicken and bind the mixture, improving texture and handling."
+        },
+        {
+            "mistake": "Over-whipping egg whites until stiff peaks form.",
+            "why_it_happens": "Some think stiffer is better, but stiff peaks can be hard to fold in and cause dryness.",
+            "fix": "Whip until frothy with small bubbles but still pourable, then gently fold to maintain lightness."
+        },
+        {
+            "mistake": "Using full-fat sweet potato puree or added sugars.",
+            "why_it_happens": "Pre-packaged purees may contain added ingredients that increase calories unnoticed.",
+            "fix": "Use homemade cooked and mashed sweet potato without additives to keep calories low and flavor natural."
+        },
+        {
+            "mistake": "Not refrigerating bites before eating, resulting in sticky, soft texture.",
+            "why_it_happens": "Skipping chilling means xanthan gum and protein powder don’t set properly.",
+            "fix": "Refrigerate at least 30 minutes to firm bites and improve chewiness."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chocolate Sweet Potato Protein Bites",
+            "description": "Add 1 tbsp unsweetened cocoa powder to the mix and swap vanilla extract for almond extract for a rich chocolate flavor. Expect a slightly denser texture due to cocoa’s absorbency but still under 160 calories per serving with 20g protein.",
+            "technical_note": "Cocoa powder absorbs moisture, so you might need to add a splash of unsweetened almond milk to maintain softness."
+        },
+        {
+            "name": "Pumpkin Spice Protein Bites",
+            "description": "Replace sweet potato with cooked pumpkin puree and add pumpkin pie spice. This swap lowers carbs slightly and adds seasonal flavor, keeping protein high and calories low. Texture remains fluffy and creamy.",
+            "technical_note": "Pumpkin puree is wetter than sweet potato; reduce xanthan gum by half to avoid gummy texture."
+        },
+        {
+            "name": "Vegan No Bake Sweet Potato Bites",
+            "description": "Use aquafaba (chickpea water) whipped instead of egg whites and a plant-based protein powder. Expect a slightly different texture—lighter but less dense—and keep calories similar. Perfect for vegan diets.",
+            "technical_note": "Aquafaba whips differently; whip longer and fold carefully to maintain volume."
+        },
+        {
+            "name": "Cinnamon Maple Protein Bites",
+            "description": "Add a few drops of sugar-free maple syrup and extra cinnamon for a cozy flavor twist. Keep sweetener amounts adjusted to avoid extra calories. These bites have a warm, comforting taste with the same protein punch.",
+            "technical_note": "Liquid sweeteners can thin the mixture; reduce egg whites slightly to maintain firmness."
+        },
+        {
+            "name": "Berry Swirl Sweet Potato Protein Bites",
+            "description": "Fold in 1/4 cup mashed fresh or frozen berries for a fruity burst. This adds natural sweetness and antioxidants with minimal calories. Texture becomes a bit chunkier but still creamy and satisfying.",
+            "technical_note": "Berries add moisture; reduce xanthan gum by a pinch to keep bites from becoming too soft."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "140 kcal",
+        "protein_grams": "20g",
+        "carbohydrates_grams": "12g",
+        "fat_grams": "0.5g",
+        "fiber_grams": "3g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and protein powder used. Always calculate based on your specific brands. This recipe is designed for a high-protein, low-calorie approach."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These bites are best kept refrigerated and should not be left at room temperature for more than 2 hours due to the egg whites and dairy-free nature. Leaving them out longer can cause texture degradation and potential food safety issues. Cover with plastic wrap or store in an airtight container to prevent drying out.",
+        "refrigerator": "Store in an airtight container for up to 4 days. The bites firm up nicely when chilled and maintain a creamy, fluffy texture. They taste great cold or at room temperature, though chilling enhances firmness and chewiness.",
+        "freezer": "Freeze bites for up to 1 month. Wrap individually or place in a freezer-safe container with parchment paper between layers to prevent sticking. Thaw overnight in the refrigerator. Texture may become slightly icier but still enjoyable.",
+        "reheating": "These no bake bites are best eaten cold or at room temperature. Reheating is not recommended as it can cause separation of egg whites and xanthan gum, resulting in a watery or grainy texture. If desired, let bites sit out for 10 minutes to soften instead.",
+        "make_ahead_strategy": "Prepare the sweet potato mash and protein mixture up to 2 days in advance. Store the mixture in the fridge and shape into bites just before eating to maintain maximum fluffiness and prevent sogginess. This makes meal prep easier and keeps texture fresh."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute the whey protein powder with plant-based protein?",
+            "answer": "Yes, you can use a plant-based protein powder, but be aware that texture and taste might change slightly. Plant proteins sometimes absorb liquids differently and may require adjusting xanthan gum or egg whites to maintain the right consistency. Also, plant proteins may have a stronger flavor, so choose a mild or vanilla-flavored powder."
+        },
+        {
+            "question": "Why are my bites watery after mixing?",
+            "answer": "Watery texture usually happens if you skip xanthan gum or add too much liquid. Xanthan gum binds moisture and prevents separation. Also, mixing warm sweet potato with protein powder can cause water to release. Make sure the sweet potato is fully cooled and measure xanthan gum precisely to fix this issue."
+        },
+        {
+            "question": "Can I use powdered egg whites instead of liquid?",
+            "answer": "Powdered egg whites can be used but may produce a drier, less fluffy texture. Liquid egg whites whip more easily and add volume, which is key for the light texture in this recipe. If using powder, rehydrate carefully and whip well to mimic the same effect."
+        },
+        {
+            "question": "How do I count calories accurately for this snack?",
+            "answer": "Use a kitchen scale to measure your ingredients precisely, especially protein powder and sweetener. Check labels for exact nutrition info as brands vary. Tracking apps like MyFitnessPal can help you log each ingredient to get an accurate calorie and macro count."
+        },
+        {
+            "question": "Is it safe to eat raw egg whites in this recipe?",
+            "answer": "Liquid egg whites sold pasteurized are safe to eat raw and commonly used in protein shakes and no bake recipes. Always check the packaging to ensure pasteurization. If concerned, you can use pasteurized powdered egg whites rehydrated according to instructions."
+        },
+        {
+            "question": "Can I make these bites ahead for the whole week?",
+            "answer": "Yes! Store them in an airtight container in the fridge for up to 4 days. For longer storage, freeze and thaw as needed. Just keep in mind that texture is best within the first few days after preparation."
+        },
+        {
+            "question": "What if I don’t have xanthan gum?",
+            "answer": "You can try a small amount of chia seeds or ground flaxseed as a binder, but these will add some calories and texture changes. Alternatively, reduce liquid slightly and mix thoroughly to help hold the bites together, though they may be less firm."
+        },
+        {
+            "question": "How many bites should I eat to stay within low-calorie goals?",
+            "answer": "One serving is about 6 bites, totaling roughly 140 calories and 20g protein. Depending on your calorie goals, adjust portion size accordingly, but this recipe is designed to be filling and satisfying at this serving size."
+        }
+    ],
+    "conclusion": "I hope you love these no bake sweet potato protein bites as much as I do! They’re a perfect way to enjoy a filling, low-calorie snack without sacrificing flavor. Tag me if you try them—I’d love to see your creations and hear how they fit your macros!",
+    "seo": {
+        "primary_keyword": "no bake sweet potato protein snack",
+        "secondary_keywords": [
+            "high protein low calorie snacks",
+            "volume eating recipes",
+            "how to make no bake sweet potato bites low calorie",
+            "best low calorie sweet potato snack recipe",
+            "easy high protein low calorie snacks",
+            "healthy low calorie snack meal prep",
+            "post workout low calorie snack recipe",
+            "protein snacks under 200 calories"
+        ],
+        "internal_links": [
+            {
+                "text": "healthy low calorie snack meal prep",
+                "anchor": "healthy_low_calorie_snack_meal_prep"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4500 words"
+    },
+    "category_id": "cat_1779284066_483",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-11-14 02:01:23",
+        "title_seed": "No Bake Sweet Potato Recipes"
+    },
+    "author_id": "author_001",
+    "id": "post_1794621683_410",
+    "slug": "easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix",
+    "uniqueSlug": "easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix/images/easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix_pinrecipes_image_1.webp",
+            "relativePath": "easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix/images/easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix/images/easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix_pinrecipes_image_2.webp",
+            "relativePath": "easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix/images/easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix/images/easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix_pinrecipes_image_3.webp",
+            "relativePath": "easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix/images/easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        }
+    ],
+    "image": "easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix/images/easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix_pinrecipes_image_1.webp",
+    "image_dir": "easy-no-bake-sweet-potato-protein-bites-for-a-low-calorie-snack-fix/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-11-14T02:01:23+00:00",
+    "updatedAt": "2026-11-14T02:01:23+00:00"
+}
