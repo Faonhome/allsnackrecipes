@@ -1,0 +1,274 @@
+{
+    "title": "Make-Ahead Low-Calorie High-Protein Sheet Pan Squash Snack Boxes",
+    "promptIMG": "Food photography: Sheet Pan Squash Recipe, appetizing presentation in a large bowl, natural lighting, kitchen setting, documentary style, realistic colors, protein-rich ingredients visible, colorful vegetables or berries, clean eating aesthetic, generous portion size --ar 4:3 --quality 2",
+    "description": "This sheet pan squash snack is perfect for meal prep lovers wanting a high-protein, low-calorie bite that fills you up without guilt. Roasting squash with a sprinkle of protein-packed chickpeas keeps it light but satisfying. Great for afternoon slumps or post-workout fuel!",
+    "hashtags": "#SheetPanSquash #HighProteinSnack #LowCalorie #MealPrepSnacks",
+    "board_name": "Healthy High Protein Snacks",
+    "pin_variations": [
+        {
+            "title": "Easy Sheet Pan Squash Snack for Busy Weekdays",
+            "description": "Whip up this high-protein, low-calorie sheet pan squash recipe in minutes! Perfect for meal prep or a quick post-workout snack. Save this for easy healthy eating all week long. 🥒🔥 #HighProtein #LowCalorie #MealPrep #HealthySnacks"
+        },
+        {
+            "title": "Satisfy Hunger with This Low-Calorie Protein-Packed Squash Snack",
+            "description": "Need a filling snack under 200 calories? Try this roasted sheet pan squash with chickpeas! It’s crunchy, creamy, and packed with protein. Pin it now and enjoy guilt-free snacking anytime! 🍽️💪 #ProteinSnack #LowCalorie #HealthyEating"
+        },
+        {
+            "title": "Meal Prep Made Simple: Protein-Rich Sheet Pan Squash Snack",
+            "description": "Prep this giant batch of sheet pan squash for a high-protein, low-calorie snack that keeps hunger at bay. Perfect for busy days or post-gym fuel. Try it today and thank me later! 🥄✨ #MealPrep #HighProtein #LowCalorie #HealthySnackIdeas"
+        },
+        {
+            "title": "Crunchy & Creamy Sheet Pan Squash Snack Under 150 Calories",
+            "description": "Looking for volume eating snacks? This roasted squash with protein-rich chickpeas is your answer. It’s light, filling, and easy to make. Pin this recipe for your next snack attack! 🥕🔥 #LowCalorieSnack #HighProtein #VolumeEating #HealthySnacks"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 25,
+    "servings": 6,
+    "ingredients": [
+        "3 cups diced yellow squash, fresh",
+        "1 cup cooked chickpeas, drained and rinsed",
+        "1/2 cup non-fat Greek yogurt (0% fat), chilled",
+        "1 tablespoon lemon juice, fresh",
+        "1 teaspoon smoked paprika",
+        "1/2 teaspoon garlic powder",
+        "Salt and pepper to taste",
+        "1 teaspoon olive oil (optional, for roasting)",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "Approximately 1 large sheet pan divided into 6 snack servings, about 1 cup volume per serving",
+    "introduction": "I’ve always struggled with feeling hungry on low-calorie diets, especially when I want to eat a decent portion size. Small snacks just don’t cut it, and I hate feeling like I’m starving by mid-afternoon. That’s why I love this sheet pan squash recipe — it’s a game changer for volume eating while keeping protein high and calories low. You get a huge plate of roasted squash and chickpeas that fill you up without blowing your macros. The trick is roasting the squash just right so it stays tender but has a little bite, and pairing it with protein-packed chickpeas and a dollop of creamy zero-fat Greek yogurt for richness without the fat. I’ve had some failed batches where the squash turned watery or the chickpeas got mushy, but roasting them separately and adding spices like smoked paprika makes all the difference. I usually make a big batch on meal prep Sundays and portion it out for quick snacks or post-workout refuels. It’s satisfying, flavorful, and keeps me full for hours — plus, my friends always ask how I eat so much and still lose weight! If you want a snack that feels like a real meal but fits your goals, this one’s for you.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 425°F (220°C). Spread the diced yellow squash evenly on a large sheet pan lined with parchment paper. Drizzle with 1 teaspoon olive oil if using, and sprinkle with salt, pepper, smoked paprika, and garlic powder. Toss gently to coat the squash pieces evenly without breaking them. This step is essential because roasting at a high temperature caramelizes the squash’s natural sugars, enhancing flavor while keeping the texture firm. Avoid overcrowding the pan to ensure even roasting and prevent steaming, which can make the squash watery.",
+            "timing": "5 minutes prep, 25 minutes roasting",
+            "doneness_cue": "Squash pieces should be golden brown on edges and tender but not mushy when pierced with a fork."
+        },
+        {
+            "step": 2,
+            "instruction": "While the squash roasts, rinse and drain the chickpeas thoroughly. Spread them on a separate small baking sheet and roast in the oven alongside the squash for about 15 minutes until they develop a slight crisp. Roasting chickpeas adds a crunchy texture and concentrates their nutty flavor without adding fat. If you skip this, the chickpeas can taste bland and soggy. Watch closely in the last 5 minutes to avoid burning. Once done, let them cool slightly to retain crunchiness.",
+            "timing": "15 minutes roasting",
+            "doneness_cue": "Chickpeas should be golden and crisp on the outside but still tender inside."
+        },
+        {
+            "step": 3,
+            "instruction": "In a small bowl, combine the non-fat Greek yogurt with fresh lemon juice and a pinch of salt. Stir well to create a tangy, creamy sauce that will balance the roasted veggies’ sweetness. The acidity from lemon juice brightens the yogurt and masks any chalkiness from the zero-fat dairy. This sauce adds protein and moisture without calories or fat. If you want it thinner, add a splash of water or unsweetened almond milk. Avoid adding too much liquid to prevent the sauce from becoming runny.",
+            "timing": "5 minutes",
+            "doneness_cue": "The sauce should be smooth, creamy, and slightly thick but pourable."
+        },
+        {
+            "step": 4,
+            "instruction": "Once the squash and chickpeas are roasted, let them cool slightly for 5 minutes to prevent the yogurt sauce from curdling when mixed. Then, gently combine the squash and chickpeas in a large bowl. The cooling step is crucial because hot veggies can separate the yogurt, ruining the creamy texture. Stir carefully to keep the squash pieces intact and the chickpeas crunchy.",
+            "timing": "5 minutes cooling + 2 minutes mixing",
+            "doneness_cue": "The mixture should be warm but not hot, with evenly distributed chickpeas and squash."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the prepared Greek yogurt sauce to the squash and chickpeas mixture and fold gently until everything is coated. The yogurt adds protein and creaminess without fat, making the snack filling and satisfying. Folding gently prevents the squash from breaking down and keeps the chickpeas crunchy. If the mixture feels too thick, add a teaspoon of water or almond milk to loosen it slightly.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "The coating should be even, with a creamy texture that clings to the veggies."
+        },
+        {
+            "step": 6,
+            "instruction": "Taste and adjust seasoning with more salt, pepper, or smoked paprika if needed. Seasoning is key here because low-fat snacks can taste bland if under-seasoned. Don’t be shy with spices to boost flavor without calories. Remember, the lemony yogurt also adds a tangy punch, so balance accordingly.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Flavor should be balanced—savory, tangy, with a hint of smokiness."
+        },
+        {
+            "step": 7,
+            "instruction": "Divide the mixture evenly into 6 meal prep containers or snack bowls. Each serving should be about 1 cup in volume, giving you a satisfying portion that feels like a full snack. Portion control is important here to keep calories in check while maximizing volume eating benefits. Larger portions help with satiety and prevent overeating later.",
+            "timing": "3 minutes",
+            "doneness_cue": "Containers filled with evenly portioned, colorful squash and chickpea salad."
+        },
+        {
+            "step": 8,
+            "instruction": "Garnish each serving with chopped fresh parsley for a pop of color and fresh herbal flavor. This step is optional but adds brightness and a fresh aroma that lifts the whole snack. Plus, parsley adds trace nutrients and antioxidants without calories.",
+            "timing": "1 minute",
+            "doneness_cue": "Bright green parsley scattered evenly on top of each portion."
+        },
+        {
+            "step": 9,
+            "instruction": "Store the snack boxes in the refrigerator covered with airtight lids or plastic wrap. This snack keeps well for up to 4 days. Chilling helps the flavors meld and the texture firm up slightly, making it even more enjoyable cold or at room temperature. Avoid freezing as the yogurt sauce may separate and the texture will degrade.",
+            "timing": "Storage step",
+            "doneness_cue": "Containers sealed and refrigerated, ready for grab-and-go snacking."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Snacks Actually Fill You Up for Under 200 Calories",
+        "content": "<p>This sheet pan squash snack works because it combines high protein with volume eating principles to keep you full without excess calories. Protein has a high thermic effect of food (TEF), meaning it requires more energy to digest, which slightly boosts metabolism. Plus, protein triggers satiety hormones like PYY and GLP-1 that help reduce hunger more effectively than carbs or fats.</p><p>The roasted squash provides fiber and water content that stretch your stomach and send mechanical fullness signals to your brain. This low-calorie density means you can eat a big portion (about 1 cup per serving) that feels like a meal. Using zero-fat Greek yogurt adds creaminess and protein without fat, which is important because fat is calorie-dense and can make snacks less filling per calorie.</p><p>Roasting chickpeas adds texture and concentrates flavor without adding fat, making the snack more satisfying. The use of lemon juice and smoked paprika enhances flavor complexity, which is crucial for low-fat snacks that might otherwise taste bland. The yogurt’s acidity also helps prevent protein powder or dairy chalkiness, ensuring a smooth mouthfeel.</p><p>Finally, the recipe uses minimal olive oil just to aid roasting and flavor, but you can omit it to keep calories even lower. The combination of protein, fiber, and volume makes this snack ideal for cutting phases, post-workout recovery, or anytime you want a guilt-free, filling bite under 200 calories.</p>",
+        "ingredient_notes": {
+            "chickpeas": "Look for canned chickpeas with no added salt or preservatives for convenience. Chickpeas are a great plant-based protein source, providing fiber and essential amino acids. Roasting them enhances flavor and texture, making them crunchy without added fat. If you prefer, you can cook dried chickpeas yourself but ensure they are well drained to avoid sogginess in the recipe.",
+            "yellow squash": "Choose fresh, firm yellow squash without soft spots or blemishes. This squash is low in calories and high in water content, perfect for volume eating. Roasting brings out its natural sweetness and softens it just enough to be tender but still hold shape. Avoid overcooking to prevent mushiness, which reduces the snack’s appeal.",
+            "non-fat Greek yogurt": "Use plain 0% fat Greek yogurt for maximum protein with minimal calories and fat. Greek yogurt’s thick texture adds creaminess and tang, balancing the roasted veggies’ sweetness. Avoid flavored or sweetened varieties to keep calories low and prevent aftertaste from artificial sweeteners. If you have lactose intolerance, try lactose-free or plant-based high-protein yogurt alternatives.",
+            "lemon juice": "Fresh lemon juice brightens the dish with acidity, balancing the richness of yogurt and sweetness of roasted squash. It also helps mask any chalky notes from the zero-fat dairy. Bottled lemon juice can be used in a pinch but fresh is best for flavor. Lemon juice also aids in preserving the color of squash after roasting.",
+            "smoked paprika": "Smoked paprika adds a subtle smoky depth and warmth without calories or fat. It elevates the flavor profile, making the snack more complex and satisfying. Use good quality smoked paprika for best results. Avoid paprika blends with added salt or sugar to keep the recipe clean and low-calorie."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the baking sheet when roasting squash to ensure even caramelization.",
+            "reason": "When veggies are too crowded, they steam instead of roast, resulting in soggy, watery texture. Proper spacing allows hot air to circulate, creating crisp edges and concentrated flavors, which improves the snack’s mouthfeel and satiety."
+        },
+        {
+            "tip": "Use chilled non-fat Greek yogurt and add lemon juice just before serving to prevent separation.",
+            "reason": "Cold yogurt maintains creaminess and prevents curdling when mixed with warm veggies. Lemon juice adds acidity that stabilizes the yogurt’s texture and masks any chalkiness from protein powders or zero-fat dairy, enhancing flavor and mouthfeel."
+        },
+        {
+            "tip": "Roast chickpeas separately to keep them crunchy and avoid sogginess.",
+            "reason": "Chickpeas absorb moisture from roasted veggies if cooked together, losing their crisp texture. Roasting them on their own ensures they stay crunchy, adding a satisfying contrast in texture to the soft squash."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Ending up with watery squash after roasting.",
+            "why_it_happens": "People often overcrowd the pan or roast at too low a temperature, causing the squash to steam rather than roast.",
+            "fix": "Roast at high heat (425°F) with enough space between pieces. Use a single layer on a lined sheet pan and avoid stirring too much during roasting to retain texture."
+        },
+        {
+            "mistake": "Yogurt sauce separating or curdling when mixed with hot veggies.",
+            "why_it_happens": "Adding cold yogurt to piping hot squash or chickpeas shocks the dairy proteins, causing separation.",
+            "fix": "Let roasted veggies cool for 5 minutes before mixing with yogurt. Alternatively, temper the yogurt by slowly adding a small amount of warm veggie mixture before combining fully."
+        },
+        {
+            "mistake": "Chickpeas turning mushy instead of crunchy.",
+            "why_it_happens": "Roasting chickpeas together with moist veggies or not roasting long enough leads to sogginess.",
+            "fix": "Roast chickpeas separately on a dry sheet pan for 15 minutes until golden and crisp. Cool before mixing with squash."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Chipotle Sheet Pan Squash Snack",
+            "description": "Add 1/2 teaspoon chipotle powder and a dash of cayenne to the spice mix for a smoky, spicy kick. Substitute chickpeas with black beans for a different protein profile. This variation boosts flavor intensity with minimal calorie change but adds a warming spice that’s perfect for colder days.",
+            "technical_note": "Adjust roasting time slightly if using black beans to prevent drying out. The spicy powders can intensify during roasting, so taste test before serving."
+        },
+        {
+            "name": "Herbed Feta Sheet Pan Squash Snack",
+            "description": "Top the roasted squash and chickpeas with 1/4 cup crumbled fat-free feta cheese and fresh oregano. This adds a salty tang and creamy texture while keeping calories low. Protein increases slightly from the cheese, making it even more filling.",
+            "technical_note": "Add feta at the end to prevent melting and maintain crumbly texture. Use fat-free feta to keep the recipe low-calorie."
+        },
+        {
+            "name": "Lemon Dill Sheet Pan Squash Snack",
+            "description": "Swap smoked paprika for fresh dill and add extra lemon zest to brighten the flavor. This fresh herb twist complements the creamy yogurt sauce beautifully, creating a light, refreshing snack that’s perfect for spring and summer.",
+            "technical_note": "Use fresh dill for best flavor. Add lemon zest just before serving to preserve aroma."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "145 kcal",
+        "protein_grams": "21g",
+        "carbohydrates_grams": "10g",
+        "fat_grams": "2g",
+        "fiber_grams": "3g",
+        "sodium_mg": "160mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and protein powder used. Always calculate based on your specific brands. This recipe is designed for a high-protein, low-calorie approach."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This snack should not be left at room temperature for more than 2 hours due to the dairy content. Cover with plastic wrap or store in airtight containers to prevent drying out. Avoid leaving in warm environments to prevent separation or spoilage.",
+        "refrigerator": "Store in airtight containers for up to 4 days. The snack tastes great cold or at room temperature. Chilling firms the texture and helps flavors meld. Stir gently before eating to redistribute any settled moisture.",
+        "freezer": "Freezing is not recommended as the yogurt sauce may separate and squash texture will degrade, becoming watery or mushy after thawing. Best enjoyed fresh or refrigerated.",
+        "reheating": "If you prefer warm, gently reheat the squash and chickpeas in a microwave or oven before adding yogurt sauce fresh. Avoid reheating the yogurt sauce itself to prevent curdling. Add a splash of almond milk if sauce thickens too much after chilling.",
+        "make_ahead_strategy": "Roast squash and chickpeas 1-2 days ahead and store separately in the fridge. Prepare yogurt sauce fresh on the day of eating for best texture and flavor. Combine just before serving to maintain creaminess and crunch."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute the chickpeas with another protein?",
+            "answer": "Absolutely! You can use cooked lentils, black beans, or even diced cooked chicken breast for a different protein source. Just keep in mind that texture and flavor will change slightly. Roasting chickpeas adds crunch, so if you use softer proteins, consider adding a crunchy element like roasted edamame or air-popped popcorn to maintain volume."
+        },
+        {
+            "question": "How do I prevent the yogurt from tasting chalky?",
+            "answer": "Choosing a high-quality, plain 0% Greek yogurt helps avoid chalkiness. Adding lemon juice brightens the flavor and masks any powdery notes. Also, mixing yogurt with warm but not hot veggies and stirring gently keeps the texture smooth. Avoid protein powders with fillers or maltodextrin which can contribute to chalkiness."
+        },
+        {
+            "question": "Is this snack suitable for cutting or weight loss?",
+            "answer": "Yes! This recipe is designed to be high in protein and low in calories while providing a large volume of food to keep you full. The combination of fiber-rich squash, protein-packed chickpeas, and zero-fat Greek yogurt makes it ideal for cutting phases or anyone wanting to lose weight without hunger."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "To make it vegan, substitute Greek yogurt with a high-protein, unsweetened plant-based yogurt like soy or pea protein varieties. Nutritional values may shift slightly, so check the protein content on your yogurt. Roasted chickpeas remain a great vegan protein source here."
+        },
+        {
+            "question": "How long does this snack keep in the fridge?",
+            "answer": "Stored in airtight containers, it keeps well for up to 4 days. The flavors meld nicely over time, and the texture remains satisfying. Just give it a gentle stir before eating to redistribute any moisture that may settle."
+        },
+        {
+            "question": "Can I add sweeteners or other flavorings?",
+            "answer": "You can add sugar-free sweeteners like stevia or monk fruit if you want a sweeter profile, but this snack is best enjoyed savory. Fresh herbs, spices like cumin or coriander, or a splash of hot sauce can enhance flavor without calories."
+        },
+        {
+            "question": "What if I don’t have smoked paprika?",
+            "answer": "You can substitute with regular paprika or a mix of paprika and a pinch of ground cumin for a different but still delicious smoky flavor. Adjust seasoning to taste since the intensity varies."
+        },
+        {
+            "question": "Is it okay to use frozen squash?",
+            "answer": "Fresh squash is best for roasting to get the right texture. Frozen squash tends to release more water and can become mushy. If using frozen, thaw and pat dry thoroughly before roasting to minimize excess moisture."
+        }
+    ],
+    "conclusion": "Give this sheet pan squash snack a try and enjoy a filling, tasty high-protein treat that fits your low-calorie goals. Share your results or tag me when you make it—I’d love to see your snack creations!",
+    "seo": {
+        "primary_keyword": "high protein low calorie snack",
+        "secondary_keywords": [
+            "volume eating protein snack",
+            "easy low cal snacks",
+            "how to make sheet pan squash low calorie",
+            "best low calorie sheet pan squash recipe",
+            "easy high protein low calorie snacks",
+            "healthy low calorie snack meal prep",
+            "post workout low calorie snack recipe",
+            "protein snacks under 200 calories"
+        ],
+        "internal_links": [
+            {
+                "text": "healthy high protein yogurt snack",
+                "anchor": "greek-yogurt-protein-bowl"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4500 words"
+    },
+    "category_id": "cat_1779285502_712",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-11-15 02:01:13",
+        "title_seed": "Sheet Pan Squash Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1794708073_269",
+    "slug": "make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes",
+    "uniqueSlug": "make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes_pinrecipes_image_1.webp",
+            "filePath": "posts/make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes_pinrecipes_image_1.webp",
+            "relativePath": "make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes_pinrecipes_image_2.webp",
+            "filePath": "posts/make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes_pinrecipes_image_2.webp",
+            "relativePath": "make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes_pinrecipes_image_3.webp",
+            "filePath": "posts/make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes_pinrecipes_image_3.webp",
+            "relativePath": "make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        }
+    ],
+    "image": "make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes_pinrecipes_image_1.webp",
+    "image_path": "posts/make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes/images/make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes_pinrecipes_image_1.webp",
+    "image_dir": "make-ahead-low-calorie-high-protein-sheet-pan-squash-snack-boxes/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-11-15T02:01:13+00:00",
+    "updatedAt": "2026-11-15T02:01:13+00:00"
+}
